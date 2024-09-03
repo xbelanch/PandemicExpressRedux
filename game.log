@@ -1,0 +1,253 @@
+BackupNameAttachment=" Build(0) 29 Jul 24 (16 39 46)"  -- used by backup system
+Log Started at Mon Jul 29 16:39:46 2024
+Built on Apr  5 2019 00:15:29
+Running 64 bit Windows version
+Command Line: "X:\SteamLibrary\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: X:\SteamLibrary\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 24
+Number of available logical processors: 24
+Total number of system cores: 12
+Number of cores available to process: 12
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 6:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 7:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 8:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 9:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 10:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 11:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<16:39:46> Loading Config file system.cfg (system.cfg)
+<16:39:46> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [0.7.9.10.190510]; Marked as [VF_CHEAT]
+<16:39:46> OnSysSpecChange(1)
+<16:39:46> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<16:39:46> GameDir: DATA
+<16:39:46> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<16:39:46> Windows 10 64 bit (build 10.0.22631)
+<16:39:46> System language: English
+<16:39:46> Windows Directory: "C:\Windows"
+<16:39:46> Local time is 16:39:46 07/29/24, system running for 1402 minutes
+<16:39:46> 32694MB physical memory installed, 21626MB available, 134217727MB virtual memory installed, 33 percent of memory in use
+<16:39:46> PageFile usage: 111MB, Working Set: 130MB, Peak PageFile usage: 129MB,
+<16:39:46> Current display mode is 2560x1440x32, (Unknown graphics card)
+<16:39:46> IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<16:39:46> --------------------------------------------------------------------------------
+<16:39:46> OnSysSpecChange(1)
+<16:39:46> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<16:39:46> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<16:39:46> Loading Config file game.cfg (data\game.cfg)
+<16:39:46> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<16:39:46> [Warning] Modifying marked variables will not be allowed in Release mode!
+<16:39:46> Stream Engine Initialization
+<16:39:46> GameName: Pandemic Express
+<16:39:46> BuildTime: Apr  5 2019 00:15:29
+<16:39:46> Physics initialization
+<16:39:46> Localized language content(english) not available or modified from the original installation.
+<16:39:46> Localized language content(english) not available or modified from the original installation.
+<16:39:46> Localized language content(english) not available or modified from the original installation.
+<16:39:46> <Audio>: AudioSystem initialization
+<16:39:46> <Audio> <0.560>: CryAudioImplWwise loaded
+<16:39:47> Renderer initialization
+<16:39:47> Logging video adapters:
+<16:39:49> - NVIDIA GeForce RTX 3080 (vendor = 0x10de, device = 0x2206)
+<16:39:49>   - Adapter index: 0
+<16:39:49>   - Dedicated video memory: 10053 MB
+<16:39:49>   - Feature level: DX11 (SM 5.0)
+<16:39:49>   - Displays connected: yes
+<16:39:49>   - Suitable rendering device: yes
+<16:39:49> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<16:39:49>   - Adapter index: 1
+<16:39:49>   - Dedicated video memory: 0 MB
+<16:39:49>   - Feature level: DX11 (SM 5.0)
+<16:39:49>   - Displays connected: no
+<16:39:49>   - Suitable rendering device: no
+<16:39:51> Active GPUs: 1
+<16:39:52> [Renderer] A display device has been connected to the system
+<16:39:52> Loading plugin CryDefaultEntities
+<16:39:52> Loading plugin CrySchematycCore
+<16:39:52> Loading plugin CrySchematycSTDEnv
+<16:39:52> Loading plugin CrySensorSystem
+<16:39:52> Loading extension file cryplugin.csv
+<16:39:52> Loading plugin ProcAnRandGenerator.dll
+<16:39:52> Loading plugin PlayFabDedicated.dll
+<16:39:52> DLL Failed to load, error code: 7E
+<16:39:52> Loading plugin PlayFab.dll
+<16:39:52> Font initialization
+<16:39:52> Using FreeType 2.5.5
+<16:39:54> Network initialization
+<16:39:54> [net] Socket IO management: External [iocp], Internal [iocp]
+<16:39:54> network hostname: DESKTOP-HLBPRRK
+<16:39:54>   ip:192.168.20.22
+<16:39:54> [Network Version]: PROFILE DEVELOPMENT BUILD
+<16:39:54> MovieSystem initialization
+<16:39:54> Console initialization
+<16:39:54> Time initialization
+<16:39:54> Input initialization
+<16:39:54> AI initialization
+<16:39:54>  
+<16:39:54>     con_debug = 0 []
+<16:39:54>     con_display_last_messages = 0 []
+<16:39:54>     con_line_buffer_size = 1000 []
+<16:39:54>     con_restricted = 0 [RESTRICTEDMODE]
+<16:39:54>     con_showonload = 0 []
+<16:39:54>  
+<16:39:54>     con_debug = 0 []
+<16:39:54>     con_display_last_messages = 0 []
+<16:39:54>     con_line_buffer_size = 1000 []
+<16:39:54>     con_restricted = 0 [RESTRICTEDMODE]
+<16:39:54>     con_showonload = 0 []
+<16:39:54>  
+<16:39:54>     con_debug = 0 []
+<16:39:54>  
+<16:39:54>     con_debug = 0 []
+<16:39:54> Initializing Animation System
+<16:39:54> Initializing 3D Engine
+<16:39:54> Script System Initialization
+<16:39:55> Entity system initialization
+<16:39:55> Initializing AI System
+<16:39:55> Initializing additional systems
+<16:39:55> Dynamic Response System initialization
+<16:39:55> CGame::CGame()
+<16:39:55> [Steam] Steam API initialized successfully
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<16:39:56> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<16:39:56> Initializing default materials...
+<16:40:03> ESYSTEM_EVENT_GAME_POST_INIT_DONE
+<16:40:03> [MFX] Loading FXLib 'breakables' ...
+<16:40:03> [MFX] Loading FXLib 'collisions' ...
+<16:40:03> [MFX] Loading FXLib 'foley' ...
+<16:40:03> [MFX] Loading FXLib 'foley_grunt' ...
+<16:40:03> [MFX] Loading FXLib 'foley_player' ...
+<16:40:03> [MFX] Loading FXLib 'footstep_grunt' ...
+<16:40:03> [MFX] Loading FXLib 'footstep_player' ...
+<16:40:03> [MFX] Loading FXLib 'footsteps' ...
+<16:40:03> [MFX] Loading FXLib 'grenade' ...
+<16:40:03> [MFX] Loading FXLib 'melee' ...
+<16:40:03> [MFX] Loading FXLib 'player_fx' ...
+<16:40:03> [MFX] Loading FXLib 'projectiles' ...
+<16:40:03> [MFX] Loading FXLib 'tornado' ...
+<16:40:03> [MFX] Loading FXLib 'vegetation' ...
+<16:40:03> [MFX] Loading FXLib 'vehicles' ...
+<16:40:03> [Schematyc]: Loading...
+<16:40:03> [Schematyc]: Loading settings
+<16:40:03> [Schematyc]: Loading scripts
+<16:40:03> [Schematyc]: Compiling scripts
+<16:40:03> [Schematyc]: Loading complete
+<16:40:03> Creating socket on port 2838
+<16:40:03> CreateDatagramSocket c1
+<16:40:03> CreateDatagramSocket c2
+<16:44:02> [MFX] Loading FXLib 'breakables' ...
+<16:44:02> [MFX] Loading FXLib 'collisions' ...
+<16:44:02> [MFX] Loading FXLib 'foley' ...
+<16:44:02> [MFX] Loading FXLib 'foley_grunt' ...
+<16:44:02> [MFX] Loading FXLib 'foley_player' ...
+<16:44:02> [MFX] Loading FXLib 'footstep_grunt' ...
+<16:44:02> [MFX] Loading FXLib 'footstep_player' ...
+<16:44:02> [MFX] Loading FXLib 'footsteps' ...
+<16:44:02> [MFX] Loading FXLib 'grenade' ...
+<16:44:02> [MFX] Loading FXLib 'melee' ...
+<16:44:02> [MFX] Loading FXLib 'player_fx' ...
+<16:44:02> [MFX] Loading FXLib 'projectiles' ...
+<16:44:02> [MFX] Loading FXLib 'tornado' ...
+<16:44:02> [MFX] Loading FXLib 'vegetation' ...
+<16:44:02> [MFX] Loading FXLib 'vehicles' ...
+<16:44:18> BaseInput - Shutting down all force feedback
+<16:44:18> ActionGame - Shutting down all force feedback
+<16:44:20> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)
+<16:44:21> CGame::~CGame()
+<16:44:21> System:Quit

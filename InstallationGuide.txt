@@ -1,0 +1,5 @@
+1. Copy files to Pandemic Express {Steam Installation}.
+2. When windows prompts "REPLACE FILES" click replace all and launch Pandemic Express on steam.
+3. How to fix volumtric lights:
+	o Go to C:\Users\YOUR_NAME\Saved Games\pandemicexpress\game.cfg
+	o Add a new line and put "e_VolumetricFog = 1" Without the qutation marks
