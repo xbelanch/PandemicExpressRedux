@@ -30,7 +30,7 @@
   <Attachment Type="CA_SKIN" AName="shoes" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="pants" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="gloves" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/characters/human/Dude/source/pin_body_sk.skin" Material="Objects/characters/human/Dude/source/pin_zmb_inv_a.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/characters/human/Dude/source/pin_body_sk.skin" Material="objects/characters/human/Dude/source/pin_zmb_inv_a_fp.mtl" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="armor" Flags="0"/>
   <Attachment Type="CA_BONE" AName="hair" RelRotation="0.70640087,0.031597976,0.70639992,-0.031597976" RelPosition="0.16346169,-0.0064978004,-0.0070757866" BoneName="Bip01 Head" Flags="0"/>
   <Attachment Type="CA_BONE" AName="detonator" RelRotation="0.70745194,0,0.70676136,-0" RelPosition="0,0,-1.1641532e-09" BoneName="Bip01 Head" Flags="6"/>
@@ -47,7 +47,7 @@
   <Attachment Type="CA_BONE" AName="lhand" RelRotation="0.63566935,0.70914906,0.2981869,-0.06416095" RelPosition="0.00036144257,-7.6293945e-05,-0.010742188" BoneName="Bip01 L Hand" Flags="0"/>
   <Attachment Type="CA_BONE" AName="lelbow" RelRotation="0.96029395,7.7486158e-07,-5.2154155e-07,0.27899015" RelPosition="0.00015544891,-0.0003080368,-9.5367432e-07" BoneName="Bip01 L Forearm" Flags="0"/>
   <Attachment Type="CA_BONE" AName="lshoulder" RelRotation="0.99753237,0.030368941,0.06281472,0.0078159478" RelPosition="-0.00030517578,0.00033569336,-0.00024414063" BoneName="Bip01 L UpperArm" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="Hands" Binding="Objects/characters/human/Dude/source/pin_hands_sk.skin" Material="Objects/characters/human/Dude/source/pin_zmb_inv_a.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="Hands" Binding="Objects/characters/human/Dude/source/pin_hands_sk.skin" Material="objects/characters/human/Dude/source/pin_zmb_inv_a_fp.mtl" Flags="0"/>
  </AttachmentList>
  <Modifiers>
   <Element>
