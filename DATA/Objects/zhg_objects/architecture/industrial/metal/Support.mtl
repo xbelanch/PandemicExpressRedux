@@ -1,0 +1,59 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,0,0" Specular="0.5,0.5,0.5" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="Metal" MtlFlags="524416" Shader="Illum" GenMask="1802004004001" StringGenMask="%ALLOW_SILHOUETTE_POM%DIRTLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.54572457,0.46207702,0.37626216" Specular="0.32777813,0.31398875,0.21952623" Opacity="1" Shininess="172" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/rust_dif.dds"/>
+    <Texture Map="Bumpmap" File="Textures/zhg_textures/Metal/metal_new_ddna.dds"/>
+    <Texture Map="Specular" File="Textures/zhg_textures/Metal/metal_new_spec.dds"/>
+    <Texture Map="Custom" File="./textures/rust_dirt.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" DirtTint="0.87962252,0.61049569,0.49693301" DirtGlossFactor="0.69999999" DirtTiling="1" DirtStrength="1" DirtMapAlphaInfluence="0.40000001"/>
+  </Material>
+  <Material Name="details" MtlFlags="524416" Shader="Illum" GenMask="1802004004001" StringGenMask="%ALLOW_SILHOUETTE_POM%DIRTLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/details_dif.dds"/>
+    <Texture Map="Bumpmap" File="./textures/details_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/details_spec.dds"/>
+    <Texture Map="Custom" File="./textures/rust_dirt.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" DirtTint="0.87962252,0.61049569,0.49693301" DirtGlossFactor="0.69999999" DirtTiling="1" DirtStrength="1" DirtMapAlphaInfluence="0.40000001"/>
+  </Material>
+  <Material Name="concrete" MtlFlags="524416" Shader="Illum" GenMask="1002004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.51491767,0.41788509,0.34191445" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/industrial/vetilation/textures/old_concrete_diff.dds"/>
+    <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/industrial/vetilation/textures/old_concrete_ddna.dds"/>
+    <Texture Map="Custom" File="Objects/zhg_objects/architecture/industrial/vetilation/textures/old_concrete_diff.dds"/>
+    <Texture Map="[1] Custom" File="Textures/zhg_textures/Natural/moss_ddna.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/grayscale_masks/clouds.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="8.8000002" EmittanceMapGamma="1" BlendLayer2Tiling="5" SSSIndex="0" BlendLayer2Tint="0.64447981,0.78353792,0.70837593" BlendMaskTiling="0.5" BlendFactor="2.79" BlendLayer2Specular="0.02"/>
+  </Material>
+  <Material Name="decal_broken" MtlFlags="524416" Shader="Illum" GenMask="1002004000801" StringGenMask="%ALLOW_SILHOUETTE_POM%DECAL%NORMAL_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.52099562,0.52099562,0.52099562" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/industrial/vetilation/textures/old_concrete_diff.dds"/>
+    <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/road_bridges/textures/broken_concrete_ddna.dds"/>
+    <Texture Map="Opacity" File="./textures/decal_mask.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" DecalDiffuseOpacity="1" DecalFalloff="12" DecalAlphaMult="1"/>
+  </Material>
+  <Material Name="decal_leak" MtlFlags="524416" Shader="Illum" GenMask="1000000000801" StringGenMask="%ALLOW_SILHOUETTE_POM%DECAL%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.42326769,0.29177067,0.19461785" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/industrial/vetilation/textures/old_concrete_diff.dds"/>
+    <Texture Map="Opacity" File="Objects/zhg_objects/architecture/industrial/vetilation/textures/rust_decal_mask.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" DecalDiffuseOpacity="1" DecalFalloff="1" DecalAlphaMult="1"/>
+  </Material>
+  <Material Name="Wood" MtlFlags="524416" Shader="Illum" GenMask="1002004004001" StringGenMask="%ALLOW_SILHOUETTE_POM%DIRTLAYER%NORMAL_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/zhg_textures/Wood/planks_wood_base_diff.dds"/>
+    <Texture Map="Bumpmap" File="Textures/zhg_textures/Wood/planks_wood_base_ddna.dds"/>
+    <Texture Map="Custom" File="Textures/zhg_textures/Wood/wood_dirt_large_diff.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" DirtTint="0.50288647,0.87962252,0.65140575" DirtGlossFactor="0.90100002" DirtTiling="1" DirtStrength="1" DirtMapAlphaInfluence="1"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

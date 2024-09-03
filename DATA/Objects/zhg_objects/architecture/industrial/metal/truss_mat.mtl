@@ -1,0 +1,28 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="proxy_mat" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,0,0" Specular="0.5,0.5,0.5" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="truss_mat1" MtlFlags="524416" Shader="Illum" GenMask="181000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.46207702,0.46207702,0.55201149" Opacity="1" Shininess="200" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/steel_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/sheet_metal_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/steel_spec.dds"/>
+    <Texture Map="Custom" File="./textures/rust_dif.dds"/>
+    <Texture Map="Opacity" File="./textures/rust_mask.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="1" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendMaskTiling="1" BlendFactor="1" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="details_mat" MtlFlags="524416" Shader="Illum" GenMask="181000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.66538745,0.69387192,0.43965721" Opacity="1" Shininess="200" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/steel_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/little_details_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/little_details_spec.dds"/>
+    <Texture Map="Custom" File="./textures/rust_dif.dds"/>
+    <Texture Map="Opacity" File="./textures/rust_mask.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="1" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendMaskTiling="1" BlendFactor="1" BlendLayer2Specular="0.050000001"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

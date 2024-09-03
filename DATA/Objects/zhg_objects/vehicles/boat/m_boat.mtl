@@ -1,0 +1,29 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="basic" MtlFlags="524418" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/zhg_objects/vehicles/boat/Txt/boat_diff.tif"/>
+    <Texture Map="Bumpmap" File="Objects/zhg_objects/vehicles/boat/Txt/boat_ddna.tif"/>
+    <Texture Map="Specular" File="Objects/zhg_objects/vehicles/boat/Txt/boat_spec.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="interor" MtlFlags="526496" Shader="Glass" GenMask="8C0000008000" StringGenMask="%DIRT_MAP%SPECULAR_MAP%TINT_MAP%UNLIT" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.10461649,0.10461649,0.10461649" Opacity="1" Shininess="255" AlphaTest="0.1" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/generic/glass/window_streaks_glass_diff.dds">
+     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="2" TileV="2"/>
+    </Texture>
+    <Texture Map="Bumpmap" File="Textures/generic/glass/wet_glass01_ddn.dds"/>
+    <Texture Map="Specular" File="Textures/generic/glass/glass_dirty_tint.dds"/>
+   </Textures>
+   <PublicParams BumpMapTile="2" TintColor="0.21223079,0.21223079,0.21223079" CloudinessReducesGloss="0.5" TintCloudiness="1" BackLightScale="0.5" BumpScale="0.25"/>
+  </Material>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.040915202,0.040915202,0.040915202" Specular="0.026241222,0.026241222,0.026241222" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="textures/generic/base_colors/white_diff.tif"/>
+    <Texture Map="Bumpmap" File="Textures/zhg_textures/Decals/water/flat_ddna.tif"/>
+   </Textures>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

@@ -1,0 +1,35 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="proxy" MtlFlags="524416" Shader="Illum" GenMask="1000000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING" SurfaceType="mat_flesh" MatTemplate="" Diffuse="0,0,0" Specular="0.27889431,0.27889431,0.27889431" Emittance="0.3185468,0.00060705398,0.00060705398,700" Opacity="1" Shininess="13" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/characters/human/Dude/Textures/lights_diff.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="mask" MtlFlags="524416" Shader="Illum" GenMask="1000000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING" SurfaceType="mat_flesh" MatTemplate="" Diffuse="0,0,0" Specular="0.27889431,0.27889431,0.27889431" Emittance="0.3185468,0.00060705398,0.00060705398,700" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/characters/human/Dude/Textures/lights_diff.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="SubMtl3" MtlFlags="524416" Shader="Illum" GenMask="1000000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="0.027320893,0.027320893,0.027320893" Emittance="0.13563335,0.00060705398,0.00030352699,1500" Opacity="1" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/characters/human/Dude/Textures/lights_diff.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="SubMtl4" MtlFlags="525474" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Emittance="1,1,1,59" Opacity="1" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/characters/human/Dude/Textures/lights_diff.tif"/>
+   </Textures>
+  </Material>
+  <Material Name="SubMtl5" MtlFlags="524416" Shader="Illum" GenMask="1000000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0,0,0" Specular="0.27889431,0.27889431,0.27889431" Emittance="0.3185468,0.00060705398,0.00060705398,700" Opacity="1" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/characters/human/Dude/Textures/lights_diff.tif"/>
+    <Texture Map="Opacity" File="Objects/characters/human/Dude/Textures/lights_diff.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>
