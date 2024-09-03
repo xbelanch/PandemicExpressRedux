@@ -1,0 +1,64 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="train_platform_01" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/trainplatform_01_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/trainplatform_01_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/trainplatform_01_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="wall" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/brickwhitewall_01_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/brickwhitewall_01_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/brickwhitewall_01_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="concrete" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/polygon/buildings/industrial/Textures/concrete_01_diff.dds"/>
+    <Texture Map="Bumpmap" File="Objects/polygon/buildings/industrial/Textures/concrete_01_ddna.dds"/>
+    <Texture Map="Specular" File="Objects/polygon/buildings/industrial/Textures/concrete_01_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="concrete_02" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/polygon/buildings/industrial/Textures/concrete_02_diff.dds"/>
+    <Texture Map="Bumpmap" File="Objects/polygon/buildings/industrial/Textures/concrete_02_ddna.dds"/>
+    <Texture Map="Specular" File="Objects/polygon/buildings/industrial/Textures/concrete_02_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="concrete_block" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/concreteblock_01_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/concreteblock_01_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/concreteblock_01_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="metal_rust" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Objects/polygon/buildings/industrial/Textures/metalrust_01_diff.dds"/>
+    <Texture Map="Bumpmap" File="Objects/polygon/buildings/industrial/Textures/metalrust_01_ddna.dds"/>
+    <Texture Map="Specular" File="Objects/polygon/buildings/industrial/Textures/metalrust_01_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="metal_paint" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/metalpaint_02_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/metalpaint_02_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/metalpaint_02_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.80000001,0.220402,0.24277499" Specular="1,1,1" Opacity="1" Shininess="50" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

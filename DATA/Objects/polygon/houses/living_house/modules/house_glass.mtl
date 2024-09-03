@@ -1,0 +1,15 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="Glass" MtlFlags="526496" Shader="Glass" GenMask="100" StringGenMask="%DIRT_MAP" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="1,1,1" Specular="0.07618539,0.07618539,0.07618539" Opacity="0.5" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/glass_window_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/glass_window_ddna.dds"/>
+   </Textures>
+   <PublicParams BumpMapTile="0.5" TintColor="0.21586053,0.21586053,0.21586053" TintCloudiness="0.5" BackLightScale="0.175" BumpScale="0.5"/>
+  </Material>
+  <Material Name="Proxy" MtlFlags="525472" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="0.58823532,0.58823532,0.58823532" Specular="0.046665091,0.046665091,0.046665091" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

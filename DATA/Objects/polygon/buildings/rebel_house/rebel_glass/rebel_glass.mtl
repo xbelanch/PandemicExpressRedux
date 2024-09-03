@@ -1,0 +1,16 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="glass" MtlFlags="526498" Shader="Glass" GenMask="40010000100" StringGenMask="%DIRT_MAP%SPECULAR_MAP%TINT_MAP" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="0.99000001" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/rebel_glass_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/rebel_glass_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/rebel_glass_tint_gloss_spec.dds"/>
+   </Textures>
+   <PublicParams BumpMapTile="1" TintColor="0.038204376,0.72305524,1" CloudinessReducesGloss="0.5" TintCloudiness="0.5" BackLightScale="0.5" BumpScale="0.5"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

@@ -1,0 +1,27 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="Wallpaper" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0.36625263,0.36625263,0.36625263" Opacity="1" Shininess="212" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./modules/textures/wallpaper_diff.dds"/>
+    <Texture Map="Bumpmap" File="./modules/textures/wallpaper_ddna.dds"/>
+    <Texture Map="Specular" File="./modules/textures/wallpaper_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="Brick" MtlFlags="524416" Shader="Illum" GenMask="2A400003" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%OFFSET_BUMP_MAPPING%PARALLAX_OCCLUSION_MAPPING%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0.21586053,0.21586053,0.21586053" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./modules/textures/plaster_wall/wall_white_diff.dds"/>
+    <Texture Map="Bumpmap" File="./modules/textures/plaster_wall/wall_ddna.dds"/>
+    <Texture Map="SubSurface" File="./modules/textures/brick_wall/brick_wall_displ.dds"/>
+    <Texture Map="Custom" File="./modules/textures/brick_wall/brick_wall_diff.dds"/>
+    <Texture Map="[1] Custom" File="./modules/textures/brick_wall/brick_wall_ddna.dds"/>
+    <Texture Map="Opacity" File="./modules/textures/brick_wall/brick_wall_mask.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="5" EmittanceMapGamma="1" BlendLayer2Tiling="1" PomDisplacement="0.0099999998" SSSIndex="0" BlendMaskTiling="1" SelfShadowStrength="3" ObmDisplacement="0.0099999998" HeightBias="0" BlendFactor="3" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.80000001,0.130421,0.164799" Specular="1,1,1" Opacity="0.5" Shininess="50" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

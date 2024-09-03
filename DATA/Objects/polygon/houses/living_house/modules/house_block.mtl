@@ -1,0 +1,87 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="Wallpaper" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0.36625263,0.36625263,0.36625263" Opacity="1" Shininess="212" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/wallpaper_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/wallpaper_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/wallpaper_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="BrickWhite" MtlFlags="524416" Shader="Illum" GenMask="20000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0.042311415,0.042311415,0.042311415" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/plaster_wall/wall_white_diff.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" PomDisplacement="0.0099999998" SSSIndex="0" SelfShadowStrength="3" ObmDisplacement="0.0099999998" HeightBias="0"/>
+  </Material>
+  <Material Name="Basement" MtlFlags="524416" Shader="Illum" GenMask="32400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%OFFSET_BUMP_MAPPING%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/basement_white_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/basement_white_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/basement_white_spec.dds"/>
+    <Texture Map="Heightmap" File="./textures/basement_white_displ.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0" SelfShadowStrength="1.224" ObmDisplacement="0.0137" HeightBias="0.31200001"/>
+  </Material>
+  <Material Name="ColumnBase" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.45641103,0.45641103,0.45641103" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/column_base_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/column_base_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/column_base_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="Proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_concrete" MatTemplate="" Diffuse="-4.9351806e+11,0,-4.9351728e+11" Specular="0.046665091,0.046665091,0.046665091" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="BrickWhiteUp" MtlFlags="524416" Shader="Illum" GenMask="20400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.71569365,0.71569365,0.71569365" Specular="0.042311415,0.042311415,0.042311415" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/plaster_wall/wall_white_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/plaster_wall/wall_ddna.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="OldTile" MtlFlags="524416" Shader="Illum" GenMask="38400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%PARALLAX_OCCLUSION_MAPPING%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,0.37626216,0.37626216" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/old_tile_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/old_tile_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/old_tile_spec.dds"/>
+    <Texture Map="Heightmap" File="Objects/polygon/buildings/house/textures/old_tile_displ.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" PomDisplacement="0.0099999998" SSSIndex="0" SelfShadowStrength="3" HeightBias="1"/>
+  </Material>
+  <Material Name="RoofWood" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="0.95597351,0.95597351,0.95597351" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/roof_wood_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/roof_wood_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/roof_wood_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="RoofExit" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/roof_exit_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/roof_exit_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/roof_exit_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="Ladder" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/ladder_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/ladder_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/ladder_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="WoodDetail" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/build_wood_detail_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/build_wood_detail_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/build_wood_detail_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

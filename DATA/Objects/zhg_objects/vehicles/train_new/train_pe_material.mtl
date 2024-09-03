@@ -1,0 +1,246 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="proxy_mat" MtlFlags="524416" Shader="Illum" GenMask="1000000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,0,0" Specular="0.5,0.5,0.5" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+   <Textures />
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="wheel_mat" MtlFlags="524416" Shader="Illum" GenMask="1802004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/wheel_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/wheel_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/wheel_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="glass_oil" MtlFlags="524416" Shader="Illum" GenMask="1800004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_glass" MatTemplate="" Diffuse="0.006512091,0.17464744,0.1441285" Specular="0.19120172,0.27049783,0.26225069" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/defaults/grey.dds"/>
+    <Texture Map="Bumpmap" File="./textures/glass_ddna.dds"/>
+    <Texture Map="Specular" File="Textures/defaults/white.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="details" MtlFlags="524416" Shader="Illum" GenMask="1802004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/details_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/details_ddna.tif"/>
+    <Texture Map="Specular" File="./textures/details_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="yellow_paint" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,0.68668544" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/yellow_paint_spec.tif"/>
+    <Texture Map="Custom" File="./textures/yellow_paint_blend.dds"/>
+    <Texture Map="[1] Custom" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/Concrete/concrete_a_mask.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="42.299999" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="0.97344542,0.97344542,0.73791051" BlendMaskTiling="0.77999997" BlendFactor="0.69" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="black_paint" MtlFlags="524416" Shader="Illum" GenMask="1802004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.40197781,0.40197781,0.40197781" Specular="0.13286835,0.13286835,0.13286835" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/green_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/green_paint_spec.tif"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="green_paint" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.70110202,0.82278591,0.87136728" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/green_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/green_paint_spec.tif"/>
+    <Texture Map="Custom" File="./textures/green_paint_diff.tif"/>
+    <Texture Map="[1] Custom" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Opacity" File="Textures/defaults/perlinnoise2d.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="18.9" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,0.78353792,0.78353792" BlendMaskTiling="0.77999997" BlendFactor="11.2" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="decal_line" MtlFlags="524416" Shader="Illum" GenMask="1802004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/decal_line_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/decal_line_spec.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/grayscale_masks/clouds2.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="decal_text" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="83" AlphaTest="0.51999998" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/decal_text_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="Textures/defaults/white.dds"/>
+    <Texture Map="Custom" File="./textures/yellow_paint_blend.dds"/>
+    <Texture Map="[1] Custom" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/grayscale_masks/clouds.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="16.5" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="0.45641103,0.49102089,0.49102089" BlendMaskTiling="0.60000002" BlendFactor="15.9" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="decal_oil" MtlFlags="524416" Shader="Illum" GenMask="1800004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_rubber" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="0.99000001" Shininess="255" AlphaTest="0.0099999998" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/oil_test.dds"/>
+    <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/trainyard/rickel/textures/oil_ddna.dds"/>
+    <Texture Map="Specular" File="Objects/zhg_objects/architecture/trainyard/rickel/textures/oil_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="train_door" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.61049569,0.73046088,0.79910284" Specular="0.55834049,0.21586053,0.83879912" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/green_paint_spec.tif"/>
+    <Texture Map="Custom" File="./textures/yellow_paint_blend.dds"/>
+    <Texture Map="[1] Custom" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/grayscale_masks/clouds.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="11.8" EmittanceMapGamma="1" BlendLayer2Tiling="1.9" SSSIndex="0" BlendLayer2Tint="0.73791051,0.68668544,0.57758057" BlendMaskTiling="0.72000003" BlendFactor="16" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="roof_orange" MtlFlags="524416" Shader="Illum" GenMask="1802004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.77582234,0.62396049,0.31398875" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/yellow_paint_spec.tif"/>
+    <Texture Map="Opacity" File="Textures/defaults/perlinnoise2d.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="glass" MtlFlags="524448" Shader="Illum" GenMask="1000000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING" SurfaceType="mat_glass" MatTemplate="" Diffuse="1,0.019382363,0.019382363" Specular="0.023153368,0.023153368,0.023153368" Emittance="0.96468639,0.46207702,0.41788509,100" Opacity="1" Shininess="140" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/light_diff.dds"/>
+    <Texture Map="Emittance" File="./textures/light_diff.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="line_little_decal" MtlFlags="524416" Shader="Illum" GenMask="1800004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.086500466,0.090841718,0.056128494" Specular="0.013702084,0.01228649,0.0018211621" Opacity="1" Shininess="44" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/defaults/white.dds"/>
+    <Texture Map="Bumpmap" File="./textures/little_line_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/yellow_paint_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="text" MtlFlags="524416" Shader="Illum" GenMask="1000004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.21952623,0.28314877,0.20863689" Emittance="0.32777813,0.91309881,0.30054381,25" Opacity="1" Shininess="64" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/text_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/text_ddna.dds"/>
+    <Texture Map="Emittance" File="./textures/text_diff.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="roof_train" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,0.68668544" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/yellow_paint_spec.tif"/>
+    <Texture Map="Custom" File="./textures/yellow_paint_blend.dds"/>
+    <Texture Map="[1] Custom" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/Wood/wood_plank_indoor_spec.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="5.3000002" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="0.97344542,0.97344542,0.73791051" BlendMaskTiling="0.77999997" BlendFactor="13.99" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="text_opasity" MtlFlags="524420" Shader="Illum" GenMask="1000004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.42326769,0.47353151,0.33716366" Specular="0.033104774,0.033104774,0.033104774" Opacity="1" Shininess="255" AlphaTest="0.83999997" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/decal_text_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="arrow_opasity" MtlFlags="524416" Shader="Illum" GenMask="1802004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.40197781,0.44520122,0.31398875" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/decal_line_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/decal_line_spec.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/grayscale_masks/clouds2.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="grid" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.55201149,0.5332765,0.12743771" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/yellow_paint_spec.tif"/>
+    <Texture Map="Custom" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/Concrete/concrete_a_mask.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="5.1999998" EmittanceMapGamma="1" BlendLayer2Tiling="1.59" SSSIndex="0" BlendLayer2Tint="0.45641103,0.46207702,0.38132605" BlendMaskTiling="1.03" BlendFactor="7.8800001" BlendLayer2Specular="0.02"/>
+  </Material>
+  <Material Name="decal_oil_lod" MtlFlags="524416" Shader="Illum" GenMask="1800004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_rubber" MatTemplate="" Diffuse="0.043735035,0.043735035,0.043735035" Specular="0.85499275,0.85499275,0.85499275" Opacity="1" Shininess="108" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/oil_test.dds"/>
+    <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/trainyard/rickel/textures/oil_ddna.dds"/>
+    <Texture Map="Specular" File="Objects/zhg_objects/architecture/trainyard/rickel/textures/oil_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="rubber" MtlFlags="524416" Shader="Illum" GenMask="1800004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_rubber" MatTemplate="" Diffuse="0.17464744,0.17464744,0.17464744" Specular="0.21952623,0.21952623,0.21952623" Opacity="1" Shininess="230" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/defaults/grey.dds"/>
+    <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/trainyard/rickel/textures/oil_ddna.dds"/>
+    <Texture Map="Specular" File="Textures/defaults/grey.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="green_paint_b" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.1470273,0.1221388,0.036889456" Specular="0.026241222,0.4793202,0.18447502" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="Textures/defaults/white.dds"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/green_paint_spec.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="18.9" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,0.78353792,0.78353792" BlendMaskTiling="0.77999997" BlendFactor="11.2" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="green_text" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.26225069,0.71569365,0.40724024" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="154" AlphaTest="0.17" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/decal_text_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="Textures/defaults/white.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="32" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,1,1" BlendMaskTiling="1" BlendFactor="8" BlendLayer2Specular="0.039999999"/>
+  </Material>
+  <Material Name="yellow_carriage" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,0.68668544" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/yellow_paint_spec.tif"/>
+    <Texture Map="Custom" File="./textures/yellow_paint_blend.dds"/>
+    <Texture Map="[1] Custom" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Opacity" File="Textures/zhg_textures/Concrete/concrete_a_mask.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="13.4" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="0.73791051,0.73791051,0.41254264" BlendMaskTiling="0.77999997" BlendFactor="0.73000002" BlendLayer2Specular="0.02"/>
+  </Material>
+  <Material Name="yellow_text" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.95597351,0.39675525,0.051269464" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="83" AlphaTest="0.51999998" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/decal_text_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="Textures/defaults/white.dds"/>
+   </Textures>
+   <PublicParams BlendFalloff="32" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,1,1" BlendMaskTiling="1" BlendFactor="8" BlendLayer2Specular="0.039999999"/>
+  </Material>
+  <Material Name="dark_yellow" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.44520122,0.38132605,0" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/yellow_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/yellow_paint_spec.tif"/>
+   </Textures>
+   <PublicParams BlendFalloff="18.9" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,0.78353792,0.78353792" BlendMaskTiling="0.77999997" BlendFactor="11.2" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="green_paint_c" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.23074007,0.61049569,0.68668544" Specular="0.021219011,0.021219011,0.030713448" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/green_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/green_paint_spec.tif"/>
+   </Textures>
+   <PublicParams BlendFalloff="18.9" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,0.78353792,0.78353792" BlendMaskTiling="0.77999997" BlendFactor="11.2" BlendLayer2Specular="0.050000001"/>
+  </Material>
+  <Material Name="dark_green" MtlFlags="524416" Shader="Illum" GenMask="1802004000011" StringGenMask="%ALLOW_SILHOUETTE_POM%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.22322798,0.40197781,0.40724024" Specular="0.23455061,0.2383976,0.32777813" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/green_paint_diff.tif"/>
+    <Texture Map="Bumpmap" File="./textures/paint_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/green_paint_spec.tif"/>
+   </Textures>
+   <PublicParams BlendFalloff="18.9" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,0.78353792,0.78353792" BlendMaskTiling="0.77999997" BlendFactor="11.2" BlendLayer2Specular="0.050000001"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

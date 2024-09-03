@@ -1,0 +1,20 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_rock" MatTemplate="" Diffuse="0.80000001,0.80000001,0.80000001" Specular="0.046665091,0.046665091,0.046665091" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="textures/defaults/white.tif"/>
+    <Texture Map="Bumpmap" File="Objects/pbs_reference/gloss0_ddna.tif"/>
+   </Textures>
+  </Material>
+  <Material Name="paving_stone" MtlFlags="524416" Shader="Illum" GenMask="3A400000" StringGenMask="%NORMAL_MAP%OFFSET_BUMP_MAPPING%PARALLAX_OCCLUSION_MAPPING%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_rock" MatTemplate="" Diffuse="0.67244327,0.65140575,0.59061897" Specular="1,1,1" Opacity="1" Shininess="206" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./texture/paving stone_diff.dds"/>
+    <Texture Map="Bumpmap" File="./texture/paving stone_ddna.dds"/>
+    <Texture Map="Specular" File="./texture/paving stone_spec.dds"/>
+    <Texture Map="Heightmap" File="./texture/paving stone_displ.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" PomDisplacement="0.025" SSSIndex="0" SelfShadowStrength="3" ObmDisplacement="0.0040000002" HeightBias="1"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>

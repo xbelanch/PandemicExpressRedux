@@ -2,7 +2,6 @@
  <Model File="Objects/characters/man/skeleton/skeleton_player_generic.chr" Material="Objects/characters/man/skeleton/skeleton_male_generic.mtl"/>
  <AttachmentList>
   <Attachment Type="CA_BONE" AName="printer_att" RelRotation="0.86220622,0.083704725,-0.49580032,-0.061448146" RelPosition="0.019391656,0.045163751,0.049689889" BoneName="Bip01 R Hand" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="head_lgt1" Rotation="0.49331406,-0.50659811,-0.49331319,0.506598" Position="-0.0012082596,0.14501388,1.7963544" BoneName="Bip01 Head" Flags="0"/>
   <Attachment Type="CA_BONE" AName="#camera" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="Bip01 Camera" Flags="0"/>
   <Attachment Type="CA_BONE" AName="weapon" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="weapon_bone" Flags="0"/>
   <Attachment Type="CA_BONE" AName="eye_left" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="eye_left_bone" Flags="0"/>

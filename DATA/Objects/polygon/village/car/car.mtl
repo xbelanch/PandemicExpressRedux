@@ -1,0 +1,23 @@
+<Material MtlFlags="524544" vertModifType="0">
+ <SubMaterials>
+  <Material Name="car" MtlFlags="524416" Shader="Illum" GenMask="30400001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal_shell" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="0">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/car_diff.dds"/>
+    <Texture Map="Bumpmap" File="./textures/car_ddna.dds"/>
+    <Texture Map="Specular" File="./textures/car_spec.dds"/>
+   </Textures>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+  </Material>
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal_shell" MatTemplate="" Diffuse="0.58823532,0.58823532,0.58823532" Specular="0.046665091,0.046665091,0.046665091" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures />
+  </Material>
+  <Material Name="car_glass" MtlFlags="526498" Shader="Glass" GenMask="10000100" StringGenMask="%DIRT_MAP%SPECULAR_MAP" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="1,1,1" Specular="0.024157634,0.024157634,0.024157634" Opacity="0.69999999" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+   <Textures>
+    <Texture Map="Diffuse" File="./textures/car_diff.dds"/>
+    <Texture Map="Specular" File="./textures/car_spec.dds"/>
+   </Textures>
+   <PublicParams BumpMapTile="1" TintColor="0.23455061,0.23455061,0.23455061" TintCloudiness="0" BackLightScale="0.125" BumpScale="0.1"/>
+  </Material>
+ </SubMaterials>
+ <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
+</Material>
