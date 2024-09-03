@@ -1,6 +1,6 @@
 <Material MtlFlags="524544" vertModifType="0">
  <SubMaterials>
-  <Material Name="street_light" MtlFlags="524416" Shader="Illum" GenMask="1800004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.52099562,0.4793202,0.46207702" Opacity="1" Shininess="118" vertModifType="0" LayerAct="1">
+  <Material Name="street_light" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.52099562,0.4793202,0.46207702" Opacity="1" Shininess="118" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./tex/street_light_diff.dds"/>
     <Texture Map="Bumpmap" File="./tex/street_light_ddna.dds"/>
@@ -8,7 +8,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="light" MtlFlags="524416" Shader="Illum" GenMask="1002000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Emittance="0.94730669,0.27467734,0.042311415,5500" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
+  <Material Name="light" MtlFlags="524416" Shader="Illum" GenMask="1002000000000" StringGenMask="%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Emittance="0.94730669,0.27467734,0.042311415,20" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/defaults/white.dds"/>
    </Textures>

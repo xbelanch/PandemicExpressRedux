@@ -3,7 +3,7 @@
  <AttachmentList>
   <Attachment Type="CA_BONE" AName="collision" Rotation="0.99999994,0,0,0" Position="0,0,0" BoneName="magazine" Flags="0"/>
   <Attachment Type="CA_BONE" AName="muzzleflash_effect" Rotation="0.99999994,0,0,0" Position="6.8126198e-08,0.30303091,0.017415605" BoneName="MASTER" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="shells" Rotation="0.99999994,0,0,0" Position="0.0051679071,0.34725758,0.003008585" BoneName="MASTER" Flags="0"/>
+  <Attachment Type="CA_BONE" AName="shells" Rotation="-4.3711385e-08,-4.1824237e-17,1.5347074e-17,0.99999994" Position="-1.3832965e-08,0.057767734,0" BoneName="cylinder" Flags="0"/>
   <Attachment Type="CA_BONE" AName="smoke_effect" Rotation="0.99999994,0,0,0" Position="6.8126205e-08,0.22667468,0.017170854" BoneName="MASTER" Flags="0"/>
   <Attachment Type="CA_BONE" AName="weapon_term" Rotation="0.99999994,0,0,0" Position="6.8126226e-08,0.30283141,0.017447703" BoneName="MASTER" Flags="0"/>
   <Attachment Type="CA_BONE" AName="light_term" Rotation="0.99999994,0,0,0" Position="-0.0027167955,0.18807691,-0.0073512793" BoneName="MASTER" Flags="0"/>

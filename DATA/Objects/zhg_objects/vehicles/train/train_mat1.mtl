@@ -20,7 +20,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_nodraw" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Shininess="10" vertModifType="0" LayerAct="1">
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Shininess="10" vertModifType="0" LayerAct="1">
    <Textures />
   </Material>
   <Material Name="diff_full" MtlFlags="524450" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.57112497,0.57112497,0.57112497" Specular="0.30498734,0.30498734,0.30498734" Opacity="1" Shininess="255" AlphaTest="0.83999997" vertModifType="0" LayerAct="1">
@@ -31,14 +31,14 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="SubMtl5" MtlFlags="524416" Shader="Illum" GenMask="1000004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.072271854,0.28314877,0.1470273" Specular="0.021219011,0.021219011,0.03189604" Opacity="1" Shininess="250" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="SubMtl5" MtlFlags="524416" Shader="Illum" GenMask="1000004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.072271854,0.28314877,0.1470273" Specular="0.021219011,0.021219011,0.03189604" Opacity="1" Shininess="250" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/zhg_textures/Concrete/concrete_dark-blue_diff.dds"/>
     <Texture Map="Bumpmap" File="Textures/zhg_textures/Concrete/Paint_wall_ddna.tif"/>
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="SubMtl6" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.58407855,0.58407855,0.58407855" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+  <Material Name="SubMtl6" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.58407855,0.58407855,0.58407855" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/decorations/windows/tex/handle_diff.dds"/>
     <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/decorations/windows/tex/handle_ddna.dds"/>

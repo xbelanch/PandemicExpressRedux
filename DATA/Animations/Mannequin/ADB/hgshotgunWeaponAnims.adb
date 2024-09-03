@@ -11,6 +11,14 @@
     </AnimLayer>
    </Fragment>
   </select>
+  <deselect>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
+    <AnimLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Animation name="hg_shotgun_idle_a_1p" flags="Loop"/>
+    </AnimLayer>
+   </Fragment>
+  </deselect>
   <idle>
    <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
     <AnimLayer>
@@ -65,6 +73,8 @@
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Animation name="hg_shotgun_idle_a_1p" flags="Loop"/>
+     <Blend ExitTime="0.21250001" StartTime="0" Duration="0.021803766"/>
+     <Animation name=""/>
     </AnimLayer>
    </Fragment>
   </reload>
@@ -79,7 +89,7 @@
   <reload_shell>
    <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
     <AnimLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Animation name="hg_shotgun_idle_a_1p" flags="Loop"/>
     </AnimLayer>
    </Fragment>
@@ -93,7 +103,7 @@
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
     <AnimLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Animation name="hg_shotgun_idle_a_1p" flags="Loop"/>
     </AnimLayer>
    </Fragment>

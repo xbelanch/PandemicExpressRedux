@@ -1,6 +1,6 @@
 <Material MtlFlags="524544" vertModifType="0">
  <SubMaterials>
-  <Material Name="concrete" MtlFlags="524416" Shader="Illum" GenMask="1000004000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.79910284,0.79910284,0.79910284" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="194" vertModifType="0" LayerAct="1">
+  <Material Name="concrete" MtlFlags="524416" Shader="Illum" GenMask="1000004000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.79910284,0.79910284,0.79910284" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="194" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/zhg_textures/new_arch_set/concrete_base_diff.dds"/>
     <Texture Map="Bumpmap" File="Textures/zhg_textures/new_arch_set/concrete_base_ddna.dds"/>
@@ -18,7 +18,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="planks" MtlFlags="524420" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="0.83077002,0.83077002,0.83077002" Specular="0.16826943,0.16826943,0.16826943" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="planks" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="0.83077002,0.83077002,0.83077002" Specular="0.16826943,0.16826943,0.16826943" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/zhg_textures/Wood/Wood_plank_indoor_diff.tif"/>
     <Texture Map="Bumpmap" File="Textures/zhg_textures/Wood/Wood_plank_indoor_ddna.tif"/>

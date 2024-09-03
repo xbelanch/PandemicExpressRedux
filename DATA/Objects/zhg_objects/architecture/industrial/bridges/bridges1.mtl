@@ -29,7 +29,7 @@
    </Textures>
    <PublicParams BlendFalloff="0.80000001" EmittanceMapGamma="1" BlendLayer2Tiling="1" DetailDiffuseScale="0.73100001" SSSIndex="0.148" DetailBumpScale="0.1" BlendLayer2Tint="0.87962252,0.93011099,0.87962252" BlendMaskTiling="1" BlendFactor="0.34999999" DetailGlossScale="0.49399999" BlendLayer2Specular="0.02"/>
   </Material>
-  <Material Name="4" MtlFlags="524416" Shader="Illum" GenMask="1800004000100" StringGenMask="%DETAIL_MAPPING%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.37626216,0.18782079,0.1221388" Specular="0.3467041,0.3467041,0.3467041" Opacity="1" Shininess="253" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="4" MtlFlags="524416" Shader="Illum" GenMask="1800004000100" StringGenMask="%DETAIL_MAPPING%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.37626216,0.18782079,0.1221388" Specular="0.3467041,0.3467041,0.3467041" Opacity="1" Shininess="253" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/industrial/vetilation/textures/old_concrete_diff.dds"/>
     <Texture Map="Bumpmap" File="Textures/zhg_textures/Concrete/rain_concrete_ddna.dds"/>

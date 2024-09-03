@@ -3,7 +3,7 @@
   <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_wood" MatTemplate="" Diffuse="0.80000001,0.80000001,0.80000001" Specular="1,1,1" Opacity="1" Shininess="50" vertModifType="0" LayerAct="1">
    <Textures />
   </Material>
-  <Material Name="chair" MtlFlags="524416" Shader="Illum" GenMask="181000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="0.73046088,0.18116426,0.18116426" Specular="1,1,1" Opacity="1" Shininess="134" vertModifType="0" LayerAct="1">
+  <Material Name="chair" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="0.83077002,0.10946172,0.093058966" Specular="1,1,1" Opacity="1" Shininess="134" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./textures/chair_diff.dds"/>
     <Texture Map="Bumpmap" File="./textures/chair_ddna.dds"/>

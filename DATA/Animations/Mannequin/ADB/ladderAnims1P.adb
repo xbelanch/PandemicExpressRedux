@@ -64,19 +64,19 @@
    <Fragment BlendOutDuration="0.2" Tags="" FragTags="left+up">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
-     <Animation name="ladder_stand_climb_1p_off_top_01"/>
+     <Animation name="ladder_stand_climb_1p_off_top_01" speed="3"/>
     </AnimLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="" FragTags="right+up">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
-     <Animation name="ladder_stand_climb_1p_off_top_rgt_01"/>
+     <Animation name="ladder_stand_climb_1p_off_top_rgt_01" speed="3"/>
     </AnimLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="" FragTags="down">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
-     <Animation name="ladder_stand_climb_1p_off_01"/>
+     <Animation name="ladder_stand_climb_1p_off_01" speed="3"/>
     </AnimLayer>
    </Fragment>
   </LadderGetOff>
@@ -84,19 +84,19 @@
    <Fragment BlendOutDuration="0.2" Tags="" FragTags="right+down">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
-     <Animation name="ladder_stand_climb_1p_on_top_rgt_01"/>
+     <Animation name="ladder_stand_climb_1p_on_top_rgt_01" speed="3"/>
     </AnimLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="" FragTags="left+down">
     <AnimLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
-     <Animation name="ladder_stand_climb_1p_on_top_01"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Animation name="ladder_stand_climb_1p_on_top_01" speed="3"/>
     </AnimLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="" FragTags="up">
     <AnimLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
-     <Animation name="ladder_stand_climb_1p_on_01"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Animation name="ladder_stand_climb_1p_on_01" speed="3"/>
     </AnimLayer>
    </Fragment>
   </LadderGetOn>

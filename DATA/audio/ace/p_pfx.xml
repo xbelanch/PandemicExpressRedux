@@ -37,7 +37,7 @@
    <WwiseEvent wwise_name="Play_p_pfx_debris_wood"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Play_p_pfx_electric_spark_medium" path="p_pfx_electric">
-   <WwiseEvent wwise_name=""/>
+   <WwiseEvent wwise_name="Play_p_pfx_electric_spark_medium"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Play_p_pfx_env_insect_dragonfly_swarm" path="p_pfx_environment">
    <SDLMixerEvent event_id="1296" sdl_name="p_pfx_environment_dragonflies.ogg" event_type="start" enable_panning="true" enable_distance_attenuation="true" attenuation_dist_min="0" attenuation_dist_max="20" volume="-25" loop_count="1"/>

@@ -41,6 +41,7 @@
    <Override tags="SDKRifle+forceFeedback" scopes="Torso1P+Torso3P+Weapon+WeaponForceFeedback+AttachmentTop+AttachmentBottom"/>
    <Override tags="rapid" scopes="WeaponForceFeedback"/>
    <Override tags="burst" scopes="WeaponForceFeedback"/>
+   <Override tags="SDKCarbine+shoulder" fragTags="ammo_last1" scopes="Torso1P+Torso3P+Weapon+WeaponForceFeedback+Audio1+AttachmentTop+AttachmentBottom"/>
   </fire>
   <throw scopes="Torso1P+Motion1P+Sway1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom+SlaveChar+SlaveObject"/>
   <hold scopes="Torso1P+Motion1P+Sway1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom"/>
@@ -50,6 +51,7 @@
    <Override tags="FP" scopes="Torso1P+Torso3P+Weapon+Audio2+AttachmentTop+AttachmentBottom"/>
   </lower>
   <reload scopes="Torso1P+Motion1P+Sway1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom">
+   <Override tags="SDKRifle+FP" fragTags="ammo_empty" scopes="Torso1P+Motion1P+Sway1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom"/>
    <Override tags="SDKCarbine" fragTags="ammo_empty" scopes="Torso1P+Motion1P+Sway1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom"/>
   </reload>
   <begin_reload scopes="Torso1P+Motion1P+Sway1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom"/>
@@ -103,12 +105,14 @@
    <Override tags="Printer+nw" scopes="FullBody1P+Torso1P"/>
    <Override tags="Printer+iron" scopes="FullBody1P+Torso1P"/>
    <Override tags="nw+zombi" scopes="FullBody1P"/>
+   <Override tags="nw+sprint" scopes="FullBody1P"/>
    <Override tags="Printer" scopes="FullBody1P+Torso1P+Audio1"/>
   </idlePose>
   <FPIdle scopes="Motion1P">
    <Override tags="swim" scopes="Motion1P+Audio1"/>
    <Override tags="SDKRifle+shoulder+FP" scopes="Motion1P+Audio1"/>
    <Override tags="SDKRifle+iron+FP" scopes="Motion1P+Audio1"/>
+   <Override tags="nw+sprint+zombi" scopes="Motion1P"/>
    <Override tags="SDKRifle+iron" scopes="Motion1P+Audio1"/>
    <Override tags="SDKPistol+iron" scopes="Motion1P+Audio1"/>
    <Override tags="SDKShotgun+iron" scopes="Motion1P+Audio1"/>
@@ -120,6 +124,7 @@
    <Override tags="SDKGrenade+FP" scopes="Motion1P+Audio1"/>
    <Override tags="shoulder+FP" scopes="Motion1P+Audio2"/>
    <Override tags="iron+FP" scopes="Motion1P+Audio2"/>
+   <Override tags="nw+sprint" scopes="Motion1P"/>
    <Override tags="shoulder" scopes="Motion1P+Audio2"/>
    <Override tags="iron" scopes="Motion1P+Audio2"/>
    <Override tags="FP" scopes="Motion1P+Audio2"/>
@@ -138,10 +143,13 @@
    <Override tags="swim+right" scopes="Motion1P+Audio1"/>
    <Override tags="swim+forward" scopes="Motion1P+Audio1"/>
    <Override tags="SDKCarbine+shoulder+sprint" scopes="Motion1P+Weapon+Audio1"/>
+   <Override tags="SDKNoWeapon+shoulder+sprint" scopes="Torso1P+Motion1P+Audio1"/>
+   <Override tags="nw+shoulder+sprint" scopes="FullBody1P+Torso1P+Motion1P+Audio1"/>
    <Override tags="SDKPistol+sprint" scopes="Motion1P+Audio1"/>
    <Override tags="SDKPistol+iron" scopes="Motion1P"/>
    <Override tags="SDKCarbine+iron" scopes="Motion1P+Weapon"/>
    <Override tags="SDKCarbine+sniper" scopes="Motion1P+Weapon"/>
+   <Override tags="nw+sprint" scopes="Motion1P+Audio1"/>
    <Override tags="sprint" scopes="Motion1P+Audio1"/>
    <Override tags="SDKCarbine" scopes="Motion1P+Weapon"/>
   </FPMovement>
@@ -153,6 +161,7 @@
   <weapon_lower_enter scopes="Torso1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom" flags="Persistent"/>
   <weapon_lower_leave scopes="Torso1P+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom"/>
   <MotionIdle scopes="FullBody3P">
+   <Override tags="SDKRevolver+crouch" scopes="FullBody3P"/>
    <Override tags="swim" scopes="FullBody3P+Audio1"/>
   </MotionIdle>
   <MotionTurn scopes="FullBody3P"/>
@@ -174,6 +183,7 @@
   <MotionMounted scopes="FullBody3P"/>
   <slide scopes="FullBody1P+Motion1P+FullBody3P+AimPose+Audio1+SlaveChar+SlaveObject">
    <Override tags="FP" scopes="FullBody1P+Motion1P+FullBody3P+AimPose+Audio2+SlaveChar+SlaveObject"/>
+   <Override tags="SDKRevolver" scopes="FullBody1P+FullBody3P+AimPose+Audio1+SlaveChar+SlaveObject"/>
   </slide>
   <ledgeGrab scopes="FullBody1P+Torso1P+Motion1P+Sway1P+FullBody3P+AimPose+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom"/>
   <interact scopes="FullBody1P+Torso1P+Motion1P+Sway1P+FullBody3P+AimPose+Torso3P+Weapon+Audio1+AttachmentTop+AttachmentBottom+SlaveChar+SlaveObject"/>

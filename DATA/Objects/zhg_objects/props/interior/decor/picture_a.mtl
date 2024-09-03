@@ -8,17 +8,16 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="color" MtlFlags="524448" Shader="Illum" GenMask="1000000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="mat_canopy" MatTemplate="" Diffuse="1,1,1" Specular="0.019382363,0.019382363,0.019382363" Opacity="1" Shininess="197" vertModifType="0" LayerAct="1">
+  <Material Name="color" MtlFlags="524448" Shader="Illum" GenMask="1000000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="mat_canopy" MatTemplate="" Diffuse="1,1,1" Specular="0.019382363,0.019382363,0.019382363" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/props/interior/furniture/misc/txt/picture_diff.tif"/>
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="gloss" MtlFlags="526496" Shader="Glass" GenMask="80000000000" StringGenMask="%UNLIT" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="0.11953845,0.11953845,0.11953845" Opacity="1" Shininess="120" vertModifType="0" LayerAct="1">
+  <Material Name="gloss" MtlFlags="525472" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="1,1,1" Specular="0.11953845,0.11953845,0.11953845" Opacity="1" Shininess="232" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Bumpmap" File="Textures/zhg_textures/Bumps/falt_gloss_100_ddna.dds"/>
    </Textures>
-   <PublicParams BumpMapTile="0" TintColor="1,1,1" TintCloudiness="0" BackLightScale="0.26699999" BumpScale="0"/>
   </Material>
   <Material Name="detail" MtlFlags="524416" Shader="Illum" GenMask="1000000000000" StringGenMask="%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
    <Textures />

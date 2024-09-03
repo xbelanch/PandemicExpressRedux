@@ -4,8 +4,8 @@
   <Attachment Type="CA_BONE" AName="#camera" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="Bip01 Camera" Flags="0"/>
   <Attachment Type="CA_BONE" AName="head_lgt1" Rotation="0.49331406,-0.50659811,-0.49331319,0.506598" Position="-0.0012082596,0.14501388,1.7963544" BoneName="Bip01 Head" Flags="0"/>
   <Attachment Type="CA_BONE" AName="weapon" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="weapon_bone" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="eye_left" Binding="Objects/effects/lights/beam.cgf" Material="Objects/effects/lights/beam_zombie.mtl" RelRotation="0.68454731,2.4028145e-07,5.9604695e-08,0.72896844" RelPosition="0.0063977242,0.029041886,0.0027792454" BoneName="eye_left_bone" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="eye_right" Binding="Objects/effects/lights/beam.cgf" Material="Objects/effects/lights/beam_zombie.mtl" RelRotation="0.70710731,8.7358137e-07,5.9604503e-08,0.70710623" RelPosition="0.016373873,0.040604681,-0.0061039925" BoneName="eye_right_bone" Flags="0"/>
+  <Attachment Type="CA_BONE" AName="eye_left" RelRotation="0.68454731,2.4028145e-07,5.9604695e-08,0.72896844" RelPosition="0.0063977242,0.029041886,0.0027792454" BoneName="eye_left_bone" Flags="0"/>
+  <Attachment Type="CA_BONE" AName="eye_right" RelRotation="0.70710731,8.7358137e-07,5.9604503e-08,0.70710623" RelPosition="0.016373873,0.040604681,-0.0061039925" BoneName="eye_right_bone" Flags="0"/>
   <Attachment Type="CA_BONE" AName="player_grab" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="weapon_bone" Flags="0"/>
   <Attachment Type="CA_BONE" AName="player_grabnpc" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="Bip01 L Hand" Flags="0"/>
   <Attachment Type="CA_BONE" AName="left_weapon" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="Lweapon_bone" Flags="0"/>

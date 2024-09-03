@@ -7,7 +7,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="handle" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+  <Material Name="handle" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./tex/handle_diff.dds"/>
     <Texture Map="Bumpmap" File="./tex/handle_ddna.dds"/>
@@ -15,14 +15,14 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="breakable_glass" MtlFlags="524448" Shader="Illum" GenMask="1800000000000" StringGenMask="%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_glass_breakable_safetyglass_large" MatTemplate="" Diffuse="0.32314324,0.32314324,0.32314324" Specular="1,1,1" Opacity="1" Shininess="229" vertModifType="0" LayerAct="1">
+  <Material Name="breakable_glass" MtlFlags="524448" Shader="Illum" GenMask="1800000000000" StringGenMask="%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_glass_unbreakable" MatTemplate="" Diffuse="0.32314324,0.32314324,0.32314324" Specular="1,1,1" Opacity="1" Shininess="74" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./tex/window_spec.dds"/>
     <Texture Map="Specular" File="./tex/window_spec.dds"/>
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="0.20999999" Shininess="10" vertModifType="0" LayerAct="1">
+  <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_wood" MatTemplate="" Diffuse="0.588,0.588,0.588" Specular="0,0,0" Opacity="0.20999999" Shininess="10" vertModifType="0" LayerAct="1">
    <Textures />
   </Material>
  </SubMaterials>

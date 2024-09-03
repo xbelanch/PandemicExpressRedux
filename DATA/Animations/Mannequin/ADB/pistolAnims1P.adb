@@ -342,7 +342,7 @@
    <Fragment BlendOutDuration="0.2" Tags="SDKPistol">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
-     <Animation name="slide_tac_loop_pistol_aim_1p_01" flags="Loop"/>
+     <Animation name="crouch_tac_idle_rifle_3p_01" flags="Loop"/>
     </AnimLayer>
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>

@@ -3,22 +3,21 @@
   <Material Name="proxy_mat" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="" MatTemplate="" Diffuse="1,0,0" Specular="0.5,0.5,0.5" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
    <Textures />
   </Material>
-  <Material Name="floor" MtlFlags="524416" Shader="Illum" GenMask="1002004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.55834049,0.55834049,0.55834049" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+  <Material Name="floor" MtlFlags="524448" Shader="Illum" GenMask="1002004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_concrete" MatTemplate="" Diffuse="1,1,1" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
    <Textures>
-    <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/concrete_pack/textures/floor16x_diff.dds"/>
-    <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/concrete_pack/textures/floor16x_ddna.dds"/>
+    <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/industrial/platforms/textures/floor_concrete_diff.dds"/>
+    <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/industrial/platforms/textures/floor_concrete_ddna.dds" Filter="0"/>
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="border_mat" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.29613829,0.29613829,0.29613829" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+  <Material Name="border_mat" MtlFlags="524416" Shader="Illum" GenMask="1000004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_concrete" MatTemplate="" Diffuse="0.8962695,0.36130682,0.06124606" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="155" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./textures/border_diff.dds"/>
     <Texture Map="Bumpmap" File="./textures/border_ddna.dds"/>
-    <Texture Map="Specular" File="./textures/border_spec.dds"/>
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="metal" MtlFlags="524416" Shader="Illum" GenMask="1802004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="100" vertModifType="0" LayerAct="1">
+  <Material Name="metal" MtlFlags="524416" Shader="Illum" GenMask="1802004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.45641103,0.45641103,0.45641103" Specular="1,1,1" Opacity="1" Shininess="100" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/industrial/stairs/textures/steel_diff.dds"/>
     <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/industrial/metal/textures/old_metal_ddna.dds"/>

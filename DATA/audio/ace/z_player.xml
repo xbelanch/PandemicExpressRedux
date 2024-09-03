@@ -18,12 +18,19 @@
     <ATLTrigger atl_name="Play_whoosh_out" path="FX">
      <WwiseEvent wwise_name="Play_whoosh_out"/>
   </ATLTrigger>
+      <ATLTrigger atl_name="Play_zmb_ghost_out" path="FX">
+     <WwiseEvent wwise_name="Play_zmb_ghost_out"/>
+  </ATLTrigger>
+      <ATLTrigger atl_name="Play_Bomber_Idle" path="Zombie_FX">
+     <WwiseEvent wwise_name="Play_Bomber_Idle"/>
+  </ATLTrigger>
  </AudioTriggers>
  <EditorData>
   <Folders>
    <Folder name="Feed_Human"/>
    <Folder name="Feed_Zombie"/>
    <Folder name="FX"/>
+   <Folder name="Zombie_FX"/>
   </Folders>
  </EditorData>
 </ATLConfig>

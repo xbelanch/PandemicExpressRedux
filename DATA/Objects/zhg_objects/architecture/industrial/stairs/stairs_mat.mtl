@@ -3,7 +3,7 @@
   <Material Name="proxy" MtlFlags="525440" Shader="Nodraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,0,0" Specular="0.5,0.5,0.5" Opacity="1" Shininess="10" vertModifType="0" LayerAct="1">
    <Textures />
   </Material>
-  <Material Name="details" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+  <Material Name="details" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.42326769,0.42326769,0.42326769" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./textures/details_diff.dds"/>
     <Texture Map="Bumpmap" File="./textures/details_ddna.dds"/>
@@ -11,7 +11,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="metal" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.41254264,0.41254264,0.41254264" Opacity="1" Shininess="50" vertModifType="0" LayerAct="1">
+  <Material Name="metal" MtlFlags="524416" Shader="Illum" GenMask="1802004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.49693301,0.49693301,0.49693301" Specular="1,1,1" Opacity="1" Shininess="130" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./textures/steel_diff.dds"/>
     <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/industrial/metal/textures/old_metal_ddna.dds"/>
@@ -19,18 +19,16 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="metal2" MtlFlags="524416" Shader="Illum" GenMask="1800004000100" StringGenMask="%DETAIL_MAPPING%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.96468639,0.090841718,0.019382363" Specular="0.41254264,0.41254264,0.41254264" Opacity="1" Shininess="147" vertModifType="0" LayerAct="1">
+  <Material Name="metal_structure" MtlFlags="524416" Shader="Illum" GenMask="1802004000100" StringGenMask="%DETAIL_MAPPING%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="0.49693301,0.49693301,0.49693301" Specular="1,1,1" Opacity="1" Shininess="130" vertModifType="0" LayerAct="1">
    <Textures>
-    <Texture Map="Diffuse" File="Objects/zhg_objects/architecture/industrial/metal/textures/old_metal_dif.dds">
-     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="0.25" TileV="0.25"/>
-    </Texture>
+    <Texture Map="Diffuse" File="./textures/steel_diff.dds"/>
     <Texture Map="Bumpmap" File="Objects/zhg_objects/architecture/industrial/metal/textures/old_metal_ddna.dds"/>
-    <Texture Map="Specular" File="./textures/steel2_spec.dds"/>
+    <Texture Map="Specular" File="./textures/steel_spec.dds"/>
     <Texture Map="Detail" File="./textures/details.dds">
-     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="7" TileV="7"/>
+     <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="2" TileV="2"/>
     </Texture>
    </Textures>
-   <PublicParams EmittanceMapGamma="1" DetailDiffuseScale="1" SSSIndex="0" DetailBumpScale="1" DetailGlossScale="1"/>
+   <PublicParams EmittanceMapGamma="1" DetailDiffuseScale="0.20900001" SSSIndex="0" DetailBumpScale="2" DetailGlossScale="0.83899999"/>
   </Material>
  </SubMaterials>
  <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>

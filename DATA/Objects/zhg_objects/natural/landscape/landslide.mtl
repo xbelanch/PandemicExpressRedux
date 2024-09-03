@@ -1,6 +1,6 @@
 <Material MtlFlags="524544" vertModifType="0">
  <SubMaterials>
-  <Material Name="grass" MtlFlags="524416" Shader="Illum" GenMask="1802004000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_soil" MatTemplate="" Diffuse="0.78353792,0.78353792,0.78353792" Specular="1,1,1" Opacity="1" Shininess="80" vertModifType="0" LayerAct="1">
+  <Material Name="grass" MtlFlags="524416" Shader="Illum" GenMask="1802004000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_soil" MatTemplate="" Diffuse="0.51491767,0.51491767,0.51491767" Specular="1,1,1" Opacity="1" Shininess="80" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/zhg_textures/Natural/grass_base_diff.dds">
      <TexMod TexMod_RotateType="1" TexMod_TexGenType="0" TexMod_bTexGenProjected="0"/>
@@ -16,7 +16,7 @@
    </Textures>
    <PublicParams BlendFalloff="1" EmittanceMapGamma="1" BlendLayer2Tiling="1" SSSIndex="0" BlendLayer2Tint="1,1,1" BlendMaskTiling="1" BlendFactor="0.5" BlendLayer2Specular="0.02"/>
   </Material>
-  <Material Name="root" MtlFlags="524448" Shader="Vegetation" GenMask="2404801000" StringGenMask="%DETAIL_BENDING%LEAVES%NORMAL_MAP%TEMP_VEGETATION%VERTCOLORS" SurfaceType="" MatTemplate="" Diffuse="0.44520122,0.44520122,0.44520122" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" AlphaTest="0.41" vertModifType="8" LayerAct="1">
+  <Material Name="root" MtlFlags="524448" Shader="Vegetation" GenMask="2404801000" StringGenMask="%DETAIL_BENDING%LEAVES%NORMAL_MAP%TEMP_VEGETATION%VERTCOLORS" SurfaceType="mat_vegetation" MatTemplate="" Diffuse="0.44520122,0.44520122,0.44520122" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" AlphaTest="0.41" vertModifType="8" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/zhg_textures/Natural/roots_diff.dds"/>
     <Texture Map="Bumpmap" File="Textures/zhg_textures/Natural/roots_ddna.dds"/>
@@ -28,7 +28,7 @@
    <Textures />
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="cliff_ground" MtlFlags="524416" Shader="Illum" GenMask="1000004000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.76815128,0.76815128,0.76815128" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="cliff_ground" MtlFlags="524416" Shader="Illum" GenMask="1000004000010" StringGenMask="%BLENDLAYER%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_rock" MatTemplate="" Diffuse="0.76815128,0.76815128,0.76815128" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/zhg_textures/Stones/cliff_diff.dds"/>
     <Texture Map="Bumpmap" File="Textures/zhg_textures/Stones/cliff_ddna.dds"/>
@@ -38,7 +38,7 @@
    </Textures>
    <PublicParams BlendFalloff="1" EmittanceMapGamma="1" BlendLayer2Tiling="5" SSSIndex="0" BlendLayer2Tint="1,1,1" BlendMaskTiling="1" BlendFactor="0" BlendLayer2Specular="0.02"/>
   </Material>
-  <Material Name="grass_mesh" MtlFlags="524448" Shader="Vegetation" GenMask="2400201000" StringGenMask="%DETAIL_BENDING%GRASS%TEMP_VEGETATION%VERTCOLORS" SurfaceType="mat_vegetation" MatTemplate="" Diffuse="0.79910284,0.79910284,0.79910284" Specular="0.021219011,0.021219011,0.021219011" Emittance="0,0,0,0" Opacity="1" Shininess="117" AlphaTest="0.41999999" vertModifType="8" LayerAct="1">
+  <Material Name="grass_mesh" MtlFlags="524448" Shader="Vegetation" GenMask="2400201000" StringGenMask="%DETAIL_BENDING%GRASS%TEMP_VEGETATION%VERTCOLORS" SurfaceType="mat_vegetation" MatTemplate="" Diffuse="0.63759702,0.70110202,0.8962695" Specular="0.021219011,0.021219011,0.021219011" Emittance="0,0,0,0" Opacity="1" Shininess="117" AlphaTest="0.41999999" vertModifType="8" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/natural/grass/tex/grass_pack_diff.dds"/>
    </Textures>

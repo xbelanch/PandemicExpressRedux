@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12270</WindowHeight>
-  <WindowWidth>22950</WindowWidth>
+  <WindowHeight>12300</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -307,7 +307,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C4"/>
   </Names>
-  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="300" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="303" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62" ss:DefaultRowHeight="12.5625">
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="13.5"/>
    <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="271.5"/>
@@ -457,8 +457,8 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_ExitToMainQ</Data></Cell>
-    <Cell><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
-    <Cell><Data ss:Type="String">Вы точно хотите выйти в меню?</Data></Cell>
+    <Cell><Data ss:Type="String">If you leave, all your stars for this match will be lost. Are you sure?</Data></Cell>
+    <Cell><Data ss:Type="String">Если вы выйдете, все ваши звезды за этот матч будут потеряны. Вы уверены?</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2"><Data ss:Type="String">ui_Resume</Data></Cell>
@@ -652,14 +652,29 @@
     <Cell><Data ss:Type="String">Выберите разрешение экрана</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_Fullscreen</Data></Cell>
-    <Cell><Data ss:Type="String">Fullscreen</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_WindowMode</Data></Cell>
+    <Cell><Data ss:Type="String">Window Mode</Data></Cell>
     <Cell><Data ss:Type="String">Режим экрана</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:Index="2"><Data ss:Type="String">ui_FullscreenTT</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_WindowModeTT</Data></Cell>
     <Cell><Data ss:Type="String">Display in fullscreen mode</Data></Cell>
     <Cell><Data ss:Type="String">Полный экран</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Borderless</Data></Cell>
+    <Cell><Data ss:Type="String">Borderless</Data></Cell>
+    <Cell><Data ss:Type="String">Без рамок</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Fullscreen</Data></Cell>
+    <Cell><Data ss:Type="String">Fullscreen</Data></Cell>
+    <Cell><Data ss:Type="String">Полный экран</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Windowed</Data></Cell>
+    <Cell><Data ss:Type="String">Windowed</Data></Cell>
+    <Cell><Data ss:Type="String">Оконный режим</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_ScreenMode</Data></Cell>
@@ -731,7 +746,7 @@
     <Cell><Data ss:Type="String">Vegetation</Data></Cell>
     <Cell><Data ss:Type="String">Включить улучшенную растительность</Data></Cell>
    </Row>
-   <Row ss:Index="85" ss:AutoFitHeight="0">
+   <Row ss:Index="88" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Stereo 3D Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -811,7 +826,7 @@
     <Cell><Data ss:Type="String">Flip Eyes for Stereo 3D output</Data></Cell>
     <Cell><Data ss:Type="String">Flip Eyes for Stereo 3D output</Data></Cell>
    </Row>
-   <Row ss:Index="102" ss:AutoFitHeight="0">
+   <Row ss:Index="105" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Weapon Customization Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -871,7 +886,7 @@
     <Cell><Data ss:Type="String">Detach attachment from weapon</Data></Cell>
     <Cell><Data ss:Type="String">Detach attachment from weapon</Data></Cell>
    </Row>
-   <Row ss:Index="115" ss:AutoFitHeight="0">
+   <Row ss:Index="118" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Singleplayer Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -931,7 +946,7 @@
     <Cell><Data ss:Type="String">Load last saved game</Data></Cell>
     <Cell><Data ss:Type="String">Load last saved game</Data></Cell>
    </Row>
-   <Row ss:Index="128" ss:AutoFitHeight="0">
+   <Row ss:Index="131" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Multiplayer Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -971,7 +986,7 @@
     <Cell><Data ss:Type="String">Internet</Data></Cell>
     <Cell><Data ss:Type="String">Internet</Data></Cell>
    </Row>
-   <Row ss:Index="137" ss:AutoFitHeight="0">
+   <Row ss:Index="140" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">User stats Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1430,7 +1445,7 @@
     <Cell><Data ss:Type="String">Hud Hide Tooltip</Data></Cell>
     <Cell><Data ss:Type="String">Скрыть интерфейс (Нестабильно)</Data></Cell>
    </Row>
-   <Row ss:Index="239" ss:AutoFitHeight="0">
+   <Row ss:Index="242" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Sound Settings Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1500,7 +1515,7 @@
     <Cell><Data ss:Type="String">Prerecorded messages volume</Data></Cell>
     <Cell><Data ss:Type="String">Громкость предзаписанных сообщений</Data></Cell>
    </Row>
-   <Row ss:Index="254" ss:AutoFitHeight="0">
+   <Row ss:Index="257" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Controls Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1642,14 +1657,23 @@
     <Cell><Data ss:Type="String">Connecting...</Data></Cell>
     <Cell><Data ss:Type="String">Подключение...</Data></Cell>
    </Row>
-   <Row ss:Index="285" ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s62"/>
-   </Row>
-   <Row ss:Index="289" ss:AutoFitHeight="0">
+   <Row ss:Index="288" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s62"/>
    </Row>
    <Row ss:Index="291" ss:AutoFitHeight="0">
-    <Cell ss:Index="2" ss:StyleID="s62"/>
+    <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Controls</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_Keybinds</Data></Cell>
+    <Cell><Data ss:Type="String">Keybinds</Data></Cell>
+    <Cell><Data ss:Type="String">Управление</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2"><Data ss:Type="String">ui_KeybindsTT</Data></Cell>
+    <Cell><Data ss:Type="String">KeybindsTT</Data></Cell>
+    <Cell><Data ss:Type="String">Открыть настройки клавиатуры</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s62"/>
@@ -1660,7 +1684,10 @@
    <Row ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s62"/>
    </Row>
-   <Row ss:Index="296" ss:AutoFitHeight="0">
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="2" ss:StyleID="s62"/>
+   </Row>
+   <Row ss:Index="299" ss:AutoFitHeight="0">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Cs buttons</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1704,12 +1731,12 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>171</TopRowVisible>
+   <TopRowVisible>42</TopRowVisible>
    <LeftColumnVisible>1</LeftColumnVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>197</ActiveRow>
+     <ActiveRow>70</ActiveRow>
      <ActiveCol>4</ActiveCol>
     </Pane>
    </Panes>

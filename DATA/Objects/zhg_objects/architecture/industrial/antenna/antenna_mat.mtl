@@ -29,7 +29,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="paint_metal" MtlFlags="524416" Shader="Illum" GenMask="1002004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.021219011,0.021219011,0.021219011" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+  <Material Name="paint_metal" MtlFlags="524416" Shader="Illum" GenMask="1002004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0.03954624,0.043735035,0.043735035" Opacity="1" Shininess="188" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/defaults/white.dds"/>
     <Texture Map="Bumpmap" File="Objects/zhg_objects/vehicles/train_pe/textures/paint_ddna.dds"/>

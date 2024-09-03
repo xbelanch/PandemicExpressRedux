@@ -30,6 +30,30 @@
   <ATLTrigger atl_name="Play_Voice_Zombies">
    <WwiseEvent wwise_name="Play_Voice_Zombies"/>
   </ATLTrigger>
+  <ATLTrigger atl_name="Play_Voice_Gold_001">
+   <WwiseEvent wwise_name="Play_Voice_Gold_001"/>
+  </ATLTrigger>
+    <ATLTrigger atl_name="Play_Voice_Gold_002">
+   <WwiseEvent wwise_name="Play_Voice_Gold_002"/>
+  </ATLTrigger>
+    <ATLTrigger atl_name="Play_Voice_Gold_003">
+   <WwiseEvent wwise_name="Play_Voice_Gold_003"/>
+  </ATLTrigger>
+    <ATLTrigger atl_name="Play_Voice_Gold_004">
+   <WwiseEvent wwise_name="Play_Voice_Gold_004"/>
+  </ATLTrigger>
+    <ATLTrigger atl_name="Play_Voice_Gold_005">
+   <WwiseEvent wwise_name="Play_Voice_Gold_005"/>
+  </ATLTrigger>
+    <ATLTrigger atl_name="Play_Voice_Gold_006">
+   <WwiseEvent wwise_name="Play_Voice_Gold_006"/>
+  </ATLTrigger>
+    <ATLTrigger atl_name="Play_Voice_Gold_007">
+   <WwiseEvent wwise_name="Play_Voice_Gold_007"/>
+  </ATLTrigger>
+    <ATLTrigger atl_name="Play_Voice_Gold_008">
+   <WwiseEvent wwise_name="Play_Voice_Gold_008"/>
+  </ATLTrigger>
  </AudioTriggers>
  <AudioPreloads>
   <ATLPreloadRequest atl_name="r_radio_car_2" atl_type="AutoLoad">

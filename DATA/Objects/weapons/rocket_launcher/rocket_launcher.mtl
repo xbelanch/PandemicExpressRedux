@@ -1,6 +1,6 @@
 <Material MtlFlags="524544" vertModifType="0">
  <SubMaterials>
-  <Material Name="rocket_launcher_fp" MtlFlags="524416" Shader="Illum" GenMask="1800004000001" StringGenMask="%ALLOW_SILHOUETTE_POM%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="rocket_launcher_fp" MtlFlags="524416" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_fp_diff.tif"/>
     <Texture Map="Bumpmap" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_fp_ddna.tif"/>
@@ -10,7 +10,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="rocket_launcher_tp" MtlFlags="524416" Shader="Illum" GenMask="1800000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="126" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="rocket_launcher_tp" MtlFlags="524416" Shader="Illum" GenMask="1800000000000" StringGenMask="%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="126" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_diff.tif"/>
     <Texture Map="Specular" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_spec.tif"/>
@@ -22,7 +22,7 @@
   <Material Name="proxy" MtlFlags="525440" Shader="NoDraw" GenMask="0" StringGenMask="" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="0,0,0" Opacity="1" Shininess="10" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures />
   </Material>
-  <Material Name="lod1" MtlFlags="524416" Shader="Illum" GenMask="1800000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="165" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="lod1" MtlFlags="524416" Shader="Illum" GenMask="1800000000000" StringGenMask="%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="165" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_diff.tif"/>
     <Texture Map="Specular" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_spec.tif"/>
@@ -31,7 +31,7 @@
    </Textures>
    <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="lod2" MtlFlags="524416" Shader="Illum" GenMask="1800000000001" StringGenMask="%ALLOW_SILHOUETTE_POM%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="165" CloakAmount="0" vertModifType="0" LayerAct="1">
+  <Material Name="lod2" MtlFlags="524416" Shader="Illum" GenMask="1800000000000" StringGenMask="%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_metal" MatTemplate="" Diffuse="1,1,1" Specular="1,1,1" Opacity="1" Shininess="165" CloakAmount="0" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_diff.tif"/>
     <Texture Map="Specular" File="Objects/zhg_objects/weapons/rocket_launcher/txt/r_l_spec.tif"/>

@@ -37,4 +37,5 @@
  <Skeleton name="hg_shotgun" file="Objects/zhg_objects/weapons/hg_shotgun/hg_shotgun.chr"/>
  <Skeleton name="revolver_s" file="Objects\zhg_objects\weapons\revolver/revolver_s.chr"/>
  <Skeleton name="sniper_rifle" file="Objects\zhg_objects\weapons\sniper_rifle/SKEL_sniper_rifle.chr"/>
+ <Skeleton name="RopeLadder" file="Objects\zhg_objects\entities\rope_ladder/RopeLadder.chr"/>
 </SkeletonList>

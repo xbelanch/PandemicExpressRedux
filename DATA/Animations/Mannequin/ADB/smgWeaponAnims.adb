@@ -256,7 +256,7 @@
   <reload>
    <Fragment BlendOutDuration="0.2" Tags="SDKSmg" FragTags="ammo_empty">
     <AnimLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Animation name="stand_tac_reloadempty_rifle_weapon_1p_01" speed="1.25"/>
     </AnimLayer>
    </Fragment>
@@ -268,8 +268,8 @@
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKSmg">
     <AnimLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
-     <Animation name="stand_tac_reloadfull_rifle_weapon_1p_01" speed="1.5"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0.5"/>
+     <Animation name="stand_tac_reloadfull_rifle_weapon_1p_01" speed="1.7"/>
     </AnimLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKSmg">

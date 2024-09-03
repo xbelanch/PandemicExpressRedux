@@ -9,10 +9,29 @@
   <Attachment Type="CA_BONE" AName="player_grab" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="weapon_bone" Flags="0"/>
   <Attachment Type="CA_BONE" AName="player_grabnpc" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="Bip01 L Hand" Flags="0"/>
   <Attachment Type="CA_BONE" AName="left_weapon" RelRotation="1,0,0,0" RelPosition="0,0,0" BoneName="Lweapon_bone" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/characters/human/Dude/source/pin_body_sk.skin" Material="Objects/characters/human/Dude/source/pin_mat.mtl" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="head" Binding="Objects/characters/human/Dude/source/head.skin" Material="Objects/characters/human/Dude/source/pin_mat.mtl" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="printer" RelRotation="0.24783006,-0.66150409,-0.24717927,-0.6632458" RelPosition="0.1232751,-0.10276797,0.00027488155" BoneName="Bip01 Spine" PA_PendulumType="1" PA_SimulationAxis="0,0.5,0" Flags="4"/>
-  <Attachment Type="CA_SKIN" AName="Hands" Binding="Objects/characters/human/Dude/source/pin_hands_sk.skin" Material="Objects/characters/human/Dude/source/pin_mat.mtl" Flags="4"/>
+  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Torso.skin" Material="Objects/zhg_objects/characters/sets/RebellionSet/M_RebellionSet.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="head" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_head.skin" Material="Objects/zhg_objects/characters/sets/RebellionSet/M_RebellionSet.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="Pants" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Pants.skin" Material="Objects/zhg_objects/characters/sets/RebellionSet/m_rebellionset.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="Hands" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebelliomSet_Hands.skin" Material="Objects/zhg_objects/characters/sets/RebellionSet/M_RebellionSet.mtl" Flags="4"/>
+  <Attachment Type="CA_SKIN" AName="DoubtSet_Head" Binding="Objects/zhg_objects/characters/sets/DoubtSet/DoubtSet_head.skin" Material="Objects/zhg_objects/characters/sets/DoubtSet/M_DoubtSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="DoubtSet_Torso" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Torso.skin" Material="Objects/zhg_objects/characters/sets/DoubtSet/M_DoubtSet.mtl" Flags="1"/>
+  <Attachment Type="CA_BONE" AName="bag" RelRotation="-0.12721725,0.80225456,0.22939296,0.53626692" RelPosition="0.098304272,-0.15886727,0.013990283" BoneName="Bip01 Spine3" Flags="4"/>
+  <Attachment Type="CA_SKIN" AName="VanitySet_Head" Binding="Objects/zhg_objects/characters/sets/VanitySet/VanitySet_head.skin" Material="Objects/zhg_objects/characters/sets/VanitySet/M_VanitySet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="VanitySet_Torso" Binding="Objects/zhg_objects/characters/sets/VanitySet/VanitySet_Torso.skin" Material="Objects/zhg_objects/characters/sets/VanitySet/M_VanitySet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="VanitySet_Pants" Binding="Objects/zhg_objects/characters/sets/VanitySet/VanitySet_Pants.skin" Material="Objects/zhg_objects/characters/sets/VanitySet/M_VanitySet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="SafetySet_Head" Binding="Objects/zhg_objects/characters/sets/SafetySet/SafetySet_head.skin" Material="Objects/zhg_objects/characters/sets/SafetySet/M_SafetySet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="SafetySet_Hands" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebelliomSet_Hands.skin" Material="Objects/zhg_objects/characters/sets/SafetySet/M_SafetySet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="SafetySet_Torso" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Torso.skin" Material="Objects/zhg_objects/characters/sets/SafetySet/M_SafetySet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="LoverSet_Head" Binding="Objects/zhg_objects/characters/sets/LoverSet/LoverSet_head.skin" Material="Objects/zhg_objects/characters/sets/LoverSet/M_LoverSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="LoverSet_Torso" Binding="Objects/zhg_objects/characters/sets/LoverSet/LoverSet_Torso.skin" Material="Objects/zhg_objects/characters/sets/LoverSet/M_LoverSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="LoverSet_Pants" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Pants.skin" Material="Objects/zhg_objects/characters/sets/LoverSet/M_LoverSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="LeaderSet_Head" Binding="Objects/zhg_objects/characters/sets/LeaderSet/LeaderSet_head.skin" Material="Objects/zhg_objects/characters/sets/LeaderSet/M_LeaderSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="LeaderSet_Torso" Binding="Objects/zhg_objects/characters/sets/LeaderSet/LeaderSet_Torso.skin" Material="Objects/zhg_objects/characters/sets/LeaderSet/M_LeaderSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="LeaderSet_Pants" Binding="Objects/zhg_objects/characters/sets/LeaderSet/LeaderSet_Pants.skin" Material="Objects/zhg_objects/characters/sets/LeaderSet/M_LeaderSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="HopefullSet_Head" Binding="Objects/zhg_objects/characters/sets/HopefullSet/HopefullSet_head.skin" Material="Objects/zhg_objects/characters/sets/HopefullSet/M_HopefullSet.mtl" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="HopefullSet_Torso" Binding="Objects/zhg_objects/characters/sets/HopefullSet/HopefullSet_Torso.skin" Material="Objects/zhg_objects/characters/sets/HopefullSet/M_HopefullSet.mtl" Flags="1"/>
+  <Attachment Type="CA_BONE" AName="HopefullSet_Rifle" Binding="Objects/zhg_objects/weapons/sniper_rifle/Carabine_1.cgf" Rotation="0.66541755,0.1072988,0.18659168,0.71476561" Position="0.11132823,-0.13061121,1.1912951" BoneName="Bip01 Spine" Flags="1"/>
+  <Attachment Type="CA_SKIN" AName="HopefullSet_Pants" Binding="Objects/zhg_objects/characters/sets/HopefullSet/HopefullSet_Pants.skin" Material="Objects/zhg_objects/characters/sets/HopefullSet/M_HopefullSet.mtl" Flags="1"/>
  </AttachmentList>
  <Modifiers>
   <Element>

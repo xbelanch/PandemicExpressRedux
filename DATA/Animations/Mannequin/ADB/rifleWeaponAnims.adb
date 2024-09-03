@@ -110,7 +110,7 @@
    <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
-     <Animation name="stand_tac_reloadfull_rifle_weapon_1p_01" speed="1.5"/>
+     <Animation name="stand_tac_reloadfull_rifle_weapon_1p_01" speed="1.7"/>
     </AnimLayer>
    </Fragment>
   </reload>
@@ -132,7 +132,7 @@
  <FragmentBlendList>
   <Blend from="melee_multipart" to="idle">
    <Variant from="SDKRifle" to="SDKRifle">
-    <Fragment BlendOutDuration="0.2" selectTime="0.66509211" enterTime="0">
+    <Fragment BlendOutDuration="0.2" selectTime="0" enterTime="0">
      <AnimLayer>
       <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
       <Animation name="stand_tac_idlePose_rifle_weapon_1p_01" flags="Loop"/>

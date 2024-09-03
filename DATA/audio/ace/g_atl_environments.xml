@@ -1,5 +1,9 @@
 <ATLConfig atl_name="g_atl_environments" atl_version="2">
  <AudioEnvironments>
+  <ATLEnvironment atl_name="room_country">
+	<WwiseAuxBus wwise_name="room_country"/>
+    <WwiseRtpc wwise_name="environment_sound"/>
+  </ATLEnvironment>
   <ATLEnvironment atl_name="cave">
    <FmodBus fmod_name="Cave"/>
    <WwiseAuxBus wwise_name="cave"/>

@@ -9,6 +9,17 @@
   <ATLTrigger atl_name="train_speed_high" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
    <WwiseEvent wwise_name="Play_zhg_train_passhigh"/>
   </ATLTrigger>
+  
+   <ATLTrigger atl_name="Play_train_wheels_low" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
+   <WwiseEvent wwise_name="Play_train_wheels_low"/>
+  </ATLTrigger>
+  <ATLTrigger atl_name="Play_train_wheels_med" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
+   <WwiseEvent wwise_name="Play_train_wheels_med"/>
+  </ATLTrigger>
+  <ATLTrigger atl_name="Play_train_wheels_high" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
+   <WwiseEvent wwise_name="Play_train_wheels_high"/>
+  </ATLTrigger>
+  
   <ATLTrigger atl_name="train_start" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
    <WwiseEvent wwise_name="Play_zhg_train_start"/>
   </ATLTrigger>

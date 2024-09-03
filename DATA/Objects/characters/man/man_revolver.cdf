@@ -28,12 +28,12 @@
   <Attachment Type="CA_SKIN" AName="shoes" Material="Objects/characters/man/wear/set_2/set_2.mtl" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="pants" Material="Objects/characters/man/wear/set_2/set_2.mtl" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="gloves" Binding="Objects/characters/human/Dude/source/pin_hands_sk.skin" Material="Objects/characters/human/Dude/source/pin_mat.mtl" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/characters/human/Dude/source/pin_body_sk.skin" Material="Objects/characters/human/Dude/source/pin_mat.mtl" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="armor" Material="Objects/characters/man/wear/set_2/set_2.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Torso.skin" Material="Objects/characters/human/Dude/source/pin_mat_sweater.mtl" Flags="0"/>
+  <Attachment Type="CA_BONE" AName="bag" Binding="Objects/zhg_objects/characters/attachments/bags/bag_of_doubts.cgf" Material="Objects/zhg_objects/characters/attachments/bags/M_bug_of_doubts_p.mtl" RelRotation="0.20570029,-0.67570394,-0.20515092,-0.67751348" RelPosition="0.089495614,-0.15485503,0.083992317" BoneName="Bip01 Spine3" PA_PendulumType="1" PA_SimulationAxis="0,0.5,0" Flags="4"/>
   <Attachment Type="CA_BONE" AName="hair" Material="Objects/characters/man/hairs/hair_medium/hair_medium.mtl" RelRotation="0.70640087,0.031597976,0.70639992,-0.031597976" RelPosition="0.16346169,-0.0064978004,-0.0070757866" BoneName="Bip01 Head" Flags="0"/>
   <Attachment Type="CA_BONE" AName="helmet" Material="Objects/characters/man/masks/default/mask.mtl" RelRotation="1,0,0,0" RelPosition="-3.4970071e-10,-0.044922642,0.02260828" BoneName="Bip01 Look" Flags="6"/>
   <Attachment Type="CA_BONE" AName="detonator" RelRotation="0.70740569,0,0.70680767,0" RelPosition="0,0,-1.1641532e-09" BoneName="Bip01 Head" Flags="6"/>
-  <Attachment Type="CA_SKIN" AName="head" Binding="Objects/characters/human/Dude/source/head.skin" Material="Objects/characters/human/Dude/source/pin_mat.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="head" Binding="Objects/characters/human/Dude/source/mask_bandit.skin" Material="Objects/characters/human/Dude/source/m_mask_c.mtl" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="legs" Material="Objects/characters/human/Dude/source/pin_mat.mtl" Flags="0"/>
   <Attachment Type="CA_BONE" AName="stow_bow1" Rotation="0.11518271,0.71013325,0.68677211,0.10386407" Position="0.12618713,-0.20954716,1.4089395" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_SimulationAxis="0,0.5,0" Flags="0"/>
   <Attachment Type="CA_BONE" AName="stow_bow2" Rotation="0.11010567,0.71433991,-0.67589587,-0.14408298" Position="-0.12618791,-0.20954621,1.4089382" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_SimulationAxis="0,0.5,0" Flags="0"/>
@@ -58,6 +58,7 @@
   <Attachment Type="CA_PROX" AName="PelvisProxy" RelRotation="0.99999994,0,0,0" RelPosition="-0.021649361,0.009748619,-0.00012028217" BoneName="bip01 pelvis" ProxyParams="0,0,0.097058825,0.14" ProxyPurpose="0"/>
   <Attachment Type="CA_SKIN" AName="shoulderplantes" Flags="0"/>
   <Attachment Type="CA_BONE" AName="Pistol" Binding="Objects/zhg_objects/weapons/revolver/pistol_3.cgf" RelRotation="0.7289688,3.8743036e-07,2.0861636e-07,-0.68454683" RelPosition="0.14430203,0.039296623,0.066509247" BoneName="Bip01 R Hand" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="Pants" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Pants.skin" Flags="0"/>
  </AttachmentList>
  <Modifiers>
   <Element>

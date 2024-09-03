@@ -276,6 +276,42 @@
     </ProcLayer>
    </Fragment>
   </empty_clip>
+  <pickedup>
+   <Fragment BlendOutDuration="0.2" Tags="SDKShotgun+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pck_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKShotgun">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pck_3p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+  </pickedup>
   <pickedup_ammo>
    <Fragment BlendOutDuration="0.2" Tags="SDKShotgun+FP">
     <ProcLayer>
@@ -312,6 +348,25 @@
     </ProcLayer>
    </Fragment>
   </pickedup_ammo>
+  <zoom_in>
+   <Fragment BlendOutDuration="0.2" Tags="SDKShotgun+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_irsght_off_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+  </zoom_in>
   <shot_last_bullet>
    <Fragment BlendOutDuration="0.2" Tags="SDKShotgun+FP">
     <ProcLayer>

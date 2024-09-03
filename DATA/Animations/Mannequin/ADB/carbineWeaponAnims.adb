@@ -64,6 +64,9 @@
    </Fragment>
   </idle_break>
   <fire>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP" FragTags="ammo_last1">
+    <AnimLayer />
+   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
@@ -82,12 +85,14 @@
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
      <Animation name="sniper_rifle_reload_wp_1p_01"/>
+     <Blend ExitTime="1.8" StartTime="0" Duration="0.2"/>
+     <Animation name="sniper_rifle_recoil_wp_1p_01"/>
     </AnimLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKCarbine">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
-     <Animation name="sniper_rifle_reload_wp_1p_01" speed="1.2"/>
+     <Animation name="sniper_rifle_reload_wp_1p_01"/>
     </AnimLayer>
    </Fragment>
   </reload>
@@ -97,6 +102,52 @@
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
      <Animation name="sniper_rifle_recoil_wp_1p_01"/>
     </AnimLayer>
+    <ProcLayer>
+     <Blend ExitTime="0.47499999" StartTime="0" Duration="0"/>
+     <Procedural type="ParticleEffect">
+      <ProceduralParams>
+       <EffectName value="weapon_fx.sniper_rifle.shell_eject_fp"/>
+       <JointName value=""/>
+       <AttachmentName value="shells"/>
+       <PosOffset>
+        <Element value="0"/>
+        <Element value="0"/>
+        <Element value="0"/>
+       </PosOffset>
+       <RotOffset>
+        <Element value="0"/>
+        <Element value="0"/>
+        <Element value="0"/>
+       </RotOffset>
+       <CloneAttachment value="false"/>
+       <KillOnExit value="false"/>
+       <KeepEmitterActive value="false"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+    <ProcLayer>
+     <Blend ExitTime="0.42500001" StartTime="0" Duration="0"/>
+     <Procedural type="ParticleEffect">
+      <ProceduralParams>
+       <EffectName value="weapon_fx.sniper_rifle.muzzle_flash.splash_a"/>
+       <JointName value=""/>
+       <AttachmentName value="shells"/>
+       <PosOffset>
+        <Element value="0"/>
+        <Element value="0"/>
+        <Element value="0"/>
+       </PosOffset>
+       <RotOffset>
+        <Element value="0"/>
+        <Element value="0"/>
+        <Element value="0"/>
+       </RotOffset>
+       <CloneAttachment value="false"/>
+       <KillOnExit value="false"/>
+       <KeepEmitterActive value="false"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKCarbine">
     <AnimLayer>

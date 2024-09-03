@@ -1,6 +1,6 @@
 <Material MtlFlags="524544" vertModifType="0">
  <SubMaterials>
-  <Material Name="Waterfall_layer1" MtlFlags="526498" Shader="Glass" GenMask="80002100" StringGenMask="%DEPTH_FOG%DIRT_MAP%SPECULAR_MAP" SurfaceType="mat_water" MatTemplate="" Diffuse="0.3467041,0.3467041,0.3467041" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
+  <Material Name="Waterfall_layer1" MtlFlags="524450" Shader="Illum" GenMask="1800004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_water" MatTemplate="" Diffuse="0.3467041,0.3467041,0.3467041" Specular="1,1,1" Opacity="1" Shininess="255" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="Textures/generic/water/river_foamy.dds">
      <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TexMod_UOscillatorType="2" TexMod_UOscillatorRate="0.2" TexMod_UOscillatorPhase="1" TexMod_UOscillatorAmplitude="1"/>
@@ -10,9 +10,9 @@
     <Texture Map="Environment" File="Textures/cubemaps/purgatorium_esc/lake_probe_cm.tif"/>
     <Texture Map="Detail" File="Textures/generic/water/river_foam_spec.dds"/>
    </Textures>
-   <PublicParams FogColor="0.042311415,0.074213572,0.063010022" BumpMapTile="1.36" TintColor="1,1,1" FogCutoffEnd="20" FogDensity="0.23999999" TintCloudiness="0" BackLightScale="0.36300001" BumpScale="0.079000004"/>
+   <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
   </Material>
-  <Material Name="Waterfall_layer2" MtlFlags="524448" Shader="Illum" GenMask="2181000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_water" MatTemplate="" Diffuse="0.54572457,0.54572457,0.54572457" Specular="0.14497213,0.14497213,0.14497213" Emittance="1,1,1,160" Opacity="1" Shininess="200" AlphaTest="0.27000001" CloakAmount="0" vertModifType="1" LayerAct="1">
+  <Material Name="Waterfall_layer2" MtlFlags="524448" Shader="Illum" GenMask="1802004000000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING%VERTCOLORS" SurfaceType="mat_water" MatTemplate="" Diffuse="0.54572457,0.54572457,0.54572457" Specular="0.14497213,0.14497213,0.14497213" Emittance="1,1,1,160" Opacity="1" Shininess="200" AlphaTest="0.27000001" CloakAmount="0" vertModifType="1" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="textures/generic/water/river_foam_a.tif">
      <TexMod TexMod_RotateType="0" TexMod_TexGenType="0" TexMod_bTexGenProjected="0" TileU="0.5" TexMod_UOscillatorType="2" TexMod_UOscillatorRate="0.5" TexMod_UOscillatorPhase="2" TexMod_UOscillatorAmplitude="1" TileV="0.5"/>

@@ -28,8 +28,8 @@
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_smg_fire_loop_fp"/>
-       <StopTrigger value=""/>
+       <StartTrigger value="Wpn_Fire_SMG_burst_on_1p"/>
+       <StopTrigger value="Wpn_Fire_SMG_burst_off_1p"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -46,7 +46,7 @@
      <Procedural type="Audio">
       <ProceduralParams>
        <StartTrigger value="Wpn_Fire_AK47_burst_on_1p"/>
-       <StopTrigger value=""/>
+       <StopTrigger value="Wpn_Fire_AK47_burst_off_1p"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -76,11 +76,11 @@
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKSmg+rapid">
     <ProcLayer>
-     <Blend ExitTime="0.0099999998" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.0099999905" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_smg_fire_loop_3p"/>
-       <StopTrigger value=""/>
+       <StartTrigger value="Wpn_Fire_SMG_burst_on_3p"/>
+       <StopTrigger value="Wpn_Fire_SMG_burst_off_3p"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -97,7 +97,7 @@
      <Procedural type="Audio">
       <ProceduralParams>
        <StartTrigger value="Wpn_Fire_AK47_burst_on_3p"/>
-       <StopTrigger value=""/>
+       <StopTrigger value="Wpn_Fire_AK47_burst_off_3p"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -198,6 +198,91 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_chn_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_chn_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_chn_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_chn_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_chn_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKRocketLauncher">
     <ProcLayer>
      <Blend ExitTime="0.099999905" StartTime="0" Duration="0.2"/>
@@ -217,10 +302,10 @@
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.025936507"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_shotgun_select_3p"/>
+       <StartTrigger value="Wpn_Mech_STGN_chn_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -237,7 +322,58 @@
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_pistol_select_3p"/>
+       <StartTrigger value="Wpn_Mech_RVLR_chn_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_chn_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_chn_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_chn_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -268,6 +404,91 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_shotgun_deselect_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_pistol_deselect_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_pistol_deselect_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_pistol_deselect_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_pistol_deselect_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="1"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKRocketLauncher">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
@@ -285,12 +506,139 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
+  </deselect>
+  <idle_break>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.036422268"/>
+     <Blend ExitTime="0.20000005" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_shotgun_deselect_3p"/>
+       <StartTrigger value="Wpn_Mech_STGN_idle_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="1.4" StartTime="0" Duration="0.2"/>
+     <Procedural type=""/>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
+    <ProcLayer>
+     <Blend ExitTime="0.20000005" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_idle_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="1.4" StartTime="0" Duration="0.2"/>
+     <Procedural type=""/>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0.20000005" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_idle_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="1.4" StartTime="0" Duration="0.2"/>
+     <Procedural type=""/>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0.20000029" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_idle_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="1.8333333" StartTime="0" Duration="0.0025129318"/>
+     <Procedural type=""/>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
+    <ProcLayer>
+     <Blend ExitTime="0.20000005" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_idle_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="1.4" StartTime="0" Duration="0.2"/>
+     <Procedural type=""/>
+    </ProcLayer>
+   </Fragment>
+  </idle_break>
+  <fire>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+iron+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Fire_STGN_single_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+    <ProcLayer>
+     <Blend ExitTime="0.26666668" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pump_in_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.19999999" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pump_out_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -302,42 +650,25 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver">
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP" FragTags="ammo_last1">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_pistol_deselect_3p"/>
-       <StopTrigger value=""/>
+       <StartTrigger value="Wpn_Fire_RFL_single_1p"/>
+       <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
-       <Radius value="1"/>
+       <Radius value="0"/>
        <IsVoice value="false"/>
        <PlayFacial value="false"/>
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
+     <Blend ExitTime="3.3333333" StartTime="0" Duration="0"/>
+     <Procedural type=""/>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine">
-    <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_deselect_3p"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="1"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-    </ProcLayer>
-   </Fragment>
-  </deselect>
-  <fire>
    <Fragment BlendOutDuration="0.2" Tags="SDKRocketLauncher+FP">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
@@ -355,12 +686,12 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+iron">
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.18333332"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_shotgun_fire_fp"/>
+       <StartTrigger value="Wpn_Fire_RFL_single_1p"/>
        <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -372,10 +703,40 @@
      </Procedural>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="0.18333328" StartTime="0" Duration="0.10693666"/>
+     <Blend ExitTime="0.33333334" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_thgshotgun_reload_1p"/>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_in_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.29999986" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_out_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+iron">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Fire_STGN_single_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -387,10 +748,23 @@
      </Procedural>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.26666668" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="w_thgshotgun_fire_1p"/>
+       <StartTrigger value="Wpn_Mech_STGN_pump_in_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.20000002" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pump_out_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -402,12 +776,12 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_carbine_fire_fp"/>
+       <StartTrigger value="Wpn_Fire_STGN_single_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -419,10 +793,10 @@
      </Procedural>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="0.34999999" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.30000001" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_back_fp"/>
+       <StartTrigger value="Wpn_Mech_STGN_pump_in_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -432,11 +806,60 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.21666661" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.19999999" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_forward_fp"/>
+       <StartTrigger value="Wpn_Mech_STGN_pump_out_1p"/>
        <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Fire_RVLR_single_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="200"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+    <ProcLayer>
+     <Blend ExitTime="0.125" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rtcy_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="200"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Fire_SMG_single_1p"/>
+       <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -484,10 +907,10 @@
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_shotgun_fire_fp"/>
+       <StartTrigger value="Wpn_Fire_STGN_single_3p"/>
        <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -499,11 +922,44 @@
      </Procedural>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="0.24333334" StartTime="0" Duration="0.0369367"/>
+     <Blend ExitTime="0.30000001" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_thgshotgun_reload_1p"/>
-       <StopTrigger value=""/>
+       <StartTrigger value="Wpn_Mech_STGN_pump_in_3p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.19999999" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pump_out_3p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
+    <ProcLayer />
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Fire_RFL_single_3p"/>
+       <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -514,10 +970,23 @@
      </Procedural>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.0099999998"/>
+     <Blend ExitTime="0.33333334" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="w_thgshotgun_fire_1p"/>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_in_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.26666668" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_out_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -534,8 +1003,8 @@
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="w_revolver_fire_1p"/>
-       <StopTrigger value="do_nothing"/>
+       <StartTrigger value="Wpn_Fire_RVLR_single_3p"/>
+       <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="200"/>
@@ -546,19 +1015,54 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKSmg">
-    <ProcLayer />
-   </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
-    <ProcLayer />
-   </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine">
+  </fire>
+  <reload>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP" FragTags="ammo_empty">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_carbine_fire_3p"/>
+       <StartTrigger value="Play_rifle_grab_clip_fp"/>
        <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.375" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_rldph1_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.70000005" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_rldph2_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.35833335" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_rldph3_1p"/>
+       <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -568,11 +1072,13 @@
       </ProceduralParams>
      </Procedural>
     </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP" FragTags="ammo_empty">
     <ProcLayer>
-     <Blend ExitTime="0.34999999" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.25" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_back_3p"/>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph1_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -582,10 +1088,23 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.21666661" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.67500001" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_forward_3p"/>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph2_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.22499996" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph3_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -597,8 +1116,146 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-  </fire>
-  <reload>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP" FragTags="ammo_empty">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_rifle_grab_clip_fp"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.60000002" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph1_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.5" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph2_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.33333325" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph3_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.90611994" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_rifle_hand_on_gun_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP" FragTags="ammo_empty">
+    <ProcLayer>
+     <Blend ExitTime="0.60000002" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_rldph1_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.93333328" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_rldph2_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="1.1333334" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_rifle_hand_on_gun_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+    <ProcLayer>
+     <Blend ExitTime="2.2333333" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_in_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.29999995" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_out_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKPistolSMG" FragTags="ammo_empty">
     <AnimLayer />
     <ProcLayer>
@@ -632,90 +1289,6 @@
      <Procedural type=""/>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
-    <ProcLayer>
-     <Blend ExitTime="0.30000001" StartTime="0" Duration="0"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_grab_clip_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.26666665" StartTime="0" Duration="0.14999998"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_out_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.33333331" StartTime="0" Duration="0.10466716"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_in_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.65555573" StartTime="0" Duration="0.1"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_forward_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.21111095" StartTime="0" Duration="0.2"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_back_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-    </ProcLayer>
-    <ProcLayer>
-     <Blend ExitTime="1.9666667" StartTime="0" Duration="0.2"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_hand_on_gun_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-    </ProcLayer>
-   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
@@ -731,11 +1304,11 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.44999999" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.25" StartTime="0" Duration="0.00099165738"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_out_fp"/>
-       <StopTrigger value=""/>
+       <StartTrigger value="Wpn_Mech_AK47_rldph1_1p"/>
+       <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -744,37 +1317,11 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.35000002" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.5250001" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_in_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.78555554" StartTime="0" Duration="0.1"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_forward_fp"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.21111107" StartTime="0" Duration="0.2"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_back_fp"/>
-       <StopTrigger value=""/>
+       <StartTrigger value="Wpn_Mech_AK47_rldph2_1p"/>
+       <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
        <Radius value="0"/>
@@ -790,7 +1337,7 @@
      <Blend ExitTime="0.60000002" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_out_fp"/>
+       <StartTrigger value="Wpn_Mech_RFL_rldph1_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -800,10 +1347,10 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="1.0333333" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.93333328" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_in_fp"/>
+       <StartTrigger value="Wpn_Mech_RFL_rldph2_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -813,10 +1360,264 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.43333328" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.5333333" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
        <StartTrigger value="Play_w_rifle_hand_on_gun_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle" FragTags="ammo_empty">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_rifle_grab_clip_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.375" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_rldph1_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.70000005" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_rldph2_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.35833323" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_rldph3_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0.25" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph1_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.67500001" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph2_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.19999999" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph3_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver" FragTags="ammo_empty">
+    <ProcLayer>
+     <Blend ExitTime="0.20000005" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph1_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.61875004" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph2_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.20624989" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph3_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_rifle_grab_clip_fp"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.46666667" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph1_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.36666659" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph2_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg" FragTags="ammo_empty">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_rifle_grab_clip_fp"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.60000002" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph1_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.5" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph2_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.33333325" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_rldph3_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.90611994" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Play_w_rifle_hand_on_gun_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -863,7 +1664,7 @@
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_shotgun_reload_3p"/>
+       <StartTrigger value="Wpn_Mech_STGN_rld_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -873,27 +1674,6 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.30000001" StartTime="0" Duration="0"/>
-     <Procedural type=""/>
-    </ProcLayer>
-   </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver">
-    <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_revolver_reload_1p"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="2.5" StartTime="0" Duration="1.0366666"/>
-     <Procedural type=""/>
     </ProcLayer>
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="SDKRocketLauncher">
@@ -956,12 +1736,12 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKSmg">
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
     <ProcLayer>
-     <Blend ExitTime="0.30000001" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_rifle_grab_clip_3p"/>
+       <StartTrigger value="Play_w_rifle_grab_clip_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -971,10 +1751,10 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.26666665" StartTime="0" Duration="0.14999998"/>
+     <Blend ExitTime="0.25" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_out_3p"/>
+       <StartTrigger value="Wpn_Mech_AK47_rldph1_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -984,51 +1764,10 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.33333331" StartTime="0" Duration="0.10466716"/>
+     <Blend ExitTime="0.5250001" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_in_3p"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.65555573" StartTime="0" Duration="0.1"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_forward_3p"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.21111095" StartTime="0" Duration="0.2"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_back_3p"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-    </ProcLayer>
-    <ProcLayer>
-     <Blend ExitTime="1.9666667" StartTime="0" Duration="0.2"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_hand_on_gun_3p"/>
+       <StartTrigger value="Wpn_Mech_AK47_rldph2_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1040,12 +1779,55 @@
      </Procedural>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver">
+    <ProcLayer>
+     <Blend ExitTime="0.19999999" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph1_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.61875004" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph2_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.20624995" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_rldph3_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_rifle_grab_clip_3p"/>
+       <StartTrigger value="Play_rifle_grab_clip_fp"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1055,10 +1837,10 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.44999999" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.46666667" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_out_3p"/>
+       <StartTrigger value="Wpn_Mech_SMG_rldph1_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1068,36 +1850,10 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.35000002" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.36666659" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_clip_in_3p"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.78555554" StartTime="0" Duration="0.1"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_forward_3p"/>
-       <StopTrigger value=""/>
-       <SoundObstructionType value="Ignore"/>
-       <AttachmentJoint value=""/>
-       <Radius value="0"/>
-       <IsVoice value="false"/>
-       <PlayFacial value="false"/>
-       <SoundFlags value="0"/>
-      </ProceduralParams>
-     </Procedural>
-     <Blend ExitTime="0.21111107" StartTime="0" Duration="0.2"/>
-     <Procedural type="Audio">
-      <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_back_3p"/>
+       <StartTrigger value="Wpn_Mech_SMG_rldph2_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1111,12 +1867,29 @@
    </Fragment>
   </reload>
   <reload_shell>
-   <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_shotgun_reload_3p"/>
+       <StartTrigger value="Wpn_Mech_STGN_rld_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_rld_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1130,12 +1903,12 @@
    </Fragment>
   </reload_shell>
   <exit_reload>
-   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine" FragTags="ammo_empty">
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP" FragTags="ammo_empty">
     <ProcLayer>
-     <Blend ExitTime="0.2" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.40000001" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_back_fp"/>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_in_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1145,10 +1918,40 @@
        <SoundFlags value="0"/>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.23333357" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.23333332" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_rifle_cock_forward_fp"/>
+       <StartTrigger value="Wpn_Mech_RFL_bolt_out_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
+    <ProcLayer>
+     <Blend ExitTime="0.69999999" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pump_in_1p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.22500002" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pump_out_1p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1162,10 +1965,23 @@
    </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="thgshotgun">
     <ProcLayer>
-     <Blend ExitTime="0.43333334" StartTime="0" Duration="0"/>
+     <Blend ExitTime="0.69999999" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
-       <StartTrigger value="Play_w_thgshotgun_reload_1p"/>
+       <StartTrigger value="Wpn_Mech_STGN_pump_in_3p"/>
+       <StopTrigger value=""/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.22500002" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_pump_out_3p"/>
        <StopTrigger value=""/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1267,12 +2083,148 @@
    </Fragment>
   </empty_clip>
   <pickedup>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_pck_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_pck_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_pck_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_pck_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="FP">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
        <StartTrigger value="Play_w_global_pickup_weapon_fp"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_pck_3p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_pck_3p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_pck_3p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="2"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_pck_3p"/>
        <StopTrigger value="do_nothing"/>
        <SoundObstructionType value="Ignore"/>
        <AttachmentJoint value=""/>
@@ -1339,6 +2291,91 @@
    </Fragment>
   </pickedup_ammo>
   <zoom_in>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_irsght_on_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_irsght_on_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
+    <ProcLayer>
+     <Blend ExitTime="-0.0099999905" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_irsght_on_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_irsght_on_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_irsght_on_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="FP">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
@@ -1375,6 +2412,91 @@
    </Fragment>
   </zoom_in>
   <zoom_out>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRevolver+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RVLR_irsght_off_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKSmg+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_SMG_irsght_off_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_AK47_irsght_off_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="SDKCarbine+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_RFL_irsght_off_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
+   <Fragment BlendOutDuration="0.2" Tags="thgshotgun+FP">
+    <ProcLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
+     <Procedural type="Audio">
+      <ProceduralParams>
+       <StartTrigger value="Wpn_Mech_STGN_irsght_off_1p"/>
+       <StopTrigger value="do_nothing"/>
+       <SoundObstructionType value="Ignore"/>
+       <AttachmentJoint value=""/>
+       <Radius value="0"/>
+       <IsVoice value="false"/>
+       <PlayFacial value="false"/>
+       <SoundFlags value="0"/>
+      </ProceduralParams>
+     </Procedural>
+    </ProcLayer>
+   </Fragment>
    <Fragment BlendOutDuration="0.2" Tags="FP">
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
@@ -1649,7 +2771,7 @@
   <slide>
    <Fragment BlendOutDuration="0.2" Tags="">
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
        <StartTrigger value="Play_c_player_fol_slide_start"/>
@@ -1664,7 +2786,7 @@
      </Procedural>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="0.003377676" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0.003377676" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
        <StartTrigger value="Play_c_player_fbk_effort"/>
@@ -1679,7 +2801,7 @@
      </Procedural>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0"/>
      <Procedural type="Audio">
       <ProceduralParams>
        <StartTrigger value="Play_c_player_fol_slide_loop"/>

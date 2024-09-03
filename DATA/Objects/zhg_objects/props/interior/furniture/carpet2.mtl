@@ -1,6 +1,6 @@
 <Material MtlFlags="524544" vertModifType="0">
  <SubMaterials>
-  <Material Name="carpet_1" MtlFlags="524416" Shader="Illum" GenMask="1000004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="" MatTemplate="" Diffuse="0.83879912,0.86315733,0.83879912" Specular="0.042311415,0.042311415,0.042311415" Opacity="1" Shininess="34" vertModifType="0" LayerAct="1">
+  <Material Name="carpet_1" MtlFlags="524416" Shader="Illum" GenMask="1000004000000" StringGenMask="%NORMAL_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_fabric" MatTemplate="" Diffuse="0.83879912,0.86315733,0.83879912" Specular="0.042311415,0.042311415,0.042311415" Opacity="1" Shininess="34" vertModifType="0" LayerAct="1">
    <Textures>
     <Texture Map="Diffuse" File="./texture/carpets/carpet_rect_b.tif"/>
     <Texture Map="Bumpmap" File="./texture/carpet_ddna.dds"/>

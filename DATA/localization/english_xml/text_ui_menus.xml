@@ -85,8 +85,8 @@
     </Crn>
    </Xct>
   </SupBook>
-  <WindowHeight>12270</WindowHeight>
-  <WindowWidth>22950</WindowWidth>
+  <WindowHeight>12300</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
   <WindowTopX>0</WindowTopX>
   <WindowTopY>0</WindowTopY>
   <TabRatio>274</TabRatio>
@@ -273,7 +273,7 @@
   <Names>
    <NamedRange ss:Name="Print_Area" ss:RefersTo="=Sheet1!R1C3:R2C4"/>
   </Names>
-  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="300" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="305" x:FullColumns="1"
    x:FullRows="1" ss:StyleID="s62">
    <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="13.5"/>
    <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="271.5"/>
@@ -423,8 +423,8 @@
    </Row>
    <Row>
     <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_ExitToMainQ</Data></Cell>
-    <Cell><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
-    <Cell><Data ss:Type="String">Do you want to exit to main menu?</Data></Cell>
+    <Cell><Data ss:Type="String">If you leave, all your stars for this match will be lost. Are you sure?</Data></Cell>
+    <Cell><Data ss:Type="String">If you leave, all your stars for this match will be lost. Are you sure?</Data></Cell>
    </Row>
    <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_Resume</Data></Cell>
@@ -618,14 +618,29 @@
     <Cell><Data ss:Type="String">Select screen resolution</Data></Cell>
    </Row>
    <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_WindowMode</Data></Cell>
+    <Cell><Data ss:Type="String">Window Mode</Data></Cell>
+    <Cell><Data ss:Type="String">Window Mode</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_WindowModeTT</Data></Cell>
+    <Cell><Data ss:Type="String">Display in fullscreen mode</Data></Cell>
+    <Cell><Data ss:Type="String">Select window mode</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Borderless</Data></Cell>
+    <Cell><Data ss:Type="String">Borderless</Data></Cell>
+    <Cell><Data ss:Type="String">Borderless</Data></Cell>
+   </Row>
+   <Row>
     <Cell ss:Index="2"><Data ss:Type="String">ui_Fullscreen</Data></Cell>
     <Cell><Data ss:Type="String">Fullscreen</Data></Cell>
     <Cell><Data ss:Type="String">Fullscreen</Data></Cell>
    </Row>
    <Row>
-    <Cell ss:Index="2"><Data ss:Type="String">ui_FullscreenTT</Data></Cell>
-    <Cell><Data ss:Type="String">Display in fullscreen mode</Data></Cell>
-    <Cell><Data ss:Type="String">Display in fullscreen mode</Data></Cell>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Windowed</Data></Cell>
+    <Cell><Data ss:Type="String">Windowed</Data></Cell>
+    <Cell><Data ss:Type="String">Windowed</Data></Cell>
    </Row>
    <Row>
     <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_ScreenMode</Data></Cell>
@@ -697,7 +712,7 @@
     <Cell><Data ss:Type="String">Vegetation</Data></Cell>
     <Cell><Data ss:Type="String">Activate improved vegetation</Data></Cell>
    </Row>
-   <Row ss:Index="85">
+   <Row ss:Index="88">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Stereo 3D Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -777,7 +792,17 @@
     <Cell><Data ss:Type="String">Flip Eyes for Stereo 3D output</Data></Cell>
     <Cell><Data ss:Type="String">Flip Eyes for Stereo 3D output</Data></Cell>
    </Row>
-   <Row ss:Index="102">
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_ViewDistance</Data></Cell>
+    <Cell><Data ss:Type="String">View Distance</Data></Cell>
+    <Cell><Data ss:Type="String">View Distance</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2" ss:StyleID="s62"><Data ss:Type="String">ui_ViewDistanceTT</Data></Cell>
+    <Cell><Data ss:Type="String">Max View Distance</Data></Cell>
+    <Cell><Data ss:Type="String">Max View Distance</Data></Cell>
+   </Row>
+   <Row ss:Index="107">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Weapon Customization Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -837,7 +862,7 @@
     <Cell><Data ss:Type="String">Detach attachment from weapon</Data></Cell>
     <Cell><Data ss:Type="String">Detach attachment from weapon</Data></Cell>
    </Row>
-   <Row ss:Index="115">
+   <Row ss:Index="120">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Singleplayer Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -897,7 +922,7 @@
     <Cell><Data ss:Type="String">Load last saved game</Data></Cell>
     <Cell><Data ss:Type="String">Load last saved game</Data></Cell>
    </Row>
-   <Row ss:Index="128">
+   <Row ss:Index="133">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Multiplayer Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -937,7 +962,7 @@
     <Cell><Data ss:Type="String">Internet</Data></Cell>
     <Cell><Data ss:Type="String">Internet</Data></Cell>
    </Row>
-   <Row ss:Index="137">
+   <Row ss:Index="142">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">User stats Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1396,7 +1421,7 @@
     <Cell><Data ss:Type="String">Hud Hide Tooltip</Data></Cell>
     <Cell><Data ss:Type="String">Hud Hide (Experimental)</Data></Cell>
    </Row>
-   <Row ss:Index="239">
+   <Row ss:Index="244">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Sound Settings Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1466,7 +1491,7 @@
     <Cell><Data ss:Type="String">Prerecorded messages volume</Data></Cell>
     <Cell><Data ss:Type="String">Emoji volume</Data></Cell>
    </Row>
-   <Row ss:Index="254">
+   <Row ss:Index="259">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Controls Menu</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1614,7 +1639,22 @@
    <Row>
     <Cell ss:Index="2" ss:StyleID="s62"/>
    </Row>
-   <Row ss:Index="296">
+   <Row ss:Index="292">
+    <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Controls</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s80"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_Keybinds</Data></Cell>
+    <Cell><Data ss:Type="String">Keybinds</Data></Cell>
+    <Cell><Data ss:Type="String">CONTROLS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="String">ui_KeybindsTT</Data></Cell>
+    <Cell><Data ss:Type="String">KeybindsTT</Data></Cell>
+    <Cell><Data ss:Type="String">Open controls</Data></Cell>
+   </Row>
+   <Row ss:Index="301">
     <Cell ss:Index="2" ss:StyleID="s79"><Data ss:Type="String">Cs buttons</Data></Cell>
     <Cell ss:StyleID="s80"/>
     <Cell ss:StyleID="s80"/>
@@ -1657,11 +1697,11 @@
     <VerticalResolution>600</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>171</TopRowVisible>
+   <TopRowVisible>48</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>197</ActiveRow>
+     <ActiveRow>71</ActiveRow>
      <ActiveCol>3</ActiveCol>
     </Pane>
    </Panes>

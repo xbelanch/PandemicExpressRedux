@@ -29,24 +29,16 @@
   <Attachment Type="CA_SKIN" AName="shoes" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="pants" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="gloves" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/characters/human/Dude/source/pin_body.skin" Material="Objects/characters/human/Dude/source/pin_zmb_inv_a.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="body" Binding="Objects/zhg_objects/characters/conserve/conserve_body.skin" Material="Objects/zhg_objects/characters/conserve/M_Conserve_Phantom_Pass.mtl" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="armor" Flags="0"/>
   <Attachment Type="CA_BONE" AName="hair" RelRotation="0.70640087,0.031597976,0.70639992,-0.031597976" RelPosition="0.16346169,-0.0064978004,-0.0070757866" BoneName="Bip01 Head" Flags="0"/>
   <Attachment Type="CA_BONE" AName="detonator" RelRotation="0.70745194,0,0.70676136,-0" RelPosition="0,0,-1.1641532e-09" BoneName="Bip01 Head" Flags="6"/>
-  <Attachment Type="CA_SKIN" AName="head" Binding="Objects/characters/human/Dude/source/head.skin" Material="Objects/characters/human/Dude/source/pin_zmb_inv_a.mtl" Flags="6"/>
-  <Attachment Type="CA_SKIN" AName="legs" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="stow_bow1" Rotation="0.11518275,0.71013325,0.68677211,0.10386409" Position="0.12618713,-0.20954716,1.4089395" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_SimulationAxis="0,0.5,0" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="stow_bow2" Rotation="0.11010572,0.71433991,-0.67589581,-0.14408301" Position="-0.12618791,-0.20954621,1.4089382" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_MaxAngle="5" PA_SimulationAxis="0,-0.5,0" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="head_destroyed" RelRotation="0.70729309,0.027732113,0.70582938,-0.027789623" RelPosition="0,0,0" BoneName="Bip01 Neck" Flags="1"/>
-  <Attachment Type="CA_PROX" AName="rupperarm" Rotation="0.042163812,-0.85643905,-0.009632065,0.51443321" Position="0.27474475,-0.037759706,1.3731182" BoneName="Bip01 R UpperArm" ProxyParams="0.1,0,0,0.079999998" ProxyPurpose="0"/>
-  <Attachment Type="CA_PROX" AName="lupperarm" Rotation="0.0096312519,-0.51443303,-0.042164236,0.85643911" Position="-0.27334493,-0.038250137,1.3803319" BoneName="Bip01 L UpperArm" ProxyParams="0.1,0,0,0.079999998" ProxyPurpose="0"/>
-  <Attachment Type="CA_BONE" AName="rhand" RelRotation="0.95259225,0.021323832,-0.1202793,-0.27865037" RelPosition="-8.3446503e-06,1.0490417e-05,-0.011850357" BoneName="Bip01 R Hand" PA_PendulumType="1" PA_Redirect="1" PA_Damping="5" PA_Stiffness="10" PA_SimulationAxis="0.5,0,0" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="relbow" RelRotation="0.85904473,-0.05404707,-0.031961665,0.50803488" RelPosition="-9.5367432e-07,-9.5367432e-07,-3.3378601e-06" BoneName="Bip01 R Forearm" PA_PendulumType="2" PA_MaxAngle="60" PA_Redirect="1" PA_Damping="5" PA_Stiffness="5" PA_SimulationAxis="0.5,0,0" PA_StiffnessTarget="-0.42325729,0,0" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="rshoulder" RelRotation="0.99753809,0.061964478,-0.031296395,0.0099288253" RelPosition="-0.0003490448,0.00030517578,-0.00030517578" BoneName="Bip01 R UpperArm" PA_PendulumType="3" PA_MaxAngle="70" PA_Redirect="1" PA_Damping="6" PA_Stiffness="5" PA_SimulationAxis="0.5,0,0" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="lhand" RelRotation="0.63566935,0.70914906,0.2981869,-0.06416095" RelPosition="0.00036144257,-7.6293945e-05,-0.010742188" BoneName="Bip01 L Hand" PA_PendulumType="1" PA_Redirect="1" PA_Stiffness="15" PA_SimulationAxis="0.5,0,0" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="lelbow" RelRotation="0.96029395,7.7486158e-07,-5.2154155e-07,0.27899015" RelPosition="0.00015544891,-0.0003080368,-9.5367432e-07" BoneName="Bip01 L Forearm" PA_PendulumType="2" PA_MaxAngle="60" PA_Redirect="1" PA_Damping="3" PA_Stiffness="5" PA_SimulationAxis="0.5,0,0" PA_StiffnessTarget="-0.42325729,0,0" Flags="0"/>
-  <Attachment Type="CA_BONE" AName="lshoulder" RelRotation="0.99753237,0.030368941,0.06281472,0.0078159478" RelPosition="-0.00030517578,0.00033569336,-0.00024414063" BoneName="Bip01 L UpperArm" PA_PendulumType="3" PA_MaxAngle="70" PA_HRotation="180" PA_Redirect="1" PA_Damping="6" PA_Stiffness="10" PA_SimulationAxis="0.5,0,0" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="Hands" Binding="Objects/characters/human/Dude/source/pin_hands_sk.skin" Material="Objects/characters/human/Dude/source/pin_zmb_inv_a.mtl" Flags="0"/>
+  <Attachment Type="CA_SKIN" AName="legs" Flags="6"/>
+  <Attachment Type="CA_BONE" AName="stow_bow1" Rotation="0.11518275,0.71013325,0.68677211,0.10386408" Position="0.12618713,-0.20954716,1.4089395" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_SimulationAxis="0,0.5,0" Flags="0"/>
+  <Attachment Type="CA_BONE" AName="stow_bow2" Rotation="0.11010575,0.71434009,-0.67589575,-0.14408299" Position="-0.12618791,-0.20954621,1.4089382" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_SimulationAxis="0,0.5,0" Flags="0"/>
+  <Attachment Type="CA_BONE" AName="head_destroyed" RelRotation="0.70730317,0.027731717,0.70581925,-0.027790019" RelPosition="0,0,0" BoneName="Bip01 Neck" Flags="1"/>
+  <Attachment Type="CA_BONE" AName="rshoulder" RelRotation="0.99753809,0.061964445,-0.031296358,0.0099288169" RelPosition="-0.0003490448,0.00030517578,-0.00030517578" BoneName="Bip01 R UpperArm" PA_PendulumType="3" PA_MaxAngle="70" PA_Redirect="1" PA_Damping="6" PA_Stiffness="5" PA_SimulationAxis="0.5,0,0" Flags="0"/>
+  <Attachment Type="CA_BONE" AName="lshoulder" RelRotation="0.99753243,0.030368909,0.062814631,0.0078159524" RelPosition="-0.00030517578,0.00033569336,-0.00024414063" BoneName="Bip01 L UpperArm" PA_PendulumType="3" PA_MaxAngle="70" PA_HRotation="180" PA_Redirect="1" PA_Damping="6" PA_Stiffness="10" PA_SimulationAxis="0.5,0,0" Flags="0"/>
  </AttachmentList>
  <Modifiers>
   <Element>

@@ -116,6 +116,14 @@
   <idle>
    <Fragment BlendOutDuration="0.2" Tags="SDKRifle"/>
   </idle>
+  <idle_break>
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
+    <AnimLayer>
+     <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
+     <Animation name="stand_tac_idlebreak_rifle_shoulder_add_1p_03"/>
+    </AnimLayer>
+   </Fragment>
+  </idle_break>
   <fire>
    <Fragment BlendOutDuration="0.2" Tags="SDKRifle+shoulder">
     <AnimLayer />
@@ -167,13 +175,13 @@
    </Fragment>
   </fire>
   <reload>
-   <Fragment BlendOutDuration="0.2" Tags="SDKRifle" FragTags="ammo_empty">
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP" FragTags="ammo_empty">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
      <Animation name="stand_tac_reloadempty_rifle_add_1p_01" speed="1.25"/>
     </AnimLayer>
     <ProcLayer>
-     <Blend ExitTime="0" StartTime="0" Duration="0.36000001"/>
+     <Blend ExitTime="0" StartTime="0" Duration="0.1"/>
      <Procedural type="WeaponPose">
       <ProceduralParams>
        <poseType value="2"/>
@@ -190,14 +198,35 @@
        </Rotation>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="3.01" StartTime="0" Duration="0.2"/>
+     <Blend ExitTime="2.5600002" StartTime="0" Duration="0.33000016"/>
+     <Procedural type=""/>
+    </ProcLayer>
+    <ProcLayer>
+     <Blend ExitTime="1.9966667" StartTime="0" Duration="0.23971748"/>
+     <Procedural type="WeaponPose">
+      <ProceduralParams>
+       <poseType value="2"/>
+       <zoomTransitionAngle value="0"/>
+       <Position>
+        <Element value="0.0059719998"/>
+        <Element value="0.000272"/>
+        <Element value="-0.049816001"/>
+       </Position>
+       <Rotation>
+        <Element value="0"/>
+        <Element value="-2.11939"/>
+        <Element value="0"/>
+       </Rotation>
+      </ProceduralParams>
+     </Procedural>
+     <Blend ExitTime="0.89333367" StartTime="0" Duration="0.2"/>
      <Procedural type=""/>
     </ProcLayer>
    </Fragment>
-   <Fragment BlendOutDuration="0.2" Tags="SDKRifle">
+   <Fragment BlendOutDuration="0.2" Tags="SDKRifle+FP">
     <AnimLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.2"/>
-     <Animation name="stand_tac_reloadfull_rifle_add_1p_01" speed="1.5"/>
+     <Animation name="stand_tac_reloadfull_rifle_add_1p_01" speed="1.7"/>
     </AnimLayer>
     <ProcLayer>
      <Blend ExitTime="0" StartTime="0" Duration="0.32999998"/>
@@ -217,11 +246,11 @@
        </Rotation>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="1.58" StartTime="0" Duration="0.34000003"/>
+     <Blend ExitTime="1.3725491" StartTime="0" Duration="0.34000003"/>
      <Procedural type=""/>
     </ProcLayer>
     <ProcLayer>
-     <Blend ExitTime="1" StartTime="0" Duration="0.23152553"/>
+     <Blend ExitTime="0.83333331" StartTime="0" Duration="0.23152553"/>
      <Procedural type="WeaponPose">
       <ProceduralParams>
        <poseType value="2"/>
@@ -238,7 +267,7 @@
        </Rotation>
       </ProceduralParams>
      </Procedural>
-     <Blend ExitTime="0.92000008" StartTime="0" Duration="0.22000003"/>
+     <Blend ExitTime="0.87921578" StartTime="0" Duration="0.22000003"/>
      <Procedural type=""/>
     </ProcLayer>
    </Fragment>
