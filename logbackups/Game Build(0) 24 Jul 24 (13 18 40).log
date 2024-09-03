@@ -1,0 +1,320 @@
+BackupNameAttachment=" Build(0) 24 Jul 24 (13 18 40)"  -- used by backup system
+Log Started at Wed Jul 24 13:18:40 2024
+Built on Apr  5 2019 00:15:29
+Running 64 bit Windows version
+Command Line: "X:\SteamLibrary\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: X:\SteamLibrary\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 24
+Number of available logical processors: 24
+Total number of system cores: 12
+Number of cores available to process: 12
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 6:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 7:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 8:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 9:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 10:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 11:
+  CPU: AMD AMD Ryzen 9 3900X 12-Core Processor            
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<13:18:40> Loading Config file system.cfg (system.cfg)
+<13:18:40> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [0.7.9.10.190510]; Marked as [VF_CHEAT]
+<13:18:40> [Warning] system.cfg -> invalid configuration line: - if for what ever reason it doesn't use your local computer IP instead.
+<13:18:40> OnSysSpecChange(1)
+<13:18:40> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<13:18:40> GameDir: DATA
+<13:18:40> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<13:18:40> Windows 10 64 bit (build 10.0.22631)
+<13:18:40> System language: English
+<13:18:40> Windows Directory: "C:\Windows"
+<13:18:40> Local time is 13:18:40 07/24/24, system running for 22 minutes
+<13:18:40> 32694MB physical memory installed, 24605MB available, 134217727MB virtual memory installed, 24 percent of memory in use
+<13:18:40> PageFile usage: 110MB, Working Set: 128MB, Peak PageFile usage: 115MB,
+<13:18:40> Current display mode is 2560x1440x32, (Unknown graphics card)
+<13:18:40> IBM enhanced (101/102-key) keyboard and 5+ button mouse installed
+<13:18:40> --------------------------------------------------------------------------------
+<13:18:40> OnSysSpecChange(1)
+<13:18:40> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<13:18:40> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:18:40> Loading Config file game.cfg (data\game.cfg)
+<13:18:40> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<13:18:40> [Warning] Modifying marked variables will not be allowed in Release mode!
+<13:18:40> Stream Engine Initialization
+<13:18:40> GameName: Pandemic Express
+<13:18:40> BuildTime: Apr  5 2019 00:15:29
+<13:18:40> Physics initialization
+<13:18:40> Localized language content(english) not available or modified from the original installation.
+<13:18:40> Localized language content(english) not available or modified from the original installation.
+<13:18:40> Localized language content(english) not available or modified from the original installation.
+<13:18:40> <Audio>: AudioSystem initialization
+<13:18:41> <Audio> <0.907>: CryAudioImplWwise loaded
+<13:18:43> Renderer initialization
+<13:18:43> Logging video adapters:
+<13:18:44> - NVIDIA GeForce RTX 3080 (vendor = 0x10de, device = 0x2206)
+<13:18:44>   - Adapter index: 0
+<13:18:44>   - Dedicated video memory: 10053 MB
+<13:18:44>   - Feature level: DX11 (SM 5.0)
+<13:18:44>   - Displays connected: yes
+<13:18:44>   - Suitable rendering device: yes
+<13:18:45> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<13:18:45>   - Adapter index: 1
+<13:18:45>   - Dedicated video memory: 0 MB
+<13:18:45>   - Feature level: DX11 (SM 5.0)
+<13:18:45>   - Displays connected: no
+<13:18:45>   - Suitable rendering device: no
+<13:18:46> Active GPUs: 1
+<13:18:47> [Renderer] A display device has been connected to the system
+<13:18:47> Loading plugin CryDefaultEntities
+<13:18:47> Loading plugin CrySchematycCore
+<13:18:47> Loading plugin CrySchematycSTDEnv
+<13:18:47> Loading plugin CrySensorSystem
+<13:18:47> Loading extension file cryplugin.csv
+<13:18:47> Loading plugin ProcAnRandGenerator.dll
+<13:18:48> Loading plugin PlayFabDedicated.dll
+<13:18:48> DLL Failed to load, error code: 7E
+<13:18:48> Loading plugin PlayFab.dll
+<13:18:48> Font initialization
+<13:18:48> Using FreeType 2.5.5
+<13:18:50> Network initialization
+<13:18:50> [net] Socket IO management: External [iocp], Internal [iocp]
+<13:18:50> network hostname: DESKTOP-HLBPRRK
+<13:18:50>   ip:192.168.20.22
+<13:18:50> [Network Version]: PROFILE DEVELOPMENT BUILD
+<13:18:50> MovieSystem initialization
+<13:18:50> Console initialization
+<13:18:50> Time initialization
+<13:18:50> Input initialization
+<13:18:50> AI initialization
+<13:18:50>  
+<13:18:50>     con_debug = 0 []
+<13:18:50>     con_display_last_messages = 0 []
+<13:18:50>     con_line_buffer_size = 1000 []
+<13:18:50>     con_restricted = 0 [RESTRICTEDMODE]
+<13:18:50>     con_showonload = 0 []
+<13:18:50>  
+<13:18:50>     con_debug = 0 []
+<13:18:50>     con_display_last_messages = 0 []
+<13:18:50>     con_line_buffer_size = 1000 []
+<13:18:50>     con_restricted = 0 [RESTRICTEDMODE]
+<13:18:50>     con_showonload = 0 []
+<13:18:50>  
+<13:18:50>     con_debug = 0 []
+<13:18:50>  
+<13:18:50>     con_debug = 0 []
+<13:18:50> Initializing Animation System
+<13:18:50> Initializing 3D Engine
+<13:18:51> Script System Initialization
+<13:18:51> Entity system initialization
+<13:18:51> Initializing AI System
+<13:18:51> Initializing additional systems
+<13:18:51> Dynamic Response System initialization
+<13:18:51> CGame::CGame()
+<13:18:52> [Steam] Steam API initialized successfully
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<13:18:52> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<13:18:52> Initializing default materials...
+<13:18:58> ESYSTEM_EVENT_GAME_POST_INIT_DONE
+<13:18:58> [MFX] Loading FXLib 'breakables' ...
+<13:18:58> [MFX] Loading FXLib 'collisions' ...
+<13:18:58> [MFX] Loading FXLib 'foley' ...
+<13:18:58> [MFX] Loading FXLib 'foley_grunt' ...
+<13:18:58> [MFX] Loading FXLib 'foley_player' ...
+<13:18:58> [MFX] Loading FXLib 'footstep_grunt' ...
+<13:18:58> [MFX] Loading FXLib 'footstep_player' ...
+<13:18:58> [MFX] Loading FXLib 'footsteps' ...
+<13:18:58> [MFX] Loading FXLib 'grenade' ...
+<13:18:58> [MFX] Loading FXLib 'melee' ...
+<13:18:58> [MFX] Loading FXLib 'player_fx' ...
+<13:18:58> [MFX] Loading FXLib 'projectiles' ...
+<13:18:58> [MFX] Loading FXLib 'tornado' ...
+<13:18:58> [MFX] Loading FXLib 'vegetation' ...
+<13:18:58> [MFX] Loading FXLib 'vehicles' ...
+<13:18:58> [Schematyc]: Loading...
+<13:18:58> [Schematyc]: Loading settings
+<13:18:58> [Schematyc]: Loading scripts
+<13:18:58> [Schematyc]: Compiling scripts
+<13:18:58> [Schematyc]: Loading complete
+<13:18:58> Creating socket on port 2838
+<13:18:58> CreateDatagramSocket c1
+<13:18:58> CreateDatagramSocket c2
+<13:20:04> [flow-log] DISPLAY STATISTIC
+<13:20:06> ============================ Loading level WhereThe ============================
+<13:20:06> CreateDatagramSocket c1
+<13:20:06> CreateDatagramSocket c2
+<13:20:06> CreateDatagramSocket c1
+<13:20:06> CreateDatagramSocket c2
+<13:20:29> CPlayer::OnFirstSpawn(), player name = Dude
+<13:20:29> UnderTerrainCheck started
+<13:20:29> CPlayer::OnFirstSpawn called on client actor
+<13:20:30> CryAnimation: character-definition not found: objects/characters/man.cdf
+<13:20:40> CPlayer::ePlT_ClientPlayerUpdateStDelayed UpdatePlayerStatistic() call
+<13:20:47> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:20:49> CSingle::EndReload
+<13:20:50> [flow-log] tag deleted
+<13:21:00> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:21:02> CSingle::EndReload
+<13:21:05> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:21:07> CSingle::EndReload
+<13:21:09> requre_delayed_GroundEntity_change start
+<13:21:09> requre_delayed_GroundEntity_change end
+<13:21:10> requre_delayed_GroundEntity_change start
+<13:21:11> requre_delayed_GroundEntity_change end
+<13:21:18> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:21:20> CSingle::EndReload
+<13:21:28> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:21:30> CSingle::EndReload
+<13:21:34> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:21:36> CSingle::EndReload
+<13:21:40> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:21:42> CSingle::EndReload
+<13:21:59> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:01> CSingle::EndReload
+<13:22:02> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:04> CSingle::EndReload
+<13:22:09> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:10> CSingle::EndReload
+<13:22:13> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:15> CSingle::EndReload
+<13:22:19> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:22> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:24> CSingle::EndReload
+<13:22:26> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:28> CSingle::EndReload
+<13:22:31> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:33> CSingle::EndReload
+<13:22:50> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:52> CSingle::EndReload
+<13:22:55> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:22:57> CSingle::EndReload
+<13:22:58> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:00> CSingle::EndReload
+<13:23:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:05> CSingle::EndReload
+<13:23:07> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:09> CSingle::EndReload
+<13:23:09> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:13> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:15> CSingle::EndReload
+<13:23:23> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:25> CSingle::EndReload
+<13:23:27> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:29> CSingle::EndReload
+<13:23:49> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:23:50> CSingle::EndReload
+<13:23:56> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:24:10> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:24:12> CSingle::EndReload
+<13:24:16> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:24:18> CSingle::EndReload
+<13:24:27> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:24:28> CSingle::EndReload
+<13:24:33> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:24:35> CSingle::EndReload
+<13:24:53> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:24:55> CSingle::EndReload
+<13:24:59> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:25:01> CSingle::EndReload
+<13:25:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<13:25:05> CSingle::EndReload
+<13:25:20> gEnv->pRenderer->Draw2dImage XXX
+<13:25:21> [flow-log] OnUnload Called!
+<13:25:40> BaseInput - Shutting down all force feedback
+<13:25:40> ActionGame - Shutting down all force feedback
+<13:25:41> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)
+<13:25:42> CGame::~CGame()
+<13:25:42> System:Quit

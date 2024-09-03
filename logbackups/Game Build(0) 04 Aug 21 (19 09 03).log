@@ -1,0 +1,208 @@
+BackupNameAttachment=" Build(0) 04 Aug 21 (19 09 03)"  -- used by backup system
+Log Started at Wed Aug  4 19:09:03 2021
+Built on Oct 13 2019 19:15:33
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<19:09:03> Loading Config file system.cfg (system.cfg)
+<19:09:03> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [1.1.0.000.200116]; Marked as [VF_CHEAT]
+<19:09:03> OnSysSpecChange(1)
+<19:09:03> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<19:09:03> GameDir: DATA
+<19:09:03> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<19:09:03> Windows 10 64 bit (build 10.0.19043)
+<19:09:03> System language: English
+<19:09:03> Windows Directory: "C:\Windows"
+<19:09:03> Local time is 19:09:03 08/04/21, system running for 1641 minutes
+<19:09:03> 16333MB physical memory installed, 8945MB available, 134217727MB virtual memory installed, 45 percent of memory in use
+<19:09:03> PageFile usage: 76MB, Working Set: 88MB, Peak PageFile usage: 76MB,
+<19:09:03> Current display mode is 2560x1440x32, (Unknown graphics card)
+<19:09:03> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<19:09:03> --------------------------------------------------------------------------------
+<19:09:03> OnSysSpecChange(1)
+<19:09:03> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<19:09:03> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<19:09:03> Loading Config file game.cfg (data\game.cfg)
+<19:09:03> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<19:09:03> [Warning] Modifying marked variables will not be allowed in Release mode!
+<19:09:03> Stream Engine Initialization
+<19:09:03> GameName: Pandemic Express
+<19:09:03> BuildTime: Oct 13 2019 19:15:33
+<19:09:03> Physics initialization
+<19:09:03> Localized language content(english) not available or modified from the original installation.
+<19:09:03> Localized language content(english) not available or modified from the original installation.
+<19:09:03> Localized language content(english) not available or modified from the original installation.
+<19:09:03> <Audio>: AudioSystem initialization
+<19:09:03> <Audio> <0.304>: CryAudioImplWwise loaded
+<19:09:05> Renderer initialization
+<19:09:05> Logging video adapters:
+<19:09:05> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<19:09:05>   - Adapter index: 0
+<19:09:05>   - Dedicated video memory: 8043 MB
+<19:09:05>   - Feature level: DX11 (SM 5.0)
+<19:09:05>   - Displays connected: yes
+<19:09:05>   - Suitable rendering device: yes
+<19:09:05> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<19:09:05>   - Adapter index: 1
+<19:09:05>   - Dedicated video memory: 0 MB
+<19:09:05>   - Feature level: DX11 (SM 5.0)
+<19:09:05>   - Displays connected: no
+<19:09:05>   - Suitable rendering device: no
+<19:09:05> Active GPUs: 1
+<19:09:06> [Renderer] A display device has been connected to the system
+<19:09:06> Loading plugin CryDefaultEntities
+<19:09:06> Loading plugin CrySchematycCore
+<19:09:06> DLL Failed to load, error code: 7E
+<19:09:06> Loading plugin CrySchematycSTDEnv
+<19:09:06> DLL Failed to load, error code: 7E
+<19:09:06> Loading plugin CrySensorSystem
+<19:09:06> DLL Failed to load, error code: 7E
+<19:09:06> Loading extension file cryplugin.csv
+<19:09:06> Loading plugin ProcAnRandGenerator.dll
+<19:09:06> Loading plugin PlayFab.dll
+<19:09:06> Loading plugin CEVPlayer.dll
+<19:09:07> Font initialization
+<19:09:07> Using FreeType 2.5.5
+<19:09:07> Network initialization
+<19:09:08> [net] Socket IO management: External [iocp], Internal [iocp]
+<19:09:08> network hostname: DESKTOP-GKEDPQ6
+<19:09:08>   ip:26.90.194.210
+<19:09:08>   ip:192.168.20.20
+<19:09:08> [Network Version]: PROFILE DEVELOPMENT BUILD
+<19:09:08> MovieSystem initialization
+<19:09:08> Console initialization
+<19:09:08> Time initialization
+<19:09:08> Input initialization
+<19:09:08> AI initialization
+<19:09:08>  
+<19:09:08>     con_debug = 0 []
+<19:09:08>     con_display_last_messages = 0 []
+<19:09:08>     con_line_buffer_size = 1000 []
+<19:09:08>     con_restricted = 0 [RESTRICTEDMODE]
+<19:09:08>     con_showonload = 0 []
+<19:09:08>  
+<19:09:08>     con_debug = 0 []
+<19:09:08>     con_display_last_messages = 0 []
+<19:09:08>     con_line_buffer_size = 1000 []
+<19:09:08>     con_restricted = 0 [RESTRICTEDMODE]
+<19:09:08>     con_showonload = 0 []
+<19:09:08>  
+<19:09:08>     con_debug = 0 []
+<19:09:08>  
+<19:09:08>     con_debug = 0 []
+<19:09:08> Initializing Animation System
+<19:09:08> Initializing 3D Engine
+<19:09:08> Script System Initialization
+<19:09:08> Entity system initialization
+<19:09:08> Initializing AI System
+<19:09:08> Initializing additional systems
+<19:09:08> Dynamic Response System initialization
+<19:09:08> DLL Failed to load, error code: 7E
+<19:09:08> No Dynamic Response System was loaded from a module, will use the NULL implementation.
+<19:09:08> [Steam] Steam API initialized successfully
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<19:09:09> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<19:09:09> Initializing default materials...
+<19:09:15> [MFX] Loading FXLib 'breakables' ...
+<19:09:15> [MFX] Loading FXLib 'collisions' ...
+<19:09:15> [MFX] Loading FXLib 'foley' ...
+<19:09:15> [MFX] Loading FXLib 'foley_grunt' ...
+<19:09:15> [MFX] Loading FXLib 'foley_player' ...
+<19:09:15> [MFX] Loading FXLib 'footstep_grunt' ...
+<19:09:15> [MFX] Loading FXLib 'footstep_player' ...
+<19:09:15> [MFX] Loading FXLib 'footsteps' ...
+<19:09:15> [MFX] Loading FXLib 'grenade' ...
+<19:09:15> [MFX] Loading FXLib 'melee' ...
+<19:09:15> [MFX] Loading FXLib 'player_fx' ...
+<19:09:15> [MFX] Loading FXLib 'projectiles' ...
+<19:09:15> [MFX] Loading FXLib 'tornado' ...
+<19:09:15> [MFX] Loading FXLib 'vegetation' ...
+<19:09:15> [MFX] Loading FXLib 'vehicles' ...
+<19:09:15> [MFX] Loading FXLib 'breakables' ...
+<19:09:15> [MFX] Loading FXLib 'collisions' ...
+<19:09:15> [MFX] Loading FXLib 'foley' ...
+<19:09:15> [MFX] Loading FXLib 'foley_grunt' ...
+<19:09:15> [MFX] Loading FXLib 'foley_player' ...
+<19:09:15> [MFX] Loading FXLib 'footstep_grunt' ...
+<19:09:15> [MFX] Loading FXLib 'footstep_player' ...
+<19:09:15> [MFX] Loading FXLib 'footsteps' ...
+<19:09:15> [MFX] Loading FXLib 'grenade' ...
+<19:09:15> [MFX] Loading FXLib 'melee' ...
+<19:09:15> [MFX] Loading FXLib 'player_fx' ...
+<19:09:15> [MFX] Loading FXLib 'projectiles' ...
+<19:09:15> [MFX] Loading FXLib 'tornado' ...
+<19:09:15> [MFX] Loading FXLib 'vegetation' ...
+<19:09:15> [MFX] Loading FXLib 'vehicles' ...
+<19:09:15> Creating socket on port 2838
+<19:09:15> CreateDatagramSocket c1
+<19:09:15> CreateDatagramSocket c2
+<19:09:40> BaseInput - Shutting down all force feedback
+<19:09:40> ActionGame - Shutting down all force feedback
+<19:09:40> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)
+<19:09:41> System:Quit

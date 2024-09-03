@@ -1,0 +1,356 @@
+BackupNameAttachment=" Build(0) 22 Aug 21 (17 40 09)"  -- used by backup system
+Log Started at Sun Aug 22 17:40:09 2021
+Built on Oct 13 2019 19:15:33
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<17:40:09> Loading Config file system.cfg (system.cfg)
+<17:40:09> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [1.1.0.000.200116]; Marked as [VF_CHEAT]
+<17:40:09> OnSysSpecChange(1)
+<17:40:09> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<17:40:09> GameDir: DATA
+<17:40:09> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<17:40:09> Windows 10 64 bit (build 10.0.19043)
+<17:40:09> System language: English
+<17:40:09> Windows Directory: "C:\Windows"
+<17:40:09> Local time is 17:40:09 08/22/21, system running for 1234 minutes
+<17:40:09> 16333MB physical memory installed, 9745MB available, 134217727MB virtual memory installed, 40 percent of memory in use
+<17:40:09> PageFile usage: 76MB, Working Set: 88MB, Peak PageFile usage: 76MB,
+<17:40:09> Current display mode is 2560x1440x32, (Unknown graphics card)
+<17:40:09> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<17:40:09> --------------------------------------------------------------------------------
+<17:40:09> OnSysSpecChange(1)
+<17:40:09> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<17:40:09> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<17:40:09> Loading Config file game.cfg (data\game.cfg)
+<17:40:09> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<17:40:09> [Warning] Modifying marked variables will not be allowed in Release mode!
+<17:40:09> Stream Engine Initialization
+<17:40:09> GameName: Pandemic Express
+<17:40:09> BuildTime: Oct 13 2019 19:15:33
+<17:40:09> Physics initialization
+<17:40:09> Localized language content(english) not available or modified from the original installation.
+<17:40:09> Localized language content(english) not available or modified from the original installation.
+<17:40:09> Localized language content(english) not available or modified from the original installation.
+<17:40:09> <Audio>: AudioSystem initialization
+<17:40:09> <Audio> <0.203>: CryAudioImplWwise loaded
+<17:40:11> Renderer initialization
+<17:40:11> Logging video adapters:
+<17:40:11> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<17:40:11>   - Adapter index: 0
+<17:40:11>   - Dedicated video memory: 8043 MB
+<17:40:11>   - Feature level: DX11 (SM 5.0)
+<17:40:11>   - Displays connected: yes
+<17:40:11>   - Suitable rendering device: yes
+<17:40:11> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<17:40:11>   - Adapter index: 1
+<17:40:11>   - Dedicated video memory: 0 MB
+<17:40:11>   - Feature level: DX11 (SM 5.0)
+<17:40:11>   - Displays connected: no
+<17:40:11>   - Suitable rendering device: no
+<17:40:11> Active GPUs: 1
+<17:40:12> [Renderer] A display device has been connected to the system
+<17:40:12> Loading plugin CryDefaultEntities
+<17:40:12> Loading plugin CrySchematycCore
+<17:40:12> DLL Failed to load, error code: 7E
+<17:40:12> Loading plugin CrySchematycSTDEnv
+<17:40:12> DLL Failed to load, error code: 7E
+<17:40:12> Loading plugin CrySensorSystem
+<17:40:12> DLL Failed to load, error code: 7E
+<17:40:12> Loading extension file cryplugin.csv
+<17:40:12> Loading plugin ProcAnRandGenerator.dll
+<17:40:12> Loading plugin PlayFab.dll
+<17:40:12> Loading plugin CEVPlayer.dll
+<17:40:13> Font initialization
+<17:40:13> Using FreeType 2.5.5
+<17:40:13> Network initialization
+<17:40:13> [net] Socket IO management: External [iocp], Internal [iocp]
+<17:40:13> network hostname: DESKTOP-GKEDPQ6
+<17:40:13>   ip:26.90.194.210
+<17:40:13>   ip:192.168.20.17
+<17:40:13> [Network Version]: PROFILE DEVELOPMENT BUILD
+<17:40:13> MovieSystem initialization
+<17:40:13> Console initialization
+<17:40:13> Time initialization
+<17:40:13> Input initialization
+<17:40:13> AI initialization
+<17:40:13>  
+<17:40:13>     con_debug = 0 []
+<17:40:13>     con_display_last_messages = 0 []
+<17:40:13>     con_line_buffer_size = 1000 []
+<17:40:13>     con_restricted = 0 [RESTRICTEDMODE]
+<17:40:13>     con_showonload = 0 []
+<17:40:13>  
+<17:40:13>     con_debug = 0 []
+<17:40:13>     con_display_last_messages = 0 []
+<17:40:13>     con_line_buffer_size = 1000 []
+<17:40:13>     con_restricted = 0 [RESTRICTEDMODE]
+<17:40:13>     con_showonload = 0 []
+<17:40:13>  
+<17:40:13>     con_debug = 0 []
+<17:40:13>  
+<17:40:13>     con_debug = 0 []
+<17:40:13> Initializing Animation System
+<17:40:13> Initializing 3D Engine
+<17:40:13> Script System Initialization
+<17:40:13> Entity system initialization
+<17:40:13> Initializing AI System
+<17:40:13> Initializing additional systems
+<17:40:13> Dynamic Response System initialization
+<17:40:13> DLL Failed to load, error code: 7E
+<17:40:13> No Dynamic Response System was loaded from a module, will use the NULL implementation.
+<17:40:14> [Steam] Steam API initialized successfully
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<17:40:14> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<17:40:14> Initializing default materials...
+<17:40:20> [MFX] Loading FXLib 'breakables' ...
+<17:40:20> [MFX] Loading FXLib 'collisions' ...
+<17:40:20> [MFX] Loading FXLib 'foley' ...
+<17:40:20> [MFX] Loading FXLib 'foley_grunt' ...
+<17:40:20> [MFX] Loading FXLib 'foley_player' ...
+<17:40:20> [MFX] Loading FXLib 'footstep_grunt' ...
+<17:40:20> [MFX] Loading FXLib 'footstep_player' ...
+<17:40:20> [MFX] Loading FXLib 'footsteps' ...
+<17:40:20> [MFX] Loading FXLib 'grenade' ...
+<17:40:20> [MFX] Loading FXLib 'melee' ...
+<17:40:20> [MFX] Loading FXLib 'player_fx' ...
+<17:40:20> [MFX] Loading FXLib 'projectiles' ...
+<17:40:20> [MFX] Loading FXLib 'tornado' ...
+<17:40:20> [MFX] Loading FXLib 'vegetation' ...
+<17:40:20> [MFX] Loading FXLib 'vehicles' ...
+<17:40:20> [MFX] Loading FXLib 'breakables' ...
+<17:40:20> [MFX] Loading FXLib 'collisions' ...
+<17:40:20> [MFX] Loading FXLib 'foley' ...
+<17:40:20> [MFX] Loading FXLib 'foley_grunt' ...
+<17:40:20> [MFX] Loading FXLib 'foley_player' ...
+<17:40:20> [MFX] Loading FXLib 'footstep_grunt' ...
+<17:40:20> [MFX] Loading FXLib 'footstep_player' ...
+<17:40:20> [MFX] Loading FXLib 'footsteps' ...
+<17:40:20> [MFX] Loading FXLib 'grenade' ...
+<17:40:20> [MFX] Loading FXLib 'melee' ...
+<17:40:20> [MFX] Loading FXLib 'player_fx' ...
+<17:40:20> [MFX] Loading FXLib 'projectiles' ...
+<17:40:20> [MFX] Loading FXLib 'tornado' ...
+<17:40:20> [MFX] Loading FXLib 'vegetation' ...
+<17:40:20> [MFX] Loading FXLib 'vehicles' ...
+<17:40:20> Creating socket on port 2838
+<17:40:20> CreateDatagramSocket c1
+<17:40:20> CreateDatagramSocket c2
+<17:40:39> Iterator 0
+<17:40:39> Size 30
+<17:40:39> Iterator 1
+<17:40:39> Size 30
+<17:40:39> Iterator 2
+<17:40:39> Size 30
+<17:40:39> Iterator 3
+<17:40:39> Size 30
+<17:40:39> Iterator 4
+<17:40:39> Size 30
+<17:40:39> Iterator 5
+<17:40:39> Size 30
+<17:40:39> Iterator 6
+<17:40:39> Size 30
+<17:40:39> Iterator 7
+<17:40:39> Size 30
+<17:40:39> Iterator 8
+<17:40:39> Size 30
+<17:40:39> Iterator 9
+<17:40:39> Size 30
+<17:40:39> Iterator 10
+<17:40:39> Size 30
+<17:40:39> Iterator 11
+<17:40:39> Size 30
+<17:40:39> Iterator 12
+<17:40:39> Size 30
+<17:40:39> Iterator 13
+<17:40:39> Size 30
+<17:40:39> Iterator 14
+<17:40:39> Size 30
+<17:40:39> playerName Kornflakes
+<17:40:39> Iterator 15
+<17:40:39> Size 30
+<17:40:39> Iterator 16
+<17:40:39> Size 30
+<17:40:39> Iterator 17
+<17:40:39> Size 30
+<17:40:39> Iterator 18
+<17:40:39> Size 30
+<17:40:39> Iterator 19
+<17:40:39> Size 30
+<17:40:39> Iterator 20
+<17:40:39> Size 30
+<17:40:39> Iterator 21
+<17:40:39> Size 30
+<17:40:39> Iterator 22
+<17:40:39> Size 30
+<17:40:39> Iterator 23
+<17:40:39> Size 30
+<17:40:39> Iterator 24
+<17:40:39> Size 30
+<17:40:39> Iterator 25
+<17:40:39> Size 30
+<17:40:39> Iterator 26
+<17:40:39> Size 30
+<17:40:39> Iterator 27
+<17:40:39> Size 30
+<17:40:39> Iterator 28
+<17:40:39> Size 30
+<17:40:39> Iterator 29
+<17:40:39> Size 30
+<17:40:39> playerName Kornflakes
+<17:40:39> Iterator 30
+<17:40:39> Size 30
+<17:41:59> ESteamUDPPacketType::ServerInfo no data!!, port 1
+<17:42:02> ESteamUDPPacketType::ServerInfo no data!!, port 0
+<17:42:03> CreateDatagramSocket c1
+<17:42:06> Game rules class: InstantAction
+<17:42:06> ============================ PrepareLevel Multiplayer/Purgatorium_Esc ============================
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:34> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:37> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:37> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:37> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:38> PLAYERNAME Kornflakes
+<17:42:38> CryAnimation: character-definition not found: objects/characters/man.cdf
+<17:42:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:43:01> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:43:01> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:43:01> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:44:09> d_prerec_msg 
+<17:44:30> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:44:30> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:44:30> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:45:50> BaseInput - Shutting down all force feedback
+<17:45:50> ActionGame - Shutting down all force feedback
+<17:45:50> gEnv->pRenderer->Draw2dImage XXX
+<17:45:52> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)
+<17:45:52> remapped bone indices with refcount '4294967291' still around for 'zombiemodelnew/conserve_fp_nonmm.skin 0x00000209B2EE51E0
+<17:45:52> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/conserve/conserve_head.skin 0x00000209B2EE4880
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/characters/human/dude/source/pin_hands_sk.skin 0x00000209E01C8B30
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'pants.skin 0x00000209E01C6290
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'torso.skin 0x00000209E01C5C50
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x00000209B2A0B740
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x00000209B2A0ADE0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x00000209B41F0470
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x00000209C29ECBB0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x00000209B41EF4D0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x00000209B41EEB70
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x00000209B41EEE90
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x00000209B41EF7F0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x00000209B41F0150
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x00000209B41EFB10
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x00000209B41F0790
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x00000209B41EF1B0
+<17:45:52> remapped bone indices with refcount '4294967289' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x00000209B41EFE30
+<17:45:52> remapped bone indices with refcount '4294967289' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x00000209C29ED830
+<17:45:52> remapped bone indices with refcount '4294967289' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x00000209C29E9CD0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x00000209C29EC570
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x00000209C29EC250
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x00000209C29EAC70
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x00000209C29EA950
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x00000209C29ED510
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x00000209C29EB8F0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000209C29E9FF0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000209C29ED1F0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000209C29EBF30
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000209C29EB2B0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x00000209C29EAF90
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x00000209C29EA630
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x00000209C29EBC10
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x00000209C29EA310
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x00000209C29EC890
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x00000209C29ECED0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x00000209C29EB5D0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x00000209B421DAA0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x00000209B421CB00
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x00000209B421D780
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x00000209B421E720
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x00000209B421D140
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x00000209B421D460
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x00000209B421E400
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x00000209B421DDC0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x00000209B421E0E0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x00000209B421CE20
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x00000209B307AD00
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x00000209B307B020
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x00000209B307A9E0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x00000209B307D8C0
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x00000209B307CF60
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x00000209B307CC40
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x00000209B307D280
+<17:45:52> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/sets/doubtset/doubtset_head.skin 0x00000209B307D5A0

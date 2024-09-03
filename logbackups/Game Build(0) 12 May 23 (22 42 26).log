@@ -1,0 +1,450 @@
+BackupNameAttachment=" Build(0) 12 May 23 (22 42 26)"  -- used by backup system
+Log Started at Fri May 12 22:42:26 2023
+Built on Oct 13 2019 19:15:33
+Running 64 bit Windows version
+Command Line: "X:\SteamLibrary\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: X:\SteamLibrary\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<22:42:26> Loading Config file system.cfg (system.cfg)
+<22:42:26> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [1.1.0.000.200116]; Marked as [VF_CHEAT]
+<22:42:26> OnSysSpecChange(1)
+<22:42:26> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<22:42:26> GameDir: DATA
+<22:42:26> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<22:42:26> Windows 10 64 bit (build 10.0.22621)
+<22:42:27> System language: English
+<22:42:27> Windows Directory: "C:\WINDOWS"
+<22:42:27> Local time is 22:42:27 05/12/23, system running for 944 minutes
+<22:42:27> 16311MB physical memory installed, 6829MB available, 134217727MB virtual memory installed, 58 percent of memory in use
+<22:42:27> PageFile usage: 113MB, Working Set: 130MB, Peak PageFile usage: 113MB,
+<22:42:27> Current display mode is 2560x1440x32, (Unknown graphics card)
+<22:42:27> IBM enhanced (101/102-key) keyboard and 32+ button mouse installed
+<22:42:27> --------------------------------------------------------------------------------
+<22:42:27> OnSysSpecChange(1)
+<22:42:27> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<22:42:27> [Error] [CVARS]: [MISSING] [mfx_Timeout] is not a registered console variable; referenced when testing console variable group [sys_spec_gameeffects] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [ca_AttachmentCullingRation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_DecalsLifeTimeScale] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_LodRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_MaxViewDistSpecLerp] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_MaxViewDistance] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ObjQuality] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_TerrainOcclusionCullingMaxDist] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_VegetationMinSize] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ViewDistRatioCustom] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ViewDistRatioDetail] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ViewDistRatioLights] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ViewDistRatioVegetation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [es_DebrisLifetimeScale] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_DecalsOverlapping] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_LodMin] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_MergedMeshesInstanceDist] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_MergedMeshesPool] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_OcclusionCullingViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_TerrainLodRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_Tessellation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ViewDistMin] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ParticlesMaxScreenFill] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ParticlesMinDrawPixels] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ParticlesObjectCollisions] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ParticlesQuality] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ParticlesMotionBlur] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_CullVegActivation] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_FoliageWindActivationDist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_PhysOceanCell] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [es_MaxPhysDist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [es_MaxPhysDistInvisible] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [g_breakage_particles_limit] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [g_tree_cut_reuse_dist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_max_MC_iters] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_max_substeps] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_PhysProxyTriLimit] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_max_object_splashes] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_max_substeps_large_group] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_num_bodies_large_group] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_splash_dist0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_splash_dist1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_splash_force0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_splash_force1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_splash_vel0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [p_splash_vel1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_GsmLodsNum] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_GsmRange] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ObjShadowCastSpec] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ParticlesShadows] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_Shadows] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsBlendCascades] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsCastViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsLodBiasFixed] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsMaxTexRes] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsPoolSize] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsResScale] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsTessellateCascades] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsTessellateDLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_ShadowsUpdateViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_VolumetricFog] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_fog] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_Clouds] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_WaterOceanFFT] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmount] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmountX] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmountY] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<22:42:27> [Error] [CVARS]: [MISSING] [e_WaterTessellationSwathWidth] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<22:42:27> Loading Config file game.cfg (data\game.cfg)
+<22:42:27> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<22:42:27> [Warning] Modifying marked variables will not be allowed in Release mode!
+<22:42:27> Stream Engine Initialization
+<22:42:27> GameName: Pandemic Express
+<22:42:27> BuildTime: Oct 13 2019 19:15:33
+<22:42:27> Physics initialization
+<22:42:27> Localized language content(english) not available or modified from the original installation.
+<22:42:27> Localized language content(english) not available or modified from the original installation.
+<22:42:27> Localized language content(english) not available or modified from the original installation.
+<22:42:27> <Audio>: AudioSystem initialization
+<22:42:27> <Audio> <0.683>: CryAudioImplWwise loaded
+<22:42:28> Renderer initialization
+<22:42:28> Logging video adapters:
+<22:42:30> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<22:42:30>   - Adapter index: 0
+<22:42:30>   - Dedicated video memory: 8032 MB
+<22:42:30>   - Feature level: DX11 (SM 5.0)
+<22:42:30>   - Displays connected: yes
+<22:42:30>   - Suitable rendering device: yes
+<22:42:30> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<22:42:30>   - Adapter index: 1
+<22:42:30>   - Dedicated video memory: 0 MB
+<22:42:30>   - Feature level: DX11 (SM 5.0)
+<22:42:30>   - Displays connected: no
+<22:42:30>   - Suitable rendering device: no
+<22:42:32> Active GPUs: 1
+<22:42:32> [Renderer] A display device has been connected to the system
+<22:42:32> Loading plugin CryDefaultEntities
+<22:42:32> Loading plugin CrySchematycCore
+<22:42:32> DLL Failed to load, error code: 7E
+<22:42:32> Loading plugin CrySchematycSTDEnv
+<22:42:32> DLL Failed to load, error code: 7E
+<22:42:32> Loading plugin CrySensorSystem
+<22:42:32> DLL Failed to load, error code: 7E
+<22:42:32> Loading extension file cryplugin.csv
+<22:42:32> Loading plugin ProcAnRandGenerator.dll
+<22:42:33> Loading plugin PlayFab.dll
+<22:42:33> Loading plugin CEVPlayer.dll
+<22:42:33> Font initialization
+<22:42:33> Using FreeType 2.5.5
+<22:42:35> Network initialization
+<22:42:35> [net] Socket IO management: External [iocp], Internal [iocp]
+<22:42:35> network hostname: jasper-pc
+<22:42:35>   ip:192.168.20.23
+<22:42:35> [Network Version]: PROFILE DEVELOPMENT BUILD
+<22:42:35> MovieSystem initialization
+<22:42:35> Console initialization
+<22:42:35> Time initialization
+<22:42:35> Input initialization
+<22:42:35> AI initialization
+<22:42:35>  
+<22:42:35>     con_debug = 0 []
+<22:42:35>     con_display_last_messages = 0 []
+<22:42:35>     con_line_buffer_size = 1000 []
+<22:42:35>     con_restricted = 0 [RESTRICTEDMODE]
+<22:42:35>     con_showonload = 0 []
+<22:42:35>  
+<22:42:35>     con_debug = 0 []
+<22:42:35>     con_display_last_messages = 0 []
+<22:42:35>     con_line_buffer_size = 1000 []
+<22:42:35>     con_restricted = 0 [RESTRICTEDMODE]
+<22:42:35>     con_showonload = 0 []
+<22:42:35>  
+<22:42:35>     con_debug = 0 []
+<22:42:35>  
+<22:42:35>     con_debug = 0 []
+<22:42:35> Initializing Animation System
+<22:42:35> Initializing 3D Engine
+<22:42:36> Script System Initialization
+<22:42:36> Entity system initialization
+<22:42:36> Initializing AI System
+<22:42:36> Initializing additional systems
+<22:42:36> Dynamic Response System initialization
+<22:42:36> DLL Failed to load, error code: 7E
+<22:42:36> No Dynamic Response System was loaded from a module, will use the NULL implementation.
+<22:42:37> [Steam] Steam API initialized successfully
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<22:42:37> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<22:42:37> Initializing default materials...
+<22:42:44> [MFX] Loading FXLib 'breakables' ...
+<22:42:44> [MFX] Loading FXLib 'collisions' ...
+<22:42:44> [MFX] Loading FXLib 'foley' ...
+<22:42:44> [MFX] Loading FXLib 'foley_grunt' ...
+<22:42:44> [MFX] Loading FXLib 'foley_player' ...
+<22:42:44> [MFX] Loading FXLib 'footstep_grunt' ...
+<22:42:44> [MFX] Loading FXLib 'footstep_player' ...
+<22:42:44> [MFX] Loading FXLib 'footsteps' ...
+<22:42:44> [MFX] Loading FXLib 'grenade' ...
+<22:42:44> [MFX] Loading FXLib 'melee' ...
+<22:42:44> [MFX] Loading FXLib 'player_fx' ...
+<22:42:44> [MFX] Loading FXLib 'projectiles' ...
+<22:42:44> [MFX] Loading FXLib 'tornado' ...
+<22:42:44> [MFX] Loading FXLib 'vegetation' ...
+<22:42:44> [MFX] Loading FXLib 'vehicles' ...
+<22:42:44> [MFX] Loading FXLib 'breakables' ...
+<22:42:44> [MFX] Loading FXLib 'collisions' ...
+<22:42:44> [MFX] Loading FXLib 'foley' ...
+<22:42:44> [MFX] Loading FXLib 'foley_grunt' ...
+<22:42:44> [MFX] Loading FXLib 'foley_player' ...
+<22:42:44> [MFX] Loading FXLib 'footstep_grunt' ...
+<22:42:44> [MFX] Loading FXLib 'footstep_player' ...
+<22:42:44> [MFX] Loading FXLib 'footsteps' ...
+<22:42:44> [MFX] Loading FXLib 'grenade' ...
+<22:42:44> [MFX] Loading FXLib 'melee' ...
+<22:42:44> [MFX] Loading FXLib 'player_fx' ...
+<22:42:44> [MFX] Loading FXLib 'projectiles' ...
+<22:42:44> [MFX] Loading FXLib 'tornado' ...
+<22:42:44> [MFX] Loading FXLib 'vegetation' ...
+<22:42:44> [MFX] Loading FXLib 'vehicles' ...
+<22:42:44> Creating socket on port 2838
+<22:42:44> CreateDatagramSocket c1
+<22:42:44> CreateDatagramSocket c2
+<22:43:05> CreateDatagramSocket c1
+<22:43:07> Game rules class: InstantAction
+<22:43:07> ============================ PrepareLevel Multiplayer/Purgatorium_Esc ============================
+<22:43:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:45> PLAYERNAME Kornflakes
+<22:43:46> CryAnimation: character-definition not found: objects/characters/man.cdf
+<22:43:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:43:50> d_prerec_msg 
+<22:43:51> d_prerec_msg 
+<22:43:52> d_prerec_msg 
+<22:43:55> sed_prerec_msg 
+<22:43:57> last_used_prerec_msg 
+<22:44:05> sed_prerec_msg 
+<22:45:02> _used_prerec_msg 
+<22:45:05> _used_prerec_msg 
+<22:45:47> _used_prerec_msg 
+<22:46:07> sed_prerec_msg 
+<22:47:41> t_used_prerec_msg 
+<22:47:44> d_prerec_msg 
+<22:48:09> gEnv->pRenderer->Draw2dImage XXX
+<22:48:11> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0C0767180
+<22:48:11> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0C076A380
+<22:48:11> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0C0768760
+<22:48:11> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0C076A060
+<22:48:11> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0C0768120
+<22:48:11> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0C07677C0
+<22:48:11> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0C076ACE0
+<22:48:11> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0C02CA190
+<22:48:11> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0C02C9B50
+<22:48:11> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0C02C9510
+<22:50:41> CreateDatagramSocket c1
+<22:50:43> Game rules class: InstantAction
+<22:50:43> ============================ PrepareLevel Multiplayer/Purgatorium_Esc ============================
+<22:50:43> Initializing default materials...
+<22:50:48> [MFX] Loading FXLib 'breakables' ...
+<22:50:48> [MFX] Loading FXLib 'collisions' ...
+<22:50:48> [MFX] Loading FXLib 'foley' ...
+<22:50:48> [MFX] Loading FXLib 'foley_grunt' ...
+<22:50:48> [MFX] Loading FXLib 'foley_player' ...
+<22:50:48> [MFX] Loading FXLib 'footstep_grunt' ...
+<22:50:48> [MFX] Loading FXLib 'footstep_player' ...
+<22:50:48> [MFX] Loading FXLib 'footsteps' ...
+<22:50:48> [MFX] Loading FXLib 'grenade' ...
+<22:50:48> [MFX] Loading FXLib 'melee' ...
+<22:50:48> [MFX] Loading FXLib 'player_fx' ...
+<22:50:48> [MFX] Loading FXLib 'projectiles' ...
+<22:50:48> [MFX] Loading FXLib 'tornado' ...
+<22:50:48> [MFX] Loading FXLib 'vegetation' ...
+<22:50:48> [MFX] Loading FXLib 'vehicles' ...
+<22:51:08> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:08> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:08> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:09> PLAYERNAME Kornflakes
+<22:51:09> CryAnimation: character-definition not found: objects/characters/man.cdf
+<22:51:10> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:10> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:10> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:27> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:27> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:51:27> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:55:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:55:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<22:55:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:01:33> gEnv->pRenderer->Draw2dImage XXX
+<23:01:40> remapped bone indices with refcount '4294967292' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0D3A01A60
+<23:01:40> remapped bone indices with refcount '4294967292' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0D39FB020
+<23:01:40> remapped bone indices with refcount '4294967292' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0D3A00480
+<23:02:34> CreateDatagramSocket c1
+<23:02:36> Game rules class: InstantAction
+<23:02:36> ============================ PrepareLevel Multiplayer/Purgatorium_Esc_Cw ============================
+<23:02:36> Initializing default materials...
+<23:02:42> [MFX] Loading FXLib 'breakables' ...
+<23:02:42> [MFX] Loading FXLib 'collisions' ...
+<23:02:42> [MFX] Loading FXLib 'foley' ...
+<23:02:42> [MFX] Loading FXLib 'foley_grunt' ...
+<23:02:42> [MFX] Loading FXLib 'foley_player' ...
+<23:02:42> [MFX] Loading FXLib 'footstep_grunt' ...
+<23:02:42> [MFX] Loading FXLib 'footstep_player' ...
+<23:02:42> [MFX] Loading FXLib 'footsteps' ...
+<23:02:42> [MFX] Loading FXLib 'grenade' ...
+<23:02:42> [MFX] Loading FXLib 'melee' ...
+<23:02:42> [MFX] Loading FXLib 'player_fx' ...
+<23:02:42> [MFX] Loading FXLib 'projectiles' ...
+<23:02:42> [MFX] Loading FXLib 'tornado' ...
+<23:02:42> [MFX] Loading FXLib 'vegetation' ...
+<23:02:42> [MFX] Loading FXLib 'vehicles' ...
+<23:02:59> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:02:59> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:02:59> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:02> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:02> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:02> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:04> PLAYERNAME Kornflakes
+<23:03:04> CryAnimation: character-definition not found: objects/characters/man.cdf
+<23:03:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:03:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:09:55> sed_prerec_msg 
+<23:10:01> ast_used_prerec_msg 
+<23:13:33> d_prerec_msg 
+<23:13:38> d_prerec_msg 
+<23:15:12> gEnv->pRenderer->Draw2dImage XXX
+<23:15:14> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0BF57A8B0
+<23:15:14> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0BF57A270
+<23:15:14> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0BF57A590
+<23:15:14> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0BF57CB10
+<23:15:14> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0BF57DDD0
+<23:15:14> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0BF57C4D0
+<23:15:14> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0BF57F3B0
+<23:15:14> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0BF57ED70
+<23:15:14> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0BF577070
+<23:15:14> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0BF577CF0
+<23:15:14> remapped bone indices with refcount '4294967290' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0BF578330
+<23:15:14> remapped bone indices with refcount '4294967290' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0BF57C7F0
+<23:15:14> remapped bone indices with refcount '4294967290' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0BF578C90
+<23:16:50> CreateDatagramSocket c1
+<23:16:52> Game rules class: InstantAction
+<23:16:52> ============================ PrepareLevel Multiplayer/Purgatorium_Esc ============================
+<23:16:52> Initializing default materials...
+<23:16:58> [MFX] Loading FXLib 'breakables' ...
+<23:16:58> [MFX] Loading FXLib 'collisions' ...
+<23:16:58> [MFX] Loading FXLib 'foley' ...
+<23:16:58> [MFX] Loading FXLib 'foley_grunt' ...
+<23:16:58> [MFX] Loading FXLib 'foley_player' ...
+<23:16:58> [MFX] Loading FXLib 'footstep_grunt' ...
+<23:16:58> [MFX] Loading FXLib 'footstep_player' ...
+<23:16:58> [MFX] Loading FXLib 'footsteps' ...
+<23:16:58> [MFX] Loading FXLib 'grenade' ...
+<23:16:58> [MFX] Loading FXLib 'melee' ...
+<23:16:58> [MFX] Loading FXLib 'player_fx' ...
+<23:16:58> [MFX] Loading FXLib 'projectiles' ...
+<23:16:58> [MFX] Loading FXLib 'tornado' ...
+<23:16:58> [MFX] Loading FXLib 'vegetation' ...
+<23:16:58> [MFX] Loading FXLib 'vehicles' ...
+<23:17:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:19> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:19> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:19> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:20> PLAYERNAME Kornflakes
+<23:17:21> CryAnimation: character-definition not found: objects/characters/man.cdf
+<23:17:21> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:21> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:17:21> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<23:21:56> gEnv->pRenderer->Draw2dImage XXX
+<23:21:58> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0D3A0A3E0
+<23:21:58> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0D3A07E60
+<23:21:58> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001A0D3A07820
+<23:21:58> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0D3A09A80
+<23:21:58> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0D3A07500
+<23:21:58> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001A0D3A09760
+<23:21:58> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0D3A087C0
+<23:21:58> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0D3A06880
+<23:21:58> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0D3A0AA20
+<23:21:58> remapped bone indices with refcount '4294967295' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001A0D3A09DA0
+<23:21:58> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0D3A026E0
+<23:21:58> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0D3A023C0
+<23:21:58> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001A0D39FA6C0
+<23:35:32> BaseInput - Shutting down all force feedback
+<23:35:32> ActionGame - Shutting down all force feedback
+<23:35:32> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)

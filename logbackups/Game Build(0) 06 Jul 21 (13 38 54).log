@@ -1,0 +1,874 @@
+BackupNameAttachment=" Build(0) 06 Jul 21 (13 38 54)"  -- used by backup system
+Log Started at Tue Jul  6 13:38:54 2021
+Built on Oct 13 2019 19:15:33
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<13:38:55> Loading Config file system.cfg (system.cfg)
+<13:38:55> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [1.1.0.000.200116]; Marked as [VF_CHEAT]
+<13:38:55> OnSysSpecChange(1)
+<13:38:55> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<13:38:55> GameDir: DATA
+<13:38:55> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<13:38:55> Windows 10 64 bit (build 10.0.19043)
+<13:38:55> System language: English
+<13:38:55> Windows Directory: "C:\Windows"
+<13:38:55> Local time is 13:38:55 07/06/21, system running for 2988 minutes
+<13:38:55> 16333MB physical memory installed, 10619MB available, 134217727MB virtual memory installed, 34 percent of memory in use
+<13:38:55> PageFile usage: 76MB, Working Set: 88MB, Peak PageFile usage: 76MB,
+<13:38:55> Current display mode is 2560x1440x32, (Unknown graphics card)
+<13:38:55> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<13:38:55> --------------------------------------------------------------------------------
+<13:38:55> OnSysSpecChange(1)
+<13:38:55> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<13:38:55> [Error] [CVARS]: [MISSING] [mfx_Timeout] is not a registered console variable; referenced when testing console variable group [sys_spec_gameeffects] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [ca_AttachmentCullingRation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_DecalsLifeTimeScale] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_LodRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_MaxViewDistSpecLerp] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_MaxViewDistance] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ObjQuality] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_TerrainOcclusionCullingMaxDist] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_VegetationMinSize] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ViewDistRatioCustom] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ViewDistRatioDetail] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ViewDistRatioLights] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ViewDistRatioVegetation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [es_DebrisLifetimeScale] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_DecalsOverlapping] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_LodMin] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_MergedMeshesInstanceDist] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_MergedMeshesPool] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_OcclusionCullingViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_TerrainLodRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_Tessellation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ViewDistMin] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ParticlesMaxScreenFill] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ParticlesMinDrawPixels] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ParticlesObjectCollisions] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ParticlesQuality] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ParticlesMotionBlur] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_CullVegActivation] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_FoliageWindActivationDist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_PhysOceanCell] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [es_MaxPhysDist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [es_MaxPhysDistInvisible] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [g_breakage_particles_limit] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [g_tree_cut_reuse_dist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_max_MC_iters] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_max_substeps] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_PhysProxyTriLimit] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_max_object_splashes] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_max_substeps_large_group] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_num_bodies_large_group] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_splash_dist0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_splash_dist1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_splash_force0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_splash_force1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_splash_vel0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [p_splash_vel1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_GsmLodsNum] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_GsmRange] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ObjShadowCastSpec] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ParticlesShadows] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_Shadows] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsBlendCascades] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsCastViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsLodBiasFixed] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsMaxTexRes] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsPoolSize] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsResScale] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsTessellateCascades] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsTessellateDLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_ShadowsUpdateViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_VolumetricFog] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_fog] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_Clouds] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_WaterOceanFFT] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmount] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmountX] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmountY] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<13:38:55> [Error] [CVARS]: [MISSING] [e_WaterTessellationSwathWidth] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<13:38:55> Loading Config file game.cfg (data\game.cfg)
+<13:38:55> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<13:38:55> [Warning] Modifying marked variables will not be allowed in Release mode!
+<13:38:55> Stream Engine Initialization
+<13:38:55> GameName: Pandemic Express
+<13:38:55> BuildTime: Oct 13 2019 19:15:33
+<13:38:55> Physics initialization
+<13:38:55> Localized language content(english) not available or modified from the original installation.
+<13:38:55> Localized language content(english) not available or modified from the original installation.
+<13:38:55> Localized language content(english) not available or modified from the original installation.
+<13:38:55> <Audio>: AudioSystem initialization
+<13:38:55> <Audio> <0.130>: CryAudioImplWwise loaded
+<13:38:56> Renderer initialization
+<13:38:56> Logging video adapters:
+<13:38:56> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<13:38:56>   - Adapter index: 0
+<13:38:56>   - Dedicated video memory: 8043 MB
+<13:38:56>   - Feature level: DX11 (SM 5.0)
+<13:38:56>   - Displays connected: yes
+<13:38:56>   - Suitable rendering device: yes
+<13:38:56> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<13:38:56>   - Adapter index: 1
+<13:38:56>   - Dedicated video memory: 0 MB
+<13:38:56>   - Feature level: DX11 (SM 5.0)
+<13:38:56>   - Displays connected: no
+<13:38:56>   - Suitable rendering device: no
+<13:38:56> Active GPUs: 1
+<13:38:56> [Renderer] A display device has been connected to the system
+<13:38:56> Loading plugin CryDefaultEntities
+<13:38:56> Loading plugin CrySchematycCore
+<13:38:56> DLL Failed to load, error code: 7E
+<13:38:56> Loading plugin CrySchematycSTDEnv
+<13:38:56> DLL Failed to load, error code: 7E
+<13:38:56> Loading plugin CrySensorSystem
+<13:38:56> DLL Failed to load, error code: 7E
+<13:38:56> Loading extension file cryplugin.csv
+<13:38:56> Loading plugin ProcAnRandGenerator.dll
+<13:38:56> Loading plugin PlayFab.dll
+<13:38:56> Loading plugin CEVPlayer.dll
+<13:38:57> Font initialization
+<13:38:57> Using FreeType 2.5.5
+<13:38:58> Network initialization
+<13:38:58> [net] Socket IO management: External [iocp], Internal [iocp]
+<13:38:58> network hostname: DESKTOP-GKEDPQ6
+<13:38:58>   ip:26.90.194.210
+<13:38:58>   ip:192.168.20.21
+<13:38:58> [Network Version]: PROFILE DEVELOPMENT BUILD
+<13:38:58> MovieSystem initialization
+<13:38:58> Console initialization
+<13:38:58> Time initialization
+<13:38:58> Input initialization
+<13:38:58> AI initialization
+<13:38:58>  
+<13:38:58>     con_debug = 0 []
+<13:38:58>     con_display_last_messages = 0 []
+<13:38:58>     con_line_buffer_size = 1000 []
+<13:38:58>     con_restricted = 0 [RESTRICTEDMODE]
+<13:38:58>     con_showonload = 0 []
+<13:38:58>  
+<13:38:58>     con_debug = 0 []
+<13:38:58>     con_display_last_messages = 0 []
+<13:38:58>     con_line_buffer_size = 1000 []
+<13:38:58>     con_restricted = 0 [RESTRICTEDMODE]
+<13:38:58>     con_showonload = 0 []
+<13:38:58>  
+<13:38:58>     con_debug = 0 []
+<13:38:58>  
+<13:38:58>     con_debug = 0 []
+<13:38:58> Initializing Animation System
+<13:38:58> Initializing 3D Engine
+<13:38:58> Script System Initialization
+<13:38:58> Entity system initialization
+<13:38:58> Initializing AI System
+<13:38:58> Initializing additional systems
+<13:38:58> Dynamic Response System initialization
+<13:38:58> DLL Failed to load, error code: 7E
+<13:38:58> No Dynamic Response System was loaded from a module, will use the NULL implementation.
+<13:38:58> [Steam] Steam API initialized successfully
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<13:38:59> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<13:38:59> Initializing default materials...
+<13:39:04> [MFX] Loading FXLib 'breakables' ...
+<13:39:04> [MFX] Loading FXLib 'collisions' ...
+<13:39:04> [MFX] Loading FXLib 'foley' ...
+<13:39:04> [MFX] Loading FXLib 'foley_grunt' ...
+<13:39:04> [MFX] Loading FXLib 'foley_player' ...
+<13:39:04> [MFX] Loading FXLib 'footstep_grunt' ...
+<13:39:04> [MFX] Loading FXLib 'footstep_player' ...
+<13:39:04> [MFX] Loading FXLib 'footsteps' ...
+<13:39:04> [MFX] Loading FXLib 'grenade' ...
+<13:39:04> [MFX] Loading FXLib 'melee' ...
+<13:39:04> [MFX] Loading FXLib 'player_fx' ...
+<13:39:04> [MFX] Loading FXLib 'projectiles' ...
+<13:39:04> [MFX] Loading FXLib 'tornado' ...
+<13:39:04> [MFX] Loading FXLib 'vegetation' ...
+<13:39:04> [MFX] Loading FXLib 'vehicles' ...
+<13:39:05> [MFX] Loading FXLib 'breakables' ...
+<13:39:05> [MFX] Loading FXLib 'collisions' ...
+<13:39:05> [MFX] Loading FXLib 'foley' ...
+<13:39:05> [MFX] Loading FXLib 'foley_grunt' ...
+<13:39:05> [MFX] Loading FXLib 'foley_player' ...
+<13:39:05> [MFX] Loading FXLib 'footstep_grunt' ...
+<13:39:05> [MFX] Loading FXLib 'footstep_player' ...
+<13:39:05> [MFX] Loading FXLib 'footsteps' ...
+<13:39:05> [MFX] Loading FXLib 'grenade' ...
+<13:39:05> [MFX] Loading FXLib 'melee' ...
+<13:39:05> [MFX] Loading FXLib 'player_fx' ...
+<13:39:05> [MFX] Loading FXLib 'projectiles' ...
+<13:39:05> [MFX] Loading FXLib 'tornado' ...
+<13:39:05> [MFX] Loading FXLib 'vegetation' ...
+<13:39:05> [MFX] Loading FXLib 'vehicles' ...
+<13:39:05> Creating socket on port 2838
+<13:39:05> CreateDatagramSocket c1
+<13:39:05> CreateDatagramSocket c2
+<13:39:42> CreateDatagramSocket c1
+<13:39:44> Game rules class: InstantAction
+<13:39:44> ============================ PrepareLevel Multiplayer/Purgatorium_Esc_Cw ============================
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:05> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:09> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:09> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:09> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:10> PLAYERNAME Kornflakes
+<13:40:10> CryAnimation: character-definition not found: objects/characters/man.cdf
+<13:40:11> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:11> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:11> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:25> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:25> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:25> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:43> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:43> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:40:43> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:41:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:41:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:41:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:41:46> d_prerec_msg 
+<13:41:50> d_prerec_msg 
+<13:41:53> d_prerec_msg 
+<13:41:58> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:41:58> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:41:58> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:06> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:06> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:06> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:13> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:13> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:13> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:18> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:18> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:18> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:19> d_prerec_msg 
+<13:42:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:38> st_used_prerec_msg 
+<13:42:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:43> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:43> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:42:43> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:11> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:11> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:11> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:14> d_prerec_msg 
+<13:43:15> st_used_prerec_msg 
+<13:43:19> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:19> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:19> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:24> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:24> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:24> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:34> d_prerec_msg 
+<13:43:36> d_prerec_msg 
+<13:43:37> d_prerec_msg 
+<13:43:41> d_prerec_msg 
+<13:43:44> d_prerec_msg 
+<13:43:54> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:54> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:43:54> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:44:09> d_prerec_msg 
+<13:44:12> d_prerec_msg 
+<13:44:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:44:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:44:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:44:54> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:44:54> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:44:54> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:45:36> CVehicleSeat::NetSetPassengerId c2
+<13:45:36> CVehicleSeat::Enter called
+<13:45:37> CVehicleSeat::Exit called
+<13:45:37> CVehicleSeat::Exit called c2
+<13:45:37> ClProcessLeave call
+<13:45:42> CVehicleSeat::NetSetPassengerId c2
+<13:45:42> CVehicleSeat::Enter called
+<13:45:43> CVehicleSeat::NetSetPassengerId c2
+<13:45:43> CVehicleSeat::Enter called
+<13:45:44> CVehicleSeat::Exit called
+<13:45:44> CVehicleSeat::Exit called c2
+<13:45:44> ClProcessLeave call
+<13:45:53> CVehicleSeat::NetSetPassengerId c2
+<13:45:53> CVehicleSeat::Enter called
+<13:45:57> CVehicleSeat::Exit called
+<13:45:57> CVehicleSeat::Exit called c2
+<13:45:57> ClProcessLeave call
+<13:45:57> CVehicleSeat::NetSetPassengerId c2
+<13:45:57> CVehicleSeat::Enter called
+<13:46:06> CVehicleSeat::Exit called
+<13:46:06> CVehicleSeat::Exit called c2
+<13:46:06> ClProcessLeave call
+<13:46:17> CVehicleSeat::Exit called
+<13:46:17> CVehicleSeat::Exit called c2
+<13:46:17> ClProcessLeave call
+<13:47:28> CVehicleSeat::NetSetPassengerId c2
+<13:47:28> CVehicleSeat::Enter called
+<13:47:41> CVehicleSeat::NetSetPassengerId c2
+<13:47:41> CVehicleSeat::Enter called
+<13:47:49> CVehicle::OnAction eVAI_Exit
+<13:47:49> CVehicleSeat::Exit called
+<13:47:49> CVehicleSeat::Exit called c2
+<13:47:49> ClProcessLeave call
+<13:48:03> CVehicleSeat::Exit called
+<13:48:03> CVehicleSeat::Exit called c2
+<13:48:03> ClProcessLeave call
+<13:48:43> CVehicleSeat::NetSetPassengerId c2
+<13:48:43> CVehicleSeat::Enter called
+<13:48:43> CVehicleSeat::Exit called
+<13:48:43> CVehicleSeat::Exit called c2
+<13:48:43> ClProcessLeave call
+<13:48:44> CVehicleSeat::NetSetPassengerId c2
+<13:48:44> CVehicleSeat::Enter called
+<13:48:51> CVehicleSeat::NetSetPassengerId c2
+<13:48:51> CVehicleSeat::Enter called
+<13:48:53> CVehicleSeat::NetSetPassengerId c2
+<13:48:53> CVehicleSeat::Enter called
+<13:49:01> CVehicleSeat::Exit called
+<13:49:01> CVehicleSeat::Exit called c2
+<13:49:01> ClProcessLeave call
+<13:49:04> CVehicleSeat::Exit called
+<13:49:04> CVehicleSeat::Exit called c2
+<13:49:04> ClProcessLeave call
+<13:49:05> CVehicleSeat::NetSetPassengerId c2
+<13:49:05> CVehicleSeat::Enter called
+<13:49:06> CVehicleSeat::Exit called
+<13:49:06> CVehicleSeat::Exit called c2
+<13:49:06> ClProcessLeave call
+<13:49:11> CVehicleSeat::Exit called
+<13:49:11> CVehicleSeat::Exit called c2
+<13:49:11> ClProcessLeave call
+<13:49:46> CVehicleSeat::NetSetPassengerId c2
+<13:49:46> CVehicleSeat::Enter called
+<13:49:48> CVehicleSeat::Exit called
+<13:49:48> CVehicleSeat::Exit called c2
+<13:49:48> ClProcessLeave call
+<13:49:58> CVehicleSeat::NetSetPassengerId c2
+<13:49:58> CVehicleSeat::Enter called
+<13:49:59> ast_used_prerec_msg 
+<13:50:13> CHUDNv::showPickArmorGradient()
+<13:50:14> CHUDNv::showPickArmorGradient()
+<13:50:15> CHUDNv::showPickArmorGradient()
+<13:50:22> CVehicleSeat::NetSetPassengerId c2
+<13:50:22> CVehicleSeat::Enter called
+<13:50:28> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:50:28> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:50:28> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:51:02> CVehicleSeat::Exit called
+<13:51:02> CVehicleSeat::Exit called c2
+<13:51:02> ClProcessLeave call
+<13:51:05> CVehicleSeat::Exit called
+<13:51:05> CVehicleSeat::Exit called c2
+<13:51:05> ClProcessLeave call
+<13:51:44> sed_prerec_msg 
+<13:51:53> CTrain::SmplPlaySnd train_gts
+<13:51:54> st_used_prerec_msg 
+<13:52:32> CVehicleSeat::NetSetPassengerId c2
+<13:52:32> CVehicleSeat::Enter called
+<13:52:59> CVehicleSeat::Exit called
+<13:52:59> CVehicleSeat::Exit called c2
+<13:52:59> ClProcessLeave call
+<13:53:13> CTrain::SmplPlaySnd train_gts
+<13:55:00> CTrain::SmplPlaySnd train_gts
+<13:56:26> CTrain::SmplPlaySnd train_gts
+<13:56:43> CTrain::SmplPlaySnd train_gts
+<13:57:59> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:57:59> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:57:59> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:07> gEnv->pRenderer->Draw2dImage XXX
+<13:58:08> remapped bone indices with refcount '4294967293' still around for 'zombiemodelnew/conserve_fp_nonmm.skin 0x00000268C5C971E0
+<13:58:08> remapped bone indices with refcount '4294967293' still around for 'objects/zhg_objects/characters/conserve/conserve_head.skin 0x00000268C5C96EC0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x00000268C3D8E840
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x00000268C3D8EE80
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x00000268C3D8F4C0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x00000268C3D8EB60
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x00000268C3D90140
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x00000268C3D8DBC0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x00000268C3DB0D00
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x00000268C3DB06C0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x00000268C3DB03A0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x00000268C3DB0080
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x00000268C3DB1980
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x00000268C3DAF720
+<13:58:08> remapped bone indices with refcount '4294967288' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x00000268C3DAF400
+<13:58:08> remapped bone indices with refcount '4294967288' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x00000268C3DAF0E0
+<13:58:08> remapped bone indices with refcount '4294967288' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x00000268C3DB1340
+<13:58:08> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x00000268C3DB22E0
+<13:58:08> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x00000268C3DB2600
+<13:58:08> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x00000268C3DB2C40
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x00000268C3DB09E0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x00000268C3DB1020
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x00000268C3DB1CA0
+<13:58:08> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000268C3DB1FC0
+<13:58:08> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000268C3DB2920
+<13:58:08> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000268C3DAFD60
+<13:58:08> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x00000268C3DAFA40
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x00000268C3DB1660
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x00000268C3CB30A0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x00000268C3CB2A60
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x00000268C3CB2740
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x00000268C3CB1DE0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x00000268C3CB2D80
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x00000268C3CB1AC0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x00000268C3CB2100
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x00000268C3CB1480
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x00000268C3CB1160
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x00000268C3CAFB80
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x00000268C3CB2420
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x00000268C3CB0800
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x00000268C3CB04E0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x00000268C3CB0E40
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x00000268C3CB01C0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x00000268C3CB33C0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x00000268C3CAFEA0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x00000268C3CB17A0
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x00000268C3CB0B20
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x00000268C3CAF860
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x00000268C2C77080
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x00000268C2C76A40
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x00000268C2C76720
+<13:58:08> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/sets/doubtset/doubtset_head.skin 0x00000268C2C760E0
+<13:58:22> CreateDatagramSocket c1
+<13:58:24> Game rules class: InstantAction
+<13:58:24> ============================ PrepareLevel Multiplayer/Purgatorium_Esc_Cw ============================
+<13:58:25> Initializing default materials...
+<13:58:29> [MFX] Loading FXLib 'breakables' ...
+<13:58:29> [MFX] Loading FXLib 'collisions' ...
+<13:58:29> [MFX] Loading FXLib 'foley' ...
+<13:58:29> [MFX] Loading FXLib 'foley_grunt' ...
+<13:58:29> [MFX] Loading FXLib 'foley_player' ...
+<13:58:29> [MFX] Loading FXLib 'footstep_grunt' ...
+<13:58:29> [MFX] Loading FXLib 'footstep_player' ...
+<13:58:29> [MFX] Loading FXLib 'footsteps' ...
+<13:58:29> [MFX] Loading FXLib 'grenade' ...
+<13:58:29> [MFX] Loading FXLib 'melee' ...
+<13:58:29> [MFX] Loading FXLib 'player_fx' ...
+<13:58:29> [MFX] Loading FXLib 'projectiles' ...
+<13:58:29> [MFX] Loading FXLib 'tornado' ...
+<13:58:29> [MFX] Loading FXLib 'vegetation' ...
+<13:58:29> [MFX] Loading FXLib 'vehicles' ...
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:46> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:50> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:50> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:50> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:52> PLAYERNAME Kornflakes
+<13:58:52> CryAnimation: character-definition not found: objects/characters/man.cdf
+<13:58:52> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:52> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:52> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:58:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:00> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:39> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:50> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:50> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:50> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<13:59:50> d_prerec_msg 
+<14:00:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:00:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:00:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:00:38> d_prerec_msg 
+<14:00:43> sed_prerec_msg 
+<14:00:45> ast_used_prerec_msg 
+<14:00:51> st_used_prerec_msg 
+<14:01:01> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:01> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:01> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:02> d_prerec_msg 
+<14:01:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:01:51> CVehicleSeat::NetSetPassengerId c2
+<14:01:51> CVehicleSeat::Enter called
+<14:01:55> CVehicleSeat::NetSetPassengerId c2
+<14:01:55> CVehicleSeat::Enter called
+<14:02:02> CVehicleSeat::Exit called
+<14:02:02> CVehicleSeat::Exit called c2
+<14:02:02> ClProcessLeave call
+<14:02:12> CVehicleSeat::Exit called
+<14:02:12> CVehicleSeat::Exit called c2
+<14:02:12> ClProcessLeave call
+<14:02:51> d_prerec_msg 
+<14:03:00> ClReplDropOpen !params.r_openedDr
+<14:03:13> ClReplDropOpen !params.r_openedDr
+<14:03:13> ClReplDropOpen !params.r_openedDr
+<14:03:26> sed_prerec_msg 
+<14:03:29> ClReplDropOpen !params.r_openedDr
+<14:03:31> d_prerec_msg 
+<14:03:43> ClReplDropOpen !params.r_openedDr
+<14:03:55> ClReplDropOpen !params.r_openedDr
+<14:04:00> CVehicleSeat::NetSetPassengerId c2
+<14:04:00> CVehicleSeat::Enter called
+<14:04:38> CVehicleSeat::Exit called
+<14:04:38> CVehicleSeat::Exit called c2
+<14:04:38> ClProcessLeave call
+<14:07:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:07:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:07:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:07:17> CVehicleSeat::NetSetPassengerId c2
+<14:07:17> CVehicleSeat::Enter called
+<14:07:20> CVehicle::OnAction eVAI_Exit
+<14:07:20> CVehicleSeat::Exit called
+<14:07:20> CVehicleSeat::Exit called c2
+<14:07:20> ClProcessLeave call
+<14:07:30> CVehicleSeat::NetSetPassengerId c2
+<14:07:30> CVehicleSeat::Enter called
+<14:07:32> CVehicleSeat::NetSetPassengerId c2
+<14:07:32> CVehicleSeat::Enter called
+<14:07:32> CVehicle::OnAction eVAI_Exit
+<14:07:32> CVehicleSeat::Exit called
+<14:07:32> CVehicleSeat::Exit called c2
+<14:07:32> ClProcessLeave call
+<14:07:52> CVehicleSeat::Exit called
+<14:07:52> CVehicleSeat::Exit called c2
+<14:07:52> ClProcessLeave call
+<14:09:37> CTrain::SmplPlaySnd train_gts
+<14:10:22> CVehicleSeat::NetSetPassengerId c2
+<14:10:22> CVehicleSeat::Enter called
+<14:10:24> CVehicleSeat::Exit called
+<14:10:24> CVehicleSeat::Exit called c2
+<14:10:24> ClProcessLeave call
+<14:11:04> CVehicleSeat::NetSetPassengerId c2
+<14:11:04> CVehicleSeat::Enter called
+<14:12:03> t_used_prerec_msg 
+<14:12:54> gEnv->pRenderer->Draw2dImage XXX
+<14:12:55> remapped bone indices with refcount '4294967292' still around for 'zombiemodelnew/conserve_fp_nonmm.skin 0x000002691CDC3EE0
+<14:12:55> remapped bone indices with refcount '4294967292' still around for 'objects/zhg_objects/characters/conserve/conserve_head.skin 0x000002691CDCBBE0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x000002691CDCB280
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x000002691CDCB5A0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x000002691CDCAF60
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x000002691CDCA600
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x000002691CDCAC40
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x000002691CDCA2E0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x000002691CDC57E0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x000002691CDC7D60
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x000002691CDC54C0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x000002691CDC7720
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x000002691CDC3BC0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x000002691CDC2900
+<14:12:55> remapped bone indices with refcount '4294967281' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000002691CDC3260
+<14:12:55> remapped bone indices with refcount '4294967281' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000002691CDC2F40
+<14:12:55> remapped bone indices with refcount '4294967281' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000002691CDC2C20
+<14:12:55> remapped bone indices with refcount '4294967286' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000002691CDC22C0
+<14:12:55> remapped bone indices with refcount '4294967286' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000002691CDC1960
+<14:12:55> remapped bone indices with refcount '4294967286' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000002691CDC1FA0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x000002691CDC1640
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x000002691CDC1320
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x000002691CDC38A0
+<14:12:55> remapped bone indices with refcount '4294967286' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000002691CDC1000
+<14:12:55> remapped bone indices with refcount '4294967286' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000002691CDC09C0
+<14:12:55> remapped bone indices with refcount '4294967286' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000002691CDC25E0
+<14:12:55> remapped bone indices with refcount '4294967286' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000002691CDC3580
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x000002691CDC0CE0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x000002691CDC1C80
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x000002691CDC06A0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x000002691CDB89A0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x000002691CDC0380
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x000002691CDC0060
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x000002691CDBFD40
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x000002691CDBFA20
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x000002691CDB7D20
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x000002691CDBD7C0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x000002691CDBD4A0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x000002691CDBD180
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x000002691CDBC1E0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x000002691CDBB880
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x000002691CDB8FE0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x000002691CDBCE60
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x000002691CDB8360
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x000002691CDB8680
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x000002691CDBBEC0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x000002691CDBBBA0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x000002691CDBF700
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x000002691CDB8040
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x000002691CDBF3E0
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x000002691CDBEA80
+<14:12:55> remapped bone indices with refcount '4294967291' still around for 'objects/zhg_objects/characters/sets/doubtset/doubtset_head.skin 0x000002691CDBCB40
+<14:13:23> CreateDatagramSocket c1
+<14:13:25> Game rules class: InstantAction
+<14:13:25> ============================ PrepareLevel Multiplayer/Purgatorium_Esc_Cw ============================
+<14:13:25> Initializing default materials...
+<14:13:30> [MFX] Loading FXLib 'breakables' ...
+<14:13:30> [MFX] Loading FXLib 'collisions' ...
+<14:13:30> [MFX] Loading FXLib 'foley' ...
+<14:13:30> [MFX] Loading FXLib 'foley_grunt' ...
+<14:13:30> [MFX] Loading FXLib 'foley_player' ...
+<14:13:30> [MFX] Loading FXLib 'footstep_grunt' ...
+<14:13:30> [MFX] Loading FXLib 'footstep_player' ...
+<14:13:30> [MFX] Loading FXLib 'footsteps' ...
+<14:13:30> [MFX] Loading FXLib 'grenade' ...
+<14:13:30> [MFX] Loading FXLib 'melee' ...
+<14:13:30> [MFX] Loading FXLib 'player_fx' ...
+<14:13:30> [MFX] Loading FXLib 'projectiles' ...
+<14:13:30> [MFX] Loading FXLib 'tornado' ...
+<14:13:30> [MFX] Loading FXLib 'vegetation' ...
+<14:13:30> [MFX] Loading FXLib 'vehicles' ...
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:51> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:51> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:51> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:52> PLAYERNAME Kornflakes
+<14:13:52> CryAnimation: character-definition not found: objects/characters/man.cdf
+<14:13:53> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:53> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:53> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:07> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:07> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:07> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:22> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:22> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:22> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:41> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:54> d_prerec_msg 
+<14:14:56> d_prerec_msg 
+<14:15:00> d_prerec_msg 
+<14:15:08> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:15:08> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:15:08> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:15:36> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:15:36> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:15:36> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:16:16> d_prerec_msg 
+<14:16:18> d_prerec_msg 
+<14:16:21> _used_prerec_msg 
+<14:16:33> ast_used_prerec_msg 
+<14:16:35> st_used_prerec_msg 
+<14:16:36> d_prerec_msg 
+<14:16:40> _used_prerec_msg 
+<14:16:43> _used_prerec_msg 
+<14:17:17> d_prerec_msg 
+<14:17:19> ast_used_prerec_msg 
+<14:17:20> d_prerec_msg 
+<14:17:20> _used_prerec_msg 
+<14:17:22> d_prerec_msg 
+<14:17:22> ast_used_prerec_msg 
+<14:17:22> _used_prerec_msg 
+<14:17:25> ast_used_prerec_msg 
+<14:17:26> d_prerec_msg 
+<14:17:27> _used_prerec_msg 
+<14:17:27> st_used_prerec_msg 
+<14:17:33> sed_prerec_msg 
+<14:17:39> sed_prerec_msg 
+<14:17:42> sed_prerec_msg 
+<14:17:44> sed_prerec_msg 
+<14:17:45> _used_prerec_msg 
+<14:17:46> sed_prerec_msg 
+<14:17:46> sed_prerec_msg 
+<14:18:16> t_used_prerec_msg 
+<14:18:24> _used_prerec_msg 
+<14:18:35> t_used_prerec_msg 
+<14:18:45> t_used_prerec_msg 
+<14:18:47> _used_prerec_msg 
+<14:18:49> sed_prerec_msg 
+<14:18:57> _used_prerec_msg 
+<14:19:11> CVehicleSeat::NetSetPassengerId c2
+<14:19:11> CVehicleSeat::Enter called
+<14:19:21> CVehicleSeat::Exit called
+<14:19:21> CVehicleSeat::Exit called c2
+<14:19:21> ClProcessLeave call
+<14:19:26> t_used_prerec_msg 
+<14:19:44> _used_prerec_msg 
+<14:19:46> t_used_prerec_msg 
+<14:19:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:19:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:19:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:20:18> st_used_prerec_msg 
+<14:21:12> st_used_prerec_msg 
+<14:21:14> t_used_prerec_msg 
+<14:21:32> CHUDNv::showPickArmorGradient()
+<14:22:05> CHUDNv::showPickArmorGradient()
+<14:22:17> CHUDNv::showPickArmorGradient()
+<14:22:18> ast_used_prerec_msg 
+<14:22:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:22:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:22:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:22:55> t_used_prerec_msg 
+<14:22:58> st_used_prerec_msg 
+<14:22:59> CHUDNv::showPickArmorGradient()
+<14:23:03> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:23:03> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:23:03> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:23:06> _used_prerec_msg 
+<14:23:36> sed_prerec_msg 
+<14:23:49> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:23:49> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:23:49> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:24:12> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:24:12> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:24:12> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:24:31> sed_prerec_msg 
+<14:24:46> st_used_prerec_msg 
+<14:24:48> _used_prerec_msg 
+<14:25:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:25:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:25:04> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:25:10> ast_used_prerec_msg 
+<14:25:12> st_used_prerec_msg 
+<14:26:15> CVehicleSeat::NetSetPassengerId c2
+<14:26:15> CVehicleSeat::Enter called
+<14:26:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:26:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:26:16> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:26:30> CVehicleSeat::Exit called
+<14:26:30> CVehicleSeat::Exit called c2
+<14:26:30> ClProcessLeave call
+<14:27:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:27:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:27:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:28:01> CTrain::SmplPlaySnd train_gts
+<14:30:32> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:30:32> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:30:32> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:30:43> CVehicleSeat::NetSetPassengerId c2
+<14:30:43> CVehicleSeat::Enter called
+<14:30:52> CVehicle::OnAction eVAI_Exit
+<14:30:52> CVehicleSeat::Exit called
+<14:30:52> CVehicleSeat::Exit called c2
+<14:30:52> ClProcessLeave call
+<14:31:33> gEnv->pRenderer->Draw2dImage XXX
+<14:31:35> remapped bone indices with refcount '4294967293' still around for 'zombiemodelnew/conserve_fp_nonmm.skin 0x0000026985AD6600
+<14:31:35> remapped bone indices with refcount '4294967292' still around for 'objects/zhg_objects/characters/conserve/conserve_head.skin 0x0000026985AD8540
+<14:31:58> BaseInput - Shutting down all force feedback
+<14:31:58> ActionGame - Shutting down all force feedback
+<14:31:58> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)

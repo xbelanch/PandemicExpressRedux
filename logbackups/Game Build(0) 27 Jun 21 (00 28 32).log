@@ -1,0 +1,158 @@
+BackupNameAttachment=" Build(0) 27 Jun 21 (00 28 32)"  -- used by backup system
+Log Started at Sun Jun 27 00:28:32 2021
+Built on Apr  5 2019 00:15:29
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<00:28:32> Loading Config file system.cfg (system.cfg)
+<00:28:32> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [0.7.9.10.190510]; Marked as [VF_CHEAT]
+<00:28:32> OnSysSpecChange(1)
+<00:28:32> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<00:28:32> GameDir: DATA
+<00:28:32> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<00:28:32> Windows 10 64 bit (build 10.0.19043)
+<00:28:32> System language: English
+<00:28:32> Windows Directory: "C:\Windows"
+<00:28:32> Local time is 00:28:32 06/27/21, system running for 782 minutes
+<00:28:32> 16333MB physical memory installed, 7089MB available, 134217727MB virtual memory installed, 56 percent of memory in use
+<00:28:32> PageFile usage: 109MB, Working Set: 125MB, Peak PageFile usage: 110MB,
+<00:28:32> Current display mode is 2560x1440x32, (Unknown graphics card)
+<00:28:32> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<00:28:32> --------------------------------------------------------------------------------
+<00:28:32> OnSysSpecChange(1)
+<00:28:32> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<00:28:32> Loading Config file game.cfg (data\game.cfg)
+<00:28:32> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<00:28:32> [Warning] Modifying marked variables will not be allowed in Release mode!
+<00:28:32> Stream Engine Initialization
+<00:28:32> GameName: Pandemic Express
+<00:28:32> BuildTime: Apr  5 2019 00:15:29
+<00:28:32> Physics initialization
+<00:28:32> Localized language content(english) not available or modified from the original installation.
+<00:28:32> Localized language content(english) not available or modified from the original installation.
+<00:28:32> Localized language content(english) not available or modified from the original installation.
+<00:28:32> <Audio>: AudioSystem initialization
+<00:28:32> <Audio> <0.456>: CryAudioImplWwise loaded
+<00:28:33> Renderer initialization
+<00:28:33> Logging video adapters:
+<00:28:35> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<00:28:35>   - Adapter index: 0
+<00:28:35>   - Dedicated video memory: 8043 MB
+<00:28:35>   - Feature level: DX11 (SM 5.0)
+<00:28:35>   - Displays connected: yes
+<00:28:35>   - Suitable rendering device: yes
+<00:28:35> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<00:28:35>   - Adapter index: 1
+<00:28:35>   - Dedicated video memory: 0 MB
+<00:28:35>   - Feature level: DX11 (SM 5.0)
+<00:28:35>   - Displays connected: no
+<00:28:35>   - Suitable rendering device: no
+<00:28:36> Active GPUs: 1
+<00:28:37> [Renderer] A display device has been connected to the system
+<00:28:37> Loading plugin CryDefaultEntities
+<00:28:37> Loading plugin CrySchematycCore
+<00:28:37> Loading plugin CrySchematycSTDEnv
+<00:28:37> Loading plugin CrySensorSystem
+<00:28:37> Loading extension file cryplugin.csv
+<00:28:37> Loading plugin ProcAnRandGenerator.dll
+<00:28:37> Loading plugin PlayFabDedicated.dll
+<00:28:37> DLL Failed to load, error code: 7E
+<00:28:37> Loading plugin PlayFab.dll
+<00:28:37> Font initialization
+<00:28:37> Using FreeType 2.5.5
+<00:28:39> Network initialization
+<00:28:39> [net] Socket IO management: External [iocp], Internal [iocp]
+<00:28:39> network hostname: DESKTOP-GKEDPQ6
+<00:28:39>   ip:192.168.20.21
+<00:28:39> [Network Version]: PROFILE DEVELOPMENT BUILD
+<00:28:39> MovieSystem initialization
+<00:28:39> Console initialization
+<00:28:39> Time initialization
+<00:28:39> Input initialization
+<00:28:39> AI initialization
+<00:28:39>  
+<00:28:39>     con_debug = 0 []
+<00:28:39>     con_display_last_messages = 0 []
+<00:28:39>     con_line_buffer_size = 1000 []
+<00:28:39>     con_restricted = 0 [RESTRICTEDMODE]
+<00:28:39>     con_showonload = 0 []
+<00:28:39>  
+<00:28:39>     con_debug = 0 []
+<00:28:39>     con_display_last_messages = 0 []
+<00:28:39>     con_line_buffer_size = 1000 []
+<00:28:39>     con_restricted = 0 [RESTRICTEDMODE]
+<00:28:39>     con_showonload = 0 []
+<00:28:39>  
+<00:28:39>     con_debug = 0 []
+<00:28:39>  
+<00:28:39>     con_debug = 0 []
+<00:28:39> Initializing Animation System
+<00:28:39> Initializing 3D Engine
+<00:28:39> Script System Initialization
+<00:28:39> Entity system initialization
+<00:28:39> Initializing AI System
+<00:28:39> Initializing additional systems
+<00:28:39> Dynamic Response System initialization
+<00:28:40> CGame::CGame()
+<00:28:40> [Steam] Steam API initialized successfully
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<00:28:41> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<00:28:41> Initializing default materials...

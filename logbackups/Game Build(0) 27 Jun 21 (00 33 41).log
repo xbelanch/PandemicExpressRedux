@@ -1,0 +1,557 @@
+BackupNameAttachment=" Build(0) 27 Jun 21 (00 33 41)"  -- used by backup system
+Log Started at Sun Jun 27 00:33:41 2021
+Built on Apr  5 2019 00:15:29
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<00:33:41> Loading Config file system.cfg (system.cfg)
+<00:33:41> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [0.7.9.10.190510]; Marked as [VF_CHEAT]
+<00:33:42> OnSysSpecChange(1)
+<00:33:42> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<00:33:42> GameDir: DATA
+<00:33:42> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<00:33:42> Windows 10 64 bit (build 10.0.19043)
+<00:33:42> System language: English
+<00:33:42> Windows Directory: "C:\Windows"
+<00:33:42> Local time is 00:33:42 06/27/21, system running for 787 minutes
+<00:33:42> 16333MB physical memory installed, 8035MB available, 134217727MB virtual memory installed, 50 percent of memory in use
+<00:33:42> PageFile usage: 107MB, Working Set: 124MB, Peak PageFile usage: 108MB,
+<00:33:42> Current display mode is 2560x1440x32, (Unknown graphics card)
+<00:33:42> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<00:33:42> --------------------------------------------------------------------------------
+<00:33:42> OnSysSpecChange(1)
+<00:33:42> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<00:33:42> Loading Config file game.cfg (data\game.cfg)
+<00:33:42> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<00:33:42> [Warning] Modifying marked variables will not be allowed in Release mode!
+<00:33:42> Stream Engine Initialization
+<00:33:42> GameName: Pandemic Express
+<00:33:42> BuildTime: Apr  5 2019 00:15:29
+<00:33:42> Physics initialization
+<00:33:42> Localized language content(english) not available or modified from the original installation.
+<00:33:42> Localized language content(english) not available or modified from the original installation.
+<00:33:42> Localized language content(english) not available or modified from the original installation.
+<00:33:42> <Audio>: AudioSystem initialization
+<00:33:42> <Audio> <0.408>: CryAudioImplWwise loaded
+<00:33:43> Renderer initialization
+<00:33:43> Logging video adapters:
+<00:33:45> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<00:33:45>   - Adapter index: 0
+<00:33:45>   - Dedicated video memory: 8043 MB
+<00:33:45>   - Feature level: DX11 (SM 5.0)
+<00:33:45>   - Displays connected: yes
+<00:33:45>   - Suitable rendering device: yes
+<00:33:45> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<00:33:45>   - Adapter index: 1
+<00:33:45>   - Dedicated video memory: 0 MB
+<00:33:45>   - Feature level: DX11 (SM 5.0)
+<00:33:45>   - Displays connected: no
+<00:33:45>   - Suitable rendering device: no
+<00:33:46> Active GPUs: 1
+<00:33:47> [Renderer] A display device has been connected to the system
+<00:33:47> Loading plugin CryDefaultEntities
+<00:33:47> Loading plugin CrySchematycCore
+<00:33:47> Loading plugin CrySchematycSTDEnv
+<00:33:47> Loading plugin CrySensorSystem
+<00:33:47> Loading extension file cryplugin.csv
+<00:33:47> Loading plugin ProcAnRandGenerator.dll
+<00:33:47> Loading plugin PlayFabDedicated.dll
+<00:33:47> DLL Failed to load, error code: 7E
+<00:33:47> Loading plugin PlayFab.dll
+<00:33:47> Font initialization
+<00:33:47> Using FreeType 2.5.5
+<00:33:48> Network initialization
+<00:33:49> [net] Socket IO management: External [iocp], Internal [iocp]
+<00:33:49> network hostname: DESKTOP-GKEDPQ6
+<00:33:49>   ip:192.168.20.21
+<00:33:49> [Network Version]: PROFILE DEVELOPMENT BUILD
+<00:33:49> MovieSystem initialization
+<00:33:49> Console initialization
+<00:33:49> Time initialization
+<00:33:49> Input initialization
+<00:33:49> AI initialization
+<00:33:49>  
+<00:33:49>     con_debug = 0 []
+<00:33:49>     con_display_last_messages = 0 []
+<00:33:49>     con_line_buffer_size = 1000 []
+<00:33:49>     con_restricted = 0 [RESTRICTEDMODE]
+<00:33:49>     con_showonload = 0 []
+<00:33:49>  
+<00:33:49>     con_debug = 0 []
+<00:33:49>     con_display_last_messages = 0 []
+<00:33:49>     con_line_buffer_size = 1000 []
+<00:33:49>     con_restricted = 0 [RESTRICTEDMODE]
+<00:33:49>     con_showonload = 0 []
+<00:33:49>  
+<00:33:49>     con_debug = 0 []
+<00:33:49>  
+<00:33:49>     con_debug = 0 []
+<00:33:49> Initializing Animation System
+<00:33:49> Initializing 3D Engine
+<00:33:49> Script System Initialization
+<00:33:49> Entity system initialization
+<00:33:49> Initializing AI System
+<00:33:49> Initializing additional systems
+<00:33:49> Dynamic Response System initialization
+<00:33:49> CGame::CGame()
+<00:33:50> [Steam] Steam API initialized successfully
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<00:33:50> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<00:33:51> Initializing default materials...
+<00:34:16> ESYSTEM_EVENT_GAME_POST_INIT_DONE
+<00:34:16> [MFX] Loading FXLib 'breakables' ...
+<00:34:16> [MFX] Loading FXLib 'collisions' ...
+<00:34:16> [MFX] Loading FXLib 'foley' ...
+<00:34:16> [MFX] Loading FXLib 'foley_grunt' ...
+<00:34:16> [MFX] Loading FXLib 'foley_player' ...
+<00:34:16> [MFX] Loading FXLib 'footstep_grunt' ...
+<00:34:16> [MFX] Loading FXLib 'footstep_player' ...
+<00:34:16> [MFX] Loading FXLib 'footsteps' ...
+<00:34:16> [MFX] Loading FXLib 'grenade' ...
+<00:34:16> [MFX] Loading FXLib 'melee' ...
+<00:34:16> [MFX] Loading FXLib 'player_fx' ...
+<00:34:16> [MFX] Loading FXLib 'projectiles' ...
+<00:34:16> [MFX] Loading FXLib 'tornado' ...
+<00:34:16> [MFX] Loading FXLib 'vegetation' ...
+<00:34:16> [MFX] Loading FXLib 'vehicles' ...
+<00:34:16> [Schematyc]: Loading...
+<00:34:16> [Schematyc]: Loading settings
+<00:34:16> [Schematyc]: Loading scripts
+<00:34:16> [Schematyc]: Compiling scripts
+<00:34:16> [Schematyc]: Loading complete
+<00:34:16> Creating socket on port 2840
+<00:34:16> CreateDatagramSocket c1
+<00:34:16> CreateDatagramSocket c2
+<00:34:31> [MFX] Loading FXLib 'breakables' ...
+<00:34:31> [MFX] Loading FXLib 'collisions' ...
+<00:34:31> [MFX] Loading FXLib 'foley' ...
+<00:34:31> [MFX] Loading FXLib 'foley_grunt' ...
+<00:34:31> [MFX] Loading FXLib 'foley_player' ...
+<00:34:31> [MFX] Loading FXLib 'footstep_grunt' ...
+<00:34:31> [MFX] Loading FXLib 'footstep_player' ...
+<00:34:31> [MFX] Loading FXLib 'footsteps' ...
+<00:34:31> [MFX] Loading FXLib 'grenade' ...
+<00:34:31> [MFX] Loading FXLib 'melee' ...
+<00:34:31> [MFX] Loading FXLib 'player_fx' ...
+<00:34:31> [MFX] Loading FXLib 'projectiles' ...
+<00:34:31> [MFX] Loading FXLib 'tornado' ...
+<00:34:31> [MFX] Loading FXLib 'vegetation' ...
+<00:34:31> [MFX] Loading FXLib 'vehicles' ...
+<00:34:43> CreateDatagramSocket c1
+<00:34:45> Game rules class: InstantAction
+<00:34:45> ============================ PrepareLevel Multiplayer/Purgatorium_Esc ============================
+<00:35:10> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:10> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:10> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:14> CPlayer::OnFirstSpawn(), player name = TheIvan
+<00:35:14> CPlayer::OnFirstSpawn called on client actor
+<00:35:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:15> CPlayer::OnFirstSpawn(), player name = < blank >
+<00:35:15> CPlayer::OnFirstSpawn called on client actor
+<00:35:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:15> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:15> CPlayer::OnFirstSpawn(), player name = Spy31
+<00:35:15> CPlayer::OnFirstSpawn called on client actor
+<00:35:17> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:17> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:17> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:17> CPlayer::OnFirstSpawn(), player name = Kornflakes
+<00:35:17> CPlayer::OnFirstSpawn called on client actor
+<00:35:17> LocalPlayerSpawned
+<00:35:19> [flow-log] Train arrival percent - 0
+<00:35:19> CryAnimation: character-definition not found: objects/characters/man.cdf
+<00:35:20> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:20> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:20> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<00:35:21> LocalPlayerSpawned
+<00:35:21> CPlayer::PartialAnimationControlled call, activate == false
+<00:35:23> [flow-log] Train arrival percent - 0
+<00:35:24> [flow-log] endgame_logick_started
+<00:35:25> [flow-log] chat start
+<00:35:26> [flow-log] Train arrival percent - 0
+<00:35:26> [flow-log] chat end
+<00:35:26> [flow-log] chat send text
+<00:35:26> [flow-log] chat start
+<00:35:28> [flow-log] chat end
+<00:35:28> [flow-log] chat send text
+<00:35:28> [flow-log] Train arrival percent - 0
+<00:35:30> CPlayer::ePlT_ClientPlayerUpdateStDelayed UpdatePlayerStatistic() call
+<00:35:31> [flow-log] Train arrival percent - 0
+<00:35:33> [flow-log] Train arrival percent - 0
+<00:35:36> [flow-log] Train arrival percent - 0
+<00:35:38> [flow-log] Train arrival percent - 0
+<00:35:41> [flow-log] Train arrival percent - 0
+<00:35:43> [flow-log] Train arrival percent - 0
+<00:35:46> [flow-log] Train arrival percent - 0
+<00:35:48> [flow-log] Train arrival percent - 0
+<00:35:51> [flow-log] Train arrival percent - 0
+<00:35:53> [flow-log] Train arrival percent - 0
+<00:35:56> [flow-log] Train arrival percent - 0
+<00:35:58> [flow-log] Train arrival percent - 0
+<00:36:01> [flow-log] Train arrival percent - 0
+<00:36:03> [flow-log] Train arrival percent - 0
+<00:36:06> [flow-log] Train arrival percent - 0
+<00:36:08> [flow-log] Train arrival percent - 0
+<00:36:11> [flow-log] Train arrival percent - 0
+<00:36:13> [flow-log] Train arrival percent - 0
+<00:36:16> [flow-log] Train arrival percent - 0
+<00:36:18> [flow-log] Train arrival percent - 0
+<00:36:21> [flow-log] Train arrival percent - 0
+<00:36:23> [flow-log] Train arrival percent - 0
+<00:36:26> [flow-log] Train arrival percent - 0
+<00:36:28> [flow-log] Train arrival percent - 0
+<00:36:31> [flow-log] Train arrival percent - 0
+<00:36:33> [flow-log] Train arrival percent - 0
+<00:36:36> [flow-log] Train arrival percent - 0
+<00:36:38> [flow-log] Train arrival percent - 0
+<00:36:41> [flow-log] Train arrival percent - 0
+<00:36:43> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:36:43> [flow-log] Train arrival percent - 0
+<00:36:45> CSingle::EndReload
+<00:36:46> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:36:46> [flow-log] Train arrival percent - 0
+<00:36:48> CSingle::EndReload
+<00:36:48> [flow-log] Train arrival percent - 0
+<00:36:50> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:36:51> [flow-log] Train arrival percent - 0
+<00:36:52> CSingle::EndReload
+<00:36:53> [flow-log] Train arrival percent - 0
+<00:36:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:36:55> CSingle::EndReload
+<00:36:56> [flow-log] Train arrival percent - 0
+<00:36:58> [flow-log] Train arrival percent - 0
+<00:37:01> [flow-log] Train arrival percent - 0
+<00:37:03> [flow-log] Train arrival percent - 0
+<00:37:06> [flow-log] Train arrival percent - 0
+<00:37:07> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:37:08> CSingle::EndReload
+<00:37:08> [flow-log] Train arrival percent - 0
+<00:37:11> [flow-log] Train arrival percent - 0
+<00:37:13> [flow-log] Train arrival percent - 0
+<00:37:16> [flow-log] Train arrival percent - 0
+<00:37:17> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:37:18> [flow-log] Train arrival percent - 0
+<00:37:19> CSingle::EndReload
+<00:37:20> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:37:21> [flow-log] Train arrival percent - 0
+<00:37:22> CSingle::EndReload
+<00:37:23> [flow-log] Train arrival percent - 0
+<00:37:24> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:37:26> CSingle::EndReload
+<00:37:26> [flow-log] Train arrival percent - 0
+<00:37:28> [flow-log] Train arrival percent - 0
+<00:37:31> [flow-log] Train arrival percent - 0
+<00:37:31> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:37:33> CSingle::EndReload
+<00:37:33> [flow-log] Train arrival percent - 0
+<00:37:35> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:37:36> [flow-log] Train arrival percent - 0
+<00:37:36> CSingle::EndReload
+<00:37:38> [flow-log] Train arrival percent - 0
+<00:37:41> [flow-log] Train arrival percent - 0
+<00:37:43> [flow-log] Train arrival percent - 0
+<00:37:46> [flow-log] Train arrival percent - 0
+<00:37:48> [flow-log] Train arrival percent - 0
+<00:37:51> [flow-log] Train arrival percent - 0
+<00:37:53> [flow-log] Train arrival percent - 0
+<00:37:56> [flow-log] Train arrival percent - 0
+<00:37:58> [flow-log] Train arrival percent - 0
+<00:38:01> [flow-log] Train arrival percent - 0
+<00:38:03> [flow-log] Train arrival percent - 0
+<00:38:06> [flow-log] Train arrival percent - 0
+<00:38:08> [flow-log] Train arrival percent - 0
+<00:38:11> [flow-log] Train arrival percent - 0
+<00:38:13> [flow-log] Train arrival percent - 0
+<00:38:14> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:16> [flow-log] Train arrival percent - 0
+<00:38:16> CSingle::EndReload
+<00:38:18> [flow-log] Train arrival percent - 0
+<00:38:21> [flow-log] Train arrival percent - 0
+<00:38:22> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:23> [flow-log] Train arrival percent - 0
+<00:38:23> CSingle::EndReload
+<00:38:25> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:26> [flow-log] Train arrival percent - 0
+<00:38:26> CSingle::EndReload
+<00:38:27> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:28> [flow-log] Train arrival percent - 0
+<00:38:29> CSingle::EndReload
+<00:38:31> [flow-log] Train arrival percent - 0
+<00:38:33> [flow-log] Train arrival percent - 0
+<00:38:34> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:35> CSingle::EndReload
+<00:38:36> [flow-log] Train arrival percent - 0
+<00:38:38> [flow-log] Train arrival percent - 0
+<00:38:41> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:41> [flow-log] Train arrival percent - 0
+<00:38:43> CSingle::EndReload
+<00:38:43> [flow-log] Train arrival percent - 0
+<00:38:45> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:46> [flow-log] Train arrival percent - 0
+<00:38:47> CSingle::EndReload
+<00:38:48> [flow-log] Train arrival percent - 0
+<00:38:51> [flow-log] Train arrival percent - 0
+<00:38:52> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:53> [flow-log] Train arrival percent - 0
+<00:38:54> CSingle::EndReload
+<00:38:56> [flow-log] Train arrival percent - 0
+<00:38:56> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:38:58> CSingle::EndReload
+<00:38:58> [flow-log] Train arrival percent - 0
+<00:39:01> [flow-log] Train arrival percent - 0
+<00:39:02> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:03> [flow-log] Train arrival percent - 0
+<00:39:04> CSingle::EndReload
+<00:39:06> [flow-log] Train arrival percent - 0
+<00:39:08> [flow-log] Train arrival percent - 0
+<00:39:11> [flow-log] Train arrival percent - 0
+<00:39:13> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:13> [flow-log] Train arrival percent - 0
+<00:39:14> CSingle::EndReload
+<00:39:16> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:16> [flow-log] Train arrival percent - 0
+<00:39:17> [Warning] Unknown command: ag_step
+<00:39:17> CSingle::EndReload
+<00:39:18> [flow-log] Train arrival percent - 0
+<00:39:21> [flow-log] Train arrival percent - 0
+<00:39:23> [flow-log] Train arrival percent - 0
+<00:39:24> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:26> CSingle::EndReload
+<00:39:26> [flow-log] Train arrival percent - 0
+<00:39:28> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:28> [flow-log] Train arrival percent - 0
+<00:39:30> CSingle::EndReload
+<00:39:31> [flow-log] Train arrival percent - 0
+<00:39:32> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:33> [flow-log] Train arrival percent - 0
+<00:39:34> CSingle::EndReload
+<00:39:36> [flow-log] Train arrival percent - 0
+<00:39:37> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:38> [flow-log] Train arrival percent - 0
+<00:39:39> CSingle::EndReload
+<00:39:41> [flow-log] Train arrival percent - 0
+<00:39:41> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:43> CSingle::EndReload
+<00:39:43> [flow-log] Train arrival percent - 0
+<00:39:46> [flow-log] Train arrival percent - 0
+<00:39:47> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:48> [flow-log] Train arrival percent - 0
+<00:39:49> CSingle::EndReload
+<00:39:51> [flow-log] Train arrival percent - 0
+<00:39:51> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:53> CSingle::EndReload
+<00:39:53> [flow-log] Train arrival percent - 0
+<00:39:56> [flow-log] Train arrival percent - 0
+<00:39:57> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:39:58> [flow-log] Train arrival percent - 0
+<00:39:59> CSingle::EndReload
+<00:40:00> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:40:01> [flow-log] Train arrival percent - 0
+<00:40:02> CSingle::EndReload
+<00:40:03> [flow-log] Train arrival percent - 0
+<00:40:05> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:40:06> [flow-log] Train arrival percent - 0
+<00:40:06> CSingle::EndReload
+<00:40:08> [flow-log] Train arrival percent - 0
+<00:40:11> [flow-log] Train arrival percent - 0
+<00:40:12> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:40:13> [flow-log] Train arrival percent - 0
+<00:40:14> CSingle::EndReload
+<00:40:16> [flow-log] Train arrival percent - 0
+<00:40:18> [flow-log] Train arrival percent - 0
+<00:40:20> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:40:21> [flow-log] Train arrival percent - 0
+<00:40:22> CSingle::EndReload
+<00:40:23> [flow-log] Train arrival percent - 0
+<00:40:26> [flow-log] Train arrival percent - 0
+<00:40:28> [flow-log] Train arrival percent - 0
+<00:40:30> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:40:31> [flow-log] Train arrival percent - 0
+<00:40:32> CSingle::EndReload
+<00:40:33> [flow-log] Train arrival percent - 0
+<00:40:34> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:40:36> [flow-log] Train arrival percent - 0
+<00:40:36> CSingle::EndReload
+<00:40:38> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:40:38> [flow-log] Train arrival percent - 0
+<00:40:39> CSingle::EndReload
+<00:40:41> [flow-log] Train arrival percent - 0
+<00:40:43> [flow-log] Train arrival percent - 0
+<00:40:46> [flow-log] Train arrival percent - 0
+<00:40:48> [flow-log] Train arrival percent - 0
+<00:40:51> [flow-log] Train arrival percent - 0
+<00:40:53> [flow-log] Train arrival percent - 0
+<00:40:56> [flow-log] Train arrival percent - 0
+<00:40:58> [flow-log] Train arrival percent - 0
+<00:41:01> [flow-log] Train arrival percent - 0
+<00:41:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:41:03> [flow-log] Train arrival percent - 0
+<00:41:05> CSingle::EndReload
+<00:41:06> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:41:06> [flow-log] Train arrival percent - 0
+<00:41:08> CSingle::EndReload
+<00:41:08> [flow-log] Train arrival percent - 0
+<00:41:09> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:41:11> CSingle::EndReload
+<00:41:11> [flow-log] Train arrival percent - 0
+<00:41:13> [flow-log] Train arrival percent - 0
+<00:41:15> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:41:16> [flow-log] Train arrival percent - 0
+<00:41:17> CSingle::EndReload
+<00:41:18> [flow-log] Train arrival percent - 0
+<00:41:21> [flow-log] Train arrival percent - 0
+<00:41:23> [flow-log] Train arrival percent - 0
+<00:41:26> [flow-log] Train arrival percent - 0
+<00:41:28> [flow-log] Train arrival percent - 0
+<00:41:31> [flow-log] Train arrival percent - 0
+<00:41:33> [flow-log] Train arrival percent - 0
+<00:41:36> [flow-log] Train arrival percent - 0
+<00:41:38> [flow-log] Train arrival percent - 0
+<00:41:41> [flow-log] Train arrival percent - 0
+<00:41:43> [flow-log] Train arrival percent - 0
+<00:41:46> [flow-log] Train arrival percent - 0
+<00:41:48> [flow-log] Train arrival percent - 0
+<00:41:51> [flow-log] Train arrival percent - 0
+<00:41:53> [flow-log] Train arrival percent - 0
+<00:41:56> [flow-log] Train arrival percent - 0
+<00:41:58> [flow-log] Train arrival percent - 0
+<00:42:01> [flow-log] Train arrival percent - 0
+<00:42:03> [flow-log] Train arrival percent - 0
+<00:42:06> [flow-log] Train arrival percent - 0
+<00:42:07> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:08> [flow-log] Train arrival percent - 0
+<00:42:09> CSingle::EndReload
+<00:42:11> [flow-log] Train arrival percent - 0
+<00:42:13> [flow-log] Train arrival percent - 0
+<00:42:15> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:16> [flow-log] Train arrival percent - 0
+<00:42:17> CSingle::EndReload
+<00:42:18> [flow-log] Train arrival percent - 0
+<00:42:21> [flow-log] Train arrival percent - 0
+<00:42:23> [flow-log] Train arrival percent - 0
+<00:42:24> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:26> [flow-log] Train arrival percent - 0
+<00:42:26> CSingle::EndReload
+<00:42:28> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:28> [flow-log] Train arrival percent - 0
+<00:42:29> CSingle::EndReload
+<00:42:31> [flow-log] Train arrival percent - 0
+<00:42:33> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:33> [flow-log] Train arrival percent - 0
+<00:42:35> CSingle::EndReload
+<00:42:36> [flow-log] Train arrival percent - 0
+<00:42:38> [flow-log] Train arrival percent - 0
+<00:42:40> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:41> [flow-log] Train arrival percent - 0
+<00:42:42> CSingle::EndReload
+<00:42:43> [flow-log] Train arrival percent - 0
+<00:42:46> [flow-log] Train arrival percent - 0
+<00:42:48> [flow-log] Train arrival percent - 0
+<00:42:51> [flow-log] Train arrival percent - 0
+<00:42:52> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:53> [flow-log] Train arrival percent - 0
+<00:42:54> CSingle::EndReload
+<00:42:56> [flow-log] Train arrival percent - 0
+<00:42:58> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:42:58> [flow-log] Train arrival percent - 0
+<00:42:59> CSingle::EndReload
+<00:43:01> [flow-log] Train arrival percent - 0
+<00:43:03> [flow-log] Train arrival percent - 0
+<00:43:05> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:43:06> [flow-log] Train arrival percent - 0
+<00:43:07> CSingle::EndReload
+<00:43:08> [flow-log] Train arrival percent - 0
+<00:43:11> [flow-log] Train arrival percent - 0
+<00:43:12> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:43:13> [flow-log] Train arrival percent - 0
+<00:43:14> CSingle::EndReload
+<00:43:16> [flow-log] Train arrival percent - 0
+<00:43:18> [flow-log] Train arrival percent - 0
+<00:43:21> [flow-log] Train arrival percent - 0
+<00:43:23> [flow-log] Train arrival percent - 0
+<00:43:26> [flow-log] Train arrival percent - 0
+<00:43:28> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:43:28> [flow-log] Train arrival percent - 0
+<00:43:30> CSingle::EndReload
+<00:43:31> [flow-log] Train arrival percent - 0
+<00:43:34> [flow-log] Train arrival percent - 0
+<00:43:35> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<00:43:36> [flow-log] Train arrival percent - 0
+<00:43:37> CSingle::EndReload
+<00:43:38> [flow-log] Train arrival percent - 0
+<00:43:41> [flow-log] Train arrival percent - 0
+<00:43:43> [flow-log] Train arrival percent - 0
+<00:43:46> [flow-log] Train arrival percent - 0
+<00:43:48> [flow-log] Train arrival percent - 0
+<00:43:51> [flow-log] Train arrival percent - 0
+<00:43:54> [flow-log] Train arrival percent - 0
+<00:43:56> [flow-log] Train arrival percent - 0
+<00:43:58> [flow-log] Train arrival percent - 0
+<00:44:02> BaseInput - Shutting down all force feedback
+<00:44:02> ActionGame - Shutting down all force feedback
+<00:44:02> gEnv->pRenderer->Draw2dImage XXX
+<00:44:10> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)
+<00:44:10> remapped bone indices with refcount '4294967293' still around for 'objects/characters/human/dude/source/pin_hands_sk.skin 0x00000231373BB830
+<00:44:10> remapped bone indices with refcount '4294967293' still around for 'objects/characters/human/dude/source/head.skin 0x00000231373BCAF0
+<00:44:10> remapped bone indices with refcount '4294967293' still around for 'objects/characters/human/dude/source/pin_body_sk.skin 0x00000231373BBB50

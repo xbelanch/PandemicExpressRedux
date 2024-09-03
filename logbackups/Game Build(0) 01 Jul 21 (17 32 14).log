@@ -1,0 +1,427 @@
+BackupNameAttachment=" Build(0) 01 Jul 21 (17 32 14)"  -- used by backup system
+Log Started at Thu Jul  1 17:32:14 2021
+Built on Oct 13 2019 19:15:33
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<17:32:14> Loading Config file system.cfg (system.cfg)
+<17:32:14> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [1.1.0.000.200116]; Marked as [VF_CHEAT]
+<17:32:14> OnSysSpecChange(1)
+<17:32:14> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<17:32:14> GameDir: DATA
+<17:32:14> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<17:32:14> Windows 10 64 bit (build 10.0.19043)
+<17:32:14> System language: English
+<17:32:14> Windows Directory: "C:\Windows"
+<17:32:14> Local time is 17:32:14 07/01/21, system running for 7566 minutes
+<17:32:14> 16333MB physical memory installed, 9205MB available, 134217727MB virtual memory installed, 43 percent of memory in use
+<17:32:14> PageFile usage: 110MB, Working Set: 126MB, Peak PageFile usage: 110MB,
+<17:32:14> Current display mode is 2560x1440x32, (Unknown graphics card)
+<17:32:14> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<17:32:14> --------------------------------------------------------------------------------
+<17:32:14> OnSysSpecChange(1)
+<17:32:14> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<17:32:14> Loading Config file game.cfg (data\game.cfg)
+<17:32:14> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<17:32:14> [Warning] Modifying marked variables will not be allowed in Release mode!
+<17:32:14> Stream Engine Initialization
+<17:32:14> GameName: Pandemic Express
+<17:32:14> BuildTime: Oct 13 2019 19:15:33
+<17:32:14> Physics initialization
+<17:32:14> Localized language content(english) not available or modified from the original installation.
+<17:32:14> Localized language content(english) not available or modified from the original installation.
+<17:32:14> Localized language content(english) not available or modified from the original installation.
+<17:32:14> <Audio>: AudioSystem initialization
+<17:32:14> <Audio> <0.752>: CryAudioImplWwise loaded
+<17:32:17> Renderer initialization
+<17:32:17> Logging video adapters:
+<17:32:19> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<17:32:19>   - Adapter index: 0
+<17:32:19>   - Dedicated video memory: 8043 MB
+<17:32:19>   - Feature level: DX11 (SM 5.0)
+<17:32:19>   - Displays connected: yes
+<17:32:19>   - Suitable rendering device: yes
+<17:32:19> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<17:32:19>   - Adapter index: 1
+<17:32:19>   - Dedicated video memory: 0 MB
+<17:32:19>   - Feature level: DX11 (SM 5.0)
+<17:32:19>   - Displays connected: no
+<17:32:19>   - Suitable rendering device: no
+<17:32:21> Active GPUs: 1
+<17:32:21> [Renderer] A display device has been connected to the system
+<17:32:21> Loading plugin CryDefaultEntities
+<17:32:21> Loading plugin CrySchematycCore
+<17:32:21> DLL Failed to load, error code: 7E
+<17:32:21> Loading plugin CrySchematycSTDEnv
+<17:32:21> DLL Failed to load, error code: 7E
+<17:32:21> Loading plugin CrySensorSystem
+<17:32:21> DLL Failed to load, error code: 7E
+<17:32:21> Loading extension file cryplugin.csv
+<17:32:21> Loading plugin ProcAnRandGenerator.dll
+<17:32:22> Loading plugin PlayFab.dll
+<17:32:22> Loading plugin CEVPlayer.dll
+<17:32:22> Font initialization
+<17:32:22> Using FreeType 2.5.5
+<17:32:24> Network initialization
+<17:32:24> [net] Socket IO management: External [iocp], Internal [iocp]
+<17:32:24> network hostname: DESKTOP-GKEDPQ6
+<17:32:24>   ip:192.168.20.21
+<17:32:24> [Network Version]: PROFILE DEVELOPMENT BUILD
+<17:32:24> MovieSystem initialization
+<17:32:24> Console initialization
+<17:32:24> Time initialization
+<17:32:24> Input initialization
+<17:32:25> AI initialization
+<17:32:25>  
+<17:32:25>     con_debug = 0 []
+<17:32:25>     con_display_last_messages = 0 []
+<17:32:25>     con_line_buffer_size = 1000 []
+<17:32:25>     con_restricted = 0 [RESTRICTEDMODE]
+<17:32:25>     con_showonload = 0 []
+<17:32:25>  
+<17:32:25>     con_debug = 0 []
+<17:32:25>     con_display_last_messages = 0 []
+<17:32:25>     con_line_buffer_size = 1000 []
+<17:32:25>     con_restricted = 0 [RESTRICTEDMODE]
+<17:32:25>     con_showonload = 0 []
+<17:32:25>  
+<17:32:25>     con_debug = 0 []
+<17:32:25>  
+<17:32:25>     con_debug = 0 []
+<17:32:25> Initializing Animation System
+<17:32:25> Initializing 3D Engine
+<17:32:25> Script System Initialization
+<17:32:25> Entity system initialization
+<17:32:25> Initializing AI System
+<17:32:25> Initializing additional systems
+<17:32:25> Dynamic Response System initialization
+<17:32:25> DLL Failed to load, error code: 7E
+<17:32:25> No Dynamic Response System was loaded from a module, will use the NULL implementation.
+<17:32:26> [Steam] Steam API initialized successfully
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<17:32:27> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<17:32:27> Initializing default materials...
+<17:32:35> [MFX] Loading FXLib 'breakables' ...
+<17:32:35> [MFX] Loading FXLib 'collisions' ...
+<17:32:35> [MFX] Loading FXLib 'foley' ...
+<17:32:35> [MFX] Loading FXLib 'foley_grunt' ...
+<17:32:35> [MFX] Loading FXLib 'foley_player' ...
+<17:32:35> [MFX] Loading FXLib 'footstep_grunt' ...
+<17:32:35> [MFX] Loading FXLib 'footstep_player' ...
+<17:32:35> [MFX] Loading FXLib 'footsteps' ...
+<17:32:35> [MFX] Loading FXLib 'grenade' ...
+<17:32:35> [MFX] Loading FXLib 'melee' ...
+<17:32:35> [MFX] Loading FXLib 'player_fx' ...
+<17:32:35> [MFX] Loading FXLib 'projectiles' ...
+<17:32:35> [MFX] Loading FXLib 'tornado' ...
+<17:32:35> [MFX] Loading FXLib 'vegetation' ...
+<17:32:35> [MFX] Loading FXLib 'vehicles' ...
+<17:32:35> [MFX] Loading FXLib 'breakables' ...
+<17:32:35> [MFX] Loading FXLib 'collisions' ...
+<17:32:35> [MFX] Loading FXLib 'foley' ...
+<17:32:35> [MFX] Loading FXLib 'foley_grunt' ...
+<17:32:35> [MFX] Loading FXLib 'foley_player' ...
+<17:32:35> [MFX] Loading FXLib 'footstep_grunt' ...
+<17:32:35> [MFX] Loading FXLib 'footstep_player' ...
+<17:32:35> [MFX] Loading FXLib 'footsteps' ...
+<17:32:35> [MFX] Loading FXLib 'grenade' ...
+<17:32:35> [MFX] Loading FXLib 'melee' ...
+<17:32:35> [MFX] Loading FXLib 'player_fx' ...
+<17:32:35> [MFX] Loading FXLib 'projectiles' ...
+<17:32:35> [MFX] Loading FXLib 'tornado' ...
+<17:32:35> [MFX] Loading FXLib 'vegetation' ...
+<17:32:35> [MFX] Loading FXLib 'vehicles' ...
+<17:32:35> Creating socket on port 2838
+<17:32:35> CreateDatagramSocket c1
+<17:32:35> CreateDatagramSocket c2
+<17:33:42> CreateDatagramSocket c1
+<17:33:44> Game rules class: InstantAction
+<17:33:44> ============================ PrepareLevel Multiplayer/Purgatorium_Esc_Cw ============================
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:44> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:45> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:47> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:50> PLAYERNAME Kornflakes
+<17:34:50> CryAnimation: character-definition not found: objects/characters/man.cdf
+<17:34:53> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:53> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:34:53> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:35:00> d_prerec_msg 
+<17:35:42> ed_prerec_msg 
+<17:35:44> d_prerec_msg 
+<17:35:45> sed_prerec_msg 
+<17:35:49> used_prerec_msg 
+<17:35:49> ast_used_prerec_msg 
+<17:35:51> sed_prerec_msg 
+<17:35:53> ast_used_prerec_msg 
+<17:36:00> st_used_prerec_msg 
+<17:36:05> _used_prerec_msg 
+<17:36:06> st_used_prerec_msg 
+<17:36:08> ed_prerec_msg 
+<17:36:11> st_used_prerec_msg 
+<17:36:11> sed_prerec_msg 
+<17:36:12> sed_prerec_msg 
+<17:36:13> st_used_prerec_msg 
+<17:36:14> sed_prerec_msg 
+<17:36:14> _used_prerec_msg 
+<17:36:19> sed_prerec_msg 
+<17:36:20> sed_prerec_msg 
+<17:36:21> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:36:21> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:36:21> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:36:26> st_used_prerec_msg 
+<17:36:29> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:36:29> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:36:29> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:36:29> ed_prerec_msg 
+<17:36:34> _used_prerec_msg 
+<17:36:36> d_prerec_msg 
+<17:36:37> _used_prerec_msg 
+<17:36:37> d_prerec_msg 
+<17:36:38> _used_prerec_msg 
+<17:36:39> d_prerec_msg 
+<17:37:07> CHUDNv::showPickArmorGradient()
+<17:37:21> CHUDNv::showPickArmorGradient()
+<17:37:28> CVehicleSeat::NetSetPassengerId c2
+<17:37:28> CVehicleSeat::Enter called
+<17:37:30> CVehicleSeat::NetSetPassengerId c2
+<17:37:30> CVehicleSeat::Enter called
+<17:37:47> CVehicleSeat::Exit called
+<17:37:47> CVehicleSeat::Exit called c2
+<17:37:47> ClProcessLeave call
+<17:38:00> CHUDNv::showPickArmorGradient()
+<17:38:00> CVehicleSeat::Exit called
+<17:38:00> CVehicleSeat::Exit called c2
+<17:38:00> ClProcessLeave call
+<17:38:12> CVehicleSeat::NetSetPassengerId c2
+<17:38:12> CVehicleSeat::Enter called
+<17:38:23> CVehicleSeat::Exit called
+<17:38:23> CVehicleSeat::Exit called c2
+<17:38:23> ClProcessLeave call
+<17:38:27> d_prerec_msg 
+<17:38:28> d_prerec_msg 
+<17:38:28> d_prerec_msg 
+<17:38:30> d_prerec_msg 
+<17:38:31> d_prerec_msg 
+<17:38:37> CVehicleSeat::NetSetPassengerId c2
+<17:38:37> CVehicleSeat::Enter called
+<17:38:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:38:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:38:48> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:38:59> CVehicleSeat::Exit called
+<17:38:59> CVehicleSeat::Exit called c2
+<17:38:59> ClProcessLeave call
+<17:39:46> d_prerec_msg 
+<17:39:55> d_prerec_msg 
+<17:41:40> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:41:40> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:41:40> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:14> CVehicleSeat::NetSetPassengerId c2
+<17:42:14> CVehicleSeat::Enter called
+<17:42:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<17:42:49> CVehicleSeat::Exit called
+<17:42:49> CVehicleSeat::Exit called c2
+<17:42:49> ClProcessLeave call
+<17:42:53> CVehicleSeat::NetSetPassengerId c2
+<17:42:53> CVehicleSeat::Enter called
+<17:43:05> CVehicleSeat::Exit called
+<17:43:05> CVehicleSeat::Exit called c2
+<17:43:05> ClProcessLeave call
+<17:43:09> CVehicleSeat::NetSetPassengerId c2
+<17:43:09> CVehicleSeat::Enter called
+<17:43:11> CVehicleSeat::Exit called
+<17:43:11> CVehicleSeat::Exit called c2
+<17:43:11> ClProcessLeave call
+<17:43:13> CVehicleSeat::NetSetPassengerId c2
+<17:43:13> CVehicleSeat::Enter called
+<17:43:14> CVehicleSeat::Exit called
+<17:43:14> CVehicleSeat::Exit called c2
+<17:43:14> ClProcessLeave call
+<17:43:14> CVehicleSeat::NetSetPassengerId c2
+<17:43:14> CVehicleSeat::Enter called
+<17:43:15> CVehicleSeat::Exit called
+<17:43:15> CVehicleSeat::Exit called c2
+<17:43:15> ClProcessLeave call
+<17:43:15> CVehicleSeat::NetSetPassengerId c2
+<17:43:15> CVehicleSeat::Enter called
+<17:43:16> CVehicleSeat::NetSetPassengerId c2
+<17:43:16> CVehicleSeat::Enter called
+<17:43:16> CVehicleSeat::Exit called
+<17:43:16> CVehicleSeat::Exit called c2
+<17:43:16> ClProcessLeave call
+<17:43:35> ast_used_prerec_msg 
+<17:43:37> d_prerec_msg 
+<17:43:39> CVehicleSeat::NetSetPassengerId c2
+<17:43:39> CVehicleSeat::Enter called
+<17:43:39> ast_used_prerec_msg 
+<17:43:42> st_used_prerec_msg 
+<17:43:44> t_used_prerec_msg 
+<17:43:59> t_used_prerec_msg 
+<17:44:04> CVehicleSeat::Exit called
+<17:44:04> CVehicleSeat::Exit called c2
+<17:44:04> ClProcessLeave call
+<17:44:06> CVehicleSeat::Exit called
+<17:44:06> CVehicleSeat::Exit called c2
+<17:44:06> ClProcessLeave call
+<17:45:21> st_used_prerec_msg 
+<17:45:23> CHUDNv::showPickArmorGradient()
+<17:45:24> st_used_prerec_msg 
+<17:45:24> CHUDNv::showPickArmorGradient()
+<17:45:27> st_used_prerec_msg 
+<17:45:40> st_used_prerec_msg 
+<17:45:49> sed_prerec_msg 
+<17:45:57> st_used_prerec_msg 
+<17:46:20> CTrain::SmplPlaySnd train_gts
+<17:50:17> CGameClientChannel::Release
+<17:50:17> gEnv->pRenderer->Draw2dImage XXX
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x000001BB4568E3A0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x000001BB45690920
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_torso.skin 0x000001BB4568F660
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x000001BB45691BE0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x000001BB4568E080
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_pants.skin 0x000001BB4568F340
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x000001BB45A11AC0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x000001BB45A12100
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/vanityset/vanityset_head.skin 0x000001BB45A12420
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x000001BB45A11DE0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x000001BB45A117A0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/safetyset/safetyset_head.skin 0x000001BB45A12A60
+<17:50:20> remapped bone indices with refcount '4294967258' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001BB45A12740
+<17:50:20> remapped bone indices with refcount '4294967258' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001BB45A11480
+<17:50:20> remapped bone indices with refcount '4294967258' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_torso.skin 0x000001BB45A130A0
+<17:50:20> remapped bone indices with refcount '4294967271' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001BB45B87FD0
+<17:50:20> remapped bone indices with refcount '4294967271' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001BB45B87CB0
+<17:50:20> remapped bone indices with refcount '4294967271' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_pants.skin 0x000001BB45B87990
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x000001BB45B87030
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x000001BB45B86D10
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebellionset_head.skin 0x000001BB45B866D0
+<17:50:20> remapped bone indices with refcount '4294967271' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001BB45B863B0
+<17:50:20> remapped bone indices with refcount '4294967271' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001BB45B88610
+<17:50:20> remapped bone indices with refcount '4294967271' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001BB45B882F0
+<17:50:20> remapped bone indices with refcount '4294967271' still around for 'objects/zhg_objects/characters/sets/rebellionset/rebelliomset_hands.skin 0x000001BB45B87670
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x000001BB45B89BF0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x000001BB45B88C50
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_torso.skin 0x000001BB45B869F0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x000001BB45B898D0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x000001BB45B87350
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/loverset/loverset_head.skin 0x000001BB45B89290
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x000001BB45B86090
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x000001BB45B88930
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_torso.skin 0x000001BB45B895B0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x000001BB45B88F70
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x000001BB454AD8C0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_pants.skin 0x000001BB454AD5A0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x000001BB454AD280
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x000001BB454ABFC0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/leaderset/leaderset_head.skin 0x000001BB454ACF60
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x000001BB454AAD00
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x000001BB454AA3A0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_torso.skin 0x000001BB454ACC40
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x000001BB454ABCA0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x000001BB454AB340
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_pants.skin 0x000001BB454AA080
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x000001BB454AB020
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x000001BB454AA9E0
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/hopefullset/hopefullset_head.skin 0x000001BB454AB980
+<17:50:20> remapped bone indices with refcount '4294967284' still around for 'objects/zhg_objects/characters/sets/doubtset/doubtset_head.skin 0x000001BB454AA6C0
+<17:50:20> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001BB454AB660
+<17:50:20> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001BB454ADBE0
+<17:50:20> remapped bone indices with refcount '4294967294' still around for 'objects/zhg_objects/characters/conserve/conserve_body.skin 0x000001BB454AC2E0
+<17:53:48> BaseInput - Shutting down all force feedback
+<17:53:48> ActionGame - Shutting down all force feedback
+<17:53:48> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)

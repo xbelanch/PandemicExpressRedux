@@ -1,0 +1,2112 @@
+BackupNameAttachment=" Build(0) 09 Mar 24 (11 53 15)"  -- used by backup system
+Log Started at Sat Mar  9 11:53:15 2024
+Built on Apr  5 2019 00:15:29
+Running 64 bit Windows version
+Command Line: "G:\SteamLibrary\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: G:\SteamLibrary\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 16
+Number of available logical processors: 16
+Total number of system cores: 8
+Number of cores available to process: 8
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 6:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 7:
+  CPU: AMD AMD Ryzen 7 5700X 8-Core Processor             
+  Family: 15, Model: 1, Stepping: 2
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<11:53:15> Loading Config file system.cfg (system.cfg)
+<11:53:15> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [0.7.9.10.190510]; Marked as [VF_CHEAT]
+<11:53:15> [Warning] system.cfg -> invalid configuration line: - if for what ever reason it doesn't use your local computer IP instead.
+<11:53:15> OnSysSpecChange(1)
+<11:53:15> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<11:53:15> GameDir: DATA
+<11:53:15> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<11:53:15> Windows 10 64 bit (build 10.0.22631)
+<11:53:15> System language: English
+<11:53:15> Windows Directory: "C:\Windows"
+<11:53:15> Local time is 11:53:15 03/09/24, system running for 1464 minutes
+<11:53:15> 16311MB physical memory installed, 8238MB available, 134217727MB virtual memory installed, 49 percent of memory in use
+<11:53:15> PageFile usage: 111MB, Working Set: 129MB, Peak PageFile usage: 133MB,
+<11:53:15> Current display mode is 2560x1440x32, (Unknown graphics card)
+<11:53:15> IBM enhanced (101/102-key) keyboard and 32+ button mouse installed
+<11:53:15> --------------------------------------------------------------------------------
+<11:53:15> OnSysSpecChange(1)
+<11:53:15> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<11:53:15> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<11:53:15> Loading Config file game.cfg (data\game.cfg)
+<11:53:15> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<11:53:15> [Warning] Modifying marked variables will not be allowed in Release mode!
+<11:53:15> Stream Engine Initialization
+<11:53:15> GameName: Pandemic Express
+<11:53:15> BuildTime: Apr  5 2019 00:15:29
+<11:53:15> Physics initialization
+<11:53:15> Localized language content(english) not available or modified from the original installation.
+<11:53:15> Localized language content(english) not available or modified from the original installation.
+<11:53:15> Localized language content(english) not available or modified from the original installation.
+<11:53:15> <Audio>: AudioSystem initialization
+<11:53:15> <Audio> <0.571>: CryAudioImplWwise loaded
+<11:53:17> Renderer initialization
+<11:53:17> Logging video adapters:
+<11:53:18> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<11:53:18>   - Adapter index: 0
+<11:53:18>   - Dedicated video memory: 8018 MB
+<11:53:18>   - Feature level: DX11 (SM 5.0)
+<11:53:18>   - Displays connected: yes
+<11:53:18>   - Suitable rendering device: yes
+<11:53:18> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<11:53:18>   - Adapter index: 1
+<11:53:18>   - Dedicated video memory: 0 MB
+<11:53:18>   - Feature level: DX11 (SM 5.0)
+<11:53:18>   - Displays connected: no
+<11:53:18>   - Suitable rendering device: no
+<11:53:19> Active GPUs: 1
+<11:53:20> [Renderer] A display device has been connected to the system
+<11:53:20> Loading plugin CryDefaultEntities
+<11:53:20> Loading plugin CrySchematycCore
+<11:53:20> Loading plugin CrySchematycSTDEnv
+<11:53:20> Loading plugin CrySensorSystem
+<11:53:20> Loading extension file cryplugin.csv
+<11:53:20> Loading plugin ProcAnRandGenerator.dll
+<11:53:20> Loading plugin PlayFabDedicated.dll
+<11:53:20> DLL Failed to load, error code: 7E
+<11:53:20> Loading plugin PlayFab.dll
+<11:53:20> Font initialization
+<11:53:20> Using FreeType 2.5.5
+<11:53:21> Network initialization
+<11:53:21> [net] Socket IO management: External [iocp], Internal [iocp]
+<11:53:21> network hostname: DESKTOP-HLBPRRK
+<11:53:21>   ip:192.168.20.18
+<11:53:21> [Network Version]: PROFILE DEVELOPMENT BUILD
+<11:53:21> MovieSystem initialization
+<11:53:22> Console initialization
+<11:53:22> Time initialization
+<11:53:22> Input initialization
+<11:53:22> AI initialization
+<11:53:22>  
+<11:53:22>     con_debug = 0 []
+<11:53:22>     con_display_last_messages = 0 []
+<11:53:22>     con_line_buffer_size = 1000 []
+<11:53:22>     con_restricted = 0 [RESTRICTEDMODE]
+<11:53:22>     con_showonload = 0 []
+<11:53:22>  
+<11:53:22>     con_debug = 0 []
+<11:53:22>     con_display_last_messages = 0 []
+<11:53:22>     con_line_buffer_size = 1000 []
+<11:53:22>     con_restricted = 0 [RESTRICTEDMODE]
+<11:53:22>     con_showonload = 0 []
+<11:53:22>  
+<11:53:22>     con_debug = 0 []
+<11:53:22>  
+<11:53:22>     con_debug = 0 []
+<11:53:22> Initializing Animation System
+<11:53:22> Initializing 3D Engine
+<11:53:22> Script System Initialization
+<11:53:22> Entity system initialization
+<11:53:22> Initializing AI System
+<11:53:22> Initializing additional systems
+<11:53:22> Dynamic Response System initialization
+<11:53:22> CGame::CGame()
+<11:53:23> [Steam] Steam API initialized successfully
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<11:53:23> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<11:53:23> Initializing default materials...
+<11:53:28> ESYSTEM_EVENT_GAME_POST_INIT_DONE
+<11:53:28> [MFX] Loading FXLib 'breakables' ...
+<11:53:28> [MFX] Loading FXLib 'collisions' ...
+<11:53:28> [MFX] Loading FXLib 'foley' ...
+<11:53:28> [MFX] Loading FXLib 'foley_grunt' ...
+<11:53:28> [MFX] Loading FXLib 'foley_player' ...
+<11:53:28> [MFX] Loading FXLib 'footstep_grunt' ...
+<11:53:28> [MFX] Loading FXLib 'footstep_player' ...
+<11:53:28> [MFX] Loading FXLib 'footsteps' ...
+<11:53:28> [MFX] Loading FXLib 'grenade' ...
+<11:53:28> [MFX] Loading FXLib 'melee' ...
+<11:53:28> [MFX] Loading FXLib 'player_fx' ...
+<11:53:28> [MFX] Loading FXLib 'projectiles' ...
+<11:53:28> [MFX] Loading FXLib 'tornado' ...
+<11:53:28> [MFX] Loading FXLib 'vegetation' ...
+<11:53:28> [MFX] Loading FXLib 'vehicles' ...
+<11:53:28> [Schematyc]: Loading...
+<11:53:28> [Schematyc]: Loading settings
+<11:53:28> [Schematyc]: Loading scripts
+<11:53:28> [Schematyc]: Compiling scripts
+<11:53:28> [Schematyc]: Loading complete
+<11:53:28> Creating socket on port 2838
+<11:53:28> CreateDatagramSocket c1
+<11:53:28> CreateDatagramSocket c2
+<11:53:48> [MFX] Loading FXLib 'breakables' ...
+<11:53:48> [MFX] Loading FXLib 'collisions' ...
+<11:53:48> [MFX] Loading FXLib 'foley' ...
+<11:53:48> [MFX] Loading FXLib 'foley_grunt' ...
+<11:53:48> [MFX] Loading FXLib 'foley_player' ...
+<11:53:48> [MFX] Loading FXLib 'footstep_grunt' ...
+<11:53:48> [MFX] Loading FXLib 'footstep_player' ...
+<11:53:48> [MFX] Loading FXLib 'footsteps' ...
+<11:53:48> [MFX] Loading FXLib 'grenade' ...
+<11:53:48> [MFX] Loading FXLib 'melee' ...
+<11:53:48> [MFX] Loading FXLib 'player_fx' ...
+<11:53:48> [MFX] Loading FXLib 'projectiles' ...
+<11:53:48> [MFX] Loading FXLib 'tornado' ...
+<11:53:48> [MFX] Loading FXLib 'vegetation' ...
+<11:53:48> [MFX] Loading FXLib 'vehicles' ...
+<11:54:00> CreateDatagramSocket c1
+<11:54:03> Game rules class: InstantAction
+<11:54:03> ============================ PrepareLevel Multiplayer/Purgatorium_Esc ============================
+<11:54:22> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:22> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:22> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CPlayer::OnFirstSpawn(), player name = ohspoyoudidnt
+<11:54:23> CPlayer::OnFirstSpawn called on client actor
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CPlayer::OnFirstSpawn(), player name = TossedGuitar
+<11:54:23> CPlayer::OnFirstSpawn called on client actor
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CPlayer::OnFirstSpawn(), player name = Just JDev
+<11:54:23> CPlayer::OnFirstSpawn called on client actor
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CPlayer::OnFirstSpawn(), player name = InForTheKill37
+<11:54:23> CPlayer::OnFirstSpawn called on client actor
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CPlayer::OnFirstSpawn(), player name = Yato
+<11:54:23> CPlayer::OnFirstSpawn called on client actor
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CPlayer::OnFirstSpawn(), player name = Flavor Candy
+<11:54:23> CPlayer::OnFirstSpawn called on client actor
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:23> CPlayer::OnFirstSpawn(), player name = Neuro
+<11:54:23> CPlayer::OnFirstSpawn called on client actor
+<11:54:24> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:24> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:24> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:24> CPlayer::OnFirstSpawn(), player name = _DYLAN_
+<11:54:24> CPlayer::OnFirstSpawn called on client actor
+<11:54:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:26> CPlayer::OnFirstSpawn(), player name = Kornflakes
+<11:54:26> CPlayer::OnFirstSpawn called on client actor
+<11:54:26> LocalPlayerSpawned
+<11:54:27> [flow-log] Train arrival percent - 0
+<11:54:28> CryAnimation: character-definition not found: objects/characters/man.cdf
+<11:54:28> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:28> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:28> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<11:54:29> LocalPlayerSpawned
+<11:54:29> CPlayer::PartialAnimationControlled call, activate == false
+<11:54:30> [flow-log] Train arrival percent - 0
+<11:54:31> CSingle::EndReload
+<11:54:31> [flow-log] endgame_logick_started
+<11:54:33> [flow-log] Train arrival percent - 0
+<11:54:34> CSingle::EndReload
+<11:54:35> [flow-log] Train arrival percent - 0
+<11:54:36> CPlayer::ePlT_ClientPlayerUpdateStDelayed UpdatePlayerStatistic() call
+<11:54:38> [flow-log] Train arrival percent - 0
+<11:54:40> CSingle::EndReload
+<11:54:40> [flow-log] Train arrival percent - 0
+<11:54:43> [flow-log] Train arrival percent - 0
+<11:54:45> [flow-log] Train arrival percent - 0
+<11:54:48> [flow-log] Train arrival percent - 0
+<11:54:50> [flow-log] Train arrival percent - 0
+<11:54:53> [flow-log] Train arrival percent - 0
+<11:54:55> [flow-log] Train arrival percent - 0
+<11:54:58> [flow-log] Train arrival percent - 0
+<11:55:00> [flow-log] Train arrival percent - 0
+<11:55:03> [flow-log] Train arrival percent - 0
+<11:55:05> [flow-log] Train arrival percent - 0
+<11:55:08> [flow-log] Train arrival percent - 0
+<11:55:08> CSingle::EndReload
+<11:55:10> [flow-log] Train arrival percent - 0
+<11:55:13> [flow-log] Train arrival percent - 0
+<11:55:15> [flow-log] Train arrival percent - 0
+<11:55:17> CSingle::EndReload
+<11:55:18> [flow-log] Train arrival percent - 0
+<11:55:20> [flow-log] Train arrival percent - 0
+<11:55:23> [flow-log] Train arrival percent - 0
+<11:55:25> [flow-log] Train arrival percent - 0
+<11:55:27> CSingle::EndReload
+<11:55:28> [flow-log] Train arrival percent - 0
+<11:55:30> [flow-log] Train arrival percent - 0
+<11:55:33> [flow-log] Train arrival percent - 0
+<11:55:35> [flow-log] Train arrival percent - 0
+<11:55:36> CSingle::EndReload
+<11:55:38> [flow-log] Train arrival percent - 0
+<11:55:40> CSingle::EndReload
+<11:55:40> [flow-log] Train arrival percent - 0
+<11:55:43> [flow-log] Train arrival percent - 0
+<11:55:44> CSingle::EndReload
+<11:55:45> [flow-log] Train arrival percent - 0
+<11:55:48> [flow-log] Train arrival percent - 0
+<11:55:48> CSingle::EndReload
+<11:55:50> [flow-log] Train arrival percent - 0
+<11:55:53> [flow-log] Train arrival percent - 0
+<11:55:55> [flow-log] Train arrival percent - 0
+<11:55:58> [flow-log] Train arrival percent - 0
+<11:56:00> [flow-log] Train arrival percent - 0
+<11:56:03> CSingle::EndReload
+<11:56:03> [flow-log] Train arrival percent - 0
+<11:56:05> [flow-log] Train arrival percent - 0
+<11:56:08> [flow-log] Train arrival percent - 0
+<11:56:10> [flow-log] Train arrival percent - 0
+<11:56:13> [flow-log] Train arrival percent - 0
+<11:56:15> [flow-log] Train arrival percent - 0
+<11:56:18> [flow-log] Train arrival percent - 0
+<11:56:20> [flow-log] Train arrival percent - 0
+<11:56:23> [flow-log] Train arrival percent - 0
+<11:56:25> [flow-log] Train arrival percent - 0
+<11:56:28> [flow-log] Train arrival percent - 0
+<11:56:30> [flow-log] Train arrival percent - 0
+<11:56:33> [flow-log] Train arrival percent - 0
+<11:56:35> [flow-log] Train arrival percent - 0
+<11:56:38> [flow-log] Train arrival percent - 0
+<11:56:40> [flow-log] Train arrival percent - 0
+<11:56:43> [flow-log] Train arrival percent - 0
+<11:56:45> [flow-log] Train arrival percent - 0
+<11:56:48> [flow-log] Train arrival percent - 0
+<11:56:48> CVehicleSeat::NetSetPassengerId c2
+<11:56:48> CVehicleSeat::Enter called
+<11:56:50> [flow-log] Train arrival percent - 0
+<11:56:53> [flow-log] Train arrival percent - 0
+<11:56:55> [flow-log] Train arrival percent - 0
+<11:56:58> CSingle::EndReload
+<11:56:58> [flow-log] Train arrival percent - 0
+<11:57:00> [flow-log] Train arrival percent - 0
+<11:57:02> CVehicleSeat::Exit called
+<11:57:02> CVehicleSeat::Exit called c2
+<11:57:02> ClProcessLeave call
+<11:57:03> [flow-log] Train arrival percent - 0
+<11:57:05> [flow-log] Train arrival percent - 0
+<11:57:08> [flow-log] Train arrival percent - 0
+<11:57:10> [flow-log] Train arrival percent - 0
+<11:57:13> [flow-log] Train arrival percent - 0
+<11:57:15> [flow-log] Train arrival percent - 0
+<11:57:16> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:57:17> CSingle::EndReload
+<11:57:18> [flow-log] Train arrival percent - 0
+<11:57:20> [flow-log] Train arrival percent - 0
+<11:57:23> [flow-log] Train arrival percent - 0
+<11:57:25> [flow-log] Train arrival percent - 0
+<11:57:26> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:57:27> CSingle::EndReload
+<11:57:28> [flow-log] Train arrival percent - 0
+<11:57:30> [flow-log] Train arrival percent - 0
+<11:57:33> [flow-log] Train arrival percent - 0
+<11:57:34> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:57:34> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:57:35> [flow-log] Train arrival percent - 0
+<11:57:36> CSingle::EndReload
+<11:57:38> [flow-log] Train arrival percent - 0
+<11:57:40> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:57:40> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:57:40> [flow-log] Train arrival percent - 0
+<11:57:43> [flow-log] Train arrival percent - 0
+<11:57:45> CHUDNv::showPickArmorGradient()
+<11:57:45> [flow-log] Train arrival percent - 0
+<11:57:48> [flow-log] Train arrival percent - 0
+<11:57:50> [flow-log] Train arrival percent - 0
+<11:57:52> CHUDNv::showPickArmorGradient()
+<11:57:53> [flow-log] Train arrival percent - 0
+<11:57:55> [flow-log] Train arrival percent - 0
+<11:57:58> [flow-log] Train arrival percent - 0
+<11:58:00> [flow-log] Train arrival percent - 0
+<11:58:03> [flow-log] Train arrival percent - 0
+<11:58:05> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:05> [flow-log] Train arrival percent - 0
+<11:58:06> CSingle::EndReload
+<11:58:08> [flow-log] Train arrival percent - 0
+<11:58:10> [flow-log] Train arrival percent - 0
+<11:58:13> [flow-log] Train arrival percent - 0
+<11:58:13> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:14> CVehicleSeat::NetSetPassengerId c2
+<11:58:14> CVehicleSeat::Enter called
+<11:58:15> CSingle::EndReload
+<11:58:15> [flow-log] Train arrival percent - 0
+<11:58:16> CVehicleSeat::Exit called
+<11:58:16> CVehicleSeat::Exit called c2
+<11:58:16> ClProcessLeave call
+<11:58:18> [flow-log] Train arrival percent - 0
+<11:58:20> [flow-log] Train arrival percent - 0
+<11:58:21> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:23> CSingle::EndReload
+<11:58:23> [flow-log] Train arrival percent - 0
+<11:58:23> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:23> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<11:58:23> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<11:58:25> [flow-log] Train arrival percent - 0
+<11:58:26> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:27> CSingle::EndReload
+<11:58:28> [flow-log] Train arrival percent - 0
+<11:58:29> CSingle::EndReload
+<11:58:30> [flow-log] Train arrival percent - 0
+<11:58:31> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:31> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<11:58:31> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<11:58:31> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<11:58:33> [flow-log] Train arrival percent - 0
+<11:58:35> [flow-log] Train arrival percent - 0
+<11:58:38> [flow-log] Train arrival percent - 0
+<11:58:40> [flow-log] Train arrival percent - 0
+<11:58:43> [flow-log] Train arrival percent - 0
+<11:58:43> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:45> CSingle::EndReload
+<11:58:45> [flow-log] Train arrival percent - 0
+<11:58:47> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:48> [flow-log] Train arrival percent - 0
+<11:58:48> CSingle::EndReload
+<11:58:50> [flow-log] Train arrival percent - 0
+<11:58:51> CHUDNv::showPickArmorGradient()
+<11:58:52> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:58:52> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<11:58:53> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<11:58:53> [flow-log] Train arrival percent - 0
+<11:58:55> [flow-log] Train arrival percent - 0
+<11:58:58> [flow-log] Train arrival percent - 0
+<11:58:59> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:00> [flow-log] Train arrival percent - 0
+<11:59:01> CSingle::EndReload
+<11:59:02> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:03> [flow-log] Train arrival percent - 0
+<11:59:04> CSingle::EndReload
+<11:59:05> [flow-log] Train arrival percent - 0
+<11:59:08> [flow-log] Train arrival percent - 0
+<11:59:10> [flow-log] Train arrival percent - 0
+<11:59:13> [flow-log] Train arrival percent - 0
+<11:59:15> [flow-log] Train arrival percent - 0
+<11:59:17> CSingle::EndReload
+<11:59:18> [flow-log] Train arrival percent - 0.0138154
+<11:59:19> requre_delayed_GroundEntity_change start
+<11:59:20> requre_delayed_GroundEntity_change end
+<11:59:20> [flow-log] Train arrival percent - 0.634834
+<11:59:22> CVehicleSeat::NetSetPassengerId c2
+<11:59:22> CVehicleSeat::Enter called
+<11:59:22> requre_delayed_GroundEntity_change start
+<11:59:23> requre_delayed_GroundEntity_change end
+<11:59:23> [flow-log] Train arrival percent - 1.57304
+<11:59:24> requre_delayed_GroundEntity_change start
+<11:59:25> requre_delayed_GroundEntity_change end
+<11:59:25> [flow-log] Train arrival percent - 2.50512
+<11:59:26> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:26> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:26> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:26> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:27> CSingle::EndReload
+<11:59:28> [flow-log] Train arrival percent - 3.42563
+<11:59:28> requre_delayed_GroundEntity_change start
+<11:59:29> requre_delayed_GroundEntity_change end
+<11:59:30> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:30> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:31> [flow-log] Train arrival percent - 4.34188
+<11:59:31> CSingle::EndReload
+<11:59:33> [flow-log] Train arrival percent - 5.25442
+<11:59:34> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:36> [flow-log] Train arrival percent - 6.17013
+<11:59:36> CSingle::EndReload
+<11:59:38> [flow-log] Train arrival percent - 7.08177
+<11:59:38> CVehicleSeat::Exit called
+<11:59:38> CVehicleSeat::Exit called c2
+<11:59:38> ClProcessLeave call
+<11:59:41> [flow-log] Train arrival percent - 7.98664
+<11:59:43> [flow-log] Train arrival percent - 8.89834
+<11:59:46> [flow-log] Train arrival percent - 9.80848
+<11:59:48> [flow-log] Train arrival percent - 10.7105
+<11:59:49> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:49> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:51> [flow-log] Train arrival percent - 11.6127
+<11:59:51> CSingle::EndReload
+<11:59:52> CSingle::EndReload
+<11:59:53> [flow-log] Train arrival percent - 12.5108
+<11:59:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:55> CSingle::EndReload
+<11:59:56> [flow-log] Train arrival percent - 13.4191
+<11:59:57> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<11:59:57> CSingle::EndReload
+<11:59:58> [flow-log] Train arrival percent - 14.3255
+<11:59:58> CSingle::EndReload
+<12:00:00> CSingle::EndReload
+<12:00:01> [flow-log] Train arrival percent - 15.2229
+<12:00:03> [flow-log] Train arrival percent - 16.1344
+<12:00:06> [flow-log] Train arrival percent - 17.0461
+<12:00:06> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:06> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:06> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:06> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:06> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:00:06> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:00:07> CSingle::EndReload
+<12:00:08> [flow-log] Train arrival percent - 17.9557
+<12:00:11> [flow-log] Train arrival percent - 18.8667
+<12:00:12> CSingle::EndReload
+<12:00:13> [flow-log] Train arrival percent - 19.7745
+<12:00:15> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:16> [flow-log] Train arrival percent - 20.676
+<12:00:18> CSingle::EndReload
+<12:00:18> [flow-log] Train arrival percent - 21.5863
+<12:00:21> [flow-log] Train arrival percent - 22.4821
+<12:00:21> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:22> CSingle::EndReload
+<12:00:23> CSingle::EndReload
+<12:00:23> [flow-log] Train arrival percent - 23.3869
+<12:00:23> requre_delayed_GroundEntity_change start
+<12:00:24> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:24> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:00:24> requre_delayed_GroundEntity_change end
+<12:00:24> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:00:24> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:00:26> [flow-log] Train arrival percent - 24.2976
+<12:00:28> CSingle::EndReload
+<12:00:28> [flow-log] Train arrival percent - 25.209
+<12:00:28> CSingle::EndReload
+<12:00:29> CSingle::EndReload
+<12:00:29> requre_delayed_GroundEntity_change start
+<12:00:29> requre_delayed_GroundEntity_change end
+<12:00:31> [flow-log] Train arrival percent - 26.1052
+<12:00:31> requre_delayed_GroundEntity_change start
+<12:00:32> CSingle::EndReload
+<12:00:32> requre_delayed_GroundEntity_change end
+<12:00:33> [flow-log] Train arrival percent - 27.0076
+<12:00:34> requre_delayed_GroundEntity_change start
+<12:00:34> requre_delayed_GroundEntity_change end
+<12:00:35> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:35> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:35> CSingle::EndReload
+<12:00:36> [flow-log] Train arrival percent - 27.9195
+<12:00:36> CSingle::EndReload
+<12:00:36> requre_delayed_GroundEntity_change start
+<12:00:36> requre_delayed_GroundEntity_change end
+<12:00:37> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:37> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:37> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:37> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:38> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:00:38> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:00:38> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:00:38> requre_delayed_GroundEntity_change start
+<12:00:38> [flow-log] Train arrival percent - 28.8237
+<12:00:38> requre_delayed_GroundEntity_change end
+<12:00:39> CSingle::EndReload
+<12:00:39> CSingle::EndReload
+<12:00:41> [flow-log] Train arrival percent - 29.7353
+<12:00:41> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:41> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:41> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:41> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:42> requre_delayed_GroundEntity_change start
+<12:00:43> requre_delayed_GroundEntity_change end
+<12:00:43> [flow-log] Train arrival percent - 30.6441
+<12:00:44> requre_delayed_GroundEntity_change start
+<12:00:44> requre_delayed_GroundEntity_change end
+<12:00:44> requre_delayed_GroundEntity_change start
+<12:00:45> CSingle::EndReload
+<12:00:45> requre_delayed_GroundEntity_change end
+<12:00:46> [flow-log] Train arrival percent - 31.5523
+<12:00:46> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:46> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:46> requre_delayed_GroundEntity_change start
+<12:00:47> requre_delayed_GroundEntity_change end
+<12:00:47> CSingle::EndReload
+<12:00:48> [flow-log] Train arrival percent - 32.4413
+<12:00:50> requre_delayed_GroundEntity_change start
+<12:00:51> requre_delayed_GroundEntity_change end
+<12:00:51> [flow-log] Train arrival percent - 33.3526
+<12:00:53> requre_delayed_GroundEntity_change start
+<12:00:53> [flow-log] Train arrival percent - 34.2604
+<12:00:53> CSingle::EndReload
+<12:00:53> requre_delayed_GroundEntity_change end
+<12:00:54> CSingle::EndReload
+<12:00:55> requre_delayed_GroundEntity_change start
+<12:00:55> requre_delayed_GroundEntity_change end
+<12:00:56> [flow-log] Train arrival percent - 35.1708
+<12:00:56> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:00:57> requre_delayed_GroundEntity_change start
+<12:00:57> requre_delayed_GroundEntity_change end
+<12:00:58> CSingle::EndReload
+<12:00:58> [flow-log] Train arrival percent - 36.0638
+<12:01:00> requre_delayed_GroundEntity_change start
+<12:01:00> requre_delayed_GroundEntity_change start
+<12:01:00> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:00> requre_delayed_GroundEntity_change end
+<12:01:00> requre_delayed_GroundEntity_change end
+<12:01:01> [flow-log] Train arrival percent - 36.9747
+<12:01:02> CSingle::EndReload
+<12:01:02> CSingle::EndReload
+<12:01:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:03> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:01:03> [flow-log] Train arrival percent - 37.8845
+<12:01:03> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:01:03> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:01:06> [flow-log] Train arrival percent - 38.7842
+<12:01:08> [flow-log] Train arrival percent - 39.6885
+<12:01:09> requre_delayed_GroundEntity_change start
+<12:01:10> requre_delayed_GroundEntity_change end
+<12:01:10> requre_delayed_GroundEntity_change start
+<12:01:10> requre_delayed_GroundEntity_change end
+<12:01:11> [flow-log] Train arrival percent - 40.6006
+<12:01:13> [flow-log] Train arrival percent - 41.5119
+<12:01:15> requre_delayed_GroundEntity_change start
+<12:01:15> requre_delayed_GroundEntity_change end
+<12:01:16> [flow-log] Train arrival percent - 42.4195
+<12:01:16> requre_delayed_GroundEntity_change start
+<12:01:16> requre_delayed_GroundEntity_change end
+<12:01:17> requre_delayed_GroundEntity_change start
+<12:01:17> requre_delayed_GroundEntity_change end
+<12:01:18> [flow-log] Train arrival percent - 43.3311
+<12:01:21> [flow-log] Train arrival percent - 44.232
+<12:01:21> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:21> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:01:22> CSingle::EndReload
+<12:01:22> requre_delayed_GroundEntity_change start
+<12:01:22> requre_delayed_GroundEntity_change start
+<12:01:23> requre_delayed_GroundEntity_change end
+<12:01:23> requre_delayed_GroundEntity_change end
+<12:01:23> [flow-log] Train arrival percent - 45.1318
+<12:01:24> requre_delayed_GroundEntity_change start
+<12:01:24> requre_delayed_GroundEntity_change end
+<12:01:25> requre_delayed_GroundEntity_change start
+<12:01:26> [flow-log] Train arrival percent - 46.0342
+<12:01:26> requre_delayed_GroundEntity_change end
+<12:01:26> CSingle::EndReload
+<12:01:27> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:28> requre_delayed_GroundEntity_change start
+<12:01:28> requre_delayed_GroundEntity_change end
+<12:01:28> [flow-log] Train arrival percent - 46.9366
+<12:01:29> CSingle::EndReload
+<12:01:29> CSingle::EndReload
+<12:01:31> [flow-log] Train arrival percent - 47.8499
+<12:01:31> requre_delayed_GroundEntity_change start
+<12:01:31> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:31> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:31> requre_delayed_GroundEntity_change end
+<12:01:32> requre_delayed_GroundEntity_change start
+<12:01:32> CPlayer::OnEnterInUsafeForZmbsZone
+<12:01:32> requre_delayed_GroundEntity_change end
+<12:01:32> requre_delayed_GroundEntity_change start
+<12:01:32> CTrainRails::HumanEvent id - 2
+<12:01:33> CPlayer::OnEnterInUsafeForZmbsZone
+<12:01:33> [flow-log] Train arrival percent - 48.6819
+<12:01:33> requre_delayed_GroundEntity_change start
+<12:01:33> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:33> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:33> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:33> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:34> requre_delayed_GroundEntity_change end
+<12:01:34> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:01:34> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:01:34> CPlayer::OnEnterInUsafeForZmbsZone
+<12:01:34> requre_delayed_GroundEntity_change start
+<12:01:34> CPlayer::OnEnterInUsafeForZmbsZone
+<12:01:35> requre_delayed_GroundEntity_change end
+<12:01:35> requre_delayed_GroundEntity_change start
+<12:01:35> CSingle::EndReload
+<12:01:35> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:01:35> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:01:36> CSingle::EndReload
+<12:01:36> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:01:36> [flow-log] Train arrival percent - 48.923
+<12:01:36> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:01:36> requre_delayed_GroundEntity_change end
+<12:01:37> requre_delayed_GroundEntity_change start
+<12:01:37> requre_delayed_GroundEntity_change end
+<12:01:38> [flow-log] Train arrival percent - 48.923
+<12:01:39> CPlayer::OnEnterInUsafeForZmbsZone
+<12:01:39> requre_delayed_GroundEntity_change start
+<12:01:39> requre_delayed_GroundEntity_change start
+<12:01:40> requre_delayed_GroundEntity_change end
+<12:01:40> requre_delayed_GroundEntity_change end
+<12:01:41> [flow-log] Train arrival percent - 48.923
+<12:01:42> CTrainRails::HumanEvent id - 3
+<12:01:42> CTrain::SmplPlaySnd train_gts
+<12:01:42> CPlayer::OnEnterInUsafeForZmbsZone
+<12:01:43> requre_delayed_GroundEntity_change start
+<12:01:43> CSingle::EndReload
+<12:01:43> requre_delayed_GroundEntity_change end
+<12:01:43> [flow-log] Train arrival percent - 48.923
+<12:01:45> CTrainRails::HumanEvent id - 4
+<12:01:46> [flow-log] Train arrival percent - 49.3277
+<12:01:47> CSingle::EndReload
+<12:01:48> [flow-log] Train arrival percent - 49.476
+<12:01:51> [flow-log] Train arrival percent - 49.4857
+<12:01:51> CSingle::EndReload
+<12:01:53> [flow-log] Train arrival percent - 49.4881
+<12:01:56> [flow-log] Train arrival percent - 49.4881
+<12:01:57> CSingle::EndReload
+<12:01:58> [flow-log] Train arrival percent - 49.4881
+<12:01:59> requre_delayed_GroundEntity_change start
+<12:01:59> requre_delayed_GroundEntity_change end
+<12:02:00> requre_delayed_GroundEntity_change start
+<12:02:00> CSingle::EndReload
+<12:02:01> requre_delayed_GroundEntity_change end
+<12:02:01> [flow-log] Train arrival percent - 49.4881
+<12:02:01> CSingle::EndReload
+<12:02:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:03> [flow-log] Train arrival percent - 49.4881
+<12:02:04> CSingle::EndReload
+<12:02:05> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:05> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:02:05> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:02:05> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:02:06> [flow-log] Train arrival percent - 49.4881
+<12:02:08> [flow-log] Train arrival percent - 49.4881
+<12:02:11> [flow-log] Train arrival percent - 49.4881
+<12:02:13> [flow-log] Train arrival percent - 49.4881
+<12:02:15> CSingle::EndReload
+<12:02:16> [flow-log] Train arrival percent - 49.4881
+<12:02:16> CSingle::EndReload
+<12:02:18> [flow-log] Train arrival percent - 49.4881
+<12:02:20> CSingle::EndReload
+<12:02:21> [flow-log] Train arrival percent - 49.4881
+<12:02:23> CSingle::EndReload
+<12:02:23> [flow-log] Train arrival percent - 49.4881
+<12:02:26> [flow-log] Train arrival percent - 49.4881
+<12:02:26> CSingle::EndReload
+<12:02:28> CSingle::EndReload
+<12:02:28> [flow-log] Train arrival percent - 49.4881
+<12:02:28> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:29> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:30> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:30> CSingle::EndReload
+<12:02:31> [flow-log] Train arrival percent - 49.4881
+<12:02:33> [flow-log] Train arrival percent - 49.4881
+<12:02:33> CSingle::EndReload
+<12:02:35> CTrainRails::HumanEvent id - 5
+<12:02:35> CTrain::SmplPlaySnd train_gts
+<12:02:35> CSingle::EndReload
+<12:02:36> [flow-log] Train arrival percent - 49.4881
+<12:02:36> CSingle::EndReload
+<12:02:38> [flow-log] Train arrival percent - 50.0129
+<12:02:39> CSingle::EndReload
+<12:02:40> CSingle::EndReload
+<12:02:41> [flow-log] Train arrival percent - 50.9447
+<12:02:41> requre_delayed_GroundEntity_change start
+<12:02:42> requre_delayed_GroundEntity_change end
+<12:02:42> CSingle::EndReload
+<12:02:42> requre_delayed_GroundEntity_change start
+<12:02:43> requre_delayed_GroundEntity_change end
+<12:02:43> [flow-log] Train arrival percent - 51.868
+<12:02:44> requre_delayed_GroundEntity_change start
+<12:02:45> requre_delayed_GroundEntity_change end
+<12:02:45> CSingle::EndReload
+<12:02:46> [flow-log] Train arrival percent - 52.7883
+<12:02:47> CSingle::EndReload
+<12:02:48> [flow-log] Train arrival percent - 53.7022
+<12:02:51> requre_delayed_GroundEntity_change start
+<12:02:51> [flow-log] Train arrival percent - 54.6153
+<12:02:51> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:51> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:53> CSingle::EndReload
+<12:02:53> [flow-log] Train arrival percent - 55.5297
+<12:02:53> requre_delayed_GroundEntity_change start
+<12:02:54> CSingle::EndReload
+<12:02:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:54> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:02:54> requre_delayed_GroundEntity_change end
+<12:02:54> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:02:54> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:02:55> CSingle::EndReload
+<12:02:56> [flow-log] Train arrival percent - 56.4427
+<12:02:56> requre_delayed_GroundEntity_change start
+<12:02:56> CSingle::EndReload
+<12:02:56> requre_delayed_GroundEntity_change end
+<12:02:58> [flow-log] Train arrival percent - 57.3489
+<12:03:01> [flow-log] Train arrival percent - 58.2468
+<12:03:01> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:01> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:03:03> requre_delayed_GroundEntity_change start
+<12:03:03> requre_delayed_GroundEntity_change end
+<12:03:03> [flow-log] Train arrival percent - 59.1596
+<12:03:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:03> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:04> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:03:04> CSingle::EndReload
+<12:03:05> CSingle::EndReload
+<12:03:06> [flow-log] Train arrival percent - 60.0641
+<12:03:07> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:07> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:08> [flow-log] Train arrival percent - 60.9735
+<12:03:08> CSingle::EndReload
+<12:03:09> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:09> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:03:10> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:03:11> CSingle::EndReload
+<12:03:11> [flow-log] Train arrival percent - 61.8772
+<12:03:13> [flow-log] Train arrival percent - 62.7879
+<12:03:14> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:14> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:14> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:14> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:15> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:03:15> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:03:15> CSingle::EndReload
+<12:03:16> [flow-log] Train arrival percent - 63.697
+<12:03:16> CSingle::EndReload
+<12:03:17> CSingle::EndReload
+<12:03:18> [flow-log] Train arrival percent - 64.6079
+<12:03:21> [flow-log] Train arrival percent - 65.5129
+<12:03:22> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:22> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:03:22> CSingle::CanReload call, m_reloading = true, m_reloadPending = true
+<12:03:23> [flow-log] Train arrival percent - 66.4172
+<12:03:23> CSingle::EndReload
+<12:03:24> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:24> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:03:25> CPlayer::OnEnterInUsafeForZmbsZone
+<12:03:25> CTrainRails::HumanEvent id - 2
+<12:03:25> requre_delayed_GroundEntity_change start
+<12:03:25> requre_delayed_GroundEntity_change end
+<12:03:25> requre_delayed_GroundEntity_change start
+<12:03:26> CSingle::EndReload
+<12:03:26> requre_delayed_GroundEntity_change start
+<12:03:26> [flow-log] Train arrival percent - 67.1891
+<12:03:26> requre_delayed_GroundEntity_change end
+<12:03:26> requre_delayed_GroundEntity_change end
+<12:03:27> requre_delayed_GroundEntity_change start
+<12:03:27> requre_delayed_GroundEntity_change end
+<12:03:28> requre_delayed_GroundEntity_change start
+<12:03:28> [flow-log] Train arrival percent - 67.3711
+<12:03:28> requre_delayed_GroundEntity_change start
+<12:03:29> requre_delayed_GroundEntity_change end
+<12:03:29> requre_delayed_GroundEntity_change end
+<12:03:29> CSingle::CanReload call, m_reloading = false, m_reloadPending = false
+<12:03:29> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:03:29> CSingle::CanReload call, m_reloading = true, m_reloadPending = false
+<12:03:30> requre_delayed_GroundEntity_change start
+<12:03:30> requre_delayed_GroundEntity_change end
+<12:03:31> [flow-log] Train arrival percent - 67.3889
+<12:03:31> CSingle::EndReload
+<12:03:32> requre_delayed_GroundEntity_change start
+<12:03:32> requre_delayed_GroundEntity_change start
+<12:03:32> requre_delayed_GroundEntity_change end
+<12:03:32> requre_delayed_GroundEntity_change end
+<12:03:33> [flow-log] Train arrival percent - 67.3922
+<12:03:33> CSingle::EndReload
+<12:03:35> CTrainRails::HumanEvent id - 3
+<12:03:35> CTrain::SmplPlaySnd train_gts
+<12:03:35> CSingle::EndReload
+<12:03:36> [flow-log] Train arrival percent - 67.3922
+<12:03:38> requre_delayed_GroundEntity_change start
+<12:03:38> requre_delayed_GroundEntity_change end
+<12:03:38> [flow-log] Train arrival percent - 67.9114
+<12:03:41> [flow-log] Train arrival percent - 68.46
+<12:03:42> CPlayer::OnEnterInUsafeForZmbsZone
+<12:03:42> human_in_bomber_radius = 0
+<12:03:42> CTrainRails::HumanEvent id - 2
+<12:03:42> CSingle::EndReload
+<12:03:42> human_in_bomber_radius = 0
+<12:03:42> human_in_bomber_radius = 0
+<12:03:42> CPlayer::PartialAnimationControlled call, activate == false
+<12:03:42> human_in_bomber_radius = 0
+<12:03:42> human_in_bomber_radius = 0
+<12:03:43> human_in_bomber_radius = 0
+<12:03:43> human_in_bomber_radius = 0
+<12:03:43> human_in_bomber_radius = 0
+<12:03:43> human_in_bomber_radius = 0
+<12:03:43> human_in_bomber_radius = 0
+<12:03:43> [flow-log] Train arrival percent - 68.6057
+<12:03:43> human_in_bomber_radius = 0
+<12:03:44> human_in_bomber_radius = 0
+<12:03:44> human_in_bomber_radius = 0
+<12:03:44> human_in_bomber_radius = 0
+<12:03:44> LocalPlayerSpawned
+<12:03:44> CPlayer::PartialAnimationControlled call, activate == false
+<12:03:44> human_in_bomber_radius = 0
+<12:03:44> human_in_bomber_radius = 0
+<12:03:44> human_in_bomber_radius = 0
+<12:03:45> human_in_bomber_radius = 0
+<12:03:45> human_in_bomber_radius = 0
+<12:03:45> human_in_bomber_radius = 0
+<12:03:45> human_in_bomber_radius = 0
+<12:03:45> requre_delayed_GroundEntity_change start
+<12:03:45> human_in_bomber_radius = 0
+<12:03:45> human_in_bomber_radius = 0
+<12:03:46> human_in_bomber_radius = 0
+<12:03:46> requre_delayed_GroundEntity_change end
+<12:03:46> human_in_bomber_radius = 0
+<12:03:46> [flow-log] Train arrival percent - 68.6061
+<12:03:46> human_in_bomber_radius = 0
+<12:03:46> human_in_bomber_radius = 0
+<12:03:46> human_in_bomber_radius = 0
+<12:03:46> human_in_bomber_radius = 0
+<12:03:47> human_in_bomber_radius = 0
+<12:03:47> human_in_bomber_radius = 0
+<12:03:47> human_in_bomber_radius = 0
+<12:03:47> human_in_bomber_radius = 0
+<12:03:47> human_in_bomber_radius = 0
+<12:03:47> human_in_bomber_radius = 0
+<12:03:48> human_in_bomber_radius = 0
+<12:03:48> CSingle::EndReload
+<12:03:48> human_in_bomber_radius = 0
+<12:03:48> human_in_bomber_radius = 0
+<12:03:48> human_in_bomber_radius = 0
+<12:03:48> human_in_bomber_radius = 0
+<12:03:48> [flow-log] Train arrival percent - 68.6061
+<12:03:48> human_in_bomber_radius = 0
+<12:03:49> human_in_bomber_radius = 0
+<12:03:49> human_in_bomber_radius = 0
+<12:03:49> human_in_bomber_radius = 0
+<12:03:49> human_in_bomber_radius = 0
+<12:03:49> human_in_bomber_radius = 0
+<12:03:49> human_in_bomber_radius = 0
+<12:03:50> human_in_bomber_radius = 0
+<12:03:50> human_in_bomber_radius = 0
+<12:03:50> human_in_bomber_radius = 0
+<12:03:50> human_in_bomber_radius = 0
+<12:03:50> human_in_bomber_radius = 0
+<12:03:50> human_in_bomber_radius = 0
+<12:03:50> CSingle::EndReload
+<12:03:51> human_in_bomber_radius = 0
+<12:03:51> human_in_bomber_radius = 0
+<12:03:51> [flow-log] Train arrival percent - 68.6061
+<12:03:51> human_in_bomber_radius = 0
+<12:03:51> human_in_bomber_radius = 0
+<12:03:51> human_in_bomber_radius = 0
+<12:03:51> human_in_bomber_radius = 0
+<12:03:51> CSingle::EndReload
+<12:03:52> human_in_bomber_radius = 0
+<12:03:52> human_in_bomber_radius = 0
+<12:03:52> CTrainRails::HumanEvent id - 3
+<12:03:52> CTrain::SmplPlaySnd train_gts
+<12:03:52> human_in_bomber_radius = 0
+<12:03:52> human_in_bomber_radius = 0
+<12:03:52> human_in_bomber_radius = 0
+<12:03:52> human_in_bomber_radius = 0
+<12:03:52> human_in_bomber_radius = 0
+<12:03:53> human_in_bomber_radius = 0
+<12:03:53> human_in_bomber_radius = 0
+<12:03:53> human_in_bomber_radius = 0
+<12:03:53> human_in_bomber_radius = 0
+<12:03:53> [flow-log] Train arrival percent - 68.6335
+<12:03:53> human_in_bomber_radius = 0
+<12:03:54> human_in_bomber_radius = 0
+<12:03:54> requre_delayed_GroundEntity_change start
+<12:03:54> human_in_bomber_radius = 0
+<12:03:54> CSingle::EndReload
+<12:03:54> CSingle::EndReload
+<12:03:54> human_in_bomber_radius = 0
+<12:03:54> requre_delayed_GroundEntity_change end
+<12:03:54> human_in_bomber_radius = 0
+<12:03:54> human_in_bomber_radius = 0
+<12:03:54> human_in_bomber_radius = 0
+<12:03:55> human_in_bomber_radius = 0
+<12:03:55> human_in_bomber_radius = 0
+<12:03:55> human_in_bomber_radius = 0
+<12:03:55> human_in_bomber_radius = 0
+<12:03:55> human_in_bomber_radius = 0
+<12:03:55> human_in_bomber_radius = 0
+<12:03:55> human_in_bomber_radius = 0
+<12:03:56> human_in_bomber_radius = 0
+<12:03:56> [flow-log] Train arrival percent - 69.4324
+<12:03:56> human_in_bomber_radius = 0
+<12:03:56> human_in_bomber_radius = 0
+<12:03:56> human_in_bomber_radius = 0
+<12:03:56> requre_delayed_GroundEntity_change start
+<12:03:56> human_in_bomber_radius = 0
+<12:03:56> human_in_bomber_radius = 0
+<12:03:57> requre_delayed_GroundEntity_change end
+<12:03:57> human_in_bomber_radius = 0
+<12:03:57> human_in_bomber_radius = 0
+<12:03:57> human_in_bomber_radius = 0
+<12:03:57> human_in_bomber_radius = 0
+<12:03:57> human_in_bomber_radius = 0
+<12:03:57> requre_delayed_GroundEntity_change start
+<12:03:57> human_in_bomber_radius = 0
+<12:03:58> CSingle::EndReload
+<12:03:58> human_in_bomber_radius = 0
+<12:03:58> human_in_bomber_radius = 0
+<12:03:58> requre_delayed_GroundEntity_change end
+<12:03:58> human_in_bomber_radius = 0
+<12:03:58> human_in_bomber_radius = 0
+<12:03:58> requre_delayed_GroundEntity_change start
+<12:03:58> human_in_bomber_radius = 0
+<12:03:58> [flow-log] Train arrival percent - 70.5531
+<12:03:58> human_in_bomber_radius = 0
+<12:03:59> requre_delayed_GroundEntity_change end
+<12:03:59> human_in_bomber_radius = 0
+<12:03:59> human_in_bomber_radius = 0
+<12:03:59> human_in_bomber_radius = 0
+<12:03:59> human_in_bomber_radius = 0
+<12:03:59> human_in_bomber_radius = 0
+<12:03:59> human_in_bomber_radius = 0
+<12:04:00> CSingle::EndReload
+<12:04:00> human_in_bomber_radius = 0
+<12:04:00> human_in_bomber_radius = 0
+<12:04:00> human_in_bomber_radius = 0
+<12:04:00> human_in_bomber_radius = 0
+<12:04:00> CPlayer::OnEnterInUsafeForZmbsZone
+<12:04:00> human_in_bomber_radius = 0
+<12:04:00> CTrainRails::HumanEvent id - 2
+<12:04:00> human_in_bomber_radius = 0
+<12:04:01> requre_delayed_GroundEntity_change start
+<12:04:01> human_in_bomber_radius = 0
+<12:04:01> human_in_bomber_radius = 0
+<12:04:01> [flow-log] Train arrival percent - 71.6588
+<12:04:01> requre_delayed_GroundEntity_change end
+<12:04:01> human_in_bomber_radius = 0
+<12:04:01> human_in_bomber_radius = 0
+<12:04:01> human_in_bomber_radius = 0
+<12:04:01> human_in_bomber_radius = 0
+<12:04:02> human_in_bomber_radius = 0
+<12:04:02> human_in_bomber_radius = 0
+<12:04:02> human_in_bomber_radius = 0
+<12:04:02> human_in_bomber_radius = 0
+<12:04:02> requre_delayed_GroundEntity_change start
+<12:04:02> human_in_bomber_radius = 0
+<12:04:02> human_in_bomber_radius = 0
+<12:04:03> human_in_bomber_radius = 0
+<12:04:03> requre_delayed_GroundEntity_change end
+<12:04:03> human_in_bomber_radius = 0
+<12:04:03> requre_delayed_GroundEntity_change start
+<12:04:03> human_in_bomber_radius = 0
+<12:04:03> requre_delayed_GroundEntity_change start
+<12:04:03> human_in_bomber_radius = 0
+<12:04:03> human_in_bomber_radius = 0
+<12:04:03> requre_delayed_GroundEntity_change end
+<12:04:03> [flow-log] Train arrival percent - 72.1028
+<12:04:03> requre_delayed_GroundEntity_change end
+<12:04:03> human_in_bomber_radius = 0
+<12:04:04> human_in_bomber_radius = 0
+<12:04:04> human_in_bomber_radius = 0
+<12:04:04> human_in_bomber_radius = 0
+<12:04:04> human_in_bomber_radius = 0
+<12:04:04> CSingle::EndReload
+<12:04:04> requre_delayed_GroundEntity_change start
+<12:04:04> human_in_bomber_radius = 0
+<12:04:04> human_in_bomber_radius = 0
+<12:04:05> human_in_bomber_radius = 0
+<12:04:05> requre_delayed_GroundEntity_change start
+<12:04:05> human_in_bomber_radius = 0
+<12:04:05> requre_delayed_GroundEntity_change end
+<12:04:05> human_in_bomber_radius = 0
+<12:04:05> human_in_bomber_radius = 0
+<12:04:05> requre_delayed_GroundEntity_change end
+<12:04:05> human_in_bomber_radius = 0
+<12:04:05> human_in_bomber_radius = 0
+<12:04:05> requre_delayed_GroundEntity_change start
+<12:04:06> human_in_bomber_radius = 0
+<12:04:06> human_in_bomber_radius = 0
+<12:04:06> [flow-log] Train arrival percent - 72.1047
+<12:04:06> requre_delayed_GroundEntity_change end
+<12:04:06> human_in_bomber_radius = 0
+<12:04:06> human_in_bomber_radius = 0
+<12:04:06> human_in_bomber_radius = 0
+<12:04:06> human_in_bomber_radius = 0
+<12:04:07> human_in_bomber_radius = 0
+<12:04:07> requre_delayed_GroundEntity_change start
+<12:04:07> human_in_bomber_radius = 0
+<12:04:07> human_in_bomber_radius = 0
+<12:04:07> requre_delayed_GroundEntity_change end
+<12:04:07> human_in_bomber_radius = 0
+<12:04:07> human_in_bomber_radius = 0
+<12:04:07> human_in_bomber_radius = 0
+<12:04:08> human_in_bomber_radius = 0
+<12:04:08> human_in_bomber_radius = 0
+<12:04:08> human_in_bomber_radius = 0
+<12:04:08> human_in_bomber_radius = 0
+<12:04:08> human_in_bomber_radius = 0
+<12:04:08> [flow-log] Train arrival percent - 72.1047
+<12:04:08> human_in_bomber_radius = 0
+<12:04:09> human_in_bomber_radius = 0
+<12:04:09> human_in_bomber_radius = 0
+<12:04:09> human_in_bomber_radius = 0
+<12:04:09> human_in_bomber_radius = 0
+<12:04:09> human_in_bomber_radius = 0
+<12:04:09> human_in_bomber_radius = 0
+<12:04:10> human_in_bomber_radius = 0
+<12:04:10> human_in_bomber_radius = 0
+<12:04:10> human_in_bomber_radius = 0
+<12:04:10> human_in_bomber_radius = 0
+<12:04:10> human_in_bomber_radius = 0
+<12:04:10> CTrainRails::HumanEvent id - 3
+<12:04:10> CTrain::SmplPlaySnd train_gts
+<12:04:10> human_in_bomber_radius = 0
+<12:04:10> human_in_bomber_radius = 0
+<12:04:11> human_in_bomber_radius = 0
+<12:04:11> human_in_bomber_radius = 0
+<12:04:11> [flow-log] Train arrival percent - 72.1047
+<12:04:11> human_in_bomber_radius = 0
+<12:04:11> human_in_bomber_radius = 0
+<12:04:11> CSingle::EndReload
+<12:04:11> human_in_bomber_radius = 0
+<12:04:11> CPlayer::PartialAnimationControlled call, activate == false
+<12:04:11> human_in_bomber_radius = 0
+<12:04:12> human_in_bomber_radius = 0
+<12:04:12> human_in_bomber_radius = 0
+<12:04:12> human_in_bomber_radius = 0
+<12:04:12> human_in_bomber_radius = 0
+<12:04:12> human_in_bomber_radius = 0
+<12:04:12> human_in_bomber_radius = 0
+<12:04:13> human_in_bomber_radius = 0
+<12:04:13> human_in_bomber_radius = 0
+<12:04:13> human_in_bomber_radius = 0
+<12:04:13> human_in_bomber_radius = 0
+<12:04:13> human_in_bomber_radius = 0
+<12:04:13> ZMBSuperAbility activation sucess
+<12:04:13> LocalPlayerSpawned
+<12:04:13> CPlayer::PartialAnimationControlled call, activate == false
+<12:04:13> [flow-log] Train arrival percent - 72.1047
+<12:04:13> human_in_bomber_radius = 0
+<12:04:14> human_in_bomber_radius = 0
+<12:04:14> LocalPlayerSpawned
+<12:04:14> CPlayer::PartialAnimationControlled call, activate == false
+<12:04:14> human_in_bomber_radius = 0
+<12:04:14> human_in_bomber_radius = 0
+<12:04:14> human_in_bomber_radius = 0
+<12:04:14> human_in_bomber_radius = 0
+<12:04:14> human_in_bomber_radius = 0
+<12:04:15> human_in_bomber_radius = 0
+<12:04:15> human_in_bomber_radius = 0
+<12:04:15> human_in_bomber_radius = 0
+<12:04:15> human_in_bomber_radius = 0
+<12:04:15> human_in_bomber_radius = 0
+<12:04:15> human_in_bomber_radius = 0
+<12:04:16> human_in_bomber_radius = 0
+<12:04:16> human_in_bomber_radius = 0
+<12:04:16> [flow-log] Train arrival percent - 72.1047
+<12:04:16> human_in_bomber_radius = 0
+<12:04:16> human_in_bomber_radius = 0
+<12:04:16> human_in_bomber_radius = 0
+<12:04:16> human_in_bomber_radius = 0
+<12:04:17> human_in_bomber_radius = 0
+<12:04:17> human_in_bomber_radius = 0
+<12:04:17> human_in_bomber_radius = 0
+<12:04:17> human_in_bomber_radius = 0
+<12:04:17> human_in_bomber_radius = 0
+<12:04:17> human_in_bomber_radius = 0
+<12:04:18> human_in_bomber_radius = 0
+<12:04:18> human_in_bomber_radius = 0
+<12:04:18> human_in_bomber_radius = 0
+<12:04:18> human_in_bomber_radius = 0
+<12:04:18> human_in_bomber_radius = 0
+<12:04:18> [flow-log] Train arrival percent - 72.1047
+<12:04:18> human_in_bomber_radius = 0
+<12:04:18> requre_delayed_GroundEntity_change start
+<12:04:19> human_in_bomber_radius = 0
+<12:04:19> human_in_bomber_radius = 0
+<12:04:19> requre_delayed_GroundEntity_change end
+<12:04:19> human_in_bomber_radius = 0
+<12:04:19> human_in_bomber_radius = 0
+<12:04:19> human_in_bomber_radius = 0
+<12:04:19> human_in_bomber_radius = 0
+<12:04:20> human_in_bomber_radius = 0
+<12:04:20> CSingle::EndReload
+<12:04:20> human_in_bomber_radius = 0
+<12:04:20> human_in_bomber_radius = 0
+<12:04:20> human_in_bomber_radius = 0
+<12:04:20> human_in_bomber_radius = 0
+<12:04:20> human_in_bomber_radius = 0
+<12:04:21> human_in_bomber_radius = 0
+<12:04:21> human_in_bomber_radius = 0
+<12:04:21> [flow-log] Train arrival percent - 72.1047
+<12:04:21> human_in_bomber_radius = 0
+<12:04:21> human_in_bomber_radius = 0
+<12:04:21> human_in_bomber_radius = 0
+<12:04:21> human_in_bomber_radius = 0
+<12:04:22> human_in_bomber_radius = 0
+<12:04:22> human_in_bomber_radius = 0
+<12:04:22> human_in_bomber_radius = 0
+<12:04:22> human_in_bomber_radius = 0
+<12:04:22> human_in_bomber_radius = 0
+<12:04:22> human_in_bomber_radius = 0
+<12:04:23> human_in_bomber_radius = 0
+<12:04:23> human_in_bomber_radius = 0
+<12:04:23> human_in_bomber_radius = 0
+<12:04:23> human_in_bomber_radius = 0
+<12:04:23> human_in_bomber_radius = 0
+<12:04:23> [flow-log] Train arrival percent - 72.1047
+<12:04:23> human_in_bomber_radius = 0
+<12:04:24> human_in_bomber_radius = 0
+<12:04:24> human_in_bomber_radius = 0
+<12:04:24> human_in_bomber_radius = 0
+<12:04:24> human_in_bomber_radius = 0
+<12:04:24> human_in_bomber_radius = 0
+<12:04:24> human_in_bomber_radius = 0
+<12:04:25> human_in_bomber_radius = 0
+<12:04:25> human_in_bomber_radius = 0
+<12:04:25> human_in_bomber_radius = 0
+<12:04:25> human_in_bomber_radius = 0
+<12:04:25> human_in_bomber_radius = 0
+<12:04:25> human_in_bomber_radius = 0
+<12:04:25> human_in_bomber_radius = 0
+<12:04:26> human_in_bomber_radius = 0
+<12:04:26> human_in_bomber_radius = 0
+<12:04:26> [flow-log] Train arrival percent - 72.1047
+<12:04:26> human_in_bomber_radius = 0
+<12:04:26> human_in_bomber_radius = 0
+<12:04:26> human_in_bomber_radius = 0
+<12:04:26> human_in_bomber_radius = 0
+<12:04:27> human_in_bomber_radius = 0
+<12:04:27> human_in_bomber_radius = 0
+<12:04:27> human_in_bomber_radius = 0
+<12:04:27> human_in_bomber_radius = 0
+<12:04:27> human_in_bomber_radius = 0
+<12:04:27> human_in_bomber_radius = 0
+<12:04:28> human_in_bomber_radius = 0
+<12:04:28> human_in_bomber_radius = 0
+<12:04:28> human_in_bomber_radius = 0
+<12:04:28> human_in_bomber_radius = 0
+<12:04:28> human_in_bomber_radius = 0
+<12:04:28> [flow-log] Train arrival percent - 72.2009
+<12:04:28> human_in_bomber_radius = 1
+<12:04:29> human_in_bomber_radius = 1
+<12:04:29> human_in_bomber_radius = 1
+<12:04:29> human_in_bomber_radius = 0
+<12:04:29> human_in_bomber_radius = 0
+<12:04:29> human_in_bomber_radius = 0
+<12:04:29> human_in_bomber_radius = 0
+<12:04:30> requre_delayed_GroundEntity_change start
+<12:04:30> human_in_bomber_radius = 0
+<12:04:30> human_in_bomber_radius = 0
+<12:04:30> requre_delayed_GroundEntity_change end
+<12:04:30> human_in_bomber_radius = 0
+<12:04:30> human_in_bomber_radius = 0
+<12:04:30> human_in_bomber_radius = 0
+<12:04:30> human_in_bomber_radius = 0
+<12:04:31> human_in_bomber_radius = 0
+<12:04:31> human_in_bomber_radius = 0
+<12:04:31> [flow-log] Train arrival percent - 73.3504
+<12:04:31> human_in_bomber_radius = 0
+<12:04:31> requre_delayed_GroundEntity_change start
+<12:04:31> human_in_bomber_radius = 0
+<12:04:31> human_in_bomber_radius = 0
+<12:04:31> human_in_bomber_radius = 0
+<12:04:31> requre_delayed_GroundEntity_change end
+<12:04:32> human_in_bomber_radius = 0
+<12:04:32> human_in_bomber_radius = 0
+<12:04:32> human_in_bomber_radius = 0
+<12:04:32> human_in_bomber_radius = 0
+<12:04:32> human_in_bomber_radius = 0
+<12:04:32> human_in_bomber_radius = 0
+<12:04:33> human_in_bomber_radius = 0
+<12:04:33> human_in_bomber_radius = 0
+<12:04:33> human_in_bomber_radius = 0
+<12:04:33> human_in_bomber_radius = 0
+<12:04:33> human_in_bomber_radius = 0
+<12:04:33> [flow-log] Train arrival percent - 74.8098
+<12:04:33> CSingle::EndReload
+<12:04:33> human_in_bomber_radius = 0
+<12:04:34> human_in_bomber_radius = 0
+<12:04:34> human_in_bomber_radius = 0
+<12:04:34> human_in_bomber_radius = 0
+<12:04:34> human_in_bomber_radius = 0
+<12:04:34> human_in_bomber_radius = 0
+<12:04:34> human_in_bomber_radius = 0
+<12:04:35> human_in_bomber_radius = 0
+<12:04:35> human_in_bomber_radius = 0
+<12:04:35> human_in_bomber_radius = 0
+<12:04:35> human_in_bomber_radius = 0
+<12:04:35> human_in_bomber_radius = 0
+<12:04:35> human_in_bomber_radius = 0
+<12:04:36> human_in_bomber_radius = 0
+<12:04:36> human_in_bomber_radius = 0
+<12:04:36> [flow-log] Train arrival percent - 76.2427
+<12:04:36> human_in_bomber_radius = 0
+<12:04:36> human_in_bomber_radius = 0
+<12:04:36> human_in_bomber_radius = 0
+<12:04:36> human_in_bomber_radius = 0
+<12:04:37> human_in_bomber_radius = 0
+<12:04:37> human_in_bomber_radius = 0
+<12:04:37> human_in_bomber_radius = 0
+<12:04:37> human_in_bomber_radius = 0
+<12:04:37> human_in_bomber_radius = 0
+<12:04:37> human_in_bomber_radius = 0
+<12:04:38> human_in_bomber_radius = 0
+<12:04:38> CPlayer::PartialAnimationControlled call, activate == false
+<12:04:38> human_in_bomber_radius = 0
+<12:04:38> human_in_bomber_radius = 0
+<12:04:38> human_in_bomber_radius = 0
+<12:04:38> human_in_bomber_radius = 0
+<12:04:38> human_in_bomber_radius = 0
+<12:04:38> [flow-log] Train arrival percent - 77.6376
+<12:04:39> human_in_bomber_radius = 0
+<12:04:39> human_in_bomber_radius = 0
+<12:04:39> human_in_bomber_radius = 0
+<12:04:39> human_in_bomber_radius = 0
+<12:04:39> human_in_bomber_radius = 0
+<12:04:39> human_in_bomber_radius = 0
+<12:04:40> human_in_bomber_radius = 0
+<12:04:40> human_in_bomber_radius = 0
+<12:04:40> human_in_bomber_radius = 0
+<12:04:40> requre_delayed_GroundEntity_change start
+<12:04:40> human_in_bomber_radius = 0
+<12:04:40> CSingle::EndReload
+<12:04:40> human_in_bomber_radius = 0
+<12:04:40> requre_delayed_GroundEntity_change end
+<12:04:40> requre_delayed_GroundEntity_change start
+<12:04:40> human_in_bomber_radius = 0
+<12:04:41> human_in_bomber_radius = 0
+<12:04:41> LocalPlayerSpawned
+<12:04:41> human_in_bomber_radius = 0
+<12:04:41> requre_delayed_GroundEntity_change end
+<12:04:41> CPlayer::PartialAnimationControlled call, activate == false
+<12:04:41> requre_delayed_GroundEntity_change start
+<12:04:41> human_in_bomber_radius = 0
+<12:04:41> [flow-log] Train arrival percent - 78.6435
+<12:04:41> human_in_bomber_radius = 0
+<12:04:41> requre_delayed_GroundEntity_change end
+<12:04:41> requre_delayed_GroundEntity_change start
+<12:04:41> human_in_bomber_radius = 0
+<12:04:41> human_in_bomber_radius = 0
+<12:04:42> requre_delayed_GroundEntity_change end
+<12:04:42> human_in_bomber_radius = 0
+<12:04:42> human_in_bomber_radius = 0
+<12:04:42> human_in_bomber_radius = 0
+<12:04:42> human_in_bomber_radius = 0
+<12:04:42> human_in_bomber_radius = 0
+<12:04:42> human_in_bomber_radius = 0
+<12:04:43> human_in_bomber_radius = 0
+<12:04:43> human_in_bomber_radius = 0
+<12:04:43> requre_delayed_GroundEntity_change start
+<12:04:43> human_in_bomber_radius = 0
+<12:04:43> human_in_bomber_radius = 0
+<12:04:43> requre_delayed_GroundEntity_change end
+<12:04:43> human_in_bomber_radius = 0
+<12:04:43> human_in_bomber_radius = 0
+<12:04:43> [flow-log] Train arrival percent - 79.4459
+<12:04:44> human_in_bomber_radius = 0
+<12:04:44> human_in_bomber_radius = 0
+<12:04:44> human_in_bomber_radius = 0
+<12:04:44> human_in_bomber_radius = 0
+<12:04:44> human_in_bomber_radius = 0
+<12:04:44> CSingle::EndReload
+<12:04:44> human_in_bomber_radius = 0
+<12:04:45> human_in_bomber_radius = 0
+<12:04:45> human_in_bomber_radius = 0
+<12:04:45> human_in_bomber_radius = 0
+<12:04:45> human_in_bomber_radius = 0
+<12:04:45> human_in_bomber_radius = 0
+<12:04:45> human_in_bomber_radius = 0
+<12:04:46> human_in_bomber_radius = 0
+<12:04:46> human_in_bomber_radius = 0
+<12:04:46> human_in_bomber_radius = 0
+<12:04:46> [flow-log] Train arrival percent - 80.2338
+<12:04:46> human_in_bomber_radius = 0
+<12:04:46> human_in_bomber_radius = 0
+<12:04:46> human_in_bomber_radius = 0
+<12:04:46> human_in_bomber_radius = 0
+<12:04:47> requre_delayed_GroundEntity_change start
+<12:04:47> requre_delayed_GroundEntity_change start
+<12:04:47> human_in_bomber_radius = 0
+<12:04:47> human_in_bomber_radius = 0
+<12:04:47> requre_delayed_GroundEntity_change end
+<12:04:47> human_in_bomber_radius = 0
+<12:04:47> requre_delayed_GroundEntity_change end
+<12:04:47> human_in_bomber_radius = 0
+<12:04:47> human_in_bomber_radius = 0
+<12:04:47> human_in_bomber_radius = 0
+<12:04:48> human_in_bomber_radius = 0
+<12:04:48> human_in_bomber_radius = 0
+<12:04:48> human_in_bomber_radius = 0
+<12:04:48> human_in_bomber_radius = 0
+<12:04:48> human_in_bomber_radius = 0
+<12:04:48> [flow-log] Train arrival percent - 80.3188
+<12:04:48> human_in_bomber_radius = 0
+<12:04:49> human_in_bomber_radius = 0
+<12:04:49> human_in_bomber_radius = 0
+<12:04:49> human_in_bomber_radius = 0
+<12:04:49> human_in_bomber_radius = 0
+<12:04:49> human_in_bomber_radius = 0
+<12:04:49> human_in_bomber_radius = 0
+<12:04:50> human_in_bomber_radius = 0
+<12:04:50> human_in_bomber_radius = 0
+<12:04:50> human_in_bomber_radius = 0
+<12:04:50> human_in_bomber_radius = 0
+<12:04:50> human_in_bomber_radius = 0
+<12:04:50> human_in_bomber_radius = 0
+<12:04:51> human_in_bomber_radius = 0
+<12:04:51> human_in_bomber_radius = 0
+<12:04:51> [flow-log] Train arrival percent - 80.3256
+<12:04:51> human_in_bomber_radius = 0
+<12:04:51> human_in_bomber_radius = 0
+<12:04:51> human_in_bomber_radius = 0
+<12:04:51> human_in_bomber_radius = 0
+<12:04:52> human_in_bomber_radius = 0
+<12:04:52> human_in_bomber_radius = 0
+<12:04:52> human_in_bomber_radius = 0
+<12:04:52> requre_delayed_GroundEntity_change start
+<12:04:52> human_in_bomber_radius = 0
+<12:04:52> human_in_bomber_radius = 0
+<12:04:52> requre_delayed_GroundEntity_change end
+<12:04:52> human_in_bomber_radius = 0
+<12:04:52> CSingle::EndReload
+<12:04:53> human_in_bomber_radius = 0
+<12:04:53> human_in_bomber_radius = 0
+<12:04:53> human_in_bomber_radius = 0
+<12:04:53> human_in_bomber_radius = 0
+<12:04:53> human_in_bomber_radius = 0
+<12:04:53> human_in_bomber_radius = 0
+<12:04:53> [flow-log] Train arrival percent - 80.3257
+<12:04:54> human_in_bomber_radius = 0
+<12:04:54> human_in_bomber_radius = 0
+<12:04:54> human_in_bomber_radius = 0
+<12:04:54> human_in_bomber_radius = 0
+<12:04:54> human_in_bomber_radius = 0
+<12:04:54> human_in_bomber_radius = 0
+<12:04:55> human_in_bomber_radius = 0
+<12:04:55> human_in_bomber_radius = 0
+<12:04:55> human_in_bomber_radius = 0
+<12:04:55> human_in_bomber_radius = 0
+<12:04:55> human_in_bomber_radius = 0
+<12:04:55> human_in_bomber_radius = 0
+<12:04:56> human_in_bomber_radius = 0
+<12:04:56> human_in_bomber_radius = 0
+<12:04:56> human_in_bomber_radius = 0
+<12:04:56> [flow-log] Train arrival percent - 80.3257
+<12:04:56> human_in_bomber_radius = 0
+<12:04:56> human_in_bomber_radius = 0
+<12:04:56> human_in_bomber_radius = 0
+<12:04:57> human_in_bomber_radius = 0
+<12:04:57> human_in_bomber_radius = 0
+<12:04:57> human_in_bomber_radius = 0
+<12:04:57> human_in_bomber_radius = 0
+<12:04:57> human_in_bomber_radius = 0
+<12:04:57> human_in_bomber_radius = 0
+<12:04:57> human_in_bomber_radius = 0
+<12:04:58> human_in_bomber_radius = 0
+<12:04:58> human_in_bomber_radius = 0
+<12:04:58> human_in_bomber_radius = 0
+<12:04:58> human_in_bomber_radius = 0
+<12:04:58> human_in_bomber_radius = 0
+<12:04:58> [flow-log] Train arrival percent - 80.3257
+<12:04:58> human_in_bomber_radius = 0
+<12:04:59> human_in_bomber_radius = 0
+<12:04:59> human_in_bomber_radius = 0
+<12:04:59> human_in_bomber_radius = 0
+<12:04:59> human_in_bomber_radius = 0
+<12:04:59> human_in_bomber_radius = 0
+<12:04:59> human_in_bomber_radius = 0
+<12:05:00> human_in_bomber_radius = 0
+<12:05:00> human_in_bomber_radius = 0
+<12:05:00> human_in_bomber_radius = 0
+<12:05:00> human_in_bomber_radius = 0
+<12:05:00> human_in_bomber_radius = 0
+<12:05:00> human_in_bomber_radius = 0
+<12:05:01> human_in_bomber_radius = 0
+<12:05:01> human_in_bomber_radius = 0
+<12:05:01> [flow-log] Train arrival percent - 80.3257
+<12:05:01> human_in_bomber_radius = 0
+<12:05:01> human_in_bomber_radius = 0
+<12:05:01> human_in_bomber_radius = 0
+<12:05:01> human_in_bomber_radius = 0
+<12:05:02> human_in_bomber_radius = 0
+<12:05:02> human_in_bomber_radius = 0
+<12:05:02> human_in_bomber_radius = 0
+<12:05:02> human_in_bomber_radius = 0
+<12:05:02> human_in_bomber_radius = 0
+<12:05:02> human_in_bomber_radius = 0
+<12:05:03> human_in_bomber_radius = 0
+<12:05:03> human_in_bomber_radius = 0
+<12:05:03> human_in_bomber_radius = 0
+<12:05:03> human_in_bomber_radius = 0
+<12:05:03> human_in_bomber_radius = 0
+<12:05:03> [flow-log] Train arrival percent - 80.4157
+<12:05:03> human_in_bomber_radius = 0
+<12:05:04> human_in_bomber_radius = 0
+<12:05:04> requre_delayed_GroundEntity_change start
+<12:05:04> requre_delayed_GroundEntity_change start
+<12:05:04> human_in_bomber_radius = 0
+<12:05:04> human_in_bomber_radius = 0
+<12:05:04> requre_delayed_GroundEntity_change end
+<12:05:04> human_in_bomber_radius = 0
+<12:05:04> requre_delayed_GroundEntity_change end
+<12:05:04> human_in_bomber_radius = 0
+<12:05:04> human_in_bomber_radius = 0
+<12:05:05> human_in_bomber_radius = 0
+<12:05:05> human_in_bomber_radius = 0
+<12:05:05> human_in_bomber_radius = 0
+<12:05:05> human_in_bomber_radius = 0
+<12:05:05> human_in_bomber_radius = 0
+<12:05:05> requre_delayed_GroundEntity_change start
+<12:05:05> CSingle::EndReload
+<12:05:05> human_in_bomber_radius = 0
+<12:05:06> human_in_bomber_radius = 0
+<12:05:06> requre_delayed_GroundEntity_change end
+<12:05:06> human_in_bomber_radius = 0
+<12:05:06> human_in_bomber_radius = 0
+<12:05:06> [flow-log] Train arrival percent - 81.5475
+<12:05:06> human_in_bomber_radius = 0
+<12:05:06> human_in_bomber_radius = 0
+<12:05:06> human_in_bomber_radius = 0
+<12:05:07> human_in_bomber_radius = 0
+<12:05:07> human_in_bomber_radius = 0
+<12:05:07> human_in_bomber_radius = 0
+<12:05:07> human_in_bomber_radius = 0
+<12:05:07> human_in_bomber_radius = 0
+<12:05:07> human_in_bomber_radius = 0
+<12:05:08> human_in_bomber_radius = 0
+<12:05:08> human_in_bomber_radius = 0
+<12:05:08> human_in_bomber_radius = 0
+<12:05:08> CSingle::EndReload
+<12:05:08> human_in_bomber_radius = 0
+<12:05:08> human_in_bomber_radius = 0
+<12:05:08> human_in_bomber_radius = 0
+<12:05:08> [flow-log] Train arrival percent - 82.7218
+<12:05:09> human_in_bomber_radius = 0
+<12:05:09> human_in_bomber_radius = 0
+<12:05:09> human_in_bomber_radius = 0
+<12:05:09> human_in_bomber_radius = 0
+<12:05:09> human_in_bomber_radius = 0
+<12:05:09> human_in_bomber_radius = 0
+<12:05:09> requre_delayed_GroundEntity_change start
+<12:05:10> human_in_bomber_radius = 0
+<12:05:10> human_in_bomber_radius = 0
+<12:05:10> requre_delayed_GroundEntity_change end
+<12:05:10> human_in_bomber_radius = 0
+<12:05:10> human_in_bomber_radius = 0
+<12:05:10> human_in_bomber_radius = 0
+<12:05:10> human_in_bomber_radius = 0
+<12:05:11> human_in_bomber_radius = 0
+<12:05:11> human_in_bomber_radius = 0
+<12:05:11> human_in_bomber_radius = 0
+<12:05:11> [flow-log] Train arrival percent - 83.5959
+<12:05:11> human_in_bomber_radius = 0
+<12:05:11> human_in_bomber_radius = 0
+<12:05:11> human_in_bomber_radius = 0
+<12:05:12> human_in_bomber_radius = 0
+<12:05:12> human_in_bomber_radius = 0
+<12:05:12> human_in_bomber_radius = 0
+<12:05:12> human_in_bomber_radius = 0
+<12:05:12> requre_delayed_GroundEntity_change start
+<12:05:12> CSingle::EndReload
+<12:05:12> human_in_bomber_radius = 0
+<12:05:12> human_in_bomber_radius = 0
+<12:05:13> human_in_bomber_radius = 0
+<12:05:13> human_in_bomber_radius = 0
+<12:05:13> human_in_bomber_radius = 0
+<12:05:13> requre_delayed_GroundEntity_change end
+<12:05:13> human_in_bomber_radius = 0
+<12:05:13> human_in_bomber_radius = 0
+<12:05:13> human_in_bomber_radius = 0
+<12:05:13> [flow-log] Train arrival percent - 85.0236
+<12:05:14> human_in_bomber_radius = 0
+<12:05:14> human_in_bomber_radius = 0
+<12:05:14> human_in_bomber_radius = 0
+<12:05:14> human_in_bomber_radius = 0
+<12:05:14> human_in_bomber_radius = 0
+<12:05:14> human_in_bomber_radius = 0
+<12:05:15> human_in_bomber_radius = 0
+<12:05:15> human_in_bomber_radius = 0
+<12:05:15> human_in_bomber_radius = 0
+<12:05:15> human_in_bomber_radius = 0
+<12:05:15> human_in_bomber_radius = 0
+<12:05:15> CSingle::EndReload
+<12:05:15> human_in_bomber_radius = 0
+<12:05:16> human_in_bomber_radius = 0
+<12:05:16> human_in_bomber_radius = 0
+<12:05:16> human_in_bomber_radius = 0
+<12:05:16> [flow-log] Train arrival percent - 86.4547
+<12:05:16> requre_delayed_GroundEntity_change start
+<12:05:16> human_in_bomber_radius = 0
+<12:05:16> human_in_bomber_radius = 0
+<12:05:16> human_in_bomber_radius = 0
+<12:05:16> requre_delayed_GroundEntity_change end
+<12:05:17> human_in_bomber_radius = 0
+<12:05:17> human_in_bomber_radius = 0
+<12:05:17> human_in_bomber_radius = 0
+<12:05:17> human_in_bomber_radius = 0
+<12:05:17> human_in_bomber_radius = 0
+<12:05:17> human_in_bomber_radius = 0
+<12:05:18> human_in_bomber_radius = 0
+<12:05:18> human_in_bomber_radius = 0
+<12:05:18> human_in_bomber_radius = 0
+<12:05:18> human_in_bomber_radius = 0
+<12:05:18> human_in_bomber_radius = 0
+<12:05:18> human_in_bomber_radius = 0
+<12:05:18> [flow-log] Train arrival percent - 87.8861
+<12:05:18> human_in_bomber_radius = 0
+<12:05:19> human_in_bomber_radius = 0
+<12:05:19> human_in_bomber_radius = 0
+<12:05:19> human_in_bomber_radius = 0
+<12:05:19> human_in_bomber_radius = 0
+<12:05:19> human_in_bomber_radius = 0
+<12:05:19> human_in_bomber_radius = 0
+<12:05:20> human_in_bomber_radius = 0
+<12:05:20> human_in_bomber_radius = 0
+<12:05:20> human_in_bomber_radius = 0
+<12:05:20> human_in_bomber_radius = 0
+<12:05:20> human_in_bomber_radius = 0
+<12:05:20> human_in_bomber_radius = 0
+<12:05:21> human_in_bomber_radius = 0
+<12:05:21> human_in_bomber_radius = 0
+<12:05:21> human_in_bomber_radius = 0
+<12:05:21> [flow-log] Train arrival percent - 89.0379
+<12:05:21> human_in_bomber_radius = 0
+<12:05:21> human_in_bomber_radius = 0
+<12:05:21> human_in_bomber_radius = 0
+<12:05:22> human_in_bomber_radius = 0
+<12:05:22> human_in_bomber_radius = 0
+<12:05:22> requre_delayed_GroundEntity_change start
+<12:05:22> human_in_bomber_radius = 0
+<12:05:22> human_in_bomber_radius = 0
+<12:05:22> requre_delayed_GroundEntity_change end
+<12:05:22> human_in_bomber_radius = 0
+<12:05:22> human_in_bomber_radius = 0
+<12:05:23> human_in_bomber_radius = 0
+<12:05:23> human_in_bomber_radius = 0
+<12:05:23> human_in_bomber_radius = 0
+<12:05:23> requre_delayed_GroundEntity_change start
+<12:05:23> human_in_bomber_radius = 0
+<12:05:23> human_in_bomber_radius = 0
+<12:05:23> requre_delayed_GroundEntity_change end
+<12:05:23> human_in_bomber_radius = 0
+<12:05:23> [flow-log] Train arrival percent - 89.8462
+<12:05:24> human_in_bomber_radius = 0
+<12:05:24> human_in_bomber_radius = 0
+<12:05:24> human_in_bomber_radius = 0
+<12:05:24> human_in_bomber_radius = 0
+<12:05:24> human_in_bomber_radius = 0
+<12:05:24> human_in_bomber_radius = 0
+<12:05:25> human_in_bomber_radius = 0
+<12:05:25> human_in_bomber_radius = 0
+<12:05:25> human_in_bomber_radius = 0
+<12:05:25> human_in_bomber_radius = 0
+<12:05:25> CSingle::EndReload
+<12:05:25> human_in_bomber_radius = 0
+<12:05:25> human_in_bomber_radius = 0
+<12:05:26> human_in_bomber_radius = 0
+<12:05:26> human_in_bomber_radius = 0
+<12:05:26> human_in_bomber_radius = 0
+<12:05:26> [flow-log] Train arrival percent - 91.0713
+<12:05:26> human_in_bomber_radius = 0
+<12:05:26> human_in_bomber_radius = 0
+<12:05:26> human_in_bomber_radius = 0
+<12:05:27> human_in_bomber_radius = 0
+<12:05:27> human_in_bomber_radius = 0
+<12:05:27> human_in_bomber_radius = 0
+<12:05:27> human_in_bomber_radius = 0
+<12:05:27> human_in_bomber_radius = 0
+<12:05:27> human_in_bomber_radius = 0
+<12:05:28> human_in_bomber_radius = 0
+<12:05:28> human_in_bomber_radius = 0
+<12:05:28> human_in_bomber_radius = 0
+<12:05:28> human_in_bomber_radius = 0
+<12:05:28> human_in_bomber_radius = 0
+<12:05:28> human_in_bomber_radius = 0
+<12:05:28> [flow-log] Train arrival percent - 92.1941
+<12:05:29> human_in_bomber_radius = 0
+<12:05:29> requre_delayed_GroundEntity_change start
+<12:05:29> requre_delayed_GroundEntity_change start
+<12:05:29> human_in_bomber_radius = 0
+<12:05:29> human_in_bomber_radius = 0
+<12:05:29> requre_delayed_GroundEntity_change end
+<12:05:29> requre_delayed_GroundEntity_change end
+<12:05:29> human_in_bomber_radius = 0
+<12:05:29> human_in_bomber_radius = 0
+<12:05:29> human_in_bomber_radius = 0
+<12:05:29> requre_delayed_GroundEntity_change start
+<12:05:29> requre_delayed_GroundEntity_change start
+<12:05:30> human_in_bomber_radius = 0
+<12:05:30> human_in_bomber_radius = 0
+<12:05:30> human_in_bomber_radius = 0
+<12:05:30> human_in_bomber_radius = 0
+<12:05:30> human_in_bomber_radius = 0
+<12:05:30> human_in_bomber_radius = 0
+<12:05:31> human_in_bomber_radius = 0
+<12:05:31> human_in_bomber_radius = 0
+<12:05:31> human_in_bomber_radius = 0
+<12:05:31> [flow-log] Train arrival percent - 93.175
+<12:05:31> human_in_bomber_radius = 0
+<12:05:31> human_in_bomber_radius = 0
+<12:05:31> human_in_bomber_radius = 0
+<12:05:32> human_in_bomber_radius = 0
+<12:05:32> human_in_bomber_radius = 0
+<12:05:32> human_in_bomber_radius = 0
+<12:05:32> human_in_bomber_radius = 0
+<12:05:32> human_in_bomber_radius = 0
+<12:05:32> human_in_bomber_radius = 0
+<12:05:32> human_in_bomber_radius = 0
+<12:05:33> human_in_bomber_radius = 0
+<12:05:33> human_in_bomber_radius = 0
+<12:05:33> human_in_bomber_radius = 0
+<12:05:33> human_in_bomber_radius = 0
+<12:05:33> human_in_bomber_radius = 0
+<12:05:33> [flow-log] Train arrival percent - 93.4109
+<12:05:33> human_in_bomber_radius = 0
+<12:05:34> requre_delayed_GroundEntity_change start
+<12:05:34> human_in_bomber_radius = 0
+<12:05:34> human_in_bomber_radius = 0
+<12:05:34> requre_delayed_GroundEntity_change end
+<12:05:34> human_in_bomber_radius = 0
+<12:05:34> human_in_bomber_radius = 0
+<12:05:34> human_in_bomber_radius = 0
+<12:05:34> human_in_bomber_radius = 0
+<12:05:35> human_in_bomber_radius = 0
+<12:05:35> human_in_bomber_radius = 0
+<12:05:35> human_in_bomber_radius = 0
+<12:05:35> human_in_bomber_radius = 0
+<12:05:35> requre_delayed_GroundEntity_change start
+<12:05:35> human_in_bomber_radius = 0
+<12:05:35> human_in_bomber_radius = 0
+<12:05:36> requre_delayed_GroundEntity_change end
+<12:05:36> human_in_bomber_radius = 0
+<12:05:36> human_in_bomber_radius = 0
+<12:05:36> [flow-log] Train arrival percent - 93.4309
+<12:05:36> human_in_bomber_radius = 0
+<12:05:36> human_in_bomber_radius = 0
+<12:05:36> human_in_bomber_radius = 0
+<12:05:36> human_in_bomber_radius = 0
+<12:05:37> human_in_bomber_radius = 0
+<12:05:37> human_in_bomber_radius = 0
+<12:05:37> human_in_bomber_radius = 0
+<12:05:37> human_in_bomber_radius = 0
+<12:05:37> human_in_bomber_radius = 0
+<12:05:37> human_in_bomber_radius = 0
+<12:05:38> human_in_bomber_radius = 0
+<12:05:38> human_in_bomber_radius = 0
+<12:05:38> human_in_bomber_radius = 0
+<12:05:38> human_in_bomber_radius = 0
+<12:05:38> human_in_bomber_radius = 0
+<12:05:38> human_in_bomber_radius = 0
+<12:05:38> [flow-log] Train arrival percent - 93.4354
+<12:05:39> human_in_bomber_radius = 0
+<12:05:39> human_in_bomber_radius = 0
+<12:05:39> human_in_bomber_radius = 0
+<12:05:39> human_in_bomber_radius = 0
+<12:05:39> human_in_bomber_radius = 0
+<12:05:39> requre_delayed_GroundEntity_change start
+<12:05:39> human_in_bomber_radius = 0
+<12:05:40> human_in_bomber_radius = 0
+<12:05:40> requre_delayed_GroundEntity_change end
+<12:05:40> human_in_bomber_radius = 0
+<12:05:40> human_in_bomber_radius = 0
+<12:05:40> human_in_bomber_radius = 0
+<12:05:40> human_in_bomber_radius = 0
+<12:05:40> human_in_bomber_radius = 0
+<12:05:41> human_in_bomber_radius = 0
+<12:05:41> human_in_bomber_radius = 0
+<12:05:41> human_in_bomber_radius = 0
+<12:05:41> [flow-log] Train arrival percent - 93.4354
+<12:05:41> human_in_bomber_radius = 0
+<12:05:41> human_in_bomber_radius = 0
+<12:05:41> human_in_bomber_radius = 0
+<12:05:42> human_in_bomber_radius = 0
+<12:05:42> human_in_bomber_radius = 0
+<12:05:42> human_in_bomber_radius = 0
+<12:05:42> CSingle::EndReload
+<12:05:42> human_in_bomber_radius = 0
+<12:05:42> human_in_bomber_radius = 0
+<12:05:42> human_in_bomber_radius = 0
+<12:05:43> human_in_bomber_radius = 0
+<12:05:43> human_in_bomber_radius = 0
+<12:05:43> human_in_bomber_radius = 0
+<12:05:43> human_in_bomber_radius = 0
+<12:05:43> CPlayer::OnEnterInUsafeForZmbsZone
+<12:05:43> human_in_bomber_radius = 0
+<12:05:43> human_in_bomber_radius = 0
+<12:05:43> [flow-log] Train arrival percent - 93.4354
+<12:05:44> human_in_bomber_radius = 0
+<12:05:44> human_in_bomber_radius = 0
+<12:05:44> human_in_bomber_radius = 0
+<12:05:44> human_in_bomber_radius = 0
+<12:05:44> human_in_bomber_radius = 0
+<12:05:44> human_in_bomber_radius = 0
+<12:05:45> human_in_bomber_radius = 0
+<12:05:45> human_in_bomber_radius = 0
+<12:05:45> human_in_bomber_radius = 0
+<12:05:45> human_in_bomber_radius = 0
+<12:05:45> human_in_bomber_radius = 0
+<12:05:45> human_in_bomber_radius = 0
+<12:05:46> human_in_bomber_radius = 0
+<12:05:46> human_in_bomber_radius = 0
+<12:05:46> human_in_bomber_radius = 0
+<12:05:46> [flow-log] Train arrival percent - 93.4354
+<12:05:46> human_in_bomber_radius = 0
+<12:05:46> human_in_bomber_radius = 0
+<12:05:46> human_in_bomber_radius = 0
+<12:05:47> human_in_bomber_radius = 0
+<12:05:47> human_in_bomber_radius = 0
+<12:05:47> human_in_bomber_radius = 0
+<12:05:47> human_in_bomber_radius = 0
+<12:05:47> human_in_bomber_radius = 0
+<12:05:47> human_in_bomber_radius = 0
+<12:05:47> human_in_bomber_radius = 0
+<12:05:48> human_in_bomber_radius = 0
+<12:05:48> human_in_bomber_radius = 0
+<12:05:48> human_in_bomber_radius = 0
+<12:05:48> human_in_bomber_radius = 0
+<12:05:48> human_in_bomber_radius = 0
+<12:05:48> [flow-log] Train arrival percent - 93.4354
+<12:05:48> human_in_bomber_radius = 0
+<12:05:49> human_in_bomber_radius = 0
+<12:05:49> human_in_bomber_radius = 0
+<12:05:49> human_in_bomber_radius = 0
+<12:05:49> human_in_bomber_radius = 0
+<12:05:49> human_in_bomber_radius = 0
+<12:05:49> human_in_bomber_radius = 0
+<12:05:50> human_in_bomber_radius = 0
+<12:05:50> human_in_bomber_radius = 0
+<12:05:50> human_in_bomber_radius = 0
+<12:05:50> human_in_bomber_radius = 0
+<12:05:50> human_in_bomber_radius = 0
+<12:05:50> human_in_bomber_radius = 0
+<12:05:51> human_in_bomber_radius = 0
+<12:05:51> human_in_bomber_radius = 0
+<12:05:51> [flow-log] Train arrival percent - 93.4354
+<12:05:51> human_in_bomber_radius = 0
+<12:05:51> human_in_bomber_radius = 0
+<12:05:51> human_in_bomber_radius = 0
+<12:05:51> human_in_bomber_radius = 0
+<12:05:52> CSingle::EndReload
+<12:05:52> human_in_bomber_radius = 0
+<12:05:52> human_in_bomber_radius = 0
+<12:05:52> human_in_bomber_radius = 0
+<12:05:52> human_in_bomber_radius = 0
+<12:05:52> human_in_bomber_radius = 0
+<12:05:52> human_in_bomber_radius = 0
+<12:05:53> human_in_bomber_radius = 0
+<12:05:53> human_in_bomber_radius = 0
+<12:05:53> human_in_bomber_radius = 0
+<12:05:53> human_in_bomber_radius = 0
+<12:05:53> human_in_bomber_radius = 0
+<12:05:53> human_in_bomber_radius = 0
+<12:05:53> [flow-log] Train arrival percent - 93.4354
+<12:05:54> human_in_bomber_radius = 0
+<12:05:54> human_in_bomber_radius = 0
+<12:05:54> human_in_bomber_radius = 0
+<12:05:54> human_in_bomber_radius = 0
+<12:05:54> human_in_bomber_radius = 0
+<12:05:54> requre_delayed_GroundEntity_change start
+<12:05:54> human_in_bomber_radius = 0
+<12:05:55> human_in_bomber_radius = 0
+<12:05:55> requre_delayed_GroundEntity_change end
+<12:05:55> human_in_bomber_radius = 0
+<12:05:55> human_in_bomber_radius = 0
+<12:05:55> human_in_bomber_radius = 0
+<12:05:55> human_in_bomber_radius = 0
+<12:05:55> human_in_bomber_radius = 0
+<12:05:56> human_in_bomber_radius = 0
+<12:05:56> human_in_bomber_radius = 0
+<12:05:56> human_in_bomber_radius = 0
+<12:05:56> [flow-log] Train arrival percent - 93.4354
+<12:05:56> human_in_bomber_radius = 0
+<12:05:56> human_in_bomber_radius = 0
+<12:05:56> human_in_bomber_radius = 0
+<12:05:57> human_in_bomber_radius = 0
+<12:05:57> human_in_bomber_radius = 0
+<12:05:57> human_in_bomber_radius = 0
+<12:05:57> human_in_bomber_radius = 0
+<12:05:57> human_in_bomber_radius = 0
+<12:05:57> human_in_bomber_radius = 0
+<12:05:58> human_in_bomber_radius = 0
+<12:05:58> human_in_bomber_radius = 0
+<12:05:58> human_in_bomber_radius = 0
+<12:05:58> human_in_bomber_radius = 0
+<12:05:58> requre_delayed_GroundEntity_change start
+<12:05:58> human_in_bomber_radius = 0
+<12:05:58> human_in_bomber_radius = 0
+<12:05:58> [flow-log] Train arrival percent - 93.4354
+<12:05:59> requre_delayed_GroundEntity_change end
+<12:05:59> human_in_bomber_radius = 0
+<12:05:59> human_in_bomber_radius = 0
+<12:05:59> human_in_bomber_radius = 0
+<12:05:59> human_in_bomber_radius = 0
+<12:05:59> human_in_bomber_radius = 0
+<12:05:59> human_in_bomber_radius = 0
+<12:06:00> human_in_bomber_radius = 0
+<12:06:00> human_in_bomber_radius = 0
+<12:06:00> human_in_bomber_radius = 0
+<12:06:00> human_in_bomber_radius = 0
+<12:06:00> human_in_bomber_radius = 0
+<12:06:00> human_in_bomber_radius = 0
+<12:06:00> human_in_bomber_radius = 0
+<12:06:01> human_in_bomber_radius = 0
+<12:06:01> human_in_bomber_radius = 0
+<12:06:01> [flow-log] Train arrival percent - 93.4354
+<12:06:01> human_in_bomber_radius = 0
+<12:06:01> human_in_bomber_radius = 0
+<12:06:01> human_in_bomber_radius = 0
+<12:06:01> human_in_bomber_radius = 0
+<12:06:02> human_in_bomber_radius = 0
+<12:06:02> human_in_bomber_radius = 0
+<12:06:02> human_in_bomber_radius = 0
+<12:06:02> human_in_bomber_radius = 0
+<12:06:02> human_in_bomber_radius = 0
+<12:06:02> human_in_bomber_radius = 0
+<12:06:03> human_in_bomber_radius = 0
+<12:06:03> human_in_bomber_radius = 0
+<12:06:03> human_in_bomber_radius = 0
+<12:06:03> human_in_bomber_radius = 0
+<12:06:03> human_in_bomber_radius = 0
+<12:06:03> human_in_bomber_radius = 0
+<12:06:03> [flow-log] Train arrival percent - 93.4354
+<12:06:04> human_in_bomber_radius = 0
+<12:06:04> human_in_bomber_radius = 0
+<12:06:04> CTrainRails::HumanEvent id - 2
+<12:06:04> CPlayer::OnEnterInUsafeForZmbsZone
+<12:06:04> human_in_bomber_radius = 0
+<12:06:04> human_in_bomber_radius = 0
+<12:06:04> human_in_bomber_radius = 0
+<12:06:04> human_in_bomber_radius = 0
+<12:06:05> human_in_bomber_radius = 0
+<12:06:05> human_in_bomber_radius = 0
+<12:06:05> human_in_bomber_radius = 0
+<12:06:05> human_in_bomber_radius = 0
+<12:06:05> human_in_bomber_radius = 0
+<12:06:05> human_in_bomber_radius = 0
+<12:06:06> human_in_bomber_radius = 0
+<12:06:06> human_in_bomber_radius = 0
+<12:06:06> human_in_bomber_radius = 0
+<12:06:06> [flow-log] Train arrival percent - 93.4354
+<12:06:06> human_in_bomber_radius = 0
+<12:06:06> human_in_bomber_radius = 0
+<12:06:06> human_in_bomber_radius = 0
+<12:06:07> human_in_bomber_radius = 0
+<12:06:07> human_in_bomber_radius = 0
+<12:06:07> human_in_bomber_radius = 0
+<12:06:07> human_in_bomber_radius = 0
+<12:06:07> human_in_bomber_radius = 0
+<12:06:07> human_in_bomber_radius = 0
+<12:06:08> human_in_bomber_radius = 0
+<12:06:08> human_in_bomber_radius = 0
+<12:06:08> human_in_bomber_radius = 0
+<12:06:08> human_in_bomber_radius = 0
+<12:06:08> human_in_bomber_radius = 0
+<12:06:08> human_in_bomber_radius = 0
+<12:06:08> [flow-log] Train arrival percent - 93.4354
+<12:06:09> human_in_bomber_radius = 0
+<12:06:09> human_in_bomber_radius = 0
+<12:06:09> human_in_bomber_radius = 0
+<12:06:09> human_in_bomber_radius = 0
+<12:06:09> human_in_bomber_radius = 0
+<12:06:09> human_in_bomber_radius = 0
+<12:06:10> human_in_bomber_radius = 0
+<12:06:10> human_in_bomber_radius = 0
+<12:06:10> human_in_bomber_radius = 0
+<12:06:10> human_in_bomber_radius = 0
+<12:06:10> human_in_bomber_radius = 0
+<12:06:10> human_in_bomber_radius = 0
+<12:06:10> human_in_bomber_radius = 0
+<12:06:11> human_in_bomber_radius = 0
+<12:06:11> human_in_bomber_radius = 0
+<12:06:11> [flow-log] Train arrival percent - 93.4354
+<12:06:11> human_in_bomber_radius = 0
+<12:06:11> human_in_bomber_radius = 0
+<12:06:11> human_in_bomber_radius = 0
+<12:06:11> human_in_bomber_radius = 0
+<12:06:12> human_in_bomber_radius = 0
+<12:06:12> human_in_bomber_radius = 0
+<12:06:12> human_in_bomber_radius = 0
+<12:06:12> human_in_bomber_radius = 0
+<12:06:12> human_in_bomber_radius = 0
+<12:06:12> human_in_bomber_radius = 0
+<12:06:13> human_in_bomber_radius = 0
+<12:06:13> human_in_bomber_radius = 0
+<12:06:13> human_in_bomber_radius = 0
+<12:06:13> human_in_bomber_radius = 0
+<12:06:13> human_in_bomber_radius = 0
+<12:06:13> [flow-log] Train arrival percent - 93.4354
+<12:06:13> human_in_bomber_radius = 0
+<12:06:14> human_in_bomber_radius = 0
+<12:06:14> human_in_bomber_radius = 0
+<12:06:14> CTrainRails::HumanEvent id - 3
+<12:06:14> CTrain::SmplPlaySnd train_gts
+<12:06:14> human_in_bomber_radius = 0
+<12:06:14> human_in_bomber_radius = 0
+<12:06:14> human_in_bomber_radius = 0
+<12:06:14> human_in_bomber_radius = 0
+<12:06:15> human_in_bomber_radius = 0
+<12:06:15> human_in_bomber_radius = 0
+<12:06:15> human_in_bomber_radius = 0
+<12:06:15> human_in_bomber_radius = 0
+<12:06:15> human_in_bomber_radius = 0
+<12:06:15> human_in_bomber_radius = 0
+<12:06:16> human_in_bomber_radius = 0
+<12:06:16> human_in_bomber_radius = 0
+<12:06:16> human_in_bomber_radius = 0
+<12:06:16> [flow-log] Train arrival percent - 93.4354
+<12:06:16> human_in_bomber_radius = 0
+<12:06:16> human_in_bomber_radius = 0
+<12:06:16> human_in_bomber_radius = 0
+<12:06:17> human_in_bomber_radius = 0
+<12:06:17> human_in_bomber_radius = 0
+<12:06:17> human_in_bomber_radius = 0
+<12:06:17> human_in_bomber_radius = 0
+<12:06:17> human_in_bomber_radius = 0
+<12:06:17> human_in_bomber_radius = 0
+<12:06:18> human_in_bomber_radius = 0
+<12:06:18> human_in_bomber_radius = 0
+<12:06:18> human_in_bomber_radius = 0
+<12:06:18> human_in_bomber_radius = 0
+<12:06:18> human_in_bomber_radius = 0
+<12:06:18> human_in_bomber_radius = 0
+<12:06:18> [flow-log] Train arrival percent - 93.4354
+<12:06:19> human_in_bomber_radius = 0
+<12:06:19> human_in_bomber_radius = 0
+<12:06:19> human_in_bomber_radius = 0
+<12:06:19> human_in_bomber_radius = 0
+<12:06:19> human_in_bomber_radius = 0
+<12:06:19> human_in_bomber_radius = 0
+<12:06:20> human_in_bomber_radius = 0
+<12:06:20> human_in_bomber_radius = 0
+<12:06:20> human_in_bomber_radius = 0
+<12:06:20> human_in_bomber_radius = 0
+<12:06:20> human_in_bomber_radius = 0
+<12:06:20> human_in_bomber_radius = 0
+<12:06:21> human_in_bomber_radius = 0
+<12:06:21> human_in_bomber_radius = 0
+<12:06:21> human_in_bomber_radius = 0
+<12:06:21> [flow-log] Train arrival percent - 93.4354
+<12:06:21> human_in_bomber_radius = 0
+<12:06:21> human_in_bomber_radius = 0
+<12:06:21> human_in_bomber_radius = 0
+<12:06:22> human_in_bomber_radius = 0
+<12:06:22> human_in_bomber_radius = 0
+<12:06:22> human_in_bomber_radius = 0
+<12:06:22> human_in_bomber_radius = 0
+<12:06:22> human_in_bomber_radius = 0
+<12:06:22> human_in_bomber_radius = 0
+<12:06:23> human_in_bomber_radius = 0
+<12:06:23> human_in_bomber_radius = 0
+<12:06:23> human_in_bomber_radius = 0
+<12:06:23> human_in_bomber_radius = 0
+<12:06:23> human_in_bomber_radius = 0
+<12:06:23> human_in_bomber_radius = 0
+<12:06:23> [flow-log] Train arrival percent - 93.4354
+<12:06:24> human_in_bomber_radius = 0
+<12:06:24> human_in_bomber_radius = 0
+<12:06:24> human_in_bomber_radius = 0
+<12:06:24> human_in_bomber_radius = 0
+<12:06:24> human_in_bomber_radius = 0
+<12:06:24> human_in_bomber_radius = 0
+<12:06:25> human_in_bomber_radius = 0
+<12:06:25> human_in_bomber_radius = 0
+<12:06:25> human_in_bomber_radius = 0
+<12:06:25> human_in_bomber_radius = 0
+<12:06:25> human_in_bomber_radius = 0
+<12:06:25> human_in_bomber_radius = 0
+<12:06:25> human_in_bomber_radius = 0
+<12:06:26> human_in_bomber_radius = 0
+<12:06:26> human_in_bomber_radius = 0
+<12:06:26> human_in_bomber_radius = 0
+<12:06:26> [flow-log] Train arrival percent - 93.4354
+<12:06:26> human_in_bomber_radius = 0
+<12:06:26> human_in_bomber_radius = 0
+<12:06:26> human_in_bomber_radius = 0
+<12:06:27> human_in_bomber_radius = 0
+<12:06:27> human_in_bomber_radius = 0
+<12:06:27> human_in_bomber_radius = 0
+<12:06:27> human_in_bomber_radius = 0
+<12:06:27> human_in_bomber_radius = 0
+<12:06:27> human_in_bomber_radius = 0
+<12:06:28> human_in_bomber_radius = 0
+<12:06:28> human_in_bomber_radius = 0
+<12:06:28> human_in_bomber_radius = 0
+<12:06:28> gEnv->pRenderer->Draw2dImage XXX
+<12:06:30> [flow-log] OnUnload Called!
+<12:06:30> remapped bone indices with refcount '4294967294' still around for 'objects/characters/human/dude/source/pin_hands_sk.skin 0x00000144A441A220
+<12:06:30> remapped bone indices with refcount '4294967294' still around for 'objects/characters/human/dude/source/head.skin 0x00000144A4418F60
+<12:06:30> remapped bone indices with refcount '4294967294' still around for 'objects/characters/human/dude/source/pin_body_sk.skin 0x00000144A4417980
+<12:06:39> [flow-log] DISPLAY STATISTIC
+<12:09:03> CreateDatagramSocket c1
+<12:09:05> Game rules class: InstantAction
+<12:09:05> ============================ PrepareLevel Multiplayer/Purgatorium_Esc ============================
+<12:09:05> Initializing default materials...
+<12:09:09> [MFX] Loading FXLib 'breakables' ...
+<12:09:09> [MFX] Loading FXLib 'collisions' ...
+<12:09:09> [MFX] Loading FXLib 'foley' ...
+<12:09:09> [MFX] Loading FXLib 'foley_grunt' ...
+<12:09:09> [MFX] Loading FXLib 'foley_player' ...
+<12:09:09> [MFX] Loading FXLib 'footstep_grunt' ...
+<12:09:09> [MFX] Loading FXLib 'footstep_player' ...
+<12:09:09> [MFX] Loading FXLib 'footsteps' ...
+<12:09:09> [MFX] Loading FXLib 'grenade' ...
+<12:09:09> [MFX] Loading FXLib 'melee' ...
+<12:09:09> [MFX] Loading FXLib 'player_fx' ...
+<12:09:09> [MFX] Loading FXLib 'projectiles' ...
+<12:09:09> [MFX] Loading FXLib 'tornado' ...
+<12:09:09> [MFX] Loading FXLib 'vegetation' ...
+<12:09:09> [MFX] Loading FXLib 'vehicles' ...
+<12:09:13> [flow-log] OnUnload Called3
+<12:09:13> CGameClientChannel::Release
+<12:09:13> gEnv->pRenderer->Draw2dImage XXX
+<12:09:15> [flow-log] OnUnload Called!
+<12:10:50> BaseInput - Shutting down all force feedback
+<12:10:50> ActionGame - Shutting down all force feedback
+<12:10:52> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)
+<12:10:53> CGame::~CGame()
+<12:10:53> System:Quit

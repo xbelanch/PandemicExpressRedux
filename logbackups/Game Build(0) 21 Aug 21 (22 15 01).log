@@ -1,0 +1,272 @@
+BackupNameAttachment=" Build(0) 21 Aug 21 (22 15 01)"  -- used by backup system
+Log Started at Sat Aug 21 22:15:01 2021
+Built on Oct 13 2019 19:15:33
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<22:15:01> Loading Config file system.cfg (system.cfg)
+<22:15:01> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [1.1.0.000.200116]; Marked as [VF_CHEAT]
+<22:15:01> OnSysSpecChange(1)
+<22:15:01> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<22:15:01> GameDir: DATA
+<22:15:01> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<22:15:01> Windows 10 64 bit (build 10.0.19043)
+<22:15:01> System language: English
+<22:15:01> Windows Directory: "C:\Windows"
+<22:15:01> Local time is 22:15:01 08/21/21, system running for 69 minutes
+<22:15:01> 16333MB physical memory installed, 9773MB available, 134217727MB virtual memory installed, 40 percent of memory in use
+<22:15:01> PageFile usage: 76MB, Working Set: 88MB, Peak PageFile usage: 76MB,
+<22:15:01> Current display mode is 2560x1440x32, (Unknown graphics card)
+<22:15:01> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<22:15:01> --------------------------------------------------------------------------------
+<22:15:01> OnSysSpecChange(1)
+<22:15:01> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<22:15:01> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<22:15:01> Loading Config file game.cfg (data\game.cfg)
+<22:15:01> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<22:15:01> [Warning] Modifying marked variables will not be allowed in Release mode!
+<22:15:01> Stream Engine Initialization
+<22:15:01> GameName: Pandemic Express
+<22:15:01> BuildTime: Oct 13 2019 19:15:33
+<22:15:01> Physics initialization
+<22:15:01> Localized language content(english) not available or modified from the original installation.
+<22:15:01> Localized language content(english) not available or modified from the original installation.
+<22:15:01> Localized language content(english) not available or modified from the original installation.
+<22:15:01> <Audio>: AudioSystem initialization
+<22:15:01> <Audio> <0.290>: CryAudioImplWwise loaded
+<22:15:03> Renderer initialization
+<22:15:03> Logging video adapters:
+<22:15:03> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<22:15:03>   - Adapter index: 0
+<22:15:03>   - Dedicated video memory: 8043 MB
+<22:15:03>   - Feature level: DX11 (SM 5.0)
+<22:15:03>   - Displays connected: yes
+<22:15:03>   - Suitable rendering device: yes
+<22:15:03> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<22:15:03>   - Adapter index: 1
+<22:15:03>   - Dedicated video memory: 0 MB
+<22:15:03>   - Feature level: DX11 (SM 5.0)
+<22:15:03>   - Displays connected: no
+<22:15:03>   - Suitable rendering device: no
+<22:15:03> Active GPUs: 1
+<22:15:03> [Renderer] A display device has been connected to the system
+<22:15:03> Loading plugin CryDefaultEntities
+<22:15:03> Loading plugin CrySchematycCore
+<22:15:03> DLL Failed to load, error code: 7E
+<22:15:03> Loading plugin CrySchematycSTDEnv
+<22:15:03> DLL Failed to load, error code: 7E
+<22:15:03> Loading plugin CrySensorSystem
+<22:15:03> DLL Failed to load, error code: 7E
+<22:15:03> Loading extension file cryplugin.csv
+<22:15:03> Loading plugin ProcAnRandGenerator.dll
+<22:15:03> Loading plugin PlayFab.dll
+<22:15:04> Loading plugin CEVPlayer.dll
+<22:15:05> Font initialization
+<22:15:05> Using FreeType 2.5.5
+<22:15:05> Network initialization
+<22:15:05> [net] Socket IO management: External [iocp], Internal [iocp]
+<22:15:05> network hostname: DESKTOP-GKEDPQ6
+<22:15:05>   ip:26.90.194.210
+<22:15:05>   ip:192.168.20.12
+<22:15:05> [Network Version]: PROFILE DEVELOPMENT BUILD
+<22:15:05> MovieSystem initialization
+<22:15:05> Console initialization
+<22:15:05> Time initialization
+<22:15:05> Input initialization
+<22:15:05> AI initialization
+<22:15:05>  
+<22:15:05>     con_debug = 0 []
+<22:15:05>     con_display_last_messages = 0 []
+<22:15:05>     con_line_buffer_size = 1000 []
+<22:15:05>     con_restricted = 0 [RESTRICTEDMODE]
+<22:15:05>     con_showonload = 0 []
+<22:15:05>  
+<22:15:05>     con_debug = 0 []
+<22:15:05>     con_display_last_messages = 0 []
+<22:15:05>     con_line_buffer_size = 1000 []
+<22:15:05>     con_restricted = 0 [RESTRICTEDMODE]
+<22:15:05>     con_showonload = 0 []
+<22:15:05>  
+<22:15:05>     con_debug = 0 []
+<22:15:05>  
+<22:15:05>     con_debug = 0 []
+<22:15:05> Initializing Animation System
+<22:15:05> Initializing 3D Engine
+<22:15:05> Script System Initialization
+<22:15:05> Entity system initialization
+<22:15:06> Initializing AI System
+<22:15:06> Initializing additional systems
+<22:15:06> Dynamic Response System initialization
+<22:15:06> DLL Failed to load, error code: 7E
+<22:15:06> No Dynamic Response System was loaded from a module, will use the NULL implementation.
+<22:15:06> [Steam] Steam API initialized successfully
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<22:15:06> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<22:15:07> Initializing default materials...
+<22:15:12> [MFX] Loading FXLib 'breakables' ...
+<22:15:12> [MFX] Loading FXLib 'collisions' ...
+<22:15:12> [MFX] Loading FXLib 'foley' ...
+<22:15:12> [MFX] Loading FXLib 'foley_grunt' ...
+<22:15:12> [MFX] Loading FXLib 'foley_player' ...
+<22:15:12> [MFX] Loading FXLib 'footstep_grunt' ...
+<22:15:12> [MFX] Loading FXLib 'footstep_player' ...
+<22:15:12> [MFX] Loading FXLib 'footsteps' ...
+<22:15:12> [MFX] Loading FXLib 'grenade' ...
+<22:15:12> [MFX] Loading FXLib 'melee' ...
+<22:15:12> [MFX] Loading FXLib 'player_fx' ...
+<22:15:12> [MFX] Loading FXLib 'projectiles' ...
+<22:15:12> [MFX] Loading FXLib 'tornado' ...
+<22:15:12> [MFX] Loading FXLib 'vegetation' ...
+<22:15:12> [MFX] Loading FXLib 'vehicles' ...
+<22:15:13> [MFX] Loading FXLib 'breakables' ...
+<22:15:13> [MFX] Loading FXLib 'collisions' ...
+<22:15:13> [MFX] Loading FXLib 'foley' ...
+<22:15:13> [MFX] Loading FXLib 'foley_grunt' ...
+<22:15:13> [MFX] Loading FXLib 'foley_player' ...
+<22:15:13> [MFX] Loading FXLib 'footstep_grunt' ...
+<22:15:13> [MFX] Loading FXLib 'footstep_player' ...
+<22:15:13> [MFX] Loading FXLib 'footsteps' ...
+<22:15:13> [MFX] Loading FXLib 'grenade' ...
+<22:15:13> [MFX] Loading FXLib 'melee' ...
+<22:15:13> [MFX] Loading FXLib 'player_fx' ...
+<22:15:13> [MFX] Loading FXLib 'projectiles' ...
+<22:15:13> [MFX] Loading FXLib 'tornado' ...
+<22:15:13> [MFX] Loading FXLib 'vegetation' ...
+<22:15:13> [MFX] Loading FXLib 'vehicles' ...
+<22:15:13> Creating socket on port 2838
+<22:15:13> CreateDatagramSocket c1
+<22:15:13> CreateDatagramSocket c2
+<22:15:35> Iterator 0
+<22:15:35> Size 30
+<22:15:35> Iterator 1
+<22:15:35> Size 30
+<22:15:35> Iterator 2
+<22:15:35> Size 30
+<22:15:35> Iterator 3
+<22:15:35> Size 30
+<22:15:35> Iterator 4
+<22:15:35> Size 30
+<22:15:35> Iterator 5
+<22:15:35> Size 30
+<22:15:35> Iterator 6
+<22:15:35> Size 30
+<22:15:35> Iterator 7
+<22:15:35> Size 30
+<22:15:35> Iterator 8
+<22:15:35> Size 30
+<22:15:35> Iterator 9
+<22:15:35> Size 30
+<22:15:35> Iterator 10
+<22:15:35> Size 30
+<22:15:35> Iterator 11
+<22:15:35> Size 30
+<22:15:35> Iterator 12
+<22:15:35> Size 30
+<22:15:35> Iterator 13
+<22:15:35> Size 30
+<22:15:35> Iterator 14
+<22:15:35> Size 30
+<22:15:35> playerName Kornflakes
+<22:15:35> Iterator 15
+<22:15:35> Size 30
+<22:15:35> Iterator 16
+<22:15:35> Size 30
+<22:15:35> Iterator 17
+<22:15:35> Size 30
+<22:15:35> Iterator 18
+<22:15:35> Size 30
+<22:15:35> Iterator 19
+<22:15:35> Size 30
+<22:15:35> Iterator 20
+<22:15:35> Size 30
+<22:15:35> Iterator 21
+<22:15:35> Size 30
+<22:15:35> Iterator 22
+<22:15:35> Size 30
+<22:15:35> Iterator 23
+<22:15:35> Size 30
+<22:15:35> Iterator 24
+<22:15:35> Size 30
+<22:15:35> Iterator 25
+<22:15:35> Size 30
+<22:15:35> Iterator 26
+<22:15:35> Size 30
+<22:15:35> Iterator 27
+<22:15:35> Size 30
+<22:15:35> Iterator 28
+<22:15:35> Size 30
+<22:15:35> Iterator 29
+<22:15:35> Size 30
+<22:15:35> playerName Kornflakes
+<22:15:36> Iterator 30
+<22:15:36> Size 30
+<22:15:41> BaseInput - Shutting down all force feedback
+<22:15:41> ActionGame - Shutting down all force feedback
+<22:15:41> CNetSyncSystem::~CNetSyncSystem & Crush?! packets_temp_bf(temp packet data buffs)
+<22:15:42> System:Quit

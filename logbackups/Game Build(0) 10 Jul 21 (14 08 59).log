@@ -1,0 +1,339 @@
+BackupNameAttachment=" Build(0) 10 Jul 21 (14 08 59)"  -- used by backup system
+Log Started at Sat Jul 10 14:08:59 2021
+Built on Oct 13 2019 19:15:33
+Running 64 bit Windows version
+Command Line: "D:\Games\Steam\steamapps\common\Pandemic Express\Bin/win_x64/PandemicExpress.exe"
+Executable: D:\Games\Steam\steamapps\common\Pandemic Express\Bin\win_x64\PandemicExpress.exe
+FileVersion: 1.0.0.0
+ProductVersion: 1.0.0.0
+Added MOD directory <%engineroot%/engine> to CryPak
+
+Total number of logical processors: 12
+Number of available logical processors: 12
+Total number of system cores: 6
+Number of cores available to process: 6
+ 
+Processor 0:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 1:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 2:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 3:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 4:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+Processor 5:
+  CPU: AMD AMD Ryzen 5 3600 6-Core Processor              
+  Family: 15, Model: 1, Stepping: 0
+  FPU: On-Chip
+  Features: FP16, SSE, SSE2, SSE3, SSE4.2, AVX, AVX2, FMA3
+  Serial number not present or disabled
+ 
+<14:08:59> Loading Config file system.cfg (system.cfg)
+<14:08:59> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_version] from [] to [1.1.0.000.200116]; Marked as [VF_CHEAT]
+<14:08:59> OnSysSpecChange(1)
+<14:08:59> [Error] [CVARS]: [IGNORED CHANGE] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<14:08:59> GameDir: DATA
+<14:08:59> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/engine_core.thread_config)  
+<14:08:59> Windows 10 64 bit (build 10.0.19043)
+<14:08:59> System language: English
+<14:08:59> Windows Directory: "C:\Windows"
+<14:08:59> Local time is 14:08:59 07/10/21, system running for 92 minutes
+<14:08:59> 16333MB physical memory installed, 10360MB available, 134217727MB virtual memory installed, 36 percent of memory in use
+<14:08:59> PageFile usage: 76MB, Working Set: 88MB, Peak PageFile usage: 76MB,
+<14:08:59> Current display mode is 2560x1440x32, (Unknown graphics card)
+<14:08:59> IBM enhanced (101/102-key) keyboard and 16+ button mouse installed
+<14:08:59> --------------------------------------------------------------------------------
+<14:08:59> OnSysSpecChange(1)
+<14:08:59> Loading Config file LowSpec.cfg (data\config\lowspec.cfg)
+<14:08:59> [Error] [CVARS]: [MISSING] [mfx_Timeout] is not a registered console variable; referenced when testing console variable group [sys_spec_gameeffects] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [ca_AttachmentCullingRation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_DecalsLifeTimeScale] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_LodRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_MaxViewDistSpecLerp] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_MaxViewDistance] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ObjQuality] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_TerrainOcclusionCullingMaxDist] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_VegetationMinSize] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ViewDistRatioCustom] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ViewDistRatioDetail] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ViewDistRatioLights] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ViewDistRatioVegetation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [es_DebrisLifetimeScale] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_DecalsOverlapping] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_LodMin] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_MergedMeshesInstanceDist] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_MergedMeshesPool] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_OcclusionCullingViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_TerrainLodRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_Tessellation] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ViewDistMin] is not a registered console variable; referenced when testing console variable group [sys_spec_objectdetail] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ParticlesMaxScreenFill] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ParticlesMinDrawPixels] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ParticlesObjectCollisions] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ParticlesQuality] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ParticlesMotionBlur] is not a registered console variable; referenced when testing console variable group [sys_spec_particles] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_CullVegActivation] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_FoliageWindActivationDist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_PhysOceanCell] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [es_MaxPhysDist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [es_MaxPhysDistInvisible] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [g_breakage_particles_limit] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [g_tree_cut_reuse_dist] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_max_MC_iters] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_max_substeps] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_PhysProxyTriLimit] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_max_object_splashes] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_max_substeps_large_group] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_num_bodies_large_group] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_splash_dist0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_splash_dist1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_splash_force0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_splash_force1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_splash_vel0] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [p_splash_vel1] is not a registered console variable; referenced when testing console variable group [sys_spec_physics] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_DynamicLightsMaxEntityLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_SkyUpdateRate] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_svoTI_Apply] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_svoTI_RsmConeMaxLength] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_svoTI_RsmUseColors] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_svoTi_Active] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_svoti_LowSpecMode] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_LightVolumes] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_VegetationUseTerrainColor] is not a registered console variable; referenced when testing console variable group [sys_spec_shading] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_GsmLodsNum] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_GsmRange] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ObjShadowCastSpec] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ParticlesShadows] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_Shadows] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsBlendCascades] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsCastViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsLodBiasFixed] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsMaxTexRes] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsPoolSize] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsResScale] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsTessellateCascades] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsTessellateDLights] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_ShadowsUpdateViewDistRatio] is not a registered console variable; referenced when testing console variable group [sys_spec_shadows] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_VolumetricFog] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_fog] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_Clouds] is not a registered console variable; referenced when testing console variable group [sys_spec_volumetriceffects] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_WaterOceanFFT] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmount] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmountX] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_WaterTessellationAmountY] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<14:08:59> [Error] [CVARS]: [MISSING] [e_WaterTessellationSwathWidth] is not a registered console variable; referenced when testing console variable group [sys_spec_water] = [1]
+<14:08:59> Loading Config file game.cfg (data\game.cfg)
+<14:08:59> [Warning] [CVARS]: [CHANGED] variable [sys_asserts] from [0] to [0]; Marked as [VF_CHEAT]
+<14:08:59> [Warning] Modifying marked variables will not be allowed in Release mode!
+<14:08:59> Stream Engine Initialization
+<14:08:59> GameName: Pandemic Express
+<14:08:59> BuildTime: Oct 13 2019 19:15:33
+<14:08:59> Physics initialization
+<14:08:59> Localized language content(english) not available or modified from the original installation.
+<14:08:59> Localized language content(english) not available or modified from the original installation.
+<14:08:59> Localized language content(english) not available or modified from the original installation.
+<14:08:59> <Audio>: AudioSystem initialization
+<14:08:59> <Audio> <0.200>: CryAudioImplWwise loaded
+<14:09:01> Renderer initialization
+<14:09:01> Logging video adapters:
+<14:09:01> - NVIDIA GeForce RTX 3070 (vendor = 0x10de, device = 0x2484)
+<14:09:01>   - Adapter index: 0
+<14:09:01>   - Dedicated video memory: 8043 MB
+<14:09:01>   - Feature level: DX11 (SM 5.0)
+<14:09:01>   - Displays connected: yes
+<14:09:01>   - Suitable rendering device: yes
+<14:09:01> - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<14:09:01>   - Adapter index: 1
+<14:09:01>   - Dedicated video memory: 0 MB
+<14:09:01>   - Feature level: DX11 (SM 5.0)
+<14:09:01>   - Displays connected: no
+<14:09:01>   - Suitable rendering device: no
+<14:09:01> Active GPUs: 1
+<14:09:01> [Renderer] A display device has been connected to the system
+<14:09:01> Loading plugin CryDefaultEntities
+<14:09:01> Loading plugin CrySchematycCore
+<14:09:01> DLL Failed to load, error code: 7E
+<14:09:01> Loading plugin CrySchematycSTDEnv
+<14:09:02> DLL Failed to load, error code: 7E
+<14:09:02> Loading plugin CrySensorSystem
+<14:09:02> DLL Failed to load, error code: 7E
+<14:09:02> Loading extension file cryplugin.csv
+<14:09:02> Loading plugin ProcAnRandGenerator.dll
+<14:09:02> Loading plugin PlayFab.dll
+<14:09:02> Loading plugin CEVPlayer.dll
+<14:09:03> Font initialization
+<14:09:03> Using FreeType 2.5.5
+<14:09:04> Network initialization
+<14:09:04> [net] Socket IO management: External [iocp], Internal [iocp]
+<14:09:04> network hostname: DESKTOP-GKEDPQ6
+<14:09:04>   ip:26.90.194.210
+<14:09:04>   ip:192.168.20.21
+<14:09:04> [Network Version]: PROFILE DEVELOPMENT BUILD
+<14:09:04> MovieSystem initialization
+<14:09:04> Console initialization
+<14:09:04> Time initialization
+<14:09:04> Input initialization
+<14:09:04> AI initialization
+<14:09:04>  
+<14:09:04>     con_debug = 0 []
+<14:09:04>     con_display_last_messages = 0 []
+<14:09:04>     con_line_buffer_size = 1000 []
+<14:09:04>     con_restricted = 0 [RESTRICTEDMODE]
+<14:09:04>     con_showonload = 0 []
+<14:09:04>  
+<14:09:04>     con_debug = 0 []
+<14:09:04>     con_display_last_messages = 0 []
+<14:09:04>     con_line_buffer_size = 1000 []
+<14:09:04>     con_restricted = 0 [RESTRICTEDMODE]
+<14:09:04>     con_showonload = 0 []
+<14:09:04>  
+<14:09:04>     con_debug = 0 []
+<14:09:04>  
+<14:09:04>     con_debug = 0 []
+<14:09:04> Initializing Animation System
+<14:09:04> Initializing 3D Engine
+<14:09:04> Script System Initialization
+<14:09:04> Entity system initialization
+<14:09:04> Initializing AI System
+<14:09:04> Initializing additional systems
+<14:09:04> Dynamic Response System initialization
+<14:09:04> DLL Failed to load, error code: 7E
+<14:09:04> No Dynamic Response System was loaded from a module, will use the NULL implementation.
+<14:09:05> [Steam] Steam API initialized successfully
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "Main" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "Network" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "NetworkStallTicker" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "ZLibCompressor" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "TelemetryCopier" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: [XML Parsing] Thread with name "StatsAgent" already loaded. Overriding with new configuration
+<14:09:05> <ThreadConfigInfo>: Thread profile loaded: "pc_8" (config/game.thread_config)  
+<14:09:05> Initializing default materials...
+<14:09:11> [MFX] Loading FXLib 'breakables' ...
+<14:09:11> [MFX] Loading FXLib 'collisions' ...
+<14:09:11> [MFX] Loading FXLib 'foley' ...
+<14:09:11> [MFX] Loading FXLib 'foley_grunt' ...
+<14:09:11> [MFX] Loading FXLib 'foley_player' ...
+<14:09:11> [MFX] Loading FXLib 'footstep_grunt' ...
+<14:09:11> [MFX] Loading FXLib 'footstep_player' ...
+<14:09:11> [MFX] Loading FXLib 'footsteps' ...
+<14:09:11> [MFX] Loading FXLib 'grenade' ...
+<14:09:11> [MFX] Loading FXLib 'melee' ...
+<14:09:11> [MFX] Loading FXLib 'player_fx' ...
+<14:09:11> [MFX] Loading FXLib 'projectiles' ...
+<14:09:11> [MFX] Loading FXLib 'tornado' ...
+<14:09:11> [MFX] Loading FXLib 'vegetation' ...
+<14:09:11> [MFX] Loading FXLib 'vehicles' ...
+<14:09:11> [MFX] Loading FXLib 'breakables' ...
+<14:09:11> [MFX] Loading FXLib 'collisions' ...
+<14:09:11> [MFX] Loading FXLib 'foley' ...
+<14:09:11> [MFX] Loading FXLib 'foley_grunt' ...
+<14:09:11> [MFX] Loading FXLib 'foley_player' ...
+<14:09:11> [MFX] Loading FXLib 'footstep_grunt' ...
+<14:09:11> [MFX] Loading FXLib 'footstep_player' ...
+<14:09:11> [MFX] Loading FXLib 'footsteps' ...
+<14:09:11> [MFX] Loading FXLib 'grenade' ...
+<14:09:11> [MFX] Loading FXLib 'melee' ...
+<14:09:11> [MFX] Loading FXLib 'player_fx' ...
+<14:09:11> [MFX] Loading FXLib 'projectiles' ...
+<14:09:11> [MFX] Loading FXLib 'tornado' ...
+<14:09:11> [MFX] Loading FXLib 'vegetation' ...
+<14:09:11> [MFX] Loading FXLib 'vehicles' ...
+<14:09:11> Creating socket on port 2838
+<14:09:11> CreateDatagramSocket c1
+<14:09:11> CreateDatagramSocket c2
+<14:13:07> CreateDatagramSocket c1
+<14:13:09> Game rules class: InstantAction
+<14:13:09> ============================ PrepareLevel Multiplayer/Purgatorium_Esc_Cw ============================
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:55> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:58> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:58> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:13:58> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:00> PLAYERNAME Kornflakes
+<14:14:01> CryAnimation: character-definition not found: objects/characters/man.cdf
+<14:14:03> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:03> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:03> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:11> ast_used_prerec_msg 
+<14:14:15> ast_used_prerec_msg 
+<14:14:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:26> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:52> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:52> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:14:52> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:16:49> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:16:49> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<14:16:49> CryAnimation: character-definition not found: objects/characters/human/sdk_player/sdk_player.cdf
+<CRITICAL EXCEPTION>
+Exception: 0xC0000005, at Address: 0x0033:0x00007FF943F7E559
+Virtual memory usage: 6908Mb
+Debug Status: 07:40 Game multiplayer/Purgatorium_Esc_Cw InstantAction
+Last D3D debug message: No message queued. Debug runtime might be inactive or not installed.
+Exception Code: 0xC0000005
+Exception Addr: 0x0033:0x00007FF943F7E559
+Exception Module: <Unknown>
+Exception Name  : EXCEPTION_ACCESS_VIOLATION
+Exception Description: Attempt to read from address 0x000000003FF60000
+The memory could not be "read"
+Exception Code: 0xC0000005
+Exception Addr: 0x0033:0x00007FF943F7E559
+Exception Module: <Unknown>
+Exception Description: EXCEPTION_ACCESS_VIOLATION, Attempt to read from address 0x000000003FF60000
+The memory could not be "read"
+Memory in use: 6968.9MB
+Debug Status: 07:40 Game multiplayer/Purgatorium_Esc_Cw InstantAction
+Out of Memory: 0
+MainThread Id: 12828
+RenderThread Id: 8204
+[Crashed] Thread Id: 12828
+[Crashed] ThreadName: Main
+
+[Crashed] Call Stack: ["Main" [12828]]
+
