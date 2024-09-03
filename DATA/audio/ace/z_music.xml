@@ -1,0 +1,30 @@
+<ATLConfig atl_name="z_music" atl_version="2">
+ <AudioTriggers>
+  <ATLTrigger atl_name="Play_drums_endgame_loop" path="Music_Events" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
+   <WwiseEvent wwise_name="Play_drums_endgame_loop"/>
+  </ATLTrigger>
+  <ATLTrigger atl_name="Play_drums_endgame_win_human" path="Music_Events" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
+   <WwiseEvent wwise_name="Play_drums_endgame_win_human"/>
+  </ATLTrigger>
+  <ATLTrigger atl_name="Play_drums_endgame_win_zombies" path="Music_Events" atl_radius="100" atl_occlusion_fadeout_distance="9999" atl_match_radius_attenuation="0">
+   <WwiseEvent wwise_name="Play_drums_endgame_win_zombies"/>
+  </ATLTrigger>
+ </AudioTriggers>
+ <AudioPreloads>
+  <ATLPreloadRequest atl_name="r_radio_car_1" atl_type="AutoLoad">
+   <ATLPlatform atl_name="pc">
+    <WwiseFile wwise_name="r_radio_car.bnk"/>
+   </ATLPlatform>
+  </ATLPreloadRequest>
+  <ATLPreloadRequest atl_name="r_music" atl_type="AutoLoad">
+   <ATLPlatform atl_name="pc">
+    <WwiseFile wwise_name="r_music.bnk"/>
+   </ATLPlatform>
+  </ATLPreloadRequest>
+ </AudioPreloads>
+ <EditorData>
+  <Folders>
+   <Folder name="Music_Events"/>
+  </Folders>
+ </EditorData>
+</ATLConfig>

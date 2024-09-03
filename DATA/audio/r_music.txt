@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1174075340	Play_drums_endgame_win_human			\Default Work Unit\Music_Events\Play_drums_endgame_win_human	
+	1686560539	Play_Radio_Random			\Default Work Unit\p_Radio\Play_Radio_Random	
+	2483387112	Play_Radio_Car			\Default Work Unit\p_Radio\Play_Radio_Car	
+	2751243989	Play_radio_3			\Default Work Unit\p_Radio\Play_radio_3	
+	2937646422	Play_drums_endgame_win_zombies			\Default Work Unit\Music_Events\Play_drums_endgame_win_zombies	
+	3875801326	Play_drums_endgame_loop			\Default Work Unit\Music_Events\Play_drums_endgame_loop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	197813170	drums_endgame_win_human	D:\!WorkFolder\Personal_projects\BT\tinyBuild Dropbox\Projects\HuntingGrounds\DATA\audio\wwise_project\ZHG_Proj\.cache\Windows\SFX\drums_endgame_win_human_0D3B53BD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Events\Endgame_Music\drums_endgame_win_human		411228
+	381862622	drums_endgame_loop	D:\!WorkFolder\Personal_projects\BT\tinyBuild Dropbox\Projects\HuntingGrounds\DATA\audio\wwise_project\ZHG_Proj\.cache\Windows\SFX\drums_endgame_loop_A5345FCB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Events\Endgame_Music\drums_endgame_loop		1582696
+	722790344	04_Radio_Macabre	D:\!WorkFolder\Personal_projects\BT\tinyBuild Dropbox\Projects\HuntingGrounds\DATA\audio\wwise_project\ZHG_Proj\.cache\Windows\SFX\04_Radio_Macabre_0D3B53BD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Radio\radio_mix\radio_random\04_Radio_Macabre		8533244
+	999942803	drums_endgame_win_zombies	D:\!WorkFolder\Personal_projects\BT\tinyBuild Dropbox\Projects\HuntingGrounds\DATA\audio\wwise_project\ZHG_Proj\.cache\Windows\SFX\drums_endgame_win_zombies_0D3B53BD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music\Events\Endgame_Music\drums_endgame_win_zombies		375816
+

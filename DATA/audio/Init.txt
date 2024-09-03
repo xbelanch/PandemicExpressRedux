@@ -1,0 +1,43 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	99810709	state_l_woodland_mixing			\sdk_project_states\state_ace_scope_level\state_l_woodland_mixing	
+	279122783	state_global_weather			\sdk_project_states\state_ace_scope_global\state_global_weather	
+	314019764	state_global_menu			\sdk_project_states\state_ace_scope_global\state_global_menu	
+	1455216899	mixing_state_underwater			\sdk_mixing_states\mixing_state_underwater	
+
+State	ID	Name	State Group			Notes
+	718908546	l_woodland_ravine	state_l_woodland_mixing			
+	748895195	None	state_l_woodland_mixing			
+	2232597786	l_woodland_riverbed	state_l_woodland_mixing			
+	2572873394	l_woodland_cave	state_l_woodland_mixing			
+	748895195	None	state_global_weather			
+	1754255536	clear	state_global_weather			
+	2043403999	rain	state_global_weather			
+	748895195	None	state_global_menu			
+	3559787777	enter_menu	state_global_menu			
+	58138747	active	mixing_state_underwater			
+	748895195	None	mixing_state_underwater			
+	3163453698	inactive	mixing_state_underwater			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	4549651	l_woodland_ravine	state_l_woodland_mixing	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game\environment		
+	141272478	l_woodland_riverbed	state_l_woodland_mixing	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game\environment		
+	145221246	active	mixing_state_underwater	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game\vehicles		
+	549255283	active	mixing_state_underwater	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game\weapons		
+	624973117	enter_menu	state_global_menu	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game		
+	871801075	l_woodland_cave	state_l_woodland_mixing	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game\weapons		
+	919540881	active	mixing_state_underwater	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game\dialog		
+	1026606164	active	mixing_state_underwater	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\game\environment		
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	702482391	game			\Default Work Unit\Master Audio Bus\game	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	971393558	vehicles			\Default Work Unit\Master Audio Bus\game\vehicles	
+	1069431850	player			\Default Work Unit\Master Audio Bus\game\player	
+	1088520938	interface			\Default Work Unit\Master Audio Bus\game\interface	
+	1229948536	environment			\Default Work Unit\Master Audio Bus\game\environment	
+	1235749641	dialog			\Default Work Unit\Master Audio Bus\game\dialog	
+	1467963052	weapons			\Default Work Unit\Master Audio Bus\game\weapons	
+	1813718568	player_feedback			\Default Work Unit\Master Audio Bus\game\player\player_feedback	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	music			\Default Work Unit\Master Audio Bus\game\music	
+
