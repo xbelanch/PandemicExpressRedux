@@ -1,8 +1,0 @@
-<Material MtlFlags="524288" Shader="Illum" GenMask="30400000" StringGenMask="%NORMAL_MAP%SPECULAR_MAP%SUBSURFACE_SCATTERING" SurfaceType="mat_wood" MatTemplate="" Diffuse="1,1,1" Specular="0.49693301,0.49693301,0.49693301" Opacity="1" Shininess="255" CloakAmount="0" vertModifType="0" LayerAct="1">
- <Textures>
-  <Texture Map="Diffuse" File="./textures/farm_diff.dds"/>
-  <Texture Map="Bumpmap" File="./textures/floor_ddna.dds"/>
-  <Texture Map="Specular" File="./textures/floor_spec.dds"/>
- </Textures>
- <PublicParams EmittanceMapGamma="1" SSSIndex="0"/>
-</Material>
