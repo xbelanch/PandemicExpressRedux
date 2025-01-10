@@ -1,0 +1,24 @@
+<ObjectLayer>
+ <Layer Name="roads" FullName="roads" GUID="{6E74FA33-A076-0A05-FD20-E97AFC2C3B8B}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{66E65F8C-0F44-4B64-C24E-E4E209264498}">
+  <LayerObjects>
+   <Object Type="Road" Layer="roads" LayerGUID="{6E74FA33-A076-0A05-FD20-E97AFC2C3B8B}" Id="{2D81D1AB-860C-B851-9196-5FA2981A28F5}" Name="Road39" Pos="2043.6196,2837.7063,100.86324" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/zhg_materials/Roads/country_road_b" Width="15" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="4" ViewDistRatio="100" TileLength="25" SortPriority="1" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="-0.28780329,-8.0327749,0.15893736" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-7.1630859,-23.028564,0.27836609" Back="-0.65595055,-18.308001,0.3622441" Forw="-21.35659,-33.325161,0.095409587" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-56.579346,-41.045166,-0.72931671" Back="-39.08289,-39.951931,-0.29607916" Forw="-79.933159,-42.504391,-1.307591" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-125.96826,-30.451904,-2.6634216" Back="-102.71706,-33.142597,-2.5845053" Forw="-157.27802,-26.828653,-2.7696893" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-220.14673,-22.116699,-1.2844772" Back="-188.94148,-26.552082,-1.2694741" Forw="-259.45587,-16.529465,-1.3033767" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-337.25732,-0.42016602,-2.765007" Back="-297.73389,-4.1530533,-3.3876574" Forw="-402.83133,5.773129,-1.7319576" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-534.61206,7.5837402,3.6695938" Back="-469.7518,-3.7856083,1.8642473" Forw="-570.76941,13.921759,4.676012" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-635.47559,51.854492,5.5357208" Back="-603.79761,33.283905,5.1148362" Forw="-635.47559,51.854492,5.5357208" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Road" Layer="roads" LayerGUID="{6E74FA33-A076-0A05-FD20-E97AFC2C3B8B}" Id="{C3945609-2F41-536C-83D6-378D8B9E935E}" Name="Road371" Pos="2009.7446,429.7991,193.4951" FloorNumber="-1" Rotate="0.66305453,0,0,0.74857116" ColorRGB="16763904" Material="Materials/roads/crosswalk" Width="5" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="7" ViewDistRatio="100" TileLength="4" SortPriority="3" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="-4.6807456,0.024739584,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="-14.042236,0.07421875,0" Back="-9.3614902,0.049479164,0" Forw="-14.042236,0.07421875,0" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

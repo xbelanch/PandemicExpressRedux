@@ -1,0 +1,433 @@
+<ObjectLayer>
+ <Layer Name="Cableway_GAMEPLAY" FullName="cableway/Cableway_GAMEPLAY" GUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{912B2EF3-19B3-72CF-67F4-F5CAAE8E661B}">
+  <LayerObjects>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{1E7DE0B1-90AC-0E68-1A77-BED5289E723A}" Name="A_Colission_Mesh_Plain_4" Pos="631.90082,1573.3699,153.58385" FloorNumber="-1" Rotate="0.96592581,0,0,0.25881904" Scale="2.7879708,8.8641138,3.6399999" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{23728793-DBC4-8951-99CC-5EDB01D2A94A}" Name="A_Colission_Mesh_Plain_12" Pos="926.94635,1170.2178,158.18777" FloorNumber="-1" Rotate="0.9619326,0.187194,0.012350334,0.19872461" Scale="3.8326647,9.2744761,2.7879708" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{4051BD37-3B6E-F174-3EFE-447AD93E65E4}" Name="A_Colission_Mesh_Plain_8" Pos="871.26477,1817.074,189.89659" FloorNumber="-1" Rotate="0.6590066,0.064571559,0.0079726689,-0.74931782" Scale="3.8326647,9.2744761,2.7879708" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="GeomEntity" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{41466AE4-9071-C506-826E-4C8A34D11550}" Name="cableway_cabin2" Pos="939.46307,1190.8328,133.73116" FloorNumber="-1" Rotate="-0.41923934,-0.063384883,0.028769422,0.90520334" ColorRGB="65535" MatLayersMask="0" Geometry="Objects/zhg_objects/vehicles/cableway/cableway_cabin.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{4550D9F8-9274-1902-A307-031343F8E698}" Name="A_Colission_Mesh_Plain_15" Pos="1309.3093,873.70917,156.77867" FloorNumber="-1" Rotate="0.94278723,0.087409399,0.0065943687,0.32166502" Scale="3.1199999,3.1199999,3.1199999" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{766171F1-9FB4-AF6D-F31C-47C34F203BF8}" Name="A_Colission_Mesh_Plain_5" Pos="640.71362,1583.1415,152.98555" FloorNumber="-1" Rotate="0.99144489,0,0,-0.13052619" Scale="2.7879708,13.510344,3.6399999" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{7AEEB205-855A-1BF2-40DC-CB3CB7C2434B}" Name="A_Colission_Mesh_Plain_7" Pos="755.41846,1787.9766,176.47948" FloorNumber="-1" Rotate="0.87416142,0.075062841,-0.076191865,-0.47371104" Scale="2.7879708,13.284799,3.6399999" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{80584257-775B-7EE6-816B-C6558AB882C2}" Name="A_Colission_Mesh_Plain_20" Pos="1185.8475,458.47427,189.0166" FloorNumber="-1" Rotate="0.78418046,-1.8219806e-09,4.3254694e-10,-0.62053281" Scale="3.6899149,14.206656,3.6899149" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{80A0D0F9-DDB4-A0F3-2ED5-F630C728B89B}" Name="A_Colission_Mesh_Plain_18" Pos="1184.3496,468.63437,188.65331" FloorNumber="-1" Rotate="0.83459795,-0.0055187037,0.056193605,-0.54795814" Scale="3.6899149,11.855147,3.8326647" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{8A7859C8-F2C1-080E-68C5-CB62D63A017F}" Name="SpeedBoat47" Pos="814.09662,1764.8401,149.78569" FloorNumber="-1" Rotate="0.81411541,0,0,-0.5807029" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpeedBoat" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Boat" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="BoatIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{B7BD9A41-0E86-E03E-0BCC-5532CF748B01}" Name="A_Colission_Mesh_Plain_16" Pos="1359.3636,785.42853,149.17586" FloorNumber="-1" Rotate="0.99282658,0.043347746,0.0048604403,0.1113223" Scale="3.9670861,10.294802,3.8326647" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{BD8E1074-2595-1762-956F-DC090396C792}" Name="A_Colission_Mesh_Plain_19" Pos="630.20355,1581.7734,152.98555" FloorNumber="-1" Rotate="0.99144489,0,0,-0.13052619" Scale="2.7879708,13.510344,3.6399999" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{D145A4D0-31F3-C038-F416-C1437DEEDC99}" Name="BadBoyBus95" Pos="893.27863,1811.4064,169.79999" FloorNumber="-1" Rotate="0.58209038,-0.0052782241,0.016402215,-0.81294149" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{D763540D-6D4C-20FD-7DAB-AEBCBBD12E83}" Name="BadBoyBus123" Pos="1012.3141,1755.0236,168.55" FloorNumber="-1" Rotate="0.58209038,-0.0052782241,0.016402215,-0.81294149" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{DAFA68B6-82BD-6573-B60F-7D708A28BF79}" Name="A_Colission_Mesh_Plain_14" Pos="1316.0275,880.57977,156.33693" FloorNumber="-1" Rotate="0.93107074,-9.0864788e-11,3.7241821e-09,0.36483878" Scale="4.2868094,11.589678,3.8326647" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{E39D9ECF-AACA-0D35-B1E7-0B0778A67CC2}" Name="A_Colission_Mesh_Plain_17" Pos="1346.7163,789.37744,149.58932" FloorNumber="-1" Rotate="0.97934622,0.043606408,0.0010639401,0.19742922" Scale="2.8065219,17.746639,3.8326647" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_plane_small.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="GameVolume" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{E5E47389-785D-9958-2529-4C49252208DD}" Name="GameVolume1" Pos="943.39148,1203.3593,162.23216" FloorNumber="-1" Rotate="0.99996191,0,0,-0.0087265354" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="1" VolumeClass="1" EntityClass="TrainRails" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="6" bBendGeometry="1" bCreatePhysicsState="1" fDistBtRailsModels="-1.4" bGenerateRailsModels="1" bGenerateRMOld="0" bInvertRoadDirection="0" bIsLastTrain="1" bIsLooped="1" fMltSplineSeg="15" objRails="Objects/zhg_objects/props/industrial/cabelway/cabelway_tracks/c_tracks_d.cgf" bRefresh="1" bScaleAlongSpline="1" fSplineCurvature="0.5" fStartDelay="0" fTrainInitialZRot="90" sTrainLocomotiveMdl="" fTrainMoveSpeed="0" bUseZRotation="1"/>
+    <Components>
+     <Component typeId="{98EDA61F-DE8B-E2B1-A1CA-2A88E4EEDE66}">
+      <Area Id="0" Group="0" Proximity="0" Priority="0" InnerFadeDistance="0" Height="0">
+       <Points>
+        <Point Pos="-4.3602877,-5.9019575,1.0123371" ObstructSound="0"/>
+        <Point Pos="-10.755935,-15.371814,1.0375824" ObstructSound="0"/>
+        <Point Pos="-18.871832,-26.705139,1.0821991" ObstructSound="0"/>
+        <Point Pos="-119.64323,-70.020439,39.273895" ObstructSound="0"/>
+        <Point Pos="-133.09393,-79.25827,39.779823" ObstructSound="0"/>
+        <Point Pos="-183.95622,-116.42818,41.069462" ObstructSound="0"/>
+        <Point Pos="-214.27144,-140.39456,52.353531" ObstructSound="0"/>
+        <Point Pos="-221.37407,-158.06444,52.374626" ObstructSound="0"/>
+        <Point Pos="-244.52928,-257.98856,52.48922" ObstructSound="0"/>
+        <Point Pos="-258.36627,-407.26709,82.449738" ObstructSound="0"/>
+        <Point Pos="-262.19833,-420.18317,82.678032" ObstructSound="0"/>
+        <Point Pos="-283.18463,-511.94745,77.873405" ObstructSound="0"/>
+        <Point Pos="-285.41467,-516.70551,77.801712" ObstructSound="0"/>
+        <Point Pos="-286.27869,-521.53473,77.768211" ObstructSound="0"/>
+        <Point Pos="-287.36481,-529.00006,77.844894" ObstructSound="0"/>
+        <Point Pos="-309.41177,-577.95416,88.351395" ObstructSound="0"/>
+        <Point Pos="-316.36688,-588.70502,88.138573" ObstructSound="0"/>
+        <Point Pos="-447.5957,-675.17065,102.60143" ObstructSound="0"/>
+        <Point Pos="-544.28827,-739.36444,102.52073" ObstructSound="0"/>
+        <Point Pos="-551.69,-747.80194,103.22167" ObstructSound="0"/>
+        <Point Pos="-553.56946,-755.5509,103.29482" ObstructSound="0"/>
+        <Point Pos="-554.04626,-765.64563,103.12057" ObstructSound="0"/>
+        <Point Pos="-523.57874,-812.05524,102.89248" ObstructSound="0"/>
+        <Point Pos="-514.18726,-815.41968,103.77083" ObstructSound="0"/>
+        <Point Pos="-503.93207,-816.00684,103.28475" ObstructSound="0"/>
+        <Point Pos="-360.44348,-824.66583,81.662971" ObstructSound="0"/>
+        <Point Pos="-202.64758,-782.71094,22.15934" ObstructSound="0"/>
+        <Point Pos="-100.37697,-753.81726,2.3535724" ObstructSound="0"/>
+        <Point Pos="1.5631104,-725.85364,15.066788" ObstructSound="0"/>
+        <Point Pos="71.421371,-704.24371,38.013443" ObstructSound="0"/>
+        <Point Pos="78.544487,-702.59058,38.015167" ObstructSound="0"/>
+        <Point Pos="92.930344,-701.86023,36.517838" ObstructSound="0"/>
+        <Point Pos="133.55038,-703.95868,34.885513" ObstructSound="0"/>
+        <Point Pos="216.83275,-729.74017,31.674744" ObstructSound="0"/>
+        <Point Pos="233.86659,-735.15802,31.363297" ObstructSound="0"/>
+        <Point Pos="257.27664,-735.75092,31.670815" ObstructSound="0"/>
+        <Point Pos="266.08527,-730.29657,31.556747" ObstructSound="0"/>
+        <Point Pos="287.30743,-703.56836,29.017677" ObstructSound="0"/>
+        <Point Pos="300.78894,-689.39923,27.072945" ObstructSound="0"/>
+        <Point Pos="308.95319,-677.59802,22.331385" ObstructSound="0"/>
+        <Point Pos="350.71848,-616.18219,-7.9923096" ObstructSound="0"/>
+        <Point Pos="353.99246,-609.698,-9.6071625" ObstructSound="0"/>
+        <Point Pos="356.87897,-602.64056,-9.6963959" ObstructSound="0"/>
+        <Point Pos="360.211,-595.45465,-9.6345215" ObstructSound="0"/>
+        <Point Pos="362.15753,-589.45026,-9.1783295" ObstructSound="0"/>
+        <Point Pos="412.37274,-434.61624,-9.055191" ObstructSound="0"/>
+        <Point Pos="416.42746,-420.19266,-8.7321625" ObstructSound="0"/>
+        <Point Pos="418.61447,-408.06561,-8.9046478" ObstructSound="0"/>
+        <Point Pos="376.30267,-321.04944,-0.49777222" ObstructSound="0"/>
+        <Point Pos="370.81793,-316.86664,-0.86169457" ObstructSound="0"/>
+        <Point Pos="360.28693,-315.22562,-1.0058899" ObstructSound="0"/>
+        <Point Pos="353.31363,-314.14282,-1.1257172" ObstructSound="0"/>
+        <Point Pos="262.87958,-299.95813,-9.3258734" ObstructSound="0"/>
+        <Point Pos="206.1349,-290.72995,-27.540613" ObstructSound="0"/>
+        <Point Pos="118.00344,-245.06247,-18.699839" ObstructSound="0"/>
+        <Point Pos="108.56792,-232.92285,-18.643406" ObstructSound="0"/>
+        <Point Pos="77.712822,-191.25845,-19.740189" ObstructSound="0"/>
+        <Point Pos="36.058933,-125.7885,-16.512817" ObstructSound="0"/>
+        <Point Pos="27.395813,-114.13037,-16.473238" ObstructSound="0"/>
+        <Point Pos="22.631029,-107.76392,-15.946318" ObstructSound="0"/>
+        <Point Pos="-10.199517,-31.694393,2.1206257" ObstructSound="0"/>
+        <Point Pos="-11.018034,-23.214895,2.0446115" ObstructSound="0"/>
+        <Point Pos="-7.0593872,-14.881958,1.946261" ObstructSound="0"/>
+        <Point Pos="-3.4818115,-7.4822998,1.8782663" ObstructSound="0"/>
+        <Point Pos="0.66253126,-1.0029298,1.9177136" ObstructSound="0"/>
+        <Point Pos="121.50629,147.69347,0.25047588" ObstructSound="0"/>
+        <Point Pos="129.93687,157.73637,-0.41852522" ObstructSound="0"/>
+        <Point Pos="198.60266,221.91081,21.570599" ObstructSound="0"/>
+        <Point Pos="273.11139,277.04578,45.057961" ObstructSound="0"/>
+        <Point Pos="283.96439,279.98413,45.672371" ObstructSound="0"/>
+        <Point Pos="294.08017,280.19867,45.322277" ObstructSound="0"/>
+        <Point Pos="403.84186,272.02139,21.507423" ObstructSound="0"/>
+        <Point Pos="449.63538,258.49573,30.526222" ObstructSound="0"/>
+        <Point Pos="463.40564,259.52478,30.392296" ObstructSound="0"/>
+        <Point Pos="527.43951,269.23563,32.266621" ObstructSound="0"/>
+        <Point Pos="563.33789,275.46735,35.002594" ObstructSound="0"/>
+        <Point Pos="575.24432,286.57629,34.817852" ObstructSound="0"/>
+        <Point Pos="581.07776,300.64212,34.336708" ObstructSound="0"/>
+        <Point Pos="573.20361,350.84332,39.574905" ObstructSound="0"/>
+        <Point Pos="558.51532,405.0921,45.858765" ObstructSound="0"/>
+        <Point Pos="555.09167,408.88034,45.970207" ObstructSound="0"/>
+        <Point Pos="550.79321,413.04837,46.029453" ObstructSound="0"/>
+        <Point Pos="541.46552,423.08456,45.051552" ObstructSound="0"/>
+        <Point Pos="414.87274,454.07663,50.682358" ObstructSound="0"/>
+        <Point Pos="317.94672,486.95673,55.142838" ObstructSound="0"/>
+        <Point Pos="225.57077,515.9859,54.036434" ObstructSound="0"/>
+        <Point Pos="165.41805,535.2547,52.45837" ObstructSound="0"/>
+        <Point Pos="107.4567,556.26868,33.518688" ObstructSound="0"/>
+        <Point Pos="54.128784,573.98462,25.675543" ObstructSound="0"/>
+        <Point Pos="-20.446594,599.75323,23.828995" ObstructSound="0"/>
+        <Point Pos="-70.801575,616.03357,32.24958" ObstructSound="0"/>
+        <Point Pos="-78.656677,617.0188,32.921185" ObstructSound="0"/>
+        <Point Pos="-85.996414,617.95459,32.191177" ObstructSound="0"/>
+        <Point Pos="-91.262756,616.29578,32.713516" ObstructSound="0"/>
+        <Point Pos="-197.76312,574.79773,19.555069" ObstructSound="0"/>
+        <Point Pos="-245.91632,524.02515,6.2207184" ObstructSound="0"/>
+        <Point Pos="-255.99297,505.70724,6.1428375" ObstructSound="0"/>
+        <Point Pos="-278.47531,463.6741,-3.4124603" ObstructSound="0"/>
+        <Point Pos="-314.91394,375.48245,-4.2472534" ObstructSound="0"/>
+        <Point Pos="-313.65417,357.70413,-2.8500793" ObstructSound="0"/>
+        <Point Pos="-246.19464,277.68274,24.92421" ObstructSound="0"/>
+        <Point Pos="-234.51874,265.36841,26.90498" ObstructSound="0"/>
+        <Point Pos="-226.6424,260.70837,26.155516" ObstructSound="0"/>
+        <Point Pos="-42.523022,166.59647,0.7252388" ObstructSound="0"/>
+        <Point Pos="-31.887512,159.81909,0.30940247" ObstructSound="0"/>
+        <Point Pos="-26.221107,156.22522,0.28867477" ObstructSound="0"/>
+        <Point Pos="38.235901,102.60817,0.62313843" ObstructSound="0"/>
+        <Point Pos="35.589172,69.988403,0.43547058" ObstructSound="0"/>
+        <Point Pos="31.927673,60.245728,0.35935974" ObstructSound="0"/>
+        <Point Pos="29.666931,56.658081,0.36715698" ObstructSound="0"/>
+        <Point Pos="-1.1146851,-0.37756348,0.90767014" ObstructSound="0"/>
+       </Points>
+       <Roof ObstructSound="0"/>
+       <Floor ObstructSound="0"/>
+      </Area>
+     </Component>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="-4.3602877,-5.9019575,1.0123371"/>
+     <Point Pos="-10.755935,-15.371814,1.0375824"/>
+     <Point Pos="-18.871832,-26.705139,1.0821991"/>
+     <Point Pos="-119.64323,-70.020439,39.273895"/>
+     <Point Pos="-133.09393,-79.25827,39.779823"/>
+     <Point Pos="-183.95622,-116.42818,41.069462"/>
+     <Point Pos="-214.27144,-140.39456,52.353531"/>
+     <Point Pos="-221.37407,-158.06444,52.374626"/>
+     <Point Pos="-244.52928,-257.98856,52.48922"/>
+     <Point Pos="-258.36627,-407.26709,82.449738"/>
+     <Point Pos="-262.19833,-420.18317,82.678032"/>
+     <Point Pos="-283.18463,-511.94745,77.873405"/>
+     <Point Pos="-285.41467,-516.70551,77.801712"/>
+     <Point Pos="-286.27869,-521.53473,77.768211"/>
+     <Point Pos="-287.36481,-529.00006,77.844894"/>
+     <Point Pos="-309.41177,-577.95416,88.351395"/>
+     <Point Pos="-316.36688,-588.70502,88.138573"/>
+     <Point Pos="-447.5957,-675.17065,102.60143"/>
+     <Point Pos="-544.28827,-739.36444,102.52073"/>
+     <Point Pos="-551.69,-747.80194,103.22167"/>
+     <Point Pos="-553.56946,-755.5509,103.29482"/>
+     <Point Pos="-554.04626,-765.64563,103.12057"/>
+     <Point Pos="-523.57874,-812.05524,102.89248"/>
+     <Point Pos="-514.18726,-815.41968,103.77083"/>
+     <Point Pos="-503.93207,-816.00684,103.28475"/>
+     <Point Pos="-360.44348,-824.66583,81.662971"/>
+     <Point Pos="-202.64758,-782.71094,22.15934"/>
+     <Point Pos="-100.37697,-753.81726,2.3535724"/>
+     <Point Pos="1.5631104,-725.85364,15.066788"/>
+     <Point Pos="71.421371,-704.24371,38.013443"/>
+     <Point Pos="78.544487,-702.59058,38.015167"/>
+     <Point Pos="92.930344,-701.86023,36.517838"/>
+     <Point Pos="133.55038,-703.95868,34.885513"/>
+     <Point Pos="216.83275,-729.74017,31.674744"/>
+     <Point Pos="233.86659,-735.15802,31.363297"/>
+     <Point Pos="257.27664,-735.75092,31.670815"/>
+     <Point Pos="266.08527,-730.29657,31.556747"/>
+     <Point Pos="287.30743,-703.56836,29.017677"/>
+     <Point Pos="300.78894,-689.39923,27.072945"/>
+     <Point Pos="308.95319,-677.59802,22.331385"/>
+     <Point Pos="350.71848,-616.18219,-7.9923096"/>
+     <Point Pos="353.99246,-609.698,-9.6071625"/>
+     <Point Pos="356.87897,-602.64056,-9.6963959"/>
+     <Point Pos="360.211,-595.45465,-9.6345215"/>
+     <Point Pos="362.15753,-589.45026,-9.1783295"/>
+     <Point Pos="412.37274,-434.61624,-9.055191"/>
+     <Point Pos="416.42746,-420.19266,-8.7321625"/>
+     <Point Pos="418.61447,-408.06561,-8.9046478"/>
+     <Point Pos="376.30267,-321.04944,-0.49777222"/>
+     <Point Pos="370.81793,-316.86664,-0.86169457"/>
+     <Point Pos="360.28693,-315.22562,-1.0058899"/>
+     <Point Pos="353.31363,-314.14282,-1.1257172"/>
+     <Point Pos="262.87958,-299.95813,-9.3258734"/>
+     <Point Pos="206.1349,-290.72995,-27.540613"/>
+     <Point Pos="118.00344,-245.06247,-18.699839"/>
+     <Point Pos="108.56792,-232.92285,-18.643406"/>
+     <Point Pos="77.712822,-191.25845,-19.740189"/>
+     <Point Pos="36.058933,-125.7885,-16.512817"/>
+     <Point Pos="27.395813,-114.13037,-16.473238"/>
+     <Point Pos="22.631029,-107.76392,-15.946318"/>
+     <Point Pos="-10.199517,-31.694393,2.1206257"/>
+     <Point Pos="-11.018034,-23.214895,2.0446115"/>
+     <Point Pos="-7.0593872,-14.881958,1.946261"/>
+     <Point Pos="-3.4818115,-7.4822998,1.8782663"/>
+     <Point Pos="0.66253126,-1.0029298,1.9177136"/>
+     <Point Pos="121.50629,147.69347,0.25047588"/>
+     <Point Pos="129.93687,157.73637,-0.41852522"/>
+     <Point Pos="198.60266,221.91081,21.570599"/>
+     <Point Pos="273.11139,277.04578,45.057961"/>
+     <Point Pos="283.96439,279.98413,45.672371"/>
+     <Point Pos="294.08017,280.19867,45.322277"/>
+     <Point Pos="403.84186,272.02139,21.507423"/>
+     <Point Pos="449.63538,258.49573,30.526222"/>
+     <Point Pos="463.40564,259.52478,30.392296"/>
+     <Point Pos="527.43951,269.23563,32.266621"/>
+     <Point Pos="563.33789,275.46735,35.002594"/>
+     <Point Pos="575.24432,286.57629,34.817852"/>
+     <Point Pos="581.07776,300.64212,34.336708"/>
+     <Point Pos="573.20361,350.84332,39.574905"/>
+     <Point Pos="558.51532,405.0921,45.858765"/>
+     <Point Pos="555.09167,408.88034,45.970207"/>
+     <Point Pos="550.79321,413.04837,46.029453"/>
+     <Point Pos="541.46552,423.08456,45.051552"/>
+     <Point Pos="414.87274,454.07663,50.682358"/>
+     <Point Pos="317.94672,486.95673,55.142838"/>
+     <Point Pos="225.57077,515.9859,54.036434"/>
+     <Point Pos="165.41805,535.2547,52.45837"/>
+     <Point Pos="107.4567,556.26868,33.518688"/>
+     <Point Pos="54.128784,573.98462,25.675543"/>
+     <Point Pos="-20.446594,599.75323,23.828995"/>
+     <Point Pos="-70.801575,616.03357,32.24958"/>
+     <Point Pos="-78.656677,617.0188,32.921185"/>
+     <Point Pos="-85.996414,617.95459,32.191177"/>
+     <Point Pos="-91.262756,616.29578,32.713516"/>
+     <Point Pos="-197.76312,574.79773,19.555069"/>
+     <Point Pos="-245.91632,524.02515,6.2207184"/>
+     <Point Pos="-255.99297,505.70724,6.1428375"/>
+     <Point Pos="-278.47531,463.6741,-3.4124603"/>
+     <Point Pos="-314.91394,375.48245,-4.2472534"/>
+     <Point Pos="-313.65417,357.70413,-2.8500793"/>
+     <Point Pos="-246.19464,277.68274,24.92421"/>
+     <Point Pos="-234.51874,265.36841,26.90498"/>
+     <Point Pos="-226.6424,260.70837,26.155516"/>
+     <Point Pos="-42.523022,166.59647,0.7252388"/>
+     <Point Pos="-31.887512,159.81909,0.30940247"/>
+     <Point Pos="-26.221107,156.22522,0.28867477"/>
+     <Point Pos="38.235901,102.60817,0.62313843"/>
+     <Point Pos="35.589172,69.988403,0.43547058"/>
+     <Point Pos="31.927673,60.245728,0.35935974"/>
+     <Point Pos="29.666931,56.658081,0.36715698"/>
+     <Point Pos="-1.1146851,-0.37756348,0.90767014"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Side9="0" Side10="0" Side11="0" Side12="0" Side13="0" Side14="0" Side15="0" Side16="0" Side17="0" Side18="0" Side19="0" Side20="0" Side21="0" Side22="0" Side23="0" Side24="0" Side25="0" Side26="0" Side27="0" Side28="0" Side29="0" Side30="0" Side31="0" Side32="0" Side33="0" Side34="0" Side35="0" Side36="0" Side37="0" Side38="0" Side39="0" Side40="0" Side41="0" Side42="0" Side43="0" Side44="0" Side45="0" Side46="0" Side47="0" Side48="0" Side49="0" Side50="0" Side51="0" Side52="0" Side53="0" Side54="0" Side55="0" Side56="0" Side57="0" Side58="0" Side59="0" Side60="0" Side61="0" Side62="0" Side63="0" Side64="0" Side65="0" Side66="0" Side67="0" Side68="0" Side69="0" Side70="0" Side71="0" Side72="0" Side73="0" Side74="0" Side75="0" Side76="0" Side77="0" Side78="0" Side79="0" Side80="0" Side81="0" Side82="0" Side83="0" Side84="0" Side85="0" Side86="0" Side87="0" Side88="0" Side89="0" Side90="0" Side91="0" Side92="0" Side93="0" Side94="0" Side95="0" Side96="0" Side97="0" Side98="0" Side99="0" Side100="0" Side101="0" Side102="0" Side103="0" Side104="0" Side105="0" Side106="0" Side107="0" Side108="0" Side109="0" Side110="0" Side111="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Entity" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{E8BFB5ED-B84D-01B4-06CC-D6087F6F4A7E}" Name="BadBoyBus126" Pos="794.02332,1772.9982,152.84865" FloorNumber="-1" Rotate="0.95934039,0.0059475242,0.016171558,-0.28172538" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="Cableway_GAMEPLAY" LayerGUID="{694BC6B3-59FD-D1E0-995E-6E41CD27A50A}" Id="{EC67C08C-4CAE-2702-7F0E-2115BFAD4722}" Name="SpeedBoat46" Pos="721.2453,1717.2207,149.78569" FloorNumber="-1" Rotate="0.81411541,0,0,-0.5807029" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpeedBoat" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Boat" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="BoatIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

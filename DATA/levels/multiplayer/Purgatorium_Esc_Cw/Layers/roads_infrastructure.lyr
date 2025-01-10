@@ -1,0 +1,202 @@
+<ObjectLayer>
+ <Layer Name="roads_infrastructure" FullName="roads_infrastructure" GUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Road" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{1077A695-28DE-A8BC-C8C5-08506802DAD9}" Name="Road127" Pos="1278.493,360.08557,126.40463" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/roads/railroad_trackbed" Width="12" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="10" ViewDistRatio="100" TileLength="12" SortPriority="1" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="2.5350876,5.1085463,0.06467402" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="5.6536865,16.148743,0.082244873" Back="5.1928372,10.464273,0.13247734" Forw="6.1142941,21.830233,0.03203873" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="2.6740723,32.98407,-0.29147339" Back="3.6090996,27.363558,-0.11952969" Forw="2.1281233,36.265804,-0.3918688" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="1.2114258,42.851471,-0.73464966" Back="1.5284333,39.539532,-0.64254725" Forw="0.96531016,45.422768,-0.80615532" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="0.98791504,50.60022,-0.78136444" Back="0.68107295,48.034611,-0.80862838" Forw="1.7352061,56.848572,-0.71496516" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="4.3594971,69.173553,-0.45493317" Back="2.8847561,63.055584,-0.47348681" Forw="11.451549,98.594955,-0.36570841" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="26.679077,157.18011,-0.45814514" Back="19.019129,127.90133,-0.50745666" Forw="32.843044,180.74077,-0.41846412" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="45.829712,227.68604,-0.18796539" Back="38.282673,204.53171,-0.32770258" Forw="47.435547,232.61273,-0.15823257" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="53.97522,240.92474,0.04725647" Back="50.938717,236.72614,-0.010052044" Forw="56.569756,244.51224,0.096223637" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="62.667725,250.9682,0.12982178" Back="59.470631,247.90549,0.078963861" Forw="64.916306,253.12227,0.16559117" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="70.210449,256.47754,0.3055191" Back="67.936157,254.351,0.25257897" Forw="72.074097,258.22012,0.34890053" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="74.970703,262.47192,0.41620636" Back="73.534103,260.36319,0.38282534" Forw="74.970703,262.47192,0.41620636" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Brush" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{19ED3CDF-3727-BC95-09E3-407498C8798A}" Name="metal_electric_pole_lod1" Pos="1036.0872,1242.1019,106.6622" FloorNumber="-1" Rotate="-0.46174866,0,0,0.88701081" Scale="2.1999998,2.1999998,2.1999998" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/industrial/electrical/electric_pole/metal_electric_pole.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="GameVolume" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{1EBC01E6-4BDD-D451-E5C6-B23899C959BB}" Name="GameVolume9" Pos="3668.7729,1552.2454,210.16978" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="0" VolumeClass="3" EntityClass="SplineObjGenTool" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="6" bBendGeometry="0" bCreatePhysicsState="1" fDistBtObjs="0" bGenerateObjs="0" bIsLooped="1" objModel="" bRefresh="0" bScaleAlongSpline="1" fSplineCurvature="0.5"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="0,0,0.1000061"/>
+     <Point Pos="0.35852051,-0.20404053,-0.095948219"/>
+     <Point Pos="2.305542,-1.2285156,-0.90211487"/>
+     <Point Pos="7.869751,-4.4093018,-3.111084"/>
+     <Point Pos="9.8306885,-16.933899,-8.8500061"/>
+     <Point Pos="23.733398,-19.233582,-8.4988098"/>
+     <Point Pos="25.168335,-21.011841,-8.2690735"/>
+     <Point Pos="25.296631,-21.177185,-8.2466965"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Brush" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{259DB734-D054-1D0C-D632-62B614131B1F}" Name="metal_electric_pole_lod21" Pos="1704.7717,1374.6544,161.70131" FloorNumber="-1" Rotate="0.025180019,-0.13384984,-0.010576288,0.99062526" Scale="2.1999998,2.1999998,2.1999998" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/industrial/electrical/electric_pole/metal_electric_pole_lod1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{260304C7-353D-C364-C35A-570B9B729B17}" Name="metal_electric_pole_lod34" Pos="1668.4419,1284.0591,129.66638" FloorNumber="-1" Rotate="0.2088666,-0.042285122,-0.0019617153,0.9770276" Scale="2.1999998,2.1999998,2.1999998" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/industrial/electrical/electric_pole/metal_electric_pole_lod1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{9629C62C-BF09-9BF2-FFBA-35A9CEB3E96D}" Name="metal_electric_pole_lod24" Pos="1705.8674,1446.3029,167.85001" FloorNumber="-1" Rotate="0.026683237,0.048485827,-0.0058220597,0.9984504" Scale="2.1999998,2.1999998,2.1999998" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/industrial/electrical/electric_pole/metal_electric_pole_lod1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{9A6CA471-A2E0-6D66-3CED-458647973BBA}" Name="sign_a36" Pos="2157.2708,2212.2361,112.875" FloorNumber="-1" Rotate="0.90630782,0,0,-0.42261824" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/props/roads/road_infastructure/sign231.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="GameVolume" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{9B9A7314-F11C-570A-E138-85D083232CEE}" Name="GameVolume12" Pos="3671.1982,1554.6726,209.11159" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="1" VolumeClass="3" EntityClass="SplineObjGenTool" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="6" bBendGeometry="0" bCreatePhysicsState="1" fDistBtObjs="0" bGenerateObjs="0" bIsLooped="1" objModel="" bRefresh="0" bScaleAlongSpline="1" fSplineCurvature="0.5"/>
+    <Components>
+     <Component typeId="{98EDA61F-DE8B-E2B1-A1CA-2A88E4EEDE66}">
+      <Area Id="0" Group="0" Proximity="0" Priority="0" InnerFadeDistance="0" Height="0">
+       <Points>
+        <Point Pos="0,0,0.1000061" ObstructSound="0"/>
+        <Point Pos="0.35852051,-0.20404053,-0.095948219" ObstructSound="0"/>
+        <Point Pos="2.305542,-1.2285156,-0.90211487" ObstructSound="0"/>
+        <Point Pos="7.869751,-4.4093018,-3.111084" ObstructSound="0"/>
+        <Point Pos="9.8306885,-16.933899,-8.8500061" ObstructSound="0"/>
+        <Point Pos="23.733398,-19.233582,-8.4988098" ObstructSound="0"/>
+        <Point Pos="25.168335,-21.011841,-8.2690735" ObstructSound="0"/>
+        <Point Pos="25.296631,-21.177185,-8.2466965" ObstructSound="0"/>
+       </Points>
+       <Roof ObstructSound="0"/>
+       <Floor ObstructSound="0"/>
+      </Area>
+     </Component>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="0,0,0.1000061"/>
+     <Point Pos="0.35852051,-0.20404053,-0.095948219"/>
+     <Point Pos="2.305542,-1.2285156,-0.90211487"/>
+     <Point Pos="7.869751,-4.4093018,-3.111084"/>
+     <Point Pos="9.8306885,-16.933899,-8.8500061"/>
+     <Point Pos="23.733398,-19.233582,-8.4988098"/>
+     <Point Pos="25.168335,-21.011841,-8.2690735"/>
+     <Point Pos="25.296631,-21.177185,-8.2466965"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Road" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{C03C28CB-C6C3-D97E-EEA9-20F962DBC246}" Name="Road224" Pos="1066.5195,1258.7007,105.96869" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="16763904" Material="Materials/zhg_materials/Roads/country_road_b" Width="10" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="7" ViewDistRatio="100" TileLength="15" SortPriority="0" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="5.5724263,-10.195963,2.3540044" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="15.909058,-31.251221,5.9347382" Back="11.17627,-20.449409,4.7212806" Forw="18.841373,-37.943748,6.6865659" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="22.855347,-52.163574,5.8599701" Back="18.987621,-45.919205,5.8127322" Forw="30.047972,-63.775932,5.9478164" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="48.605225,-84.038574,6.3340683" Back="40.030151,-73.406929,6.4915991" Forw="53.600628,-90.232033,6.2422986" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="63.548096,-102.61572,5.1124115" Back="58.697018,-96.31459,5.4024215" Forw="66.368103,-106.27867,4.9438238" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="71.605225,-113.91359,4.9590683" Back="68.988609,-110.09897,4.9514518" Forw="71.605225,-113.91359,4.9590683" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="GameVolume" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{ECE0A776-35EC-9C88-98D0-13F5D3476A14}" Name="GameVolume13" Pos="3667.7437,1546.252,210.16978" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="1" VolumeClass="3" EntityClass="SplineObjGenTool" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="6" bBendGeometry="0" bCreatePhysicsState="1" fDistBtObjs="0" bGenerateObjs="0" bIsLooped="1" objModel="" bRefresh="0" bScaleAlongSpline="1" fSplineCurvature="0.5"/>
+    <Components>
+     <Component typeId="{98EDA61F-DE8B-E2B1-A1CA-2A88E4EEDE66}">
+      <Area Id="0" Group="0" Proximity="0" Priority="0" InnerFadeDistance="0" Height="0">
+       <Points>
+        <Point Pos="0,0,0.1000061" ObstructSound="0"/>
+        <Point Pos="0.35852051,-0.20404053,-0.095948219" ObstructSound="0"/>
+        <Point Pos="2.305542,-1.2285156,-0.90211487" ObstructSound="0"/>
+        <Point Pos="7.869751,-4.4093018,-3.111084" ObstructSound="0"/>
+        <Point Pos="9.8306885,-16.933899,-8.8500061" ObstructSound="0"/>
+        <Point Pos="23.733398,-19.233582,-8.4988098" ObstructSound="0"/>
+        <Point Pos="25.168335,-21.011841,-8.2690735" ObstructSound="0"/>
+        <Point Pos="25.296631,-21.177185,-8.2466965" ObstructSound="0"/>
+       </Points>
+       <Roof ObstructSound="0"/>
+       <Floor ObstructSound="0"/>
+      </Area>
+     </Component>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="0,0,0.1000061"/>
+     <Point Pos="0.35852051,-0.20404053,-0.095948219"/>
+     <Point Pos="2.305542,-1.2285156,-0.90211487"/>
+     <Point Pos="7.869751,-4.4093018,-3.111084"/>
+     <Point Pos="9.8306885,-16.933899,-8.8500061"/>
+     <Point Pos="23.733398,-19.233582,-8.4988098"/>
+     <Point Pos="25.168335,-21.011841,-8.2690735"/>
+     <Point Pos="25.296631,-21.177185,-8.2466965"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Brush" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{EE53805E-3554-521F-7738-262FD272EAB6}" Name="metal_electric_pole_lod30" Pos="1686.9419,1336.3911,145.20288" FloorNumber="-1" Rotate="0.08452221,0.060282636,0.013461741,0.99450529" Scale="2.1999998,2.1999998,2.1999998" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/industrial/electrical/electric_pole/metal_electric_pole_lod1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="GameVolume" Layer="roads_infrastructure" LayerGUID="{DA1CCE67-E465-8C68-4474-60FD4BBA9BBA}" Id="{F44CF891-996A-F55A-ABF8-CB4EA62FFF84}" Name="GameVolume11" Pos="1354.7587,625.93347,127.02124" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="1" VolumeClass="3" EntityClass="SplineObjGenTool" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="6" bBendGeometry="0" bCreatePhysicsState="1" fDistBtObjs="0" bGenerateObjs="0" bIsLooped="1" objModel="" bRefresh="0" bScaleAlongSpline="1" fSplineCurvature="0.5"/>
+    <Components>
+     <Component typeId="{98EDA61F-DE8B-E2B1-A1CA-2A88E4EEDE66}">
+      <Area Id="0" Group="0" Proximity="0" Priority="0" InnerFadeDistance="0" Height="0">
+       <Points>
+        <Point Pos="0.028076172,0.11346436,-0.4237842" ObstructSound="0"/>
+        <Point Pos="-0.63476563,-2.0615845,-0.408638" ObstructSound="0"/>
+        <Point Pos="-2.9007568,-6.9893799,-0.34886932" ObstructSound="0"/>
+        <Point Pos="-13.779297,-15.372986,-0.58699036" ObstructSound="0"/>
+        <Point Pos="-22.448242,-25.288513,-0.65158081" ObstructSound="0"/>
+        <Point Pos="-30.337891,-38.348877,-0.90190887" ObstructSound="0"/>
+        <Point Pos="-49.611938,-108.79425,-1.1561356" ObstructSound="0"/>
+        <Point Pos="-71.451172,-195.18686,-1.1451645" ObstructSound="0"/>
+        <Point Pos="-75.091675,-220.10449,-1.5025711" ObstructSound="0"/>
+        <Point Pos="-70.796509,-244.5401,-0.52843475" ObstructSound="0"/>
+        <Point Pos="-70.302246,-251.42999,-0.75839996" ObstructSound="0"/>
+        <Point Pos="-73.773071,-261.65939,-0.87684631" ObstructSound="0"/>
+        <Point Pos="-74.471191,-263.39963,-0.95893598" ObstructSound="0"/>
+       </Points>
+       <Roof ObstructSound="0"/>
+       <Floor ObstructSound="0"/>
+      </Area>
+     </Component>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="0.028076172,0.11346436,-0.4237842"/>
+     <Point Pos="-0.63476563,-2.0615845,-0.408638"/>
+     <Point Pos="-2.9007568,-6.9893799,-0.34886932"/>
+     <Point Pos="-13.779297,-15.372986,-0.58699036"/>
+     <Point Pos="-22.448242,-25.288513,-0.65158081"/>
+     <Point Pos="-30.337891,-38.348877,-0.90190887"/>
+     <Point Pos="-49.611938,-108.79425,-1.1561356"/>
+     <Point Pos="-71.451172,-195.18686,-1.1451645"/>
+     <Point Pos="-75.091675,-220.10449,-1.5025711"/>
+     <Point Pos="-70.796509,-244.5401,-0.52843475"/>
+     <Point Pos="-70.302246,-251.42999,-0.75839996"/>
+     <Point Pos="-73.773071,-261.65939,-0.87684631"/>
+     <Point Pos="-74.471191,-263.39963,-0.95893598"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Side9="0" Side10="0" Side11="0" Side12="0" Side13="0" Roof="0" Floor="0"/>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

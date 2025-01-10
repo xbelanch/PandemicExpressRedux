@@ -1,0 +1,450 @@
+<ObjectLayer>
+ <Layer Name="Bridge_Tw_A_GAMEPLAY" FullName="2_Bridge_Town_A/Bridge_Tw_A_GAMEPLAY" GUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{3F98ACDE-D14A-4EDF-2831-A7130C889393}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{09968B7D-646E-1E6B-9DAA-6FBF064D5651}" Name="DC1GunsSpawner245" Pos="678.42932,972.24866,147.39444" FloorNumber="-1" Rotate="0.29883641,-0.64085633,0.29883632,0.64085633" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{16BAE02D-5201-02B2-4E86-4064F06CD50B}" Name="DC1GunsSpawner219" Pos="1300.8281,621.48669,128.38928" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{1A604646-B6BD-8BA4-9719-0BAD2453C599}" Name="DC1GunsSpawner188" Pos="539.24023,847.95917,240.09908" FloorNumber="-1" Rotate="0.69034553,0.15304589,0.69034553,-0.15304594" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{1B3025B1-9C25-DBD4-2DBD-508EB4B736F9}" Name="DC1GunsSpawner174" Pos="626.1698,953.47217,137.08896" FloorNumber="-1" Rotate="0.59636784,0.37992823,0.59636772,-0.37992835" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{1D9DF040-E625-1263-9AA5-AB854A7DD205}" Name="DC1GunsSpawner135" Pos="535.95557,848.81519,248.08784" FloorNumber="-1" Rotate="0.37992817,-0.59636778,0.37992817,0.59636778" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{204F9912-F6FB-BF6A-9B79-8BF0CD852728}" Name="DC1GunsSpawner193" Pos="407.11017,865.91394,241.29396" FloorNumber="-1" Rotate="0.37992811,0.59636784,0.37992826,-0.59636778" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{256B47E9-7412-90D5-EBFD-F624C655B7A3}" Name="DC1GunsSpawner207" Pos="422.63651,817.08264,217.60544" FloorNumber="-1" Rotate="0.66446298,-0.24184462,0.66446298,0.24184462" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{28922C29-A874-82EC-A336-CD2B600BE023}" Name="DC1GunsSpawner116" Pos="372.49811,791.71069,215.71204" FloorNumber="-1" Rotate="0.46787098,-0.53373575,0.18104067,0.68076956" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{2A029E9B-C3B8-223A-ACC2-4FFD990D3CDF}" Name="DC1GunsSpawner241" Pos="616.21887,854.41937,134.54999" FloorNumber="-1" Rotate="0.66446298,-0.24184462,0.66446298,0.24184462" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{2A23A8B5-136E-3F5A-0BB1-809310169465}" Name="DC1GunsSpawner177" Pos="646.37543,953.76306,137.08896" FloorNumber="-1" Rotate="0.66446304,0.2418448,0.66446292,-0.24184489" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{2B0C3F65-2C44-D433-B333-9A6F65515462}" Name="DC1GunsSpawner175" Pos="393.76178,819.68713,226.03357" FloorNumber="-1" Rotate="0.37999377,-0.59647077,0.37986258,0.5962649" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{2E86AB24-E1D8-228F-0012-4AD0D539330B}" Name="DC1GunsSpawner153" Pos="1633.6849,1467.6722,168.86192" FloorNumber="-1" Rotate="0.49999997,-0.49999997,0.49999997,0.49999997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{31F63211-0899-3ABF-7D56-CF96DBFFE43B}" Name="DC1GunsSpawner194" Pos="404.31784,868.41077,241.28278" FloorNumber="-1" Rotate="-0.3799282,0.5963679,-0.3799282,-0.59636772" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{3B10881E-1731-707E-E7B6-DC18DADD40DB}" Name="DC1GunsSpawner133" Pos="424.53229,963.74066,223.43958" FloorNumber="-1" Rotate="0.12278783,-0.69636416,0.12278783,0.69636416" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{45BC9489-3E75-21BF-3E55-A723C60688EA}" Name="DC1GunsSpawner81" Pos="1586.485,1373.1405,170.76147" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{48504E1D-03D2-8FD7-BC0D-748DFA1A7835}" Name="DC1GunsSpawner211" Pos="430.4425,859.10876,214.68195" FloorNumber="-1" Rotate="0.70105731,-0.09229584,0.70105731,0.09229584" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{50C54032-12D7-BBA3-48EF-3CF1BE6B2A20}" Name="DC1GunsSpawner69" Pos="1654.1265,1536.5222,169.57634" FloorNumber="-1" Rotate="0.21263109,-0.67437965,0.21263109,0.67437965" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{53701AA5-33E7-F497-B482-4B6EE7B11517}" Name="DC1GunsSpawner172" Pos="611.69714,877.24847,134.22173" FloorNumber="-1" Rotate="0.66446298,-0.24184462,0.66446298,0.24184462" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{54ACEAB0-6C4E-2D3C-2FB9-B129DD11D1E9}" Name="DC1GunsSpawner134" Pos="535.91382,849.05176,248.08784" FloorNumber="-1" Rotate="0.3265056,-0.62721133,0.3265056,0.62721133" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{58612EFE-5B85-704C-E5E9-03BD61B29871}" Name="DC1GunsSpawner201" Pos="1518.9304,1552.3866,169.05663" FloorNumber="-1" Rotate="-0.061628405,0.70441604,-0.061628405,-0.70441604" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{591FA80A-9330-8837-DBA3-2E80A107170C}" Name="DC1GunsSpawner192" Pos="450.01636,851.31915,247.67026" FloorNumber="-1" Rotate="0.49999988,0.5,0.50000006,-0.5" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{595B9A08-1536-CD88-0A79-CF3190C5153B}" Name="DC1GunsSpawner107" Pos="545.42865,899.61768,202.3653" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{5AC43676-050E-06DB-9196-D69366C09EC2}" Name="DC1GunsSpawner114" Pos="400.98813,884.41693,223.209" FloorNumber="-1" Rotate="-0.29883614,-0.64085633,-0.29883614,0.64085633" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{5BBC81B5-8FF8-9900-33FB-E68F87F1B2DB}" Name="DC1GunsSpawner132" Pos="423.60837,963.91174,223.0791" FloorNumber="-1" Rotate="-0.12278774,-0.69636416,-0.12278774,0.69636416" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{5F2859F3-02DD-6445-FDB7-24DA34282FE8}" Name="DC1GunsSpawner233" Pos="429.95959,879.45557,214.39182" FloorNumber="-1" Rotate="0.70710677,1.0430813e-07,0.70710677,-1.0430813e-07" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{609CC898-45B7-5CCC-A130-5D9C70FD3BA7}" Name="DC1GunsSpawner72" Pos="1620.1345,1468.5729,168.86192" FloorNumber="-1" Rotate="0.49999997,-0.49999997,0.49999997,0.49999997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{68211A0C-D22C-F4A6-F4BA-04B741479A3C}" Name="DC1GunsSpawner130" Pos="403.41168,884.26404,223.20267" FloorNumber="-1" Rotate="-0.12278774,-0.69636416,-0.12278774,0.69636416" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{684B2BFA-1410-03F8-145C-FE64BF29FCFC}" Name="DC1GunsSpawner196" Pos="645.73969,953.8764,137.08896" FloorNumber="-1" Rotate="0.59636784,0.37992823,0.59636772,-0.37992835" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{69BBD70D-627E-5B5C-990F-B69F9270E3CD}" Name="DC1GunsSpawner237" Pos="425.35233,869.83234,217.5731" FloorNumber="-1" Rotate="0.092295855,0.70105737,0.092295855,-0.70105737" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{6BA866E0-E4CE-F345-1500-46244B13A214}" Name="DC1GunsSpawner203" Pos="649.58185,898.71771,133.20082" FloorNumber="-1" Rotate="0.65328157,-0.27059796,0.65328145,0.27059796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{6CABB38A-AACF-142B-9A91-9377B9E487AE}" Name="DC1GunsSpawner167" Pos="1547.1298,1257.6101,117.01159" FloorNumber="-1" Rotate="-0.18301266,0.68301266,-0.18301266,-0.68301266" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{6EBE31C7-6D64-9E28-B4BF-3BDA2F48C719}" Name="DC1GunsSpawner73" Pos="1633.6989,1467.4716,168.86192" FloorNumber="-1" Rotate="0.49999997,-0.49999997,0.49999997,0.49999997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{6FBD12C0-D70B-D4B5-F6C5-8BA7E6D454B0}" Name="DC1GunsSpawner173" Pos="626.80554,953.35883,137.08896" FloorNumber="-1" Rotate="0.66446304,0.2418448,0.66446292,-0.24184489" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{71430C79-0EB1-7FB4-E1F2-DB5D53E93879}" Name="DC1GunsSpawner244" Pos="704.43726,943.40442,147.70514" FloorNumber="-1" Rotate="0.29883641,-0.64085633,0.29883632,0.64085633" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{73D37258-D94C-5A2F-C95E-AF71939E97C1}" Name="DC1GunsSpawner137" Pos="534.34229,846.89294,239.34499" FloorNumber="-1" Rotate="0.59636778,0.37992814,0.59636778,-0.37992814" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{747137EA-3B31-9E36-9A88-C8306C8C4AA1}" Name="DC1GunsSpawner189" Pos="539.07147,848.10889,240.09908" FloorNumber="-1" Rotate="0.67437971,0.21263109,0.67437977,-0.21263114" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{7C0FDDBA-9E24-E814-B98F-808BA5387E53}" Name="DC1GunsSpawner239" Pos="390.90866,753.14917,237.71574" FloorNumber="-1" Rotate="0.64085639,0.29883632,0.64085621,-0.29883644" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{7E2594D4-DF5E-14E7-5A25-E9ED46A8DF82}" Name="DC1GunsSpawner149" Pos="1106.4736,1335.7058,119.61308" FloorNumber="-1" Rotate="0.35355344,-0.6123724,0.35355344,0.6123724" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{7F42B8A1-8B18-0A93-D28F-294E9F9271A5}" Name="DC1GunsSpawner238" Pos="390.30222,753.37115,237.71574" FloorNumber="-1" Rotate="0.56098551,0.43045938,0.56098539,-0.4304595" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{7FFCF35E-7665-378D-D831-1722843AFA15}" Name="DC1GunsSpawner240" Pos="670.33545,987.01099,148.75557" FloorNumber="-1" Rotate="0.52133393,-0.47771439,0.52133381,0.47771439" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{83A9943F-0CDC-7EAE-4AA4-89F17498818A}" Name="DC1GunsSpawner170" Pos="611.47516,876.64203,134.22173" FloorNumber="-1" Rotate="0.70105731,-0.09229584,0.70105731,0.09229584" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{899DBC9F-6111-6AD5-5EA8-581174CE6D25}" Name="DC1GunsSpawner115" Pos="402.6492,884.34467,223.20267" FloorNumber="-1" Rotate="0.12278783,-0.69636416,0.12278783,0.69636416" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{8C85F57A-C034-20B9-E491-04EEFC1685D3}" Name="DC1GunsSpawner82" Pos="1589.0469,1364.1577,170.9514" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{8CD5D1BF-3488-9F3B-91E9-991814728C95}" Name="DC1GunsSpawner228" Pos="430.08127,858.66638,214.68195" FloorNumber="-1" Rotate="0.70710677,1.0430813e-07,0.70710677,-1.0430813e-07" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{94C2FD04-79B3-E08F-1E3B-36308887E356}" Name="DC1GunsSpawner242" Pos="574.58746,922.77875,135.16367" FloorNumber="-1" Rotate="0.54167539,-0.45451936,0.54167527,0.45451939" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{960BE436-1C01-83EE-9FB5-5854F9A6D44E}" Name="DC1GunsSpawner80" Pos="1570.4596,1378.0035,164.07375" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{98845A7B-4AD5-933C-C749-D344E4B4026D}" Name="DC1GunsSpawner79" Pos="1571.4395,1380.6011,164.0769" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{98955A86-C1CA-36F2-6612-B26B9AE3DBFC}" Name="DC1GunsSpawner243" Pos="602.99152,922.14404,136.71658" FloorNumber="-1" Rotate="0.54167539,-0.45451936,0.54167527,0.45451939" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{9C88237C-0879-8998-A16B-8C746A51F62E}" Name="DC1GunsSpawner150" Pos="1102.4529,1334.423,119.4454" FloorNumber="-1" Rotate="0.35355344,-0.6123724,0.35355344,0.6123724" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{9F78A5D7-9C38-2FC5-7A4A-84DF9B40372D}" Name="DC1GunsSpawner70" Pos="1645.0902,1501.5544,170.2368" FloorNumber="-1" Rotate="0.49999997,-0.49999997,0.49999997,0.49999997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{9F9F5D38-6787-2CA4-5E6C-49E1AE15CBA4}" Name="DC1GunsSpawner209" Pos="422.41449,816.4762,217.60544" FloorNumber="-1" Rotate="0.70105731,-0.09229584,0.70105731,0.09229584" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{A3824188-9E41-6C1E-A7FF-AFC50B69B734}" Name="DC1GunsSpawner108" Pos="544.96246,901.12488,202.3653" FloorNumber="-1" Rotate="0.27059805,-0.65328145,0.27059805,0.65328145" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{A399DDE0-68E1-F3C5-A6D0-8E4BBE834719}" Name="DC1GunsSpawner204" Pos="606.8136,932.8631,134.21681" FloorNumber="-1" Rotate="0.29883626,-0.64085639,0.29883629,0.64085639" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{A7E1471B-77B8-76C7-D76F-45ED6E267C5B}" Name="DC1GunsSpawner200" Pos="1526.6594,1552.6877,169.07613" FloorNumber="-1" Rotate="0.18301272,-0.68301272,0.18301269,0.68301272" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{AFCBD453-ADCF-980A-2D86-E11C791CFF4C}" Name="DC1GunsSpawner103" Pos="1302.5072,621.21332,128.31508" FloorNumber="-1" Rotate="-3.0908623e-08,-0.70710677,-3.090862e-08,0.70710677" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{B665DF02-3717-A51E-A134-C68E3F2781B3}" Name="DC1GunsSpawner166" Pos="1540.3676,1267.1514,117.20311" FloorNumber="-1" Rotate="0.68301266,-0.18301269,0.68301266,0.18301269" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{B7E91781-48F7-4C11-F1D3-71026BBE0B3A}" Name="DC1GunsSpawner187" Pos="538.63385,849.74921,240.28201" FloorNumber="-1" Rotate="0.37992817,-0.59636778,0.37992817,0.59636778" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{C05696D9-1D6C-2C20-6597-A4B5ECBD904C}" Name="DC1GunsSpawner213" Pos="657.9942,964.45819,142.20972" FloorNumber="-1" Rotate="0.29883635,-0.64085633,0.29883626,0.64085639" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{C0A48E02-33FD-28FD-C13C-9BFF6A8E75F8}" Name="DC1GunsSpawner235" Pos="424.9921,869.2525,217.5731" FloorNumber="-1" Rotate="0.18301259,0.68301266,0.18301259,-0.68301266" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{C202713B-D2FA-058A-37CD-0C16B21CE9C6}" Name="DC1GunsSpawner191" Pos="480.08206,850.35303,247.74448" FloorNumber="-1" Rotate="0.69034547,-0.15304598,0.69034559,0.15304585" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{C5D5042A-BB7A-63D5-4829-8129425963FF}" Name="DC1GunsSpawner109" Pos="544.18445,899.89197,202.3653" FloorNumber="-1" Rotate="0.59636778,0.37992817,0.59636778,-0.37992817" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{CE559D1C-4E06-8A0D-6A87-A137540FBB72}" Name="DC1GunsSpawner212" Pos="658.61414,964.00726,142.20972" FloorNumber="-1" Rotate="-0.061628427,0.70441604,-0.06162845,-0.70441604" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{D152DC33-8694-4D72-55E7-2F15B98CF81D}" Name="DC1GunsSpawner164" Pos="1516.5211,1284.2867,116.36946" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{D400C6C8-5A9E-2E09-67AA-AFBEF7E5299E}" Name="DC1GunsSpawner78" Pos="1563.3091,1386.2712,163.79218" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{D55FC2CA-E4B0-0F53-4E72-F35A2A1C07C5}" Name="DC1GunsSpawner76" Pos="1584.2017,1385.2291,183.93489" FloorNumber="-1" Rotate="0.49999997,-0.49999997,0.49999997,0.49999997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{DCBB5ACC-D0B6-27D7-6801-3C4F38BF1EFE}" Name="DC1GunsSpawner197" Pos="649.87036,898.7171,133.20082" FloorNumber="-1" Rotate="0.69034564,-0.15304583,0.69034547,0.15304583" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{DF9F46B9-B325-7D75-ABC2-D68660D3D42A}" Name="DC1GunsSpawner190" Pos="502.32123,848.34723,247.62375" FloorNumber="-1" Rotate="0.56098551,0.43045935,0.56098562,-0.43045935" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{E3F470CD-85B2-0F22-727D-3346D285B785}" Name="DC1GunsSpawner217" Pos="670.45496,986.25378,148.75557" FloorNumber="-1" Rotate="0.3265056,-0.62721139,0.3265056,0.62721139" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{E636A299-9A7D-F2CD-913A-D4D8049FD960}" Name="DC1GunsSpawner165" Pos="1516.8313,1284.2745,116.36946" FloorNumber="-1" Rotate="0.68301266,-0.18301269,0.68301266,0.18301269" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{EB3099E4-77E9-99FD-7461-DFFC87CE2786}" Name="DC1GunsSpawner205" Pos="606.62854,933.60712,134.21681" FloorNumber="-1" Rotate="0.50000006,-0.49999994,0.5,0.49999994" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{F1C5204E-D925-C394-87FD-B340E2B08196}" Name="DC1GunsSpawner138" Pos="1366.871,1440.5031,158.14526" FloorNumber="-1" Rotate="0.030843601,-0.70643371,0.030843601,0.70643371" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{F3860ADB-E56A-B03E-6C3C-A6EE1B54AFC2}" Name="DC1GunsSpawner199" Pos="1545.9716,1543.1204,169.13712" FloorNumber="-1" Rotate="0.18301272,-0.68301272,0.18301269,0.68301272" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{FD1CB9AC-989E-7261-26D7-0EC57F198DAF}" Name="DC1GunsSpawner77" Pos="1584.1885,1385.5504,183.93489" FloorNumber="-1" Rotate="0.56098557,-0.43045932,0.56098551,0.43045932" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Bridge_Tw_A_GAMEPLAY" LayerGUID="{DD3AA4EF-A310-28CC-885B-18DE5882EF54}" Id="{FE82807B-7DA3-9497-324D-F7BD72356B45}" Name="DC1GunsSpawner131" Pos="425.06003,940.02728,213.46574" FloorNumber="-1" Rotate="-0.12278774,-0.69636416,-0.12278774,0.69636416" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

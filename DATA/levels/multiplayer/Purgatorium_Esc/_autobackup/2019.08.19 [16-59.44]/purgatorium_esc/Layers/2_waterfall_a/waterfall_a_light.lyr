@@ -1,0 +1,1047 @@
+<ObjectLayer>
+ <Layer Name="Waterfall_A_LIGHT" FullName="2_Waterfall_A/Waterfall_A_LIGHT" GUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8388607" ParentGUID="{46CBFBB7-13FF-F8A5-ECEE-789E6A67083D}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{01A97EAC-D501-7C0B-4DA5-AFC9B6185604}" Name="Light648" Pos="1089.1591,712.50763,148.32329" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.533276,0.879623,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{08BDA7DB-DBC5-6FE3-C8E4-7BEF5B87E1DA}" Name="Group2500" Pos="1088.7994,730.24017,153.3951" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{A2E5F4DF-27F1-7F18-B008-CE208CFF155A}" Name="lamp63" Parent="{08BDA7DB-DBC5-6FE3-C8E4-7BEF5B87E1DA}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{703E83AD-2C44-FFCE-4E68-366A115E18F0}" Name="Light635" Parent="{08BDA7DB-DBC5-6FE3-C8E4-7BEF5B87E1DA}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+       <Color clrDiffuse="1,0.223228,0.00749903" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{09E4D0FB-D06A-9B37-EF5E-07A832688BCC}" Name="ns_tunnel_ENV35" Pos="1264.6294,793.49072,131.66988" FloorNumber="-1" Rotate="0.5161407,-1.881877e-10,1.370967e-10,-0.85650396" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="120" BoxSizeY="75" BoxSizeZ="60" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{0D67C4AE-E774-9260-1109-9B86E0ABFC97}" Name="Light686" Pos="1073.1913,763.82428,143.2193" FloorNumber="-1" Rotate="0.70794648,0.49428123,-0.49921843,0.072655693" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="1" Radius="30" _nVersion="-1">
+     <Color clrDiffuse="0.679543,1,0.964686" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="120" fProjectorNearPlane="0" texture_Texture="Textures/generic/displacement/caustic_displ.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="48" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{0DC3D659-5E71-87AC-522D-4CEAB2C56820}" Name="Light649" Pos="1088.5968,705.40417,147.30147" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.533276,0.879623,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{0EF03149-01EF-7D35-A882-3CB4FA05F48C}" Name="Group1490" Pos="1253.0809,704.26904,139.18051" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{4C63A92E-8344-3B68-9EDA-F30D83B7D259}" Name="Kitchen_Lamp_c_on37" Parent="{0EF03149-01EF-7D35-A882-3CB4FA05F48C}" Pos="0.0044555664,0.024353027,1.250824" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{C77EFF60-A0B8-4207-E67B-8D4854D4FECE}" Name="Ligh_street_stat38" Parent="{0EF03149-01EF-7D35-A882-3CB4FA05F48C}" Pos="-0.0044555664,-0.024353027,-1.2508392" FloorNumber="-1" Rotate="-0.030843528,0.70643377,-0.030843528,-0.70643377" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{0F9DE6AA-A10C-AF78-CA48-208917F99586}" Name="stones_struc_b56" Pos="1252.2538,813.64349,149.95598" FloorNumber="-1" Rotate="0.53126639,0,0,-0.84720474" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{10350DBA-8304-41C7-D066-C008959B2681}" Name="Light316" Pos="1265.3463,804.24188,155.91109" FloorNumber="-1" Rotate="0.15857817,0.8110283,0.50293642,-0.2532607" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{105D2159-292A-CE05-E6FE-788002C707B8}" Name="Light563" Pos="1168.2654,802.36273,173.74579" FloorNumber="-1" Rotate="-0.13560282,0,0,0.99076331" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.262251,0.00913406" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1277FD91-0560-8E07-3EF9-0E84D1A3AEE6}" Name="Group2503" Pos="1064.5192,682.89539,164.80411" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{CC112742-8539-717B-48FA-1DE8A13082D3}" Name="lamp71" Parent="{1277FD91-0560-8E07-3EF9-0E84D1A3AEE6}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{F331219E-DA0E-D91E-DB91-C688028892F0}" Name="Light638" Parent="{1277FD91-0560-8E07-3EF9-0E84D1A3AEE6}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+       <Color clrDiffuse="1,0.223228,0.00749903" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{13A753CD-879D-8170-D752-E5C7C6EA01C1}" Name="Light321" Pos="1228.3525,662.04718,138.00943" FloorNumber="-1" Rotate="-0.057397544,0.92498904,-0.22285265,-0.30238631" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1620F386-681B-D2D0-FCEC-8704831AAD6B}" Name="Light330" Pos="1262.5842,749.7536,145.71661" FloorNumber="-1" Rotate="0.33753601,0.26190853,0.90079439,0.077734485" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1911EC90-0B79-20F0-7B7C-3D5A44E1E48A}" Name="Group1493" Pos="1232.7452,725.25885,134.03304" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{F6077E2C-6CED-5C85-067C-B095788877E4}" Name="lamp67" Parent="{1911EC90-0B79-20F0-7B7C-3D5A44E1E48A}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{9627BFFE-3A68-F5B6-B068-F130267A5F30}" Name="Light291" Parent="{1911EC90-0B79-20F0-7B7C-3D5A44E1E48A}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="5" _nVersion="-1">
+       <Color clrDiffuse="1,0.723055,0.313989" fDiffuseMultiplier="2.5" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{193B6425-EE97-18B8-B57E-3433F93A0DC8}" Name="Light559" Pos="1155.6865,754.75604,176.23943" FloorNumber="-1" Rotate="0.99691075,-0.032024402,-0.0028351231,-0.07166139" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="1" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="1,0.14996,0.000910581" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="36" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1A7A0BFB-8D9E-ACD9-CCA8-26AD6C2D3D54}" Name="Light315" Pos="1226.7043,722.94983,138.08501" FloorNumber="-1" Rotate="0.15857817,0.8110283,0.50293642,-0.2532607" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1B42E515-7FCF-EBDA-BD29-347215A3921C}" Name="stones_struc_b55" Pos="1248.1539,815.62701,149.95598" FloorNumber="-1" Rotate="0.53126639,0,0,-0.84720474" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1B6D9931-2156-8572-A4DC-5EF2EE29E0D4}" Name="Light647" Pos="1090.134,705.18903,150.51555" FloorNumber="-1" Rotate="0.73180634,0.23450768,0.62767881,0.12443852" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.679543,1,0.964686" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_half_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1D31E113-2AA2-BD88-9478-E4EE856EEBDB}" Name="Light313" Pos="1211.2474,730.92072,138.04216" FloorNumber="-1" Rotate="0.15272689,0.80895478,0.49725589,-0.27386713" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1E0C37A1-D306-465E-7F40-9A220865ECBC}" Name="Light314" Pos="1217.7164,727.56372,138.08667" FloorNumber="-1" Rotate="0.16165338,0.80721837,0.5002507,-0.26835766" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1E0E8026-4C50-2FAA-5170-B2D03C833402}" Name="ns_tunnel_ENV32" Pos="1221.0637,724.55011,133.33076" FloorNumber="-1" Rotate="0.96778119,-3.8763361e-11,2.2958117e-10,-0.25179321" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="70" BoxSizeY="30" BoxSizeZ="30" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{238B8EAF-A9BA-6A0A-C241-42EA6451EEE3}" Name="Light317" Pos="1244.1344,692.89966,138.00343" FloorNumber="-1" Rotate="-0.069613852,0.93326598,-0.18515562,-0.29980975" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{2BD844FD-3D90-A2EA-751E-85FCE2AD9306}" Name="Group2507" Pos="1098.1478,687.63367,151.35155" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{BD530757-EFCE-39D0-DBFA-20D6878C8603}" Name="lamp79" Parent="{2BD844FD-3D90-A2EA-751E-85FCE2AD9306}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{8064129C-C200-2271-A014-462F13FE0EFA}" Name="Light645" Parent="{2BD844FD-3D90-A2EA-751E-85FCE2AD9306}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+       <Color clrDiffuse="1,0.223228,0.00749903" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{2D672012-0D79-CF9F-206C-DBD9F970AB0B}" Name="Group2504" Pos="1100.9926,724.10327,173.92326" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{49130E54-23FD-DDAB-C13D-428EFF363F44}" Name="lamp77" Parent="{2D672012-0D79-CF9F-206C-DBD9F970AB0B}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{305C8AA7-6F81-5AD0-A4FE-7C741EB3FBAB}" Name="Light639" Parent="{2D672012-0D79-CF9F-206C-DBD9F970AB0B}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+       <Color clrDiffuse="1,0.223228,0.00749903" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{2D862816-AE21-BB25-79F3-F5D960755216}" Name="stones_struc_b59" Pos="1247.4668,812.92114,149.95598" FloorNumber="-1" Rotate="0.83826476,0,0,0.54526317" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{2EB89302-28FD-1A2A-C870-F6F2FA9F5330}" Name="Group2502" Pos="1102.3815,772.33929,158.35168" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{7FB136F1-B91D-21C5-4213-18D8817BC458}" Name="lamp70" Parent="{2EB89302-28FD-1A2A-C870-F6F2FA9F5330}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{CCE486F6-0446-2D7C-DF5E-0CB0F27560CB}" Name="Light637" Parent="{2EB89302-28FD-1A2A-C870-F6F2FA9F5330}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+       <Color clrDiffuse="1,0.223228,0.00749903" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{32066FAF-871E-2637-4CE2-3D027CAAE80A}" Name="Light322" Pos="1226.6963,647.36432,138.13513" FloorNumber="-1" Rotate="0.045966379,0.93340737,0.14983408,-0.32278082" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{3612707E-877F-6DC9-E997-13385A1E959D}" Name="Light652" Pos="1113.4425,745.10461,154.97487" FloorNumber="-1" Rotate="0.99604315,-0.07018394,-0.003522936,-0.054404799" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="7" _nVersion="-1">
+     <Color clrDiffuse="0.533276,0.879623,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{37D1A714-5D5B-0D5A-52CD-53F416E8BB6D}" Name="Light688" Pos="1082.9955,746.72491,160.28172" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.83077,0.982251,1" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{3A427F94-717C-3A7F-EB93-FEA89018C72E}" Name="ns_tunnel_ENV33" Pos="1229.8868,734.05133,133.33076" FloorNumber="-1" Rotate="0.96778119,-3.8763361e-11,2.2958117e-10,-0.25179321" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="80" BoxSizeY="50" BoxSizeZ="30" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{3FB8853B-4099-7E2D-68CD-524A0F478DF4}" Name="Light560" Pos="1124.1921,808.31726,166.36406" FloorNumber="-1" Rotate="0.98881358,0,0,0.14915647" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.262251,0.00913406" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{40DB4B00-6B6A-325A-60B3-B7888E3C834A}" Name="Light562" Pos="1127.767,747.55939,184.97784" FloorNumber="-1" Rotate="0.63360232,0,0,-0.77365887" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.262251,0.00913406" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{41BF9F2E-EACE-5CE5-03A7-7ED474B6386B}" Name="ns_tunnel_ENV31" Pos="1186.9241,766.16876,138.82657" FloorNumber="-1" Rotate="0.98025191,-2.5975966e-11,2.3137711e-10,-0.19775306" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="40" BoxSizeY="70" BoxSizeZ="30" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\ns_tunnel_env31_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{4663AD89-F1DE-BD77-FEA6-68FC2CA347F5}" Name="Light643" Pos="1141.1036,753.10583,140.93929" FloorNumber="-1" Rotate="0.99604315,-0.07018394,-0.003522936,-0.054404799" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="1,0.208637,0.00699541" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{46F4AD65-E279-8A91-70C4-0E0B612A7FD4}" Name="wooden_planks408" Pos="1269.0311,807.04803,152.50175" FloorNumber="-1" Rotate="0.69825083,-0.16880305,-0.67560571,-0.16585578" Scale="0.83333331,0.68746322,0.83333331" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/decorations/stairs/wooden_planks.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{47374F4A-CDC1-5A60-C14F-8FD1DBA859E8}" Name="Light323" Pos="1228.6285,640.01611,138.12434" FloorNumber="-1" Rotate="0.045966379,0.93340737,0.14983408,-0.32278082" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{4BE223AA-DC65-1BEC-B0E9-9A5A9298A5DA}" Name="Light808" Pos="1186.0502,762.88086,129.00534" FloorNumber="-1" Rotate="0.75935078,0.18997502,-0.61673141,0.083296336" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="1" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.679543,1,0.964686" fDiffuseMultiplier="20" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="120" fProjectorNearPlane="0" texture_Texture="Textures/generic/displacement/caustic_displ.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="48" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{4FBD1C70-8855-B7AB-AF9D-AE73C2096494}" Name="Light809" Pos="1191.2797,758.85669,133.99435" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="7" _nVersion="-1">
+     <Color clrDiffuse="0.83077,0.982251,1" fDiffuseMultiplier="35" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{4FE6371C-B3E4-160C-6732-D2C0464F41AE}" Name="wooden_planks409" Pos="1269.0375,807.05963,153.63985" FloorNumber="-1" Rotate="0.69825083,-0.16880305,-0.67560571,-0.16585578" Scale="0.83333331,0.68746322,0.83333331" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/decorations/stairs/wooden_planks.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{58B62F36-EBBA-FF3E-369C-C2DC05464591}" Name="Light319" Pos="1236.2183,677.35571,138.02505" FloorNumber="-1" Rotate="-0.069613852,0.93326598,-0.18515562,-0.29980975" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{5AC05AF4-EB26-BD18-D479-52542D2520D6}" Name="Light327" Pos="1277.5073,781.7915,155.99312" FloorNumber="-1" Rotate="0.3252382,0.17286511,0.92695141,-0.071405433" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{636B3A20-8FD2-4AE1-FAE0-68444F492FAB}" Name="Group2505" Pos="1110.1515,716.72278,150.86151" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{6346DA33-8489-3964-2B45-A532DF91AB47}" Name="lamp78" Parent="{636B3A20-8FD2-4AE1-FAE0-68444F492FAB}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{AA8F6582-B43F-C5BA-03DB-B0C60C7B34AE}" Name="Light640" Parent="{636B3A20-8FD2-4AE1-FAE0-68444F492FAB}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+       <Color clrDiffuse="1,0.223228,0.00749903" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{71493E00-5620-2BE7-DA71-32D6C2A16B39}" Name="beam2" Pos="1097.7957,750.64893,164.68536" FloorNumber="-1" Rotate="0.64045781,0.040992819,0.76689851,0.00042814016" Scale="3.654861,2.4485593,2.4485593" ColorRGB="16777215" Material="Objects/effects/lights/beam4" MatLayersMask="0" Prefab="Objects/effects/lights/beam.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{7295A267-6BE2-7F77-C869-79944060745F}" Name="Light324" Pos="1256.3311,808.37115,155.92802" FloorNumber="-1" Rotate="0.15857817,0.8110283,0.50293642,-0.2532607" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{7579804B-284A-F817-38F0-E15A7679AD8F}" Name="Group2501" Pos="1147.7026,751.96777,135.29494" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{1CBCA86D-6632-6555-B06E-8E8C8E4DBCAE}" Name="lamp66" Parent="{7579804B-284A-F817-38F0-E15A7679AD8F}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{8A064333-4FE6-1629-644E-E7ED20B65887}" Name="Light636" Parent="{7579804B-284A-F817-38F0-E15A7679AD8F}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+       <Color clrDiffuse="1,0.223228,0.00749903" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{7CAFF062-6F3E-89B9-DD87-9F065CD8E46B}" Name="Light642" Pos="1074.5463,739.03235,176.11156" FloorNumber="-1" Rotate="0.99604315,-0.07018394,-0.003522936,-0.054404799" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.533276,0.879623,1" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{7F8647B5-F9E2-1878-EDF3-0E5CDE8493B5}" Name="ns_tunnel_ENV51" Pos="1088.3739,743.69641,153.09894" FloorNumber="-1" Rotate="0.98025191,-2.5975966e-11,2.3137711e-10,-0.19775306" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="70" BoxSizeY="70" BoxSizeZ="30" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{81E83D1A-796D-6665-1EBE-14C17C2A46E0}" Name="Light687" Pos="1080.6803,763.53998,154.37238" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.83077,0.982251,1" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{8770B9F5-42F5-B09A-E127-75ACA7561781}" Name="Light561" Pos="1129.0603,740.39294,180.81384" FloorNumber="-1" Rotate="0.95399511,0,0,0.29982218" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.262251,0.00913406" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{8E43592A-878B-838D-59E3-0D0596FBF738}" Name="Group1488" Pos="1199.6443,783.48438,141.29117" FloorNumber="-1" Rotate="0.85545325,-0.0055718482,0.015574907,-0.5176158" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{E5F79118-5EB9-DA9B-4374-1D07B4278CDF}" Name="lamp67" Parent="{8E43592A-878B-838D-59E3-0D0596FBF738}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{9B89B9CE-1961-29F3-5D8C-B81755471B3D}" Name="Light291" Parent="{8E43592A-878B-838D-59E3-0D0596FBF738}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="5" _nVersion="-1">
+       <Color clrDiffuse="1,0.723055,0.313989" fDiffuseMultiplier="2.5" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{917593BA-F7C8-AC93-256A-1F6153B6B432}" Name="Light325" Pos="1271.9634,801.17694,155.88875" FloorNumber="-1" Rotate="0.15857817,0.8110283,0.50293642,-0.2532607" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{92E82BA7-AC3E-C6ED-00E0-D01EBC089DF9}" Name="beam3" Pos="1191.141,756.40082,144.31035" FloorNumber="-1" Rotate="0.70486033,0.040874146,0.7081607,-0.0031462486" Scale="3.654861,2.4485593,2.4485593" ColorRGB="16777215" Material="Objects/effects/lights/beam4" MatLayersMask="0" Prefab="Objects/effects/lights/beam.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{9BDEB054-B4C0-F413-E877-F4D7B5268C5C}" Name="stones_struc_b58" Pos="1250.6832,811.39093,149.95598" FloorNumber="-1" Rotate="0.85560793,0,0,0.51762408" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{A2D1B7DA-DE23-4857-2350-FA012CFE57C4}" Name="ns_tunnel_ENV53" Pos="1060.6896,681.08197,164.85426" FloorNumber="-1" Rotate="0.9790082,-0.13104485,-0.0083637424,-0.15588552" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="40" BoxSizeY="100" BoxSizeZ="30" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{A2E57EEF-5252-EDE3-BB9B-193807F4708A}" Name="Light644" Pos="1158.639,754.76196,135.65508" FloorNumber="-1" Rotate="0.99604315,-0.07018394,-0.003522936,-0.054404799" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="1,0.208637,0.00699541" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{A6DAE0B0-3D34-3BE4-6566-479EDFFE3424}" Name="ns_tunnel_ENV52" Pos="1105.7957,783.97388,158.73969" FloorNumber="-1" Rotate="0.98495287,0.13441268,0.028427817,-0.1048483" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="15" BoxSizeY="40" BoxSizeZ="15" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{AC043304-D7E7-4BA2-9E65-8116CA46C4E5}" Name="Light641" Pos="1073.3657,738.25714,166.6546" FloorNumber="-1" Rotate="0.99604315,-0.07018394,-0.003522936,-0.054404799" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.00439144,0.00334654,0.00334654" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{AD0541EF-A209-780C-61A8-58AEB5D99F47}" Name="stones_struc_b62" Pos="1267.7112,803.54645,149.95598" FloorNumber="-1" Rotate="0.83703941,0,0,0.54714221" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{B0CDFFFE-17E0-F5A4-BB2A-7E26B4977EF8}" Name="ns_tunnel_ENV55" Pos="1078.3389,738.4917,174.726" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="50" BoxSizeY="50" BoxSizeZ="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{B0D10C7F-A6A2-E0EB-7B73-9F8DBE3EE8B3}" Name="ns_tunnel_ENV56" Pos="1134.1497,753.49951,136.9613" FloorNumber="-1" Rotate="0.96402574,-0.016226161,0.2583099,0.060556859" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="70" BoxSizeY="70" BoxSizeZ="70" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{B116F9AC-6504-7894-4864-F242CBA665AE}" Name="stones_struc_b61" Pos="1264.3168,805.14752,149.95598" FloorNumber="-1" Rotate="0.83975029,0,0,0.54297251" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{B757B53E-7685-C36A-501B-47D13E05A9B0}" Name="Light311" Pos="1178.5652,758.99646,133.78456" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.5" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,0.313989,0.0307134" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="50" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{B8EF810F-F51A-9DDE-8742-24447FD987D6}" Name="Light320" Pos="1231.7094,668.51233,138.11794" FloorNumber="-1" Rotate="-0.057397544,0.92498904,-0.22285265,-0.30238631" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{BD36284C-CA41-81CD-0EFC-3ED9A691F279}" Name="stones_struc_b60" Pos="1262.0402,806.18262,149.95598" FloorNumber="-1" Rotate="0.79156762,0,0,0.61108124" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{BE5A4ACB-5597-BE93-EA4A-73A9D53716A7}" Name="Light646" Pos="1092.8292,719.16309,150.45377" FloorNumber="-1" Rotate="0.57248014,0.41505,0.39599976,-0.58581924" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.679543,1,0.964686" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_half_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{BE8D5177-7362-DD53-32F4-BA1F8306A2A0}" Name="beam" Pos="1078.9888,751.12701,171.33473" FloorNumber="-1" Rotate="0.69995499,0.2671673,0.65991175,0.056579504" Scale="3.654861,2.4485593,2.4485593" ColorRGB="16777215" Material="Objects/effects/lights/beam4" MatLayersMask="0" Prefab="Objects/effects/lights/beam.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{BEA9E954-43D3-9D21-4A75-0AF213FD6738}" Name="stone_a333" Pos="1266.0513,755.84229,148.56306" FloorNumber="-1" Rotate="-0.36009482,0.54917377,0.75004846,-0.078531794" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stone_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{CA21A156-3DEA-5A90-1456-360D3DEC23D4}" Name="ns_tunnel_ENV34" Pos="1240.8885,658.4444,133.33076" FloorNumber="-1" Rotate="0.70060468,-1.5128705e-10,1.7698122e-10,-0.71354985" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="100" BoxSizeY="40" BoxSizeZ="30" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{CE6DE740-4782-906C-6A99-B1440621E3DA}" Name="stones_struc_b65" Pos="1264.4265,808.30981,149.95598" FloorNumber="-1" Rotate="-0.53992903,0,0,0.84171033" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Group" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{CEA72FF6-8080-64DB-F605-B0C82D782681}" Name="Group1491" Pos="1188.922,742.59515,134.13281" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{8562448A-CB10-DD64-9634-6285E42B6F97}" Name="lamp67" Parent="{CEA72FF6-8080-64DB-F605-B0C82D782681}" Pos="-0.0075683594,-0.0081787109,-0.017959595" FloorNumber="-1" Rotate="0.71863919,0,0,-0.69538313" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="0" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="536871936">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{85423050-8F2A-9313-D5D5-FEA7911B303E}" Name="Light291" Parent="{CEA72FF6-8080-64DB-F605-B0C82D782681}" Pos="0.007598877,0.0082397461,0.017959595" FloorNumber="-1" Rotate="0.50815463,-0.49171016,-0.50815469,-0.4917101" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="5" _nVersion="-1">
+       <Color clrDiffuse="1,0.723055,0.313989" fDiffuseMultiplier="2.5" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+       <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{D0B7835F-2934-CA13-AD44-6CDBFC853F0D}" Name="Light312" Pos="1202.3058,735.58295,138.11958" FloorNumber="-1" Rotate="0.14824046,0.81066233,0.49445108,-0.27635038" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{D138357D-8109-C16C-A91B-E658F7EBE382}" Name="stones_struc_b64" Pos="1267.5166,806.72864,149.95598" FloorNumber="-1" Rotate="-0.53638858,0,0,0.84397095" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{D2FADBAB-45C5-8BD3-08A4-BCCF78C7214B}" Name="Light318" Pos="1239.7023,683.87799,138.05066" FloorNumber="-1" Rotate="-0.069613852,0.93326598,-0.18515562,-0.29980975" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{DCCAFEB1-7A99-A71A-835F-6140A01D0806}" Name="Light328" Pos="1269.6394,764.82739,151.50897" FloorNumber="-1" Rotate="0.33753601,0.26190853,0.90079439,0.077734485" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{DEC875B7-6219-8712-F77C-884D7478D1E1}" Name="Light689" Pos="1094.4663,751.02454,153.69421" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="5" _nVersion="-1">
+     <Color clrDiffuse="0.83077,0.982251,1" fDiffuseMultiplier="25" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{E4CBBD82-62B4-85C6-CDFF-408BF3451C7E}" Name="wooden_planks410" Pos="1268.7297,807.55505,151.72549" FloorNumber="-1" Rotate="0.88167459,0,0,0.47185796" Scale="0.8898384,0.70664805,1" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/decorations/stairs/wooden_planks.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{E60DC2D4-53FC-B92B-DCA6-918CFD515ECB}" Name="ns_tunnel_ENV54" Pos="1087.8871,706.64056,142.17345" FloorNumber="-1" Rotate="0.93102014,-6.5759551e-11,2.2335128e-10,-0.3649677" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="1" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="70" BoxSizeY="70" BoxSizeZ="70" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.2" _texture_deferred_cubemap="" bDeferredClipBounds="1" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc_01\ns_tunnel_env20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{E7FF38C7-9EE8-BF37-7F3A-73E19F96FE5B}" Name="wooden_short_plank1316" Pos="1269.5114,806.82788,151.71964" FloorNumber="-1" Rotate="0.71420938,0,0,-0.6999321" Scale="0.75757581,0.75757581,0.75757581" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/decorations/stairs/wooden_short_plank.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{EDFE3251-686A-F8FD-C143-68ED0A5B0A31}" Name="Light329" Pos="1258.4023,741.17194,142.5043" FloorNumber="-1" Rotate="0.33753601,0.26190853,0.90079439,0.077734485" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{EF157B9E-E306-03B7-FD7B-98ADE0AC5969}" Name="Light653" Pos="1112.1818,732.20477,155.65411" FloorNumber="-1" Rotate="0.99604315,-0.07018394,-0.003522936,-0.054404799" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="7" _nVersion="-1">
+     <Color clrDiffuse="0.533276,0.879623,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{F4637F25-A644-FA9E-7EFC-47F1B228E6DC}" Name="Light326" Pos="1280.5358,788.60413,155.95813" FloorNumber="-1" Rotate="0.3265174,0.17043658,0.92745787,-0.064495616" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.05" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.799103,1,1" fDiffuseMultiplier="15" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="35" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{F6B0C2FD-28CA-C237-BF5A-9B9B122412E2}" Name="Light590" Pos="1242.278,817.20258,155.1842" FloorNumber="-1" Rotate="0.92541659,0.059391178,0.33682412,-0.16317591" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="1" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.783538,0.904661,1" fDiffuseMultiplier="2" fSpecularMultiplier="0.1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="69.2" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/rectangle_full_075.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{FE7757CF-BF24-CB62-39C7-1AB37A67CF48}" Name="stones_struc_b63" Pos="1271.7278,804.9458,149.95598" FloorNumber="-1" Rotate="-0.52354401,0,0,0.85199845" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Waterfall_A_LIGHT" LayerGUID="{AD628E87-BBA5-84A2-AF74-3B80A7471CC4}" Id="{FEC4E9B1-185F-AB9E-5B3C-4827CFCB69F4}" Name="Light654" Pos="1104.4751,810.53827,163.24889" FloorNumber="-1" Rotate="0.98881358,0,0,0.14915647" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.262251,0.00913406" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

@@ -1,0 +1,3 @@
+<ObjectLayer>
+ <Layer Name="Cableway_PREFAB" FullName="cableway/Cableway_PREFAB" GUID="{5826A2C6-2141-4481-8E08-AB38CADDED97}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{CFE95A24-FCC0-87CB-6489-8752B89CF7B9}"/>
+</ObjectLayer>

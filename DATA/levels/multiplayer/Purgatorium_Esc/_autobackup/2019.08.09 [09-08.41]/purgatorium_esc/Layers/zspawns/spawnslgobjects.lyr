@@ -1,0 +1,38 @@
+<ObjectLayer>
+ <Layer Name="SpawnsLgObjects" FullName="zspawns/SpawnsLgObjects" GUID="{A6AE443D-23CE-3871-E5C4-2C305C096E97}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{9B8A2269-C3E8-7891-BDE1-F3A284459753}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="SpawnsLgObjects" LayerGUID="{A6AE443D-23CE-3871-E5C4-2C305C096E97}" Id="{04DE49A4-A662-95B0-3ADD-C7C6BA53EAD2}" Name="Station_D_ZSpawnPt" Pos="1081.3098,738.5119,215.94717" FloorNumber="-1" Rotate="0.7384842,-1.9235532e-26,-9.2894727e-27,0.67427075" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="SpawnsLgObjects" LayerGUID="{A6AE443D-23CE-3871-E5C4-2C305C096E97}" Id="{21009199-4C6B-429D-CFFC-1542DC6EE25B}" Name="ZombieEndgameSpawnerStartPt1" Parent="{565A1236-E876-0BC4-D680-7079D9AF4C11}" Pos="-0.61633301,0.77844238,5.8586273" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="0"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="SpawnsLgObjects" LayerGUID="{A6AE443D-23CE-3871-E5C4-2C305C096E97}" Id="{43CAE161-8DF4-7CEA-A47D-513D622AA70A}" Name="Station_B_ZSpawnPt" Pos="1277.7777,1541.4865,214.24553" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="SpawnsLgObjects" LayerGUID="{A6AE443D-23CE-3871-E5C4-2C305C096E97}" Id="{565A1236-E876-0BC4-D680-7079D9AF4C11}" Name="OnStationZSpawnBase1" Pos="1145.8805,1148.6395,96.34565" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPointBase" HasEntity="1">
+    <Properties bEnabled="1" soclasses_SmartObjectClass="SpawnPointBase"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="SpawnsLgObjects" LayerGUID="{A6AE443D-23CE-3871-E5C4-2C305C096E97}" Id="{85CF3055-2A1C-2FB1-3702-A6C9E77416BD}" Name="Station_C_ZSpawnPt" Pos="1413.0052,1517.0597,199.58952" FloorNumber="-1" Rotate="0.72979283,0.011784319,-0.087292343,0.67797011" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="SpawnsLgObjects" LayerGUID="{A6AE443D-23CE-3871-E5C4-2C305C096E97}" Id="{E7DFCC0F-CA00-EA09-BB61-9933E208A110}" Name="Station_A_ZSpawnPt" Pos="603.79559,920.65381,238.25194" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

@@ -1,0 +1,744 @@
+<ObjectLayer>
+ <Layer Name="global_trams" FullName="global_trams" GUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="GameVolume" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{0FC78DB3-1AAE-48B4-343F-13BC014AB80F}" Name="GameVolume_Tram_BC" Pos="1488.6084,1455.0133,178.68498" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="1" VolumeClass="1" EntityClass="TrainRails" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="6" bBendGeometry="1" bCreatePhysicsState="1" fDistBtRailsModels="-0.18" bGenerateRailsModels="1" bGenerateRMOld="0" bInvertRoadDirection="0" bIsLastTrain="0" bIsLooped="1" fMltSplineSeg="10" objRails="Objects/zhg_objects/props/trainyard/rails/rails.cgf" bRefresh="1" bScaleAlongSpline="1" fSplineCurvature="0.5" fStartDelay="0" fTrainInitialZRot="90" sTrainLocomotiveMdl="GB_Tram_C" fTrainMoveSpeed="10" bUseZRotation="1"/>
+    <Components>
+     <Component typeId="{98EDA61F-DE8B-E2B1-A1CA-2A88E4EEDE66}">
+      <Area Id="0" Group="0" Proximity="0" Priority="0" InnerFadeDistance="0" Height="0">
+       <Points>
+        <Point Pos="0,0,0.1000061" ObstructSound="0"/>
+        <Point Pos="-37.576904,4.8532715,-1.302063" ObstructSound="0"/>
+        <Point Pos="-46.177734,14.1073,-2.7146544" ObstructSound="0"/>
+        <Point Pos="-45.757202,40.665527,-5.3183818" ObstructSound="0"/>
+        <Point Pos="-40.634644,60.86853,-9.115387" ObstructSound="0"/>
+        <Point Pos="-44.589966,80.025269,-11.218867" ObstructSound="0"/>
+        <Point Pos="-80.760864,96.12915,-12.669414" ObstructSound="0"/>
+        <Point Pos="-96.504395,95.422363,-8.4992456" ObstructSound="0"/>
+        <Point Pos="-127.21387,84.347534,-4.4527893" ObstructSound="0"/>
+        <Point Pos="-153.69043,86.04187,-0.043319702" ObstructSound="0"/>
+        <Point Pos="-181.21558,80.769409,3.5669403" ObstructSound="0"/>
+        <Point Pos="-198.91406,65.810547,3.8338165" ObstructSound="0"/>
+        <Point Pos="-219.97583,37.141846,3.1257782" ObstructSound="0"/>
+        <Point Pos="-232.58569,16.434204,1.8270416" ObstructSound="0"/>
+        <Point Pos="-239.97888,12.224243,1.7598419" ObstructSound="0"/>
+        <Point Pos="-253.09839,12.052368,1.8924408" ObstructSound="0"/>
+        <Point Pos="-260.91956,14.475098,0.61579895" ObstructSound="0"/>
+        <Point Pos="-273.08972,21.63623,-2.8276062" ObstructSound="0"/>
+        <Point Pos="-296.62866,34.482666,-8.5088043" ObstructSound="0"/>
+        <Point Pos="-310.4397,36.876099,-11.80217" ObstructSound="0"/>
+        <Point Pos="-324.52344,35.283081,-14.818588" ObstructSound="0"/>
+        <Point Pos="-340.74548,31.874512,-15.188339" ObstructSound="0"/>
+        <Point Pos="-368.28589,24.404663,-20.831223" ObstructSound="0"/>
+        <Point Pos="-377.5498,26.238647,-23.149384" ObstructSound="0"/>
+        <Point Pos="-387.19226,33.425293,-24.794067" ObstructSound="0"/>
+        <Point Pos="-397.89685,46.710327,-25.262512" ObstructSound="0"/>
+        <Point Pos="-403.89441,55.210083,-25.706299" ObstructSound="0"/>
+        <Point Pos="-414.14282,72.179443,-24.587509" ObstructSound="0"/>
+        <Point Pos="-418.74817,81.408447,-23.275696" ObstructSound="0"/>
+        <Point Pos="-423.58679,95.513062,-21.324783" ObstructSound="0"/>
+        <Point Pos="-425.81116,110.25525,-21.974396" ObstructSound="0"/>
+        <Point Pos="-424.83447,121.57935,-22.419403" ObstructSound="0"/>
+        <Point Pos="-421.21301,139.82373,-22.471542" ObstructSound="0"/>
+        <Point Pos="-415.90234,149.27222,-20.975357" ObstructSound="0"/>
+        <Point Pos="-411.2865,156.77563,-19.673416" ObstructSound="0"/>
+        <Point Pos="-406.50769,161.65918,-17.488754" ObstructSound="0"/>
+        <Point Pos="-397.61548,168.59106,-12.314865" ObstructSound="0"/>
+        <Point Pos="-392.93396,171.80176,-10.052933" ObstructSound="0"/>
+        <Point Pos="-380.85901,178.24463,-6.9728851" ObstructSound="0"/>
+        <Point Pos="-370.56274,182.13733,-6.1201324" ObstructSound="0"/>
+        <Point Pos="-351.46948,185.49329,-5.6981812" ObstructSound="0"/>
+        <Point Pos="-340.55249,185.76172,-5.8673248" ObstructSound="0"/>
+        <Point Pos="-323.40784,186.49939,-3.9775696" ObstructSound="0"/>
+        <Point Pos="-286.203,174.31323,-1.194046" ObstructSound="0"/>
+        <Point Pos="-257.1969,161.94641,4.813797" ObstructSound="0"/>
+        <Point Pos="-225.61487,154.32593,9.4207306" ObstructSound="0"/>
+        <Point Pos="-204.41455,147.95959,15.166901" ObstructSound="0"/>
+        <Point Pos="-162.35437,142.74927,11.306976" ObstructSound="0"/>
+        <Point Pos="-131.90698,149.3396,7.5846071" ObstructSound="0"/>
+        <Point Pos="-114.90161,151.73376,4.6109381" ObstructSound="0"/>
+        <Point Pos="-95.77356,154.20251,-0.59505653" ObstructSound="0"/>
+        <Point Pos="-82.901367,158.53345,-3.6741638" ObstructSound="0"/>
+        <Point Pos="-54.943604,168.60986,-9.2263336" ObstructSound="0"/>
+        <Point Pos="-19.474976,167.18799,-0.3153013" ObstructSound="0"/>
+        <Point Pos="-0.97802734,178.61938,4.8283396" ObstructSound="0"/>
+        <Point Pos="13.466675,215.53345,1.4349213" ObstructSound="0"/>
+        <Point Pos="25.828979,221.15234,1.1565094" ObstructSound="0"/>
+        <Point Pos="49.064819,232.30737,1.2305756" ObstructSound="0"/>
+        <Point Pos="71.784912,242.6947,1.2014923" ObstructSound="0"/>
+        <Point Pos="86.392334,248.87476,1.5283356" ObstructSound="0"/>
+        <Point Pos="113.07703,248.48877,4.0495148" ObstructSound="0"/>
+        <Point Pos="139.98694,229.83911,-9.9739532" ObstructSound="0"/>
+        <Point Pos="144.80835,208.19629,-11.074738" ObstructSound="0"/>
+        <Point Pos="144.05078,177.96045,-10.449875" ObstructSound="0"/>
+        <Point Pos="122.69678,147.33008,-7.9483185" ObstructSound="0"/>
+        <Point Pos="107.57703,135.8678,-7.329422" ObstructSound="0"/>
+        <Point Pos="95.800781,121.25244,-8.235672" ObstructSound="0"/>
+        <Point Pos="85.111816,93.066528,-7.5780945" ObstructSound="0"/>
+        <Point Pos="61.605957,59.598389,-7.1591492" ObstructSound="0"/>
+        <Point Pos="43.767334,38.36792,-7.342514" ObstructSound="0"/>
+        <Point Pos="34.270142,17.277222,-6.7916107" ObstructSound="0"/>
+        <Point Pos="37.366821,-5.2429199,-5.830246" ObstructSound="0"/>
+        <Point Pos="52.7771,-24.93689,-7.8855715" ObstructSound="0"/>
+        <Point Pos="64.644043,-36.946899,-8.1164703" ObstructSound="0"/>
+        <Point Pos="80.512085,-42.983032,-8.7161407" ObstructSound="0"/>
+        <Point Pos="99.196289,-43.89978,-8.3330688" ObstructSound="0"/>
+        <Point Pos="118.0708,-36.841309,-9.4900208" ObstructSound="0"/>
+        <Point Pos="132.21228,-24.076172,-9.7830505" ObstructSound="0"/>
+        <Point Pos="143.40723,-19.589355,-11.174164" ObstructSound="0"/>
+        <Point Pos="155.4093,-25.810913,-14.139465" ObstructSound="0"/>
+        <Point Pos="160.91882,-43.013672,-17.381866" ObstructSound="0"/>
+        <Point Pos="152.98596,-105.88708,-30.023529" ObstructSound="0"/>
+        <Point Pos="120.65527,-131.38245,-42.203873" ObstructSound="0"/>
+        <Point Pos="109.20203,-150.03076,-45.476044" ObstructSound="0"/>
+        <Point Pos="104.34631,-164.39673,-49.393814" ObstructSound="0"/>
+        <Point Pos="97.63501,-196.90979,-60.765522" ObstructSound="0"/>
+        <Point Pos="93.286743,-216.05164,-70.44458" ObstructSound="0"/>
+        <Point Pos="87.578613,-228.7771,-75.592903" ObstructSound="0"/>
+        <Point Pos="76.440552,-238.50806,-77.848145" ObstructSound="0"/>
+        <Point Pos="64.121948,-244.97339,-77.370193" ObstructSound="0"/>
+        <Point Pos="49.460815,-250.36096,-76.740356" ObstructSound="0"/>
+        <Point Pos="19.442139,-253.31628,-76.517471" ObstructSound="0"/>
+        <Point Pos="-7.0878906,-253.81262,-78.274178" ObstructSound="0"/>
+        <Point Pos="-15.419922,-254.17232,-77.961998" ObstructSound="0"/>
+        <Point Pos="-43.926514,-254.58472,-78.002846" ObstructSound="0"/>
+        <Point Pos="-65.836182,-253.37671,-78.827621" ObstructSound="0"/>
+        <Point Pos="-80.0271,-249.64307,-79.311783" ObstructSound="0"/>
+        <Point Pos="-107.46912,-241.2673,-81.505333" ObstructSound="0"/>
+        <Point Pos="-148.68054,-226.50098,-84.056656" ObstructSound="0"/>
+        <Point Pos="-173.86377,-210.25659,-82.850769" ObstructSound="0"/>
+        <Point Pos="-190.4751,-184.34387,-78.385277" ObstructSound="0"/>
+        <Point Pos="-204.18884,-162.75305,-72.976974" ObstructSound="0"/>
+        <Point Pos="-225.53772,-140.0061,-68.26152" ObstructSound="0"/>
+        <Point Pos="-261.00427,-109.82788,-62.01635" ObstructSound="0"/>
+        <Point Pos="-270.32422,-96.93689,-60.003845" ObstructSound="0"/>
+        <Point Pos="-284.19873,-80.929688,-56.969437" ObstructSound="0"/>
+        <Point Pos="-286.79639,-63.573608,-46.956722" ObstructSound="0"/>
+        <Point Pos="-273.50195,-49.35498,-39.603134" ObstructSound="0"/>
+        <Point Pos="-246.18066,-52.46228,-38.997353" ObstructSound="0"/>
+        <Point Pos="-228.59753,-74.226318,-46.543976" ObstructSound="0"/>
+        <Point Pos="-191.05615,-101.11218,-54.715446" ObstructSound="0"/>
+        <Point Pos="-151.28162,-109.96814,-54.248856" ObstructSound="0"/>
+        <Point Pos="-115.19397,-103.94043,-42.345047" ObstructSound="0"/>
+        <Point Pos="-81.457886,-98.427734,-30.947296" ObstructSound="0"/>
+        <Point Pos="-64.380493,-97.894409,-28.766649" ObstructSound="0"/>
+        <Point Pos="-41.574829,-98.859619,-21.851397" ObstructSound="0"/>
+        <Point Pos="-25.429688,-91.865356,-21.624374" ObstructSound="0"/>
+        <Point Pos="-17.051636,-87.751587,-21.172842" ObstructSound="0"/>
+        <Point Pos="-6.541748,-80.314575,-20.994797" ObstructSound="0"/>
+        <Point Pos="4.4122314,-55.132568,-12.499924" ObstructSound="0"/>
+        <Point Pos="32.037231,-44.08252,-9.505558" ObstructSound="0"/>
+        <Point Pos="38.487671,-22.430542,-6.7147064" ObstructSound="0"/>
+       </Points>
+       <Roof ObstructSound="0"/>
+       <Floor ObstructSound="0"/>
+      </Area>
+     </Component>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="0,0,0.1000061"/>
+     <Point Pos="-37.576904,4.8532715,-1.302063"/>
+     <Point Pos="-46.177734,14.1073,-2.7146544"/>
+     <Point Pos="-45.757202,40.665527,-5.3183818"/>
+     <Point Pos="-40.634644,60.86853,-9.115387"/>
+     <Point Pos="-44.589966,80.025269,-11.218867"/>
+     <Point Pos="-80.760864,96.12915,-12.669414"/>
+     <Point Pos="-96.504395,95.422363,-8.4992456"/>
+     <Point Pos="-127.21387,84.347534,-4.4527893"/>
+     <Point Pos="-153.69043,86.04187,-0.043319702"/>
+     <Point Pos="-181.21558,80.769409,3.5669403"/>
+     <Point Pos="-198.91406,65.810547,3.8338165"/>
+     <Point Pos="-219.97583,37.141846,3.1257782"/>
+     <Point Pos="-232.58569,16.434204,1.8270416"/>
+     <Point Pos="-239.97888,12.224243,1.7598419"/>
+     <Point Pos="-253.09839,12.052368,1.8924408"/>
+     <Point Pos="-260.91956,14.475098,0.61579895"/>
+     <Point Pos="-273.08972,21.63623,-2.8276062"/>
+     <Point Pos="-296.62866,34.482666,-8.5088043"/>
+     <Point Pos="-310.4397,36.876099,-11.80217"/>
+     <Point Pos="-324.52344,35.283081,-14.818588"/>
+     <Point Pos="-340.74548,31.874512,-15.188339"/>
+     <Point Pos="-368.28589,24.404663,-20.831223"/>
+     <Point Pos="-377.5498,26.238647,-23.149384"/>
+     <Point Pos="-387.19226,33.425293,-24.794067"/>
+     <Point Pos="-397.89685,46.710327,-25.262512"/>
+     <Point Pos="-403.89441,55.210083,-25.706299"/>
+     <Point Pos="-414.14282,72.179443,-24.587509"/>
+     <Point Pos="-418.74817,81.408447,-23.275696"/>
+     <Point Pos="-423.58679,95.513062,-21.324783"/>
+     <Point Pos="-425.81116,110.25525,-21.974396"/>
+     <Point Pos="-424.83447,121.57935,-22.419403"/>
+     <Point Pos="-421.21301,139.82373,-22.471542"/>
+     <Point Pos="-415.90234,149.27222,-20.975357"/>
+     <Point Pos="-411.2865,156.77563,-19.673416"/>
+     <Point Pos="-406.50769,161.65918,-17.488754"/>
+     <Point Pos="-397.61548,168.59106,-12.314865"/>
+     <Point Pos="-392.93396,171.80176,-10.052933"/>
+     <Point Pos="-380.85901,178.24463,-6.9728851"/>
+     <Point Pos="-370.56274,182.13733,-6.1201324"/>
+     <Point Pos="-351.46948,185.49329,-5.6981812"/>
+     <Point Pos="-340.55249,185.76172,-5.8673248"/>
+     <Point Pos="-323.40784,186.49939,-3.9775696"/>
+     <Point Pos="-286.203,174.31323,-1.194046"/>
+     <Point Pos="-257.1969,161.94641,4.813797"/>
+     <Point Pos="-225.61487,154.32593,9.4207306"/>
+     <Point Pos="-204.41455,147.95959,15.166901"/>
+     <Point Pos="-162.35437,142.74927,11.306976"/>
+     <Point Pos="-131.90698,149.3396,7.5846071"/>
+     <Point Pos="-114.90161,151.73376,4.6109381"/>
+     <Point Pos="-95.77356,154.20251,-0.59505653"/>
+     <Point Pos="-82.901367,158.53345,-3.6741638"/>
+     <Point Pos="-54.943604,168.60986,-9.2263336"/>
+     <Point Pos="-19.474976,167.18799,-0.3153013"/>
+     <Point Pos="-0.97802734,178.61938,4.8283396"/>
+     <Point Pos="13.466675,215.53345,1.4349213"/>
+     <Point Pos="25.828979,221.15234,1.1565094"/>
+     <Point Pos="49.064819,232.30737,1.2305756"/>
+     <Point Pos="71.784912,242.6947,1.2014923"/>
+     <Point Pos="86.392334,248.87476,1.5283356"/>
+     <Point Pos="113.07703,248.48877,4.0495148"/>
+     <Point Pos="139.98694,229.83911,-9.9739532"/>
+     <Point Pos="144.80835,208.19629,-11.074738"/>
+     <Point Pos="144.05078,177.96045,-10.449875"/>
+     <Point Pos="122.69678,147.33008,-7.9483185"/>
+     <Point Pos="107.57703,135.8678,-7.329422"/>
+     <Point Pos="95.800781,121.25244,-8.235672"/>
+     <Point Pos="85.111816,93.066528,-7.5780945"/>
+     <Point Pos="61.605957,59.598389,-7.1591492"/>
+     <Point Pos="43.767334,38.36792,-7.342514"/>
+     <Point Pos="34.270142,17.277222,-6.7916107"/>
+     <Point Pos="37.366821,-5.2429199,-5.830246"/>
+     <Point Pos="52.7771,-24.93689,-7.8855715"/>
+     <Point Pos="64.644043,-36.946899,-8.1164703"/>
+     <Point Pos="80.512085,-42.983032,-8.7161407"/>
+     <Point Pos="99.196289,-43.89978,-8.3330688"/>
+     <Point Pos="118.0708,-36.841309,-9.4900208"/>
+     <Point Pos="132.21228,-24.076172,-9.7830505"/>
+     <Point Pos="143.40723,-19.589355,-11.174164"/>
+     <Point Pos="155.4093,-25.810913,-14.139465"/>
+     <Point Pos="160.91882,-43.013672,-17.381866"/>
+     <Point Pos="152.98596,-105.88708,-30.023529"/>
+     <Point Pos="120.65527,-131.38245,-42.203873"/>
+     <Point Pos="109.20203,-150.03076,-45.476044"/>
+     <Point Pos="104.34631,-164.39673,-49.393814"/>
+     <Point Pos="97.63501,-196.90979,-60.765522"/>
+     <Point Pos="93.286743,-216.05164,-70.44458"/>
+     <Point Pos="87.578613,-228.7771,-75.592903"/>
+     <Point Pos="76.440552,-238.50806,-77.848145"/>
+     <Point Pos="64.121948,-244.97339,-77.370193"/>
+     <Point Pos="49.460815,-250.36096,-76.740356"/>
+     <Point Pos="19.442139,-253.31628,-76.517471"/>
+     <Point Pos="-7.0878906,-253.81262,-78.274178"/>
+     <Point Pos="-15.419922,-254.17232,-77.961998"/>
+     <Point Pos="-43.926514,-254.58472,-78.002846"/>
+     <Point Pos="-65.836182,-253.37671,-78.827621"/>
+     <Point Pos="-80.0271,-249.64307,-79.311783"/>
+     <Point Pos="-107.46912,-241.2673,-81.505333"/>
+     <Point Pos="-148.68054,-226.50098,-84.056656"/>
+     <Point Pos="-173.86377,-210.25659,-82.850769"/>
+     <Point Pos="-190.4751,-184.34387,-78.385277"/>
+     <Point Pos="-204.18884,-162.75305,-72.976974"/>
+     <Point Pos="-225.53772,-140.0061,-68.26152"/>
+     <Point Pos="-261.00427,-109.82788,-62.01635"/>
+     <Point Pos="-270.32422,-96.93689,-60.003845"/>
+     <Point Pos="-284.19873,-80.929688,-56.969437"/>
+     <Point Pos="-286.79639,-63.573608,-46.956722"/>
+     <Point Pos="-273.50195,-49.35498,-39.603134"/>
+     <Point Pos="-246.18066,-52.46228,-38.997353"/>
+     <Point Pos="-228.59753,-74.226318,-46.543976"/>
+     <Point Pos="-191.05615,-101.11218,-54.715446"/>
+     <Point Pos="-151.28162,-109.96814,-54.248856"/>
+     <Point Pos="-115.19397,-103.94043,-42.345047"/>
+     <Point Pos="-81.457886,-98.427734,-30.947296"/>
+     <Point Pos="-64.380493,-97.894409,-28.766649"/>
+     <Point Pos="-41.574829,-98.859619,-21.851397"/>
+     <Point Pos="-25.429688,-91.865356,-21.624374"/>
+     <Point Pos="-17.051636,-87.751587,-21.172842"/>
+     <Point Pos="-6.541748,-80.314575,-20.994797"/>
+     <Point Pos="4.4122314,-55.132568,-12.499924"/>
+     <Point Pos="32.037231,-44.08252,-9.505558"/>
+     <Point Pos="38.487671,-22.430542,-6.7147064"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Side9="0" Side10="0" Side11="0" Side12="0" Side13="0" Side14="0" Side15="0" Side16="0" Side17="0" Side18="0" Side19="0" Side20="0" Side21="0" Side22="0" Side23="0" Side24="0" Side25="0" Side26="0" Side27="0" Side28="0" Side29="0" Side30="0" Side31="0" Side32="0" Side33="0" Side34="0" Side35="0" Side36="0" Side37="0" Side38="0" Side39="0" Side40="0" Side41="0" Side42="0" Side43="0" Side44="0" Side45="0" Side46="0" Side47="0" Side48="0" Side49="0" Side50="0" Side51="0" Side52="0" Side53="0" Side54="0" Side55="0" Side56="0" Side57="0" Side58="0" Side59="0" Side60="0" Side61="0" Side62="0" Side63="0" Side64="0" Side65="0" Side66="0" Side67="0" Side68="0" Side69="0" Side70="0" Side71="0" Side72="0" Side73="0" Side74="0" Side75="0" Side76="0" Side77="0" Side78="0" Side79="0" Side80="0" Side81="0" Side82="0" Side83="0" Side84="0" Side85="0" Side86="0" Side87="0" Side88="0" Side89="0" Side90="0" Side91="0" Side92="0" Side93="0" Side94="0" Side95="0" Side96="0" Side97="0" Side98="0" Side99="0" Side100="0" Side101="0" Side102="0" Side103="0" Side104="0" Side105="0" Side106="0" Side107="0" Side108="0" Side109="0" Side110="0" Side111="0" Side112="0" Side113="0" Side114="0" Side115="0" Side116="0" Side117="0" Side118="0" Side119="0" Side120="0" Side121="0" Side122="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Road" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{25066219-57D1-44C9-4E0D-99895764FA60}" Name="Road213" Pos="1347.9523,1542.104,176.18951" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Width="4" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="4" ViewDistRatio="100" TileLength="4" SortPriority="0" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="4.2983618,-1.0366646,-0.71677983" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="13.213013,-1.3076172,-2.0701752" Back="8.8509865,-2.1346517,-1.4759597" Forw="23.819366,0.70333338,-3.5150218" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="44.169678,8.3745117,-6.0169983" Back="33.691307,6.0441771,-4.1732063" Forw="49.400883,9.5379038,-6.93749" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="59.898315,9.0749512,-10.285004" Back="54.693825,10.626273,-10.014848" Forw="72.568001,5.2984481,-10.942665" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="96.125977,-7.1123047,-8.7139587" Back="86.20192,1.6038599,-9.5840006" Forw="101.07923,-11.462679,-8.279707" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="100.28027,-26.391968,-6.7447205" Back="100.51531,-19.862097,-7.7217526" Forw="100.03028,-33.337425,-5.7055063" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="94.713745,-46.347656,-2.8433685" Back="95.745049,-39.456921,-3.7576971" Forw="93.354774,-55.427715,-1.6385394" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="93.158203,-73.978638,-0.4304657" Back="93.256111,-64.738815,-1.0321815" Forw="93.158203,-73.978638,-0.4304657" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{2C050AD8-FB21-F922-EFF2-8DA249E44CF4}" Name="GB_Tram_D_V2" Pos="1289.6957,459.37195,127.49831" FloorNumber="-1" Rotate="0.78091061,0,0,0.62464279" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="30" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="700" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{4F252627-CC1F-FF6E-499F-89C2283FD359}" Name="concrete_block10x127" Pos="1263.9944,1030.199,93.303749" FloorNumber="-1" Rotate="0.97642142,0,0,-0.2158732" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/concrete_pack/concrete_block10x10.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{5147FF38-F46F-891C-F082-13618D36A56E}" Name="GB_Tram_C" Pos="1632.3888,1670.0081,167.46724" FloorNumber="-1" Rotate="0.64278769,0,0,0.7660445" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="1" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="450" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="GB_Tram_C_V1" sVagonThree="GB_Tram_C_V3" sVagonTwo="GB_Tram_C_V2"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{516F2190-4C73-E26B-30E0-960D43157D8A}" Name="GB_Tram_C_V3" Pos="1627.7638,1696.2373,175.25629" FloorNumber="-1" Rotate="0.64278769,0,0,0.7660445" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="450" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GameVolume" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{90F5DEC8-2031-68D9-2158-97FBA89D0741}" Name="GameVolume_Tram_AD" Pos="1114.6134,842.34216,151.84604" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="1" VolumeClass="1" EntityClass="TrainRails" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="6" bBendGeometry="1" bCreatePhysicsState="1" fDistBtRailsModels="-0.18" bGenerateRailsModels="1" bGenerateRMOld="0" bInvertRoadDirection="0" bIsLastTrain="0" bIsLooped="1" fMltSplineSeg="10" objRails="Objects/zhg_objects/props/trainyard/rails/rails.cgf" bRefresh="1" bScaleAlongSpline="1" fSplineCurvature="0.5" fStartDelay="0" fTrainInitialZRot="90" sTrainLocomotiveMdl="GB_Tram_D" fTrainMoveSpeed="10" bUseZRotation="1"/>
+    <Components>
+     <Component typeId="{98EDA61F-DE8B-E2B1-A1CA-2A88E4EEDE66}">
+      <Area Id="0" Group="0" Proximity="0" Priority="0" InnerFadeDistance="0" Height="0">
+       <Points>
+        <Point Pos="0,0,0.1000061" ObstructSound="0"/>
+        <Point Pos="-15.290161,1.812439,2.4998169" ObstructSound="0"/>
+        <Point Pos="-32.921753,4.6779175,5.580246" ObstructSound="0"/>
+        <Point Pos="-49.892456,10.453735,10.083862" ObstructSound="0"/>
+        <Point Pos="-85.473511,23.652466,19.291992" ObstructSound="0"/>
+        <Point Pos="-101.32782,27.27655,22.405838" ObstructSound="0"/>
+        <Point Pos="-116.90198,17.869568,23.355438" ObstructSound="0"/>
+        <Point Pos="-148.84943,3.3422852,33.101944" ObstructSound="0"/>
+        <Point Pos="-166.45612,0.33135986,33.802475" ObstructSound="0"/>
+        <Point Pos="-173.76208,8.7412109,34.44841" ObstructSound="0"/>
+        <Point Pos="-186.53668,25.69873,35.720139" ObstructSound="0"/>
+        <Point Pos="-193.94037,35.372498,34.234467" ObstructSound="0"/>
+        <Point Pos="-195.24005,50.887939,29.496674" ObstructSound="0"/>
+        <Point Pos="-188.82391,62.323608,25.058594" ObstructSound="0"/>
+        <Point Pos="-178.70251,77.018799,18.40416" ObstructSound="0"/>
+        <Point Pos="-168.31061,92.151733,14.746368" ObstructSound="0"/>
+        <Point Pos="-154.26263,104.86102,14.240112" ObstructSound="0"/>
+        <Point Pos="-151.12073,114.48944,13.1064" ObstructSound="0"/>
+        <Point Pos="-154.64697,127.56311,10.341019" ObstructSound="0"/>
+        <Point Pos="-169.40594,134.44232,12.168259" ObstructSound="0"/>
+        <Point Pos="-182.22247,134.45593,15.379468" ObstructSound="0"/>
+        <Point Pos="-191.3186,134.78107,17.939318" ObstructSound="0"/>
+        <Point Pos="-199.1803,135.11572,19.012558" ObstructSound="0"/>
+        <Point Pos="-212.58997,137.85052,18.348587" ObstructSound="0"/>
+        <Point Pos="-221.65216,140.36237,18.506889" ObstructSound="0"/>
+        <Point Pos="-230.73035,142.9505,17.854736" ObstructSound="0"/>
+        <Point Pos="-253.21021,151.22943,17.820877" ObstructSound="0"/>
+        <Point Pos="-261.54333,154.22839,17.982889" ObstructSound="0"/>
+        <Point Pos="-266.82037,156.16748,17.754715" ObstructSound="0"/>
+        <Point Pos="-280.87024,156.87817,17.85405" ObstructSound="0"/>
+        <Point Pos="-298.6167,156.56024,17.355728" ObstructSound="0"/>
+        <Point Pos="-323.22992,150.74622,16.405884" ObstructSound="0"/>
+        <Point Pos="-357.05359,137.23706,15.983871" ObstructSound="0"/>
+        <Point Pos="-371.80927,132.91718,15.955872" ObstructSound="0"/>
+        <Point Pos="-380.72498,135.16138,15.93071" ObstructSound="0"/>
+        <Point Pos="-393.20148,138.50977,16.375275" ObstructSound="0"/>
+        <Point Pos="-404.80396,140.20587,17.753193" ObstructSound="0"/>
+        <Point Pos="-423.76099,138.63153,20.938019" ObstructSound="0"/>
+        <Point Pos="-438.51349,136.49811,24.243881" ObstructSound="0"/>
+        <Point Pos="-478.46564,127.70581,31.58371" ObstructSound="0"/>
+        <Point Pos="-488.6875,128.92554,32.959579" ObstructSound="0"/>
+        <Point Pos="-497.71289,126.42841,32.857407" ObstructSound="0"/>
+        <Point Pos="-504.914,120.80609,33.204697" ObstructSound="0"/>
+        <Point Pos="-506.01068,115.24817,35.096695" ObstructSound="0"/>
+        <Point Pos="-505.16241,106.36267,38.308304" ObstructSound="0"/>
+        <Point Pos="-505.11426,103.50476,38.590912" ObstructSound="0"/>
+        <Point Pos="-503.25537,85.704773,38.789093" ObstructSound="0"/>
+        <Point Pos="-501.99774,71.059387,39.116516" ObstructSound="0"/>
+        <Point Pos="-500.40314,50.770142,39.696091" ObstructSound="0"/>
+        <Point Pos="-498.56573,33.149109,39.788696" ObstructSound="0"/>
+        <Point Pos="-496.6651,28.653259,39.767334" ObstructSound="0"/>
+        <Point Pos="-493.27716,25.328064,39.726563" ObstructSound="0"/>
+        <Point Pos="-488.48889,18.720032,39.543503" ObstructSound="0"/>
+        <Point Pos="-493.61847,10.135498,39.684418" ObstructSound="0"/>
+        <Point Pos="-503.9411,9.4441528,39.711548" ObstructSound="0"/>
+        <Point Pos="-509.18158,15.855957,39.701416" ObstructSound="0"/>
+        <Point Pos="-506.8291,23.526672,39.739426" ObstructSound="0"/>
+        <Point Pos="-503.40735,29.253601,39.700714" ObstructSound="0"/>
+        <Point Pos="-502.61359,32.956848,39.686295" ObstructSound="0"/>
+        <Point Pos="-503.1416,49.514465,39.771072" ObstructSound="0"/>
+        <Point Pos="-507.05786,87.477356,39.018936" ObstructSound="0"/>
+        <Point Pos="-508.48016,99.638123,38.848618" ObstructSound="0"/>
+        <Point Pos="-509.0047,104.14331,38.576065" ObstructSound="0"/>
+        <Point Pos="-509.55713,112.41852,35.953583" ObstructSound="0"/>
+        <Point Pos="-510.13098,118.78815,33.608292" ObstructSound="0"/>
+        <Point Pos="-510.48242,123.8847,32.379883" ObstructSound="0"/>
+        <Point Pos="-511.1568,133.30914,30.86377" ObstructSound="0"/>
+        <Point Pos="-511.90747,143.28619,30.536469" ObstructSound="0"/>
+        <Point Pos="-511.4408,157.98267,30.511795" ObstructSound="0"/>
+        <Point Pos="-511.82739,172.33228,30.507263" ObstructSound="0"/>
+        <Point Pos="-511.88483,182.43054,30.450592" ObstructSound="0"/>
+        <Point Pos="-511.71094,188.85693,30.061188" ObstructSound="0"/>
+        <Point Pos="-511.84918,199.31299,28.729431" ObstructSound="0"/>
+        <Point Pos="-510.38013,219.35022,27.383499" ObstructSound="0"/>
+        <Point Pos="-500.31866,242.73486,25.526917" ObstructSound="0"/>
+        <Point Pos="-424.7323,297.67725,18.282501" ObstructSound="0"/>
+        <Point Pos="-414.99084,305.92749,17.254578" ObstructSound="0"/>
+        <Point Pos="-394.11066,324.66064,14.769165" ObstructSound="0"/>
+        <Point Pos="-384.06604,344.8197,12.350555" ObstructSound="0"/>
+        <Point Pos="-371.38196,356.46301,10.344315" ObstructSound="0"/>
+        <Point Pos="-351.38989,362.14648,9.4947052" ObstructSound="0"/>
+        <Point Pos="-336.24902,353.70239,9.9127502" ObstructSound="0"/>
+        <Point Pos="-304.4104,335.51233,6.925415" ObstructSound="0"/>
+        <Point Pos="-285.26617,317.36328,9.2056122" ObstructSound="0"/>
+        <Point Pos="-285.37103,296.44666,14.965179" ObstructSound="0"/>
+        <Point Pos="-295.05542,274.00122,9.8480988" ObstructSound="0"/>
+        <Point Pos="-278.32666,246.03687,10.392166" ObstructSound="0"/>
+        <Point Pos="-258.39136,211.83215,19.702362" ObstructSound="0"/>
+        <Point Pos="-249.09204,181.93573,26.773773" ObstructSound="0"/>
+        <Point Pos="-241.46667,151.02869,29.278503" ObstructSound="0"/>
+        <Point Pos="-236.76501,122.58478,31.592987" ObstructSound="0"/>
+        <Point Pos="-235.56732,103.78625,34.451939" ObstructSound="0"/>
+        <Point Pos="-220.09766,79.05719,38.872177" ObstructSound="0"/>
+        <Point Pos="-187.61969,67.651062,39.369511" ObstructSound="0"/>
+        <Point Pos="-167.81311,60.981934,37.675522" ObstructSound="0"/>
+        <Point Pos="-144.43713,45.055298,33.082432" ObstructSound="0"/>
+        <Point Pos="-144.46478,30.730469,30.633942" ObstructSound="0"/>
+        <Point Pos="-147.17688,10.579285,32.866863" ObstructSound="0"/>
+        <Point Pos="-172.26422,-7.1514282,33.788361" ObstructSound="0"/>
+        <Point Pos="-182.00006,-20.314575,32.232635" ObstructSound="0"/>
+        <Point Pos="-191.32306,-39.980835,29.541092" ObstructSound="0"/>
+        <Point Pos="-194.07782,-57.261414,30.26738" ObstructSound="0"/>
+        <Point Pos="-196.15692,-72.967163,32.875763" ObstructSound="0"/>
+        <Point Pos="-198.27405,-86.013367,35.196838" ObstructSound="0"/>
+        <Point Pos="-199.15149,-101.65259,37.925476" ObstructSound="0"/>
+        <Point Pos="-199.65845,-137.16638,39.666702" ObstructSound="0"/>
+        <Point Pos="-196.88293,-151.89716,39.901947" ObstructSound="0"/>
+        <Point Pos="-192.40802,-160.77155,39.79541" ObstructSound="0"/>
+        <Point Pos="-161.57062,-178.69043,37.582214" ObstructSound="0"/>
+        <Point Pos="-134.9129,-203.34851,43.728485" ObstructSound="0"/>
+        <Point Pos="-114.30646,-228.24591,55.445892" ObstructSound="0"/>
+        <Point Pos="-89.857788,-246.38849,65.25946" ObstructSound="0"/>
+        <Point Pos="-66.241089,-263.26257,66.821625" ObstructSound="0"/>
+        <Point Pos="-40.66687,-274.40021,60.35144" ObstructSound="0"/>
+        <Point Pos="-10.915527,-267.75378,59.647598" ObstructSound="0"/>
+        <Point Pos="13.479492,-261.83948,60.059677" ObstructSound="0"/>
+        <Point Pos="42.029053,-244.04224,58.363617" ObstructSound="0"/>
+        <Point Pos="72.216431,-221.34253,41.811691" ObstructSound="0"/>
+        <Point Pos="92.118652,-202.11603,28.883148" ObstructSound="0"/>
+        <Point Pos="107.72449,-176.21173,25.371078" ObstructSound="0"/>
+        <Point Pos="114.85413,-160.31604,23.371765" ObstructSound="0"/>
+        <Point Pos="134.4043,-148.72528,14.964279" ObstructSound="0"/>
+        <Point Pos="146.93835,-151.88416,7.0422668" ObstructSound="0"/>
+        <Point Pos="157.26733,-158.99628,0.16911316" ObstructSound="0"/>
+        <Point Pos="164.90271,-171.64825,-7.6907806" ObstructSound="0"/>
+        <Point Pos="168.54797,-183.54993,-10.88475" ObstructSound="0"/>
+        <Point Pos="168.00818,-193.42261,-11.852197" ObstructSound="0"/>
+        <Point Pos="167.3905,-204.93469,-13.463028" ObstructSound="0"/>
+        <Point Pos="171.42627,-228.82715,-22.653534" ObstructSound="0"/>
+        <Point Pos="186.60364,-254.39124,-23.860176" ObstructSound="0"/>
+        <Point Pos="202.34717,-273.81061,-25.367805" ObstructSound="0"/>
+        <Point Pos="196.21777,-302.5199,-25.524696" ObstructSound="0"/>
+        <Point Pos="184.61206,-346.52887,-25.604301" ObstructSound="0"/>
+        <Point Pos="173.43396,-384.25189,-25.616486" ObstructSound="0"/>
+        <Point Pos="170.30798,-397.23642,-25.601204" ObstructSound="0"/>
+        <Point Pos="172.94897,-409.23361,-25.698788" ObstructSound="0"/>
+        <Point Pos="190.6864,-412.07529,-25.452629" ObstructSound="0"/>
+        <Point Pos="204.49329,-402.94562,-25.617424" ObstructSound="0"/>
+        <Point Pos="213.11243,-375.82953,-25.651703" ObstructSound="0"/>
+        <Point Pos="221.05493,-343.78827,-25.822807" ObstructSound="0"/>
+        <Point Pos="232.34656,-302.91394,-25.807274" ObstructSound="0"/>
+        <Point Pos="238.23901,-280.60699,-25.782166" ObstructSound="0"/>
+        <Point Pos="235.95032,-244.51263,-24.946022" ObstructSound="0"/>
+        <Point Pos="245.70422,-205.48419,-24.805023" ObstructSound="0"/>
+        <Point Pos="251.72546,-184.80774,-24.812561" ObstructSound="0"/>
+        <Point Pos="258.46423,-163.21405,-24.861076" ObstructSound="0"/>
+        <Point Pos="267.80554,-135.43524,-24.764259" ObstructSound="0"/>
+        <Point Pos="282.65369,-97.141541,-25.214348" ObstructSound="0"/>
+        <Point Pos="290.51904,-74.45752,-25.264534" ObstructSound="0"/>
+        <Point Pos="287.81555,-42.829773,-25.288887" ObstructSound="0"/>
+        <Point Pos="279.53308,-23.178162,-24.639069" ObstructSound="0"/>
+        <Point Pos="267.36267,5.5570068,-25.17392" ObstructSound="0"/>
+        <Point Pos="255.85754,20.012024,-25.979477" ObstructSound="0"/>
+        <Point Pos="239.5874,23.764526,-24.413322" ObstructSound="0"/>
+        <Point Pos="216.05005,29.454224,-23.20369" ObstructSound="0"/>
+        <Point Pos="198.91992,34.247437,-22.459244" ObstructSound="0"/>
+        <Point Pos="182.13977,36.901367,-20.623962" ObstructSound="0"/>
+        <Point Pos="171.83691,37.562744,-19.049713" ObstructSound="0"/>
+        <Point Pos="151.49939,38.582092,-14.178345" ObstructSound="0"/>
+        <Point Pos="134.88159,36.797363,-8.3874512" ObstructSound="0"/>
+        <Point Pos="124.49023,34.716797,-7.345459" ObstructSound="0"/>
+        <Point Pos="103.75391,29.326111,-6.3761902" ObstructSound="0"/>
+        <Point Pos="88.705688,23.336487,-4.243515" ObstructSound="0"/>
+        <Point Pos="66.270264,10.676331,-1.6214294" ObstructSound="0"/>
+        <Point Pos="49.924561,6.3805542,-0.88493347" ObstructSound="0"/>
+        <Point Pos="36.809937,4.3354492,-0.97161865" ObstructSound="0"/>
+        <Point Pos="12.25293,-0.15447998,-0.63742065" ObstructSound="0"/>
+       </Points>
+       <Roof ObstructSound="0"/>
+       <Floor ObstructSound="0"/>
+      </Area>
+     </Component>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="0,0,0.1000061"/>
+     <Point Pos="-15.290161,1.812439,2.4998169"/>
+     <Point Pos="-32.921753,4.6779175,5.580246"/>
+     <Point Pos="-49.892456,10.453735,10.083862"/>
+     <Point Pos="-85.473511,23.652466,19.291992"/>
+     <Point Pos="-101.32782,27.27655,22.405838"/>
+     <Point Pos="-116.90198,17.869568,23.355438"/>
+     <Point Pos="-148.84943,3.3422852,33.101944"/>
+     <Point Pos="-166.45612,0.33135986,33.802475"/>
+     <Point Pos="-173.76208,8.7412109,34.44841"/>
+     <Point Pos="-186.53668,25.69873,35.720139"/>
+     <Point Pos="-193.94037,35.372498,34.234467"/>
+     <Point Pos="-195.24005,50.887939,29.496674"/>
+     <Point Pos="-188.82391,62.323608,25.058594"/>
+     <Point Pos="-178.70251,77.018799,18.40416"/>
+     <Point Pos="-168.31061,92.151733,14.746368"/>
+     <Point Pos="-154.26263,104.86102,14.240112"/>
+     <Point Pos="-151.12073,114.48944,13.1064"/>
+     <Point Pos="-154.64697,127.56311,10.341019"/>
+     <Point Pos="-169.40594,134.44232,12.168259"/>
+     <Point Pos="-182.22247,134.45593,15.379468"/>
+     <Point Pos="-191.3186,134.78107,17.939318"/>
+     <Point Pos="-199.1803,135.11572,19.012558"/>
+     <Point Pos="-212.58997,137.85052,18.348587"/>
+     <Point Pos="-221.65216,140.36237,18.506889"/>
+     <Point Pos="-230.73035,142.9505,17.854736"/>
+     <Point Pos="-253.21021,151.22943,17.820877"/>
+     <Point Pos="-261.54333,154.22839,17.982889"/>
+     <Point Pos="-266.82037,156.16748,17.754715"/>
+     <Point Pos="-280.87024,156.87817,17.85405"/>
+     <Point Pos="-298.6167,156.56024,17.355728"/>
+     <Point Pos="-323.22992,150.74622,16.405884"/>
+     <Point Pos="-357.05359,137.23706,15.983871"/>
+     <Point Pos="-371.80927,132.91718,15.955872"/>
+     <Point Pos="-380.72498,135.16138,15.93071"/>
+     <Point Pos="-393.20148,138.50977,16.375275"/>
+     <Point Pos="-404.80396,140.20587,17.753193"/>
+     <Point Pos="-423.76099,138.63153,20.938019"/>
+     <Point Pos="-438.51349,136.49811,24.243881"/>
+     <Point Pos="-478.46564,127.70581,31.58371"/>
+     <Point Pos="-488.6875,128.92554,32.959579"/>
+     <Point Pos="-497.71289,126.42841,32.857407"/>
+     <Point Pos="-504.914,120.80609,33.204697"/>
+     <Point Pos="-506.01068,115.24817,35.096695"/>
+     <Point Pos="-505.16241,106.36267,38.308304"/>
+     <Point Pos="-505.11426,103.50476,38.590912"/>
+     <Point Pos="-503.25537,85.704773,38.789093"/>
+     <Point Pos="-501.99774,71.059387,39.116516"/>
+     <Point Pos="-500.40314,50.770142,39.696091"/>
+     <Point Pos="-498.56573,33.149109,39.788696"/>
+     <Point Pos="-496.6651,28.653259,39.767334"/>
+     <Point Pos="-493.27716,25.328064,39.726563"/>
+     <Point Pos="-488.48889,18.720032,39.543503"/>
+     <Point Pos="-493.61847,10.135498,39.684418"/>
+     <Point Pos="-503.9411,9.4441528,39.711548"/>
+     <Point Pos="-509.18158,15.855957,39.701416"/>
+     <Point Pos="-506.8291,23.526672,39.739426"/>
+     <Point Pos="-503.40735,29.253601,39.700714"/>
+     <Point Pos="-502.61359,32.956848,39.686295"/>
+     <Point Pos="-503.1416,49.514465,39.771072"/>
+     <Point Pos="-507.05786,87.477356,39.018936"/>
+     <Point Pos="-508.48016,99.638123,38.848618"/>
+     <Point Pos="-509.0047,104.14331,38.576065"/>
+     <Point Pos="-509.55713,112.41852,35.953583"/>
+     <Point Pos="-510.13098,118.78815,33.608292"/>
+     <Point Pos="-510.48242,123.8847,32.379883"/>
+     <Point Pos="-511.1568,133.30914,30.86377"/>
+     <Point Pos="-511.90747,143.28619,30.536469"/>
+     <Point Pos="-511.4408,157.98267,30.511795"/>
+     <Point Pos="-511.82739,172.33228,30.507263"/>
+     <Point Pos="-511.88483,182.43054,30.450592"/>
+     <Point Pos="-511.71094,188.85693,30.061188"/>
+     <Point Pos="-511.84918,199.31299,28.729431"/>
+     <Point Pos="-510.38013,219.35022,27.383499"/>
+     <Point Pos="-500.31866,242.73486,25.526917"/>
+     <Point Pos="-424.7323,297.67725,18.282501"/>
+     <Point Pos="-414.99084,305.92749,17.254578"/>
+     <Point Pos="-394.11066,324.66064,14.769165"/>
+     <Point Pos="-384.06604,344.8197,12.350555"/>
+     <Point Pos="-371.38196,356.46301,10.344315"/>
+     <Point Pos="-351.38989,362.14648,9.4947052"/>
+     <Point Pos="-336.24902,353.70239,9.9127502"/>
+     <Point Pos="-304.4104,335.51233,6.925415"/>
+     <Point Pos="-285.26617,317.36328,9.2056122"/>
+     <Point Pos="-285.37103,296.44666,14.965179"/>
+     <Point Pos="-295.05542,274.00122,9.8480988"/>
+     <Point Pos="-278.32666,246.03687,10.392166"/>
+     <Point Pos="-258.39136,211.83215,19.702362"/>
+     <Point Pos="-249.09204,181.93573,26.773773"/>
+     <Point Pos="-241.46667,151.02869,29.278503"/>
+     <Point Pos="-236.76501,122.58478,31.592987"/>
+     <Point Pos="-235.56732,103.78625,34.451939"/>
+     <Point Pos="-220.09766,79.05719,38.872177"/>
+     <Point Pos="-187.61969,67.651062,39.369511"/>
+     <Point Pos="-167.81311,60.981934,37.675522"/>
+     <Point Pos="-144.43713,45.055298,33.082432"/>
+     <Point Pos="-144.46478,30.730469,30.633942"/>
+     <Point Pos="-147.17688,10.579285,32.866863"/>
+     <Point Pos="-172.26422,-7.1514282,33.788361"/>
+     <Point Pos="-182.00006,-20.314575,32.232635"/>
+     <Point Pos="-191.32306,-39.980835,29.541092"/>
+     <Point Pos="-194.07782,-57.261414,30.26738"/>
+     <Point Pos="-196.15692,-72.967163,32.875763"/>
+     <Point Pos="-198.27405,-86.013367,35.196838"/>
+     <Point Pos="-199.15149,-101.65259,37.925476"/>
+     <Point Pos="-199.65845,-137.16638,39.666702"/>
+     <Point Pos="-196.88293,-151.89716,39.901947"/>
+     <Point Pos="-192.40802,-160.77155,39.79541"/>
+     <Point Pos="-161.57062,-178.69043,37.582214"/>
+     <Point Pos="-134.9129,-203.34851,43.728485"/>
+     <Point Pos="-114.30646,-228.24591,55.445892"/>
+     <Point Pos="-89.857788,-246.38849,65.25946"/>
+     <Point Pos="-66.241089,-263.26257,66.821625"/>
+     <Point Pos="-40.66687,-274.40021,60.35144"/>
+     <Point Pos="-10.915527,-267.75378,59.647598"/>
+     <Point Pos="13.479492,-261.83948,60.059677"/>
+     <Point Pos="42.029053,-244.04224,58.363617"/>
+     <Point Pos="72.216431,-221.34253,41.811691"/>
+     <Point Pos="92.118652,-202.11603,28.883148"/>
+     <Point Pos="107.72449,-176.21173,25.371078"/>
+     <Point Pos="114.85413,-160.31604,23.371765"/>
+     <Point Pos="134.4043,-148.72528,14.964279"/>
+     <Point Pos="146.93835,-151.88416,7.0422668"/>
+     <Point Pos="157.26733,-158.99628,0.16911316"/>
+     <Point Pos="164.90271,-171.64825,-7.6907806"/>
+     <Point Pos="168.54797,-183.54993,-10.88475"/>
+     <Point Pos="168.00818,-193.42261,-11.852197"/>
+     <Point Pos="167.3905,-204.93469,-13.463028"/>
+     <Point Pos="171.42627,-228.82715,-22.653534"/>
+     <Point Pos="186.60364,-254.39124,-23.860176"/>
+     <Point Pos="202.34717,-273.81061,-25.367805"/>
+     <Point Pos="196.21777,-302.5199,-25.524696"/>
+     <Point Pos="184.61206,-346.52887,-25.604301"/>
+     <Point Pos="173.43396,-384.25189,-25.616486"/>
+     <Point Pos="170.30798,-397.23642,-25.601204"/>
+     <Point Pos="172.94897,-409.23361,-25.698788"/>
+     <Point Pos="190.6864,-412.07529,-25.452629"/>
+     <Point Pos="204.49329,-402.94562,-25.617424"/>
+     <Point Pos="213.11243,-375.82953,-25.651703"/>
+     <Point Pos="221.05493,-343.78827,-25.822807"/>
+     <Point Pos="232.34656,-302.91394,-25.807274"/>
+     <Point Pos="238.23901,-280.60699,-25.782166"/>
+     <Point Pos="235.95032,-244.51263,-24.946022"/>
+     <Point Pos="245.70422,-205.48419,-24.805023"/>
+     <Point Pos="251.72546,-184.80774,-24.812561"/>
+     <Point Pos="258.46423,-163.21405,-24.861076"/>
+     <Point Pos="267.80554,-135.43524,-24.764259"/>
+     <Point Pos="282.65369,-97.141541,-25.214348"/>
+     <Point Pos="290.51904,-74.45752,-25.264534"/>
+     <Point Pos="287.81555,-42.829773,-25.288887"/>
+     <Point Pos="279.53308,-23.178162,-24.639069"/>
+     <Point Pos="267.36267,5.5570068,-25.17392"/>
+     <Point Pos="255.85754,20.012024,-25.979477"/>
+     <Point Pos="239.5874,23.764526,-24.413322"/>
+     <Point Pos="216.05005,29.454224,-23.20369"/>
+     <Point Pos="198.91992,34.247437,-22.459244"/>
+     <Point Pos="182.13977,36.901367,-20.623962"/>
+     <Point Pos="171.83691,37.562744,-19.049713"/>
+     <Point Pos="151.49939,38.582092,-14.178345"/>
+     <Point Pos="134.88159,36.797363,-8.3874512"/>
+     <Point Pos="124.49023,34.716797,-7.345459"/>
+     <Point Pos="103.75391,29.326111,-6.3761902"/>
+     <Point Pos="88.705688,23.336487,-4.243515"/>
+     <Point Pos="66.270264,10.676331,-1.6214294"/>
+     <Point Pos="49.924561,6.3805542,-0.88493347"/>
+     <Point Pos="36.809937,4.3354492,-0.97161865"/>
+     <Point Pos="12.25293,-0.15447998,-0.63742065"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Side9="0" Side10="0" Side11="0" Side12="0" Side13="0" Side14="0" Side15="0" Side16="0" Side17="0" Side18="0" Side19="0" Side20="0" Side21="0" Side22="0" Side23="0" Side24="0" Side25="0" Side26="0" Side27="0" Side28="0" Side29="0" Side30="0" Side31="0" Side32="0" Side33="0" Side34="0" Side35="0" Side36="0" Side37="0" Side38="0" Side39="0" Side40="0" Side41="0" Side42="0" Side43="0" Side44="0" Side45="0" Side46="0" Side47="0" Side48="0" Side49="0" Side50="0" Side51="0" Side52="0" Side53="0" Side54="0" Side55="0" Side56="0" Side57="0" Side58="0" Side59="0" Side60="0" Side61="0" Side62="0" Side63="0" Side64="0" Side65="0" Side66="0" Side67="0" Side68="0" Side69="0" Side70="0" Side71="0" Side72="0" Side73="0" Side74="0" Side75="0" Side76="0" Side77="0" Side78="0" Side79="0" Side80="0" Side81="0" Side82="0" Side83="0" Side84="0" Side85="0" Side86="0" Side87="0" Side88="0" Side89="0" Side90="0" Side91="0" Side92="0" Side93="0" Side94="0" Side95="0" Side96="0" Side97="0" Side98="0" Side99="0" Side100="0" Side101="0" Side102="0" Side103="0" Side104="0" Side105="0" Side106="0" Side107="0" Side108="0" Side109="0" Side110="0" Side111="0" Side112="0" Side113="0" Side114="0" Side115="0" Side116="0" Side117="0" Side118="0" Side119="0" Side120="0" Side121="0" Side122="0" Side123="0" Side124="0" Side125="0" Side126="0" Side127="0" Side128="0" Side129="0" Side130="0" Side131="0" Side132="0" Side133="0" Side134="0" Side135="0" Side136="0" Side137="0" Side138="0" Side139="0" Side140="0" Side141="0" Side142="0" Side143="0" Side144="0" Side145="0" Side146="0" Side147="0" Side148="0" Side149="0" Side150="0" Side151="0" Side152="0" Side153="0" Side154="0" Side155="0" Side156="0" Side157="0" Side158="0" Side159="0" Side160="0" Side161="0" Side162="0" Side163="0" Side164="0" Side165="0" Side166="0" Side167="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{BD7D84C0-BA2B-E62D-4030-15F90E0C6576}" Name="GB_Tram_D_V3" Pos="1287.3939,449.14844,128.80351" FloorNumber="-1" Rotate="0.78091061,0,0,0.62464279" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="30" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="700" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{E92C8EFA-6ECB-4854-C579-643AA1F4ACC7}" Name="GB_Tram_C_V1" Pos="1630.7791,1679.1373,169.91449" FloorNumber="-1" Rotate="0.64278769,0,0,0.7660445" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="450" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{F4B25636-FD68-49EB-CF14-ADE9E642A696}" Name="GB_Tram_D_V1" Pos="1291.8837,469.09024,126.47868" FloorNumber="-1" Rotate="0.78091061,0,0,0.62464279" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="30" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="700" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{F83C4542-5689-F967-3E47-A50D35FF8604}" Name="GB_Tram_C_V2" Pos="1629.4438,1686.7094,172.50371" FloorNumber="-1" Rotate="0.64278769,0,0,0.7660445" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="450" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="global_trams" LayerGUID="{63D89CC9-DD5B-2EA5-8938-6B3551B33BC6}" Id="{FB894108-D519-D2F6-94A6-A4C4769B97FA}" Name="GB_Tram_D" Pos="1294.1011,478.93942,125.51968" FloorNumber="-1" Rotate="0.78091061,0,0,0.62464279" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="30" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="1" objModel="Objects/zhg_objects/vehicles/train_pe/trum_pe.cgf" fNextWagonAdditionalDistance="700" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="10" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="GB_Tram_D_V1" sVagonThree="GB_Tram_D_V3" sVagonTwo="GB_Tram_D_V2"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

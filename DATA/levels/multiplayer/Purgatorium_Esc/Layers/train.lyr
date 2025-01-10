@@ -1,0 +1,2057 @@
+<ObjectLayer>
+ <Layer Name="Train" FullName="Train" GUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{F2E9AD6E-A3CB-1B35-0445-3C22F066119F}">
+  <LayerObjects>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{12575663-6514-D751-B270-1890AAAF3E23}" Name="ParticleEntity_c2" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-6.2533569,-2.8200607,1.1986694" FloorNumber="-1" Rotate="0.19621114,1.8406416e-09,2.854558e-10,0.98056167" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.pipe_steam_a.fleet_white">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.pipe_steam_a.fleet_white" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{141813E1-78BC-C6DF-9F7D-DB948CEC85A6}" Name="Light12" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="10.930176,0.012969971,5.737793" FloorNumber="-1" Rotate="0.99813479,1.1787815e-09,0.061048534,-1.5469771e-08" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="50" _nVersion="-1">
+     <Color clrDiffuse="1,0.250158,0.00651209" fDiffuseMultiplier="100" fSpecularMultiplier="3"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="55" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_050.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.mobile_lamps.hanging_lights" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{16E199A5-3889-1513-1314-B4C0A5ABB2CF}" Name="ParticleEntity_b2" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="1.0250244,-2.9922791,6.4127045" FloorNumber="-1" Rotate="0.19621114,1.8406416e-09,2.854558e-10,0.98056167" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.pipe_steam_a.fleet_white">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.pipe_steam_a.fleet_white" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{21D69F79-7C2C-9803-8FAC-FED8B675811B}" Name="train_stop_end_point_4_i" Pos="389.90826,663.53052,209.42572" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Name="Wagon1" Pos="787.23853,621.64624,191.70113" FloorNumber="-1" Rotate="0.95151716,0,0,0.30759558" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="10" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="1" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="1" bLookToPrevWagonEndPoint="1" objModel="Objects/zhg_objects/vehicles/train_pe/train_pe.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="23.5" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="train_vag_a_1" sPlatfomSecond="train_vag_a_2"/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{22B0B55F-34CF-B416-A5A9-8A1EEFDC6C32}" Name="TrainPoint_AB" Pos="914.64526,1271.9886,147.01874" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{242AB395-8105-FAE7-36D6-E9BDF53A0E5D}" Name="Station_nv_c11" Pos="3364.5747,493.63602,140.90585" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{17E5EBA7-57E4-4662-A1C2-1F41DE946CDA}"/>
+    </Components>
+    <FlowGraph Description="" Group="" enabled="1" MultiPlayer="ClientServer">
+     <Nodes>
+      <Node Id="2" Class="Time:Timer" pos="577.73926,1029.5991,0" flags="0">
+       <Inputs period="0.1" min="0" max="0" paused="1"/>
+      </Node>
+      <Node Id="3" Class="Multiplayer:IsServer" pos="-30,1050,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="4" Class="Math:BooleanTo" pos="340,1080,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="17" Class="Multiplayer:CheckCVar" pos="7990,940,0" flags="0">
+       <Inputs CVar="g_players_on_server_zambi"/>
+      </Node>
+      <Node Id="18" Class="Multiplayer:CheckCVar" pos="7990,1090,0" flags="0">
+       <Inputs CVar="g_players_on_server_alive"/>
+      </Node>
+      <Node Id="24" Class="Multiplayer:MsgListener" pos="-1380,4100,0" flags="0">
+       <Inputs Enable="1" Message="train_stop_sst"/>
+      </Node>
+      <Node Id="170" Class="Time:Timer" pos="5470,800,0" flags="0">
+       <Inputs period="0.5" min="0" max="0" paused="1"/>
+      </Node>
+      <Node Id="172" Class="Actor:DeadPlayersPercent" pos="6300,680,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="178" Class="Logic:Gate" pos="7350,10,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="179" Class="Math:LessCheck" pos="7350,190,0" flags="0">
+       <Inputs A="0" B="100"/>
+      </Node>
+      <Node Id="193" Class="Logic:Gate" pos="5730,670,0" flags="0">
+       <Inputs Closed="1"/>
+      </Node>
+      <Node Id="409" Class="Entity:EntityInfo" pos="10,3900,0" flags="0" EntityGUID="{141813E1-78BC-C6DF-9F7D-DB948CEC85A6}" EntityGUID_64="141813E178BCC6DF">
+       <Inputs entityId="0"/>
+      </Node>
+      <Node Id="555" Class="Debug:DisplayMessage" pos="7550,-210,0" flags="0" InHideMask="1023" OutHideMask="3">
+       <Inputs entityId="0" message="Zombies Win!" DisplayTime="6" posX="560" posY="80" fontSize="5" clr_Color="0.760525,0.031896,0.0781874" centered="1"/>
+      </Node>
+      <Node Id="556" Class="Actor:LocalPlayer" pos="5800,170,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="557" Class="Time:Delay" pos="7590,480,0" flags="0">
+       <Inputs delay="1" resetOnInput="0"/>
+      </Node>
+      <Node Id="558" Class="Debug:ExecuteString" pos="8240,620,0" flags="0">
+       <Inputs String="cmdRestartMap" NextFrame="1"/>
+      </Node>
+      <Node Id="559" Class="Time:Delay" pos="7920,620,0" flags="0">
+       <Inputs delay="40" resetOnInput="0"/>
+      </Node>
+      <Node Id="560" Class="Multiplayer:GameState" pos="5450,150,0" flags="0"/>
+      <Node Id="561" Class="Multiplayer:IsServer" pos="5450,440,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="562" Class="Time:Delay" pos="5450,540,0" flags="0">
+       <Inputs delay="7" resetOnInput="0"/>
+      </Node>
+      <Node Id="563" Class="Math:BooleanTo" pos="5480,690,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="590" Class="Multiplayer:MsgListener" pos="6720,440,0" flags="0">
+       <Inputs Enable="1" Message="msg_su_nts"/>
+      </Node>
+      <Node Id="591" Class="Multiplayer:MsgSender" pos="8270,190,0" flags="0">
+       <Inputs Message="msg_su_nts" Value="" Target="0"/>
+      </Node>
+      <Node Id="626" Class="Multiplayer:GameState" pos="-640,3220,0" flags="0"/>
+      <Node Id="660" Class="TrainsAndRails:RailsParamsSetup" pos="1330,330,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0" Speed="0" Inversion="0"/>
+      </Node>
+      <Node Id="766" Class="TrainsAndRails:RailsParamsSetup" pos="1710,-40,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0" Speed="0" Inversion="0"/>
+      </Node>
+      <Node Id="767" Class="Interpol:Float" pos="1710,100,0" flags="0">
+       <Inputs StartValue="6" EndValue="-2" Time="10" UpdateFrequency="0" DoneOnStop="0"/>
+      </Node>
+      <Node Id="768" Class="TrainsAndRails:RailsParamsSetup" pos="4130,490,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0" Speed="0" Inversion="0"/>
+      </Node>
+      <Node Id="769" Class="Interpol:Float" pos="3660,490,0" flags="0">
+       <Inputs StartValue="0" EndValue="6" Time="3" UpdateFrequency="0" DoneOnStop="0"/>
+      </Node>
+      <Node Id="771" Class="TrainsAndRails:RailsParamsSetup" pos="3050,640,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0" Speed="0" Inversion="0"/>
+      </Node>
+      <Node Id="773" Class="Math:BooleanTo" pos="340,1190,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="774" Class="Multiplayer:MsgSender" pos="4780,2250,0" flags="0">
+       <Inputs Message="train_stop_sst" Value="" Target="0"/>
+      </Node>
+      <Node Id="780" Class="Time:Delay" pos="1710,280,0" flags="0">
+       <Inputs delay="40" resetOnInput="0"/>
+      </Node>
+      <Node Id="797" Class="Logic:Any" pos="1030,620,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="798" Class="Game:Start" pos="-400,940,0" flags="0">
+       <Inputs InGame="1" InEditor="1"/>
+      </Node>
+      <Node Id="800" Class="Math:SetNumber" pos="360,-70,0" flags="0">
+       <Inputs in="60"/>
+      </Node>
+      <Node Id="801" Name="time_to_stay_on_current_station" Class="_comment" pos="310,-100,0" flags="0"/>
+      <Node Id="802" Class="Math:SetNumber" pos="1460,-460,0" flags="0">
+       <Inputs in="10"/>
+      </Node>
+      <Node Id="803" Name="time_to_stop_and_start_train_before_and_after_station_arriving" Class="_comment" pos="1320,-490,0" flags="0"/>
+      <Node Id="804" Name="Received---&gt;_any_actions_on_client_side(client_logic_execution)" Class="_comment" pos="-1380,4060,0" flags="0"/>
+      <Node Id="805" Class="String:SetString" pos="130,1470,0" flags="0">
+       <Inputs In="main_trein_stdc"/>
+      </Node>
+      <Node Id="806" Name="Message_name_to_receive_and_send,_must_be_unique_on_all_stations" Class="_comment" pos="130,1440,0" flags="0"/>
+      <Node Id="807" Name="send_message_to_client_side_and_trigger_client_side_logic_execution" Class="_comment" pos="4690,2190,0" flags="0"/>
+      <Node Id="821" Class="Engine:Viewport" pos="-910,4300,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="822" Class="Math:Div" pos="-740,4300,0" flags="0">
+       <Inputs A="0" B="2"/>
+      </Node>
+      <Node Id="823" Class="Actor:LocalPlayer" pos="-910,4220,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="826" Class="Debug:DisplayMessage" pos="-70,4790,0" flags="0">
+       <Inputs entityId="0" message="Train is leaves the station" DisplayTime="15" posX="50" posY="50" fontSize="5" clr_Color="1,1,1" centered="1"/>
+      </Node>
+      <Node Id="1136" Class="Multiplayer:MsgSender" pos="1330,620,0" flags="0">
+       <Inputs Message="setup_train_on_map" Value="" Target="0"/>
+      </Node>
+      <Node Id="1137" Class="Multiplayer:IsServer" pos="1330,550,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1138" Class="Debug:DisplayMessage" pos="-60,4550,0" flags="0">
+       <Inputs entityId="0" message="Train was arrived the station" DisplayTime="15" posX="50" posY="50" fontSize="5" clr_Color="1,1,1" centered="1"/>
+      </Node>
+      <Node Id="1237" Class="Engine:Viewport" pos="6220,270,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1238" Class="Math:Div" pos="6520,270,0" flags="0">
+       <Inputs A="0" B="2"/>
+      </Node>
+      <Node Id="1240" Class="Time:Timer" pos="5930,-1300,0" flags="0">
+       <Inputs period="0.5" min="0" max="0" paused="1"/>
+      </Node>
+      <Node Id="1241" Class="Math:BooleanTo" pos="5950,-1400,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1242" Name="loop_end_new" Class="_commentbox" pos="5420,-2146.5652,0" flags="0">
+       <Inputs TextSize="1" Color="0.854993,0.686685,0.527115" DisplayFilled="1" DisplayBox="1" SortPriority="16"/>
+       <ResizeBorder X="0" Y="0" Width="4940" Height="3680"/>
+       <NodeSize Width="4940" Height="4007.7539"/>
+      </Node>
+      <Node Id="1244" Class="Multiplayer:IsServer" pos="5900,-1490,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1247" Class="Actor:PermKillAllZPlayers" pos="8280,-810,0" flags="0">
+       <Inputs Lental="1"/>
+      </Node>
+      <Node Id="1248" Class="Multiplayer:MsgListener" pos="6720,350,0" flags="0">
+       <Inputs Enable="1" Message="msg_humans_vict"/>
+      </Node>
+      <Node Id="1249" Class="Math:BooleanTo" pos="5770,490,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1250" Class="Debug:DisplayMessage" pos="7550,-340,0" flags="0" InHideMask="1023" OutHideMask="3">
+       <Inputs entityId="0" message="Humans Win!" DisplayTime="6" posX="560" posY="80" fontSize="5" clr_Color="0.0185002,0.590619,0.0137021" centered="1"/>
+      </Node>
+      <Node Id="1251" Class="Multiplayer:MsgSender" pos="8280,-690,0" flags="0">
+       <Inputs Message="msg_humans_vict" Value="" Target="0"/>
+      </Node>
+      <Node Id="1252" Class="Logic:Once" pos="8050,-510,0" flags="0" InHideMask="127" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1253" Class="Time:Delay" pos="5890,-1620,0" flags="0">
+       <Inputs delay="20" resetOnInput="0"/>
+      </Node>
+      <Node Id="1257" Class="Debug:ExecuteString" pos="8590,-360,0" flags="0">
+       <Inputs String="cmdRestartMap" NextFrame="1"/>
+      </Node>
+      <Node Id="1258" Class="Time:Delay" pos="8280,-360,0" flags="0">
+       <Inputs delay="40" resetOnInput="0"/>
+      </Node>
+      <Node Id="1261" Class="Multiplayer:MsgListener" pos="7850,50,0" flags="0">
+       <Inputs Enable="1" Message="msg_epilogue1"/>
+      </Node>
+      <Node Id="1263" Class="Debug:DisplayMessage" pos="8330,20,0" flags="0" InHideMask="1023" OutHideMask="3">
+       <Inputs entityId="0" message="Epilogue" DisplayTime="5" posX="560" posY="80" fontSize="5" clr_Color="1,0,0" centered="1"/>
+      </Node>
+      <Node Id="1266" Class="Logic:Gate" pos="5950,-1080,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1267" Class="Game:SetZombiesRespawnability" pos="1710,470,0" flags="0">
+       <Inputs Respawnable="0"/>
+      </Node>
+      <Node Id="1269" Class="Math:BooleanTo" pos="1710,400,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1270" Class="Multiplayer:MsgSender" pos="1710,540,0" flags="0">
+       <Inputs Message="main_trein_leave" Value="" Target="0"/>
+      </Node>
+      <Node Id="1271" Class="Multiplayer:MsgListener" pos="-1390,3960,0" flags="0">
+       <Inputs Enable="1" Message="main_trein_leave"/>
+      </Node>
+      <Node Id="1276" Class="Interpol:Float" pos="7630,-940,0" flags="0">
+       <Inputs StartValue="0" EndValue="20" Time="20" UpdateFrequency="0" DoneOnStop="0"/>
+      </Node>
+      <Node Id="1277" Class="Math:BooleanFrom" pos="6750,-1090,0" flags="0">
+       <Inputs Value="0"/>
+      </Node>
+      <Node Id="1278" Class="Math:SetNumber" pos="7000,-1190,0" flags="0">
+       <Inputs in="0"/>
+      </Node>
+      <Node Id="1279" Class="Math:SetNumber" pos="7220,-1190,0" flags="0">
+       <Inputs in="20"/>
+      </Node>
+      <Node Id="1280" Class="Logic:Once" pos="7320,-1060,0" flags="0" InHideMask="127" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1282" Class="Debug:Log" pos="8030,-1000,0" flags="0">
+       <Inputs message="end timer complete"/>
+      </Node>
+      <Node Id="1288" Class="Logic:Any" pos="5930,-1720,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1289" Class="Game:Start" pos="5670,-1710,0" flags="0">
+       <Inputs InGame="1" InEditor="1"/>
+      </Node>
+      <Node Id="1290" Class="Debug:Log" pos="8030,-1090,0" flags="0">
+       <Inputs message="end timer complete"/>
+      </Node>
+      <Node Id="1293" Class="String:Concat" pos="8050,-1220,0" flags="0">
+       <Inputs String1="gameend timer" String2=""/>
+      </Node>
+      <Node Id="1295" Class="Audio:Trigger" pos="-440,3790,0" flags="0">
+       <Inputs entityId="0" audioTrigger_PlayTrigger="train_gts" audioTrigger_StopTrigger=""/>
+      </Node>
+      <Node Id="1296" Class="Logic:Any" pos="-680,3670,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1298" Class="Debug:Log" pos="7090,-1340,0" flags="0">
+       <Inputs message="no zombies on train!"/>
+      </Node>
+      <Node Id="1299" Class="Debug:Log" pos="7090,-890,0" flags="0">
+       <Inputs message="have zombies on train"/>
+      </Node>
+      <Node Id="1314" Class="Logic:Gate" pos="8100,-1390,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1315" Class="Time:Delay" pos="8040,-1560,0" flags="0">
+       <Inputs delay="0.5" resetOnInput="0"/>
+      </Node>
+      <Node Id="1319" Class="Time:Delay" pos="-440,3670,0" flags="0">
+       <Inputs delay="3" resetOnInput="0"/>
+      </Node>
+      <Node Id="1341" Class="Multiplayer:MsgListener" pos="2000,-390,0" flags="0">
+       <Inputs Enable="1" Message="train_stop_sst"/>
+      </Node>
+      <Node Id="1432" Class="Entity:GetPos" pos="2520,2170,0" flags="0" EntityGUID="{6F4FABC7-E4E2-27D5-C6DB-1FD234D15CA6}" EntityGUID_64="6F4FABC7E4E227D5">
+       <Inputs entityId="0" CoordSys="1"/>
+      </Node>
+      <Node Id="1433" Class="Vec3:FromVec3" pos="2780,2230,0" flags="0">
+       <Inputs vec3="0,0,0"/>
+      </Node>
+      <Node Id="1435" Class="Logic:Any" pos="4530,1690,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1436" Class="Logic:Gate" pos="4320,1930,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1438" Class="Time:Delay" pos="-30,940,0" flags="0">
+       <Inputs delay="3" resetOnInput="0"/>
+      </Node>
+      <Node Id="1439" Class="Debug:Log" pos="250,880,0" flags="0">
+       <Inputs message="endgame_logick_started"/>
+      </Node>
+      <Node Id="1440" Class="Logic:Any" pos="4170,2030,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1441" Class="Entity:GetPos" pos="2250,2410,0" flags="0" EntityGUID="{A3BBC220-C019-7492-03A7-4A6C3BD975A6}" EntityGUID_64="A3BBC220C0197492">
+       <Inputs entityId="0" CoordSys="1"/>
+      </Node>
+      <Node Id="1442" Class="Vec3:FromVec3" pos="2510,2520,0" flags="0">
+       <Inputs vec3="0,0,0"/>
+      </Node>
+      <Node Id="1443" Class="Math:Calculate" pos="2790,2460,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1444" Class="Math:Calculate" pos="2790,2560,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1445" Class="Math:Calculate" pos="2790,2660,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1446" Class="Math:Calculate" pos="2790,2760,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1447" Class="Math:InRange" pos="3080,2480,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1448" Class="Math:InRange" pos="3080,2680,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1450" Class="Entity:GetPos" pos="2350,2870,0" flags="0" EntityGUID="{E0A07D40-59FB-BC05-CE0D-3AD1F01E0BE7}" EntityGUID_64="E0A07D4059FBBC05">
+       <Inputs entityId="0" CoordSys="1"/>
+      </Node>
+      <Node Id="1451" Class="Vec3:FromVec3" pos="2610,2980,0" flags="0">
+       <Inputs vec3="0,0,0"/>
+      </Node>
+      <Node Id="1452" Class="Math:Calculate" pos="2890,2920,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1453" Class="Math:Calculate" pos="2890,3020,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1454" Class="Math:Calculate" pos="2890,3120,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1455" Class="Math:Calculate" pos="2890,3220,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1456" Class="Math:InRange" pos="3180,2940,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1457" Class="Math:InRange" pos="3180,3140,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1459" Class="Entity:GetPos" pos="2410,3350,0" flags="0" EntityGUID="{C7452E8C-B80C-3317-977A-7012EB63133D}" EntityGUID_64="C7452E8CB80C3317">
+       <Inputs entityId="0" CoordSys="1"/>
+      </Node>
+      <Node Id="1460" Class="Vec3:FromVec3" pos="2670,3460,0" flags="0">
+       <Inputs vec3="0,0,0"/>
+      </Node>
+      <Node Id="1461" Class="Math:Calculate" pos="2950,3400,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1462" Class="Math:Calculate" pos="2950,3500,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1463" Class="Math:Calculate" pos="2950,3600,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1464" Class="Math:Calculate" pos="2950,3700,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1465" Class="Math:InRange" pos="3240,3420,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1466" Class="Math:InRange" pos="3240,3620,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1477" Class="Entity:GetPos" pos="2400,3810,0" flags="0" EntityGUID="{E5ED61D5-01D8-A20D-34FC-4A4A9A3F5109}" EntityGUID_64="E5ED61D501D8A20D">
+       <Inputs entityId="0" CoordSys="1"/>
+      </Node>
+      <Node Id="1478" Class="Vec3:FromVec3" pos="2650,4020,0" flags="0">
+       <Inputs vec3="0,0,0"/>
+      </Node>
+      <Node Id="1479" Class="Math:Calculate" pos="2970,3860,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1480" Class="Math:Calculate" pos="2970,3960,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1481" Class="Math:Calculate" pos="2970,4060,0" flags="0">
+       <Inputs Op="0" A="0" B="5"/>
+      </Node>
+      <Node Id="1482" Class="Math:Calculate" pos="2970,4160,0" flags="0">
+       <Inputs Op="1" A="0" B="5"/>
+      </Node>
+      <Node Id="1483" Class="Math:InRange" pos="3260,3880,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1484" Class="Math:InRange" pos="3260,4080,0" flags="0">
+       <Inputs In="0" Min="0" Max="0"/>
+      </Node>
+      <Node Id="1486" Class="Logic:Any" pos="2010,2510,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1491" Class="Logic:All" pos="3470,3930,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1492" Class="Logic:All" pos="3490,3480,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1493" Class="Logic:All" pos="3410,3020,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1494" Class="Logic:All" pos="3300,2540,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1499" Class="Math:SetNumber" pos="7500,-1410,0" flags="0">
+       <Inputs in="0"/>
+      </Node>
+      <Node Id="1500" Class="Logic:Any" pos="7530,-1190,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1501" Class="Math:LessCheck" pos="7820,-1340,0" flags="0">
+       <Inputs A="20" B="0"/>
+      </Node>
+      <Node Id="1502" Class="TagsSys:AddTagInPlace" pos="280,3900,0" flags="0">
+       <Inputs Pos="0,0,0" Time="5500" Type="9" LinkedEntity="0"/>
+      </Node>
+      <Node Id="1503" Class="SafeOrUnsafeCircles:SetTrainTimer" pos="1020,3810,0" flags="0">
+       <Inputs Time="0" Disable="0"/>
+      </Node>
+      <Node Id="1504" Class="Interpol:Float" pos="630,3870,0" flags="0">
+       <Inputs StartValue="10" EndValue="0" Time="10" UpdateFrequency="0" DoneOnStop="0"/>
+      </Node>
+      <Node Id="1505" Class="SafeOrUnsafeCircles:SetEventOnScreenInfo" pos="1520,4670,0" flags="0">
+       <Inputs Info="10"/>
+      </Node>
+      <Node Id="1506" Class="Logic:Any" pos="350,4210,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1507" Class="Logic:Any" pos="310,5640,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1508" Class="SafeOrUnsafeCircles:SetEventOnScreenInfo" pos="580,5900,0" flags="0">
+       <Inputs Info="11"/>
+      </Node>
+      <Node Id="1510" Class="Time:Delay" pos="1340,4850,0" flags="0">
+       <Inputs delay="0.5" resetOnInput="0"/>
+      </Node>
+      <Node Id="1511" Class="Logic:Any" pos="1000,4710,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1512" Class="Time:Delay" pos="1070,4850,0" flags="0">
+       <Inputs delay="3" resetOnInput="0"/>
+      </Node>
+      <Node Id="1513" Class="Logic:Gate" pos="1250,4660,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1514" Class="Logic:Gate" pos="1010,3920,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1515" Class="Logic:Gate" pos="1010,4140,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1516" Class="Logic:Gate" pos="1010,4320,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1517" Class="SafeOrUnsafeCircles:SetStartInfo" pos="1420,4060,0" flags="0">
+       <Inputs Info="35"/>
+      </Node>
+      <Node Id="1518" Class="Math:LessCheck" pos="1010,4050,0" flags="0">
+       <Inputs A="0" B="36"/>
+      </Node>
+      <Node Id="1519" Class="Time:Delay" pos="1740,4060,0" flags="0">
+       <Inputs delay="2" resetOnInput="0"/>
+      </Node>
+      <Node Id="1520" Class="SafeOrUnsafeCircles:SetStartInfo" pos="1990,4060,0" flags="0">
+       <Inputs Info=""/>
+      </Node>
+      <Node Id="1521" Class="Math:LessCheck" pos="1010,4240,0" flags="0">
+       <Inputs A="0" B="16"/>
+      </Node>
+      <Node Id="1522" Class="Math:LessCheck" pos="1010,4420,0" flags="0">
+       <Inputs A="0" B="6"/>
+      </Node>
+      <Node Id="1523" Class="SafeOrUnsafeCircles:SetStartInfo" pos="1420,4260,0" flags="0">
+       <Inputs Info="15"/>
+      </Node>
+      <Node Id="1524" Class="Time:Delay" pos="1750,4260,0" flags="0">
+       <Inputs delay="2" resetOnInput="0"/>
+      </Node>
+      <Node Id="1525" Class="SafeOrUnsafeCircles:SetStartInfo" pos="2010,4260,0" flags="0">
+       <Inputs Info=""/>
+      </Node>
+      <Node Id="1526" Class="SafeOrUnsafeCircles:SetStartInfo" pos="1420,4440,0" flags="0">
+       <Inputs Info="5"/>
+      </Node>
+      <Node Id="1527" Class="Time:Delay" pos="1740,4440,0" flags="0">
+       <Inputs delay="2" resetOnInput="0"/>
+      </Node>
+      <Node Id="1528" Class="SafeOrUnsafeCircles:SetStartInfo" pos="1990,4440,0" flags="0">
+       <Inputs Info=""/>
+      </Node>
+      <Node Id="1530" Class="Multiplayer:MsgSender" pos="9030,-1230,0" flags="0">
+       <Inputs Message="msg_end_gameTimerVal" Value="" Target="0"/>
+      </Node>
+      <Node Id="1532" Class="Multiplayer:MsgListener" pos="5980,1120,0" flags="0">
+       <Inputs Enable="1" Message="msg_end_gameTimerVal"/>
+      </Node>
+      <Node Id="1533" Class="Entity:GetPos" pos="0,3630,0" flags="0" EntityGUID="{141813E1-78BC-C6DF-9F7D-DB948CEC85A6}" EntityGUID_64="141813E178BCC6DF">
+       <Inputs entityId="0" CoordSys="1"/>
+      </Node>
+      <Node Id="1534" Class="SafeOrUnsafeCircles:SetStartInfo" pos="7150,1220,0" flags="0">
+       <Inputs Info=""/>
+      </Node>
+      <Node Id="1535" Class="Math:SetInteger" pos="8760,-1230,0" flags="0">
+       <Inputs in="0"/>
+      </Node>
+      <Node Id="1536" Class="Logic:Any" pos="7370,1010,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1537" Class="Time:Delay" pos="7020,840,0" flags="0">
+       <Inputs delay="0.01" resetOnInput="0"/>
+      </Node>
+      <Node Id="1538" Class="Logic:Any" pos="6950,1250,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1539" Class="String:SetString" pos="7910,1560,0" flags="0">
+       <Inputs In="Clear zombies on train to win!"/>
+      </Node>
+      <Node Id="1540" Class="Time:Delay" pos="7580,1230,0" flags="0">
+       <Inputs delay="2.2" resetOnInput="1"/>
+      </Node>
+      <Node Id="1541" Class="Time:Delay" pos="7020,1050,0" flags="0">
+       <Inputs delay="0.01" resetOnInput="0"/>
+      </Node>
+      <Node Id="1543" Class="Logic:Gate" pos="7740,960,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1544" Class="SafeOrUnsafeCircles:SetStartInfo" pos="7590,350,0" flags="0">
+       <Inputs Info=""/>
+      </Node>
+      <Node Id="1545" Class="Time:Delay" pos="7930,1700,0" flags="0">
+       <Inputs delay="2.2" resetOnInput="1"/>
+      </Node>
+      <Node Id="1546" Class="Logic:Gate" pos="8510,1630,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1547" Class="Logic:Any" pos="7620,1530,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1549" Class="Logic:Gate" pos="7990,1330,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1551" Class="String:SetString" pos="7250,1660,0" flags="0">
+       <Inputs In=""/>
+      </Node>
+      <Node Id="1552" Class="Math:Calculate" pos="8400,-1000,0" flags="0">
+       <Inputs Op="1" A="20" B="0"/>
+      </Node>
+      <Node Id="1553" Class="Math:Add" pos="450,3720,0" flags="0">
+       <Inputs A="0" B="0"/>
+      </Node>
+      <Node Id="1554" Class="Logic:Any" pos="880,3640,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1555" Class="Math:BooleanTo" pos="660,3780,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1556" Class="Multiplayer:MsgListener" pos="-1360,4310,0" flags="0">
+       <Inputs Enable="1" Message="train_snd_pass"/>
+      </Node>
+      <Node Id="1852" Class="Math:BooleanTo" pos="-1230,4440,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1853" Class="Math:BooleanTo" pos="-1262.3411,4200.2446,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1854" Class="SafeOrUnsafeCircles:SetEndGameVictoryScrInf" pos="8690,1370,0" flags="0">
+       <Inputs ZombWin="0" Percent="1"/>
+      </Node>
+      <Node Id="1855" Class="SafeOrUnsafeCircles:SetEndGameVictoryScrInf" pos="8680,770,0" flags="0">
+       <Inputs ZombWin="1" Percent="1"/>
+      </Node>
+      <Node Id="1856" Class="Image:FilterBlur" pos="9460,890,0" flags="0">
+       <Inputs entityId="0" Enabled="0" Disabled="1" FilterBlurring_Type="0" FilterBlurring_Amount="100"/>
+      </Node>
+      <Node Id="1857" Class="Math:BooleanTo" pos="9130,980,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1858" Class="Logic:Any" pos="8870,1030,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1859" Class="Time:Delay" pos="8820,1230,0" flags="0">
+       <Inputs delay="1" resetOnInput="0"/>
+      </Node>
+      <Node Id="1860" Class="Math:SetNumber" pos="8730,-870,0" flags="0">
+       <Inputs in="20"/>
+      </Node>
+      <Node Id="1863" Class="Math:LessCheck" pos="6610,1240,0" flags="0">
+       <Inputs A="0" B="1"/>
+      </Node>
+      <Node Id="1864" Class="Math:SetNumber" pos="6610,1390,0" flags="0">
+       <Inputs in="1"/>
+      </Node>
+      <Node Id="1865" Class="Actor:ZmbStats" pos="6540,920,0" flags="0">
+       <Inputs entityId="0"/>
+      </Node>
+      <Node Id="1866" Class="Math:BooleanFrom" pos="6760,920,0" flags="0">
+       <Inputs Value="0"/>
+      </Node>
+      <Node Id="1867" Class="Actor:HumansOnlyHaveOnLastTrain" pos="6160,-1200,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1870" Class="Entity:EntityInfo" pos="-390,1150,0" flags="0" EntityGUID="{41CEAD13-AE42-4920-9848-4F0892F593F2}" EntityGUID_64="41CEAD13AE424920">
+       <Inputs entityId="0"/>
+      </Node>
+      <Node Id="1871" Class="Debug:ConsoleVariable" pos="-360,1430,0" flags="0">
+       <Inputs CVar="train_camera_name" Value=""/>
+      </Node>
+      <Node Id="1872" Class="Time:Delay" pos="-360,1330,0" flags="0">
+       <Inputs delay="1" resetOnInput="0"/>
+      </Node>
+      <Node Id="1873" Class="Math:BooleanFrom" pos="6270,-1090,0" flags="0">
+       <Inputs Value="0"/>
+      </Node>
+      <Node Id="1874" Class="Math:BooleanTo" pos="6510,-1090,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1875" Class="TrainsAndRails:SelectTrainSpeed" pos="3010,530,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0"/>
+      </Node>
+      <Node Id="1876" Class="Math:EqualCheck" pos="3350,510,0" flags="0">
+       <Inputs A="0" B="0"/>
+      </Node>
+      <Node Id="1877" Class="Time:Timer" pos="2770,460,0" flags="0">
+       <Inputs period="0.35" min="0" max="0" paused="1"/>
+      </Node>
+      <Node Id="1878" Class="Math:BooleanTo" pos="2590,370,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1879" Class="Math:SetNumber" pos="3350,440,0" flags="0">
+       <Inputs in="0"/>
+      </Node>
+      <Node Id="1880" Class="Time:Delay" pos="3080,360,0" flags="0">
+       <Inputs delay="0.01" resetOnInput="0"/>
+      </Node>
+      <Node Id="1881" Class="Math:SetNumber" pos="3350,600,0" flags="0">
+       <Inputs in="0"/>
+      </Node>
+      <Node Id="1882" Class="Math:SetNumber" pos="3350,370,0" flags="0">
+       <Inputs in="3"/>
+      </Node>
+      <Node Id="1883" Class="Time:Delay" pos="3660,380,0" flags="0">
+       <Inputs delay="0.04" resetOnInput="1"/>
+      </Node>
+      <Node Id="1884" Class="Time:Delay" pos="1930,-210,0" flags="0">
+       <Inputs delay="40" resetOnInput="0"/>
+      </Node>
+      <Node Id="1889" Class="Game:GetLastTrainArrivalPercent" pos="3760,260,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1891" Class="Logic:Any" pos="7160,-390,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1892" Class="Math:LessCheck" pos="4130,280,0" flags="0">
+       <Inputs A="0" B="100"/>
+      </Node>
+      <Node Id="1893" Class="Logic:Gate" pos="2820,950,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1894" Class="Interpol:Float" pos="4440,660,0" flags="0">
+       <Inputs StartValue="0" EndValue="35" Time="10" UpdateFrequency="0" DoneOnStop="0"/>
+      </Node>
+      <Node Id="1895" Class="Time:Delay" pos="4560,430,0" flags="0">
+       <Inputs delay="0.5" resetOnInput="0"/>
+      </Node>
+      <Node Id="1896" Class="TrainsAndRails:RailsParamsSetup" pos="4760,660,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0" Speed="0" Inversion="0"/>
+      </Node>
+      <Node Id="1897" Class="TrainsAndRails:RailsParamsSetup" pos="4130,660,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0" Speed="0" Inversion="0"/>
+      </Node>
+      <Node Id="1898" Class="Logic:Gate" pos="3890,380,0" flags="0">
+       <Inputs Closed="0"/>
+      </Node>
+      <Node Id="1899" Class="Logic:Any" pos="3500,980,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1900" Class="Math:Sub" pos="3970,520,0" flags="0">
+       <Inputs A="0" B="1"/>
+      </Node>
+      <Node Id="1901" Class="Debug:Log" pos="3690,700,0" flags="0">
+       <Inputs message="Train speed not modifed"/>
+      </Node>
+      <Node Id="1902" Class="Debug:Log" pos="3690,770,0" flags="0">
+       <Inputs message="Train speed modifed!!"/>
+      </Node>
+      <Node Id="1903" Class="Time:Delay" pos="-370,3520,0" flags="0">
+       <Inputs delay="15" resetOnInput="0"/>
+      </Node>
+      <Node Id="1904" Class="Multiplayer:IsServer" pos="-200,3370,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1905" Class="Multiplayer:MsgSender" pos="32.138062,3047.0906,0" flags="0">
+       <Inputs Message="setup_train_on_map" Value="" Target="0"/>
+      </Node>
+      <Node Id="1906" Class="Time:Delay" pos="80,3330,0" flags="0">
+       <Inputs delay="30" resetOnInput="0"/>
+      </Node>
+      <Node Id="1907" Class="Math:BooleanTo" pos="770,5300,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1908" Class="Time:Timer" pos="1050,5270,0" flags="0">
+       <Inputs period="5" min="0" max="0" paused="1"/>
+      </Node>
+      <Node Id="1909" Class="Game:GetLastTrainArrivalPercent" pos="1390,5410,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1915" Class="Time:Timer" pos="1000,5560,0" flags="0">
+       <Inputs period="3" min="0" max="0" paused="1"/>
+      </Node>
+      <Node Id="1917" Class="entity:ParticleEffect" pos="2580,5830,0" flags="0" EntityGUID="{46412226-D4DB-D9B2-BFC9-8D03046D462B}" EntityGUID_64="46412226D4DBD9B2">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1919" Class="entity:ParticleEffect" pos="2580,6060,0" flags="0" EntityGUID="{F99090B0-C040-1833-2740-CFBC10DB7A2B}" EntityGUID_64="F99090B0C0401833">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1921" Class="entity:ParticleEffect" pos="2910,5830,0" flags="0" EntityGUID="{CF6A56EA-4345-C1D0-A58A-D61382F3CDF5}" EntityGUID_64="CF6A56EA4345C1D0">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1923" Class="entity:ParticleEffect" pos="2910,6050,0" flags="0" EntityGUID="{16E199A5-3889-1513-1314-B4C0A5ABB2CF}" EntityGUID_64="16E199A538891513">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1925" Class="entity:ParticleEffect" pos="3220,5830,0" flags="0" EntityGUID="{762AF5C1-BD95-C430-0867-D48E6A17253A}" EntityGUID_64="762AF5C1BD95C430">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1927" Class="entity:ParticleEffect" pos="3220,6050,0" flags="0" EntityGUID="{12575663-6514-D751-B270-1890AAAF3E23}" EntityGUID_64="125756636514D751">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1930" Class="Math:LessCheck" pos="1690,5730,0" flags="0">
+       <Inputs A="0" B="1"/>
+      </Node>
+      <Node Id="1933" Class="Math:InRange" pos="1970,5470,0" flags="0">
+       <Inputs In="0" Min="35" Max="100"/>
+      </Node>
+      <Node Id="1936" Class="Logic:Gate" pos="2530,5470,0" flags="0">
+       <Inputs Closed="1"/>
+      </Node>
+      <Node Id="1937" Class="Math:InRange" pos="1970,5330,0" flags="0">
+       <Inputs In="0" Min="70" Max="100"/>
+      </Node>
+      <Node Id="1938" Class="Logic:Gate" pos="2540,5300,0" flags="0">
+       <Inputs Closed="1"/>
+      </Node>
+      <Node Id="1939" Class="Logic:Any" pos="2010,5680,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1940" Class="Logic:Any" pos="2010,5760,0" flags="0" InHideMask="1023">
+       <Inputs />
+      </Node>
+      <Node Id="1941" Class="Math:LessCheck" pos="1980,5140,0" flags="0">
+       <Inputs A="0" B="99"/>
+      </Node>
+      <Node Id="1943" Class="entity:ParticleEffect" pos="2980,4690,0" flags="0" EntityGUID="{91C0FB28-E3D5-71E5-5CBD-93E70D04FF20}" EntityGUID_64="91C0FB28E3D571E5">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1945" Class="entity:ParticleEffect" pos="3270,4690,0" flags="0" EntityGUID="{CF2CA555-AC03-FE4F-F660-599E305C312D}" EntityGUID_64="CF2CA555AC03FE4F">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1949" Class="entity:ParticleEffect" pos="3120,5260,0" flags="0" EntityGUID="{CF653EA4-F521-C93F-E8D4-6DCD78722B35}" EntityGUID_64="CF653EA4F521C93F">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1950" Class="TrainsAndRails:RailsParamsSetup" pos="1260,5670,0" flags="0" EntityGUID="{E5E47389-785D-9958-2529-4C49252208DD}" EntityGUID_64="E5E47389785D9958">
+       <Inputs entityId="0" Speed="1" Inversion="0"/>
+      </Node>
+      <Node Id="1951" Class="Multiplayer:IsServer" pos="410,5250,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1952" Class="Game:Start" pos="420,5140,0" flags="0">
+       <Inputs InGame="1" InEditor="1"/>
+      </Node>
+      <Node Id="1953" Class="Math:BooleanTo" pos="2230,5620,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1954" Class="Math:BooleanTo" pos="2230,5770,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1955" Class="Multiplayer:GameState" pos="50,5340,0" flags="0"/>
+      <Node Id="1957" Class="entity:ParticleEffect" pos="3520,5050,0" flags="0" EntityGUID="{D0E85B1F-7616-3903-7D8E-BBD94BEF8EB1}" EntityGUID_64="D0E85B1F76163903">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1959" Class="entity:ParticleEffect" pos="3520,5250,0" flags="0" EntityGUID="{2F8BA29C-F930-69F9-4CDE-43F03766BD67}" EntityGUID_64="2F8BA29CF93069F9">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="1960" Class="entity:AudioTriggerSpot" pos="3110,6620,0" flags="0" EntityGUID="{4D549553-58A4-3E3F-DE1A-745A44E6AD1F}" EntityGUID_64="4D54955358A43E3F">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1961" Name="Endgame_Explode" Class="_commentbox" pos="2950,4300.5186,0" flags="0">
+       <Inputs TextSize="1" Color="0.791298,0.386429,0.219526" DisplayFilled="1" DisplayBox="1" SortPriority="16"/>
+       <ResizeBorder X="0" Y="0" Width="1250" Height="850"/>
+       <NodeSize Width="2037.4805" Height="1177.7539"/>
+      </Node>
+      <Node Id="1962" Name="Steam" Class="_commentbox" pos="2530,5383.4883,0" flags="0">
+       <Inputs TextSize="1" Color="0.262251,0.708376,0.491021" DisplayFilled="1" DisplayBox="1" SortPriority="16"/>
+       <ResizeBorder X="0" Y="0" Width="1320" Height="650"/>
+       <NodeSize Width="1320" Height="977.75391"/>
+      </Node>
+      <Node Id="1963" Class="entity:AudioTriggerSpot" pos="3180,6810,0" flags="0" EntityGUID="{4C3714CF-5B4C-5B1E-C621-0ED7C30FA543}" EntityGUID_64="4C3714CF5B4C5B1E">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1965" Class="Time:Delay" pos="2800,6590,0" flags="0">
+       <Inputs delay="5" resetOnInput="0"/>
+      </Node>
+      <Node Id="1966" Class="entity:AudioTriggerSpot" pos="3490,6620,0" flags="0" EntityGUID="{AE25F1ED-E066-4A1D-11EC-B9CF4250412C}" EntityGUID_64="AE25F1EDE0664A1D">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1968" Class="Time:Delay" pos="2780,6860,0" flags="0">
+       <Inputs delay="2" resetOnInput="0"/>
+      </Node>
+      <Node Id="1976" Class="entity:AudioTriggerSpot" pos="3080,7170,0" flags="0" EntityGUID="{4D549553-58A4-3E3F-DE1A-745A44E6AD1F}" EntityGUID_64="4D54955358A43E3F">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1977" Class="entity:AudioTriggerSpot" pos="3080,7360,0" flags="0" EntityGUID="{4C3714CF-5B4C-5B1E-C621-0ED7C30FA543}" EntityGUID_64="4C3714CF5B4C5B1E">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1979" Class="Time:Delay" pos="2770,7140,0" flags="0">
+       <Inputs delay="5" resetOnInput="0"/>
+      </Node>
+      <Node Id="1980" Class="entity:AudioTriggerSpot" pos="3460,7170,0" flags="0" EntityGUID="{72B2BDAE-5D40-232D-984C-5E095AC2A326}" EntityGUID_64="72B2BDAE5D40232D">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1982" Class="Time:Delay" pos="2770,7380,0" flags="0">
+       <Inputs delay="2" resetOnInput="0"/>
+      </Node>
+      <Node Id="1983" Class="entity:AudioTriggerSpot" pos="3080,7700,0" flags="0" EntityGUID="{4D549553-58A4-3E3F-DE1A-745A44E6AD1F}" EntityGUID_64="4D54955358A43E3F">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1984" Class="entity:AudioTriggerSpot" pos="3080,7890,0" flags="0" EntityGUID="{4C3714CF-5B4C-5B1E-C621-0ED7C30FA543}" EntityGUID_64="4C3714CF5B4C5B1E">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1986" Class="Time:Delay" pos="2770,7670,0" flags="0">
+       <Inputs delay="5" resetOnInput="0"/>
+      </Node>
+      <Node Id="1987" Class="entity:AudioTriggerSpot" pos="3460,7700,0" flags="0" EntityGUID="{71AE13B2-E180-75EC-E12C-AB2E0E94E917}" EntityGUID_64="71AE13B2E18075EC">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="1989" Class="Time:Delay" pos="2780,7900,0" flags="0">
+       <Inputs delay="2" resetOnInput="0"/>
+      </Node>
+      <Node Id="1990" Name="Audio_Low_Train_Speed" Class="_commentbox" pos="2520,6180.5283,0" flags="0">
+       <Inputs TextSize="1" Color="0.64448,0.434154,0.06301" DisplayFilled="1" DisplayBox="1" SortPriority="16"/>
+       <ResizeBorder X="0" Y="0" Width="1380" Height="470"/>
+       <NodeSize Width="2602.4414" Height="797.75391"/>
+      </Node>
+      <Node Id="1991" Name="Audio_Med_train_Speed" Class="_commentbox" pos="2520,6760.5293,0" flags="0">
+       <Inputs TextSize="1" Color="0.83077,0.715694,0.396755" DisplayFilled="1" DisplayBox="1" SortPriority="16"/>
+       <ResizeBorder X="0" Y="0" Width="1370" Height="410"/>
+       <NodeSize Width="2557.207" Height="737.75391"/>
+      </Node>
+      <Node Id="1992" Name="Audio_High_train_Speed" Class="_commentbox" pos="2520,7290.5283,0" flags="0">
+       <Inputs TextSize="1" Color="0.871367,0.838799,0.701102" DisplayFilled="1" DisplayBox="1" SortPriority="16"/>
+       <ResizeBorder X="0" Y="0" Width="1360" Height="430"/>
+       <NodeSize Width="2597.8711" Height="757.75391"/>
+      </Node>
+      <Node Id="1994" Class="Logic:Once" pos="2570,6570,0" flags="0" InHideMask="63" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1995" Class="Logic:Once" pos="2570,6750,0" flags="0" InHideMask="127" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="1996" Class="Logic:Once" pos="2570,7120,0" flags="0" InHideMask="62">
+       <Inputs />
+      </Node>
+      <Node Id="1997" Class="Logic:Once" pos="2560,7310,0" flags="0" InHideMask="60">
+       <Inputs />
+      </Node>
+      <Node Id="1998" Class="Logic:Once" pos="2580,7660,0" flags="0" InHideMask="62">
+       <Inputs />
+      </Node>
+      <Node Id="1999" Class="Logic:Once" pos="2580,7820,0" flags="0" InHideMask="62">
+       <Inputs />
+      </Node>
+      <Node Id="2001" Class="entity:AudioTriggerSpot" pos="3590,4660,0" flags="0" EntityGUID="{E8511062-06A4-D51D-2516-20977EFF43DA}" EntityGUID_64="E851106206A4D51D">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="2003" Class="entity:AudioTriggerSpot" pos="3590,4780,0" flags="0" EntityGUID="{91D9542C-9B48-8795-6734-0042AF9992E4}" EntityGUID_64="91D9542C9B488795">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="2005" Class="entity:AudioTriggerSpot" pos="3880,5130,0" flags="0" EntityGUID="{5E366AF2-EA4C-5CAD-253C-B382E1CE31F3}" EntityGUID_64="5E366AF2EA4C5CAD">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="2007" Class="entity:AudioTriggerSpot" pos="3880,5260,0" flags="0" EntityGUID="{D8C9BAE2-F3F6-73BF-CEBB-CDA1A056E049}" EntityGUID_64="D8C9BAE2F3F673BF">
+       <Inputs entityId="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="2008" Class="Audio:Trigger" pos="12340,1390,0" flags="0">
+       <Inputs entityId="0" audioTrigger_PlayTrigger="Play_drums_endgame_loop" audioTrigger_StopTrigger=""/>
+      </Node>
+      <Node Id="2009" Class="Actor:LocalPlayer" pos="11550,1290,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="2011" Class="Time:Delay" pos="11590,580,0" flags="0">
+       <Inputs delay="12" resetOnInput="0"/>
+      </Node>
+      <Node Id="2012" Name="Endgame_Music" Class="_commentbox" pos="10900,101.47885,0" flags="0">
+       <Inputs TextSize="1" Color="0.300544,0.630757,0.428691" DisplayFilled="1" DisplayBox="1" SortPriority="16"/>
+       <ResizeBorder X="0" Y="0" Width="2030" Height="1440"/>
+       <NodeSize Width="2030" Height="1767.7539"/>
+      </Node>
+      <Node Id="2013" Class="Math:LessCheck" pos="11210,1380,0" flags="0">
+       <Inputs A="0" B="80"/>
+      </Node>
+      <Node Id="2014" Class="Audio:Trigger" pos="12330,840,0" flags="0">
+       <Inputs entityId="0" audioTrigger_PlayTrigger="Play_drums_endgame_win_zombies" audioTrigger_StopTrigger=""/>
+      </Node>
+      <Node Id="2015" Class="Audio:Trigger" pos="12330,640,0" flags="0">
+       <Inputs entityId="0" audioTrigger_PlayTrigger="Play_drums_endgame_win_human" audioTrigger_StopTrigger=""/>
+      </Node>
+      <Node Id="2018" Class="Logic:Any" pos="11400,800,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="2019" Class="Logic:Any" pos="10920,1400,0" flags="0" InHideMask="1022">
+       <Inputs />
+      </Node>
+      <Node Id="2020" Class="Logic:Once" pos="11180,900,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="2021" Class="Logic:Once" pos="11180,570,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="2022" Class="Logic:Once" pos="11490,1430,0" flags="0" InHideMask="127" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="2023" Class="Game:MatchEnded" pos="10070,-360,0" flags="0">
+       <Inputs WinType="0"/>
+      </Node>
+      <Node Id="2024" Class="Logic:Any" pos="9280,-370,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="2025" Class="Audio:Trigger" pos="12330,1040,0" flags="0">
+       <Inputs entityId="0" audioTrigger_PlayTrigger="Play_l_global_amb_rain_exterior" audioTrigger_StopTrigger=""/>
+      </Node>
+      <Node Id="2026" Class="Logic:Any" pos="9290,70,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="2027" Class="Logic:Any" pos="9840,-20,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="2028" Class="Logic:Any" pos="9280,-150,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="2029" Class="Math:SetInteger" pos="9550,70,0" flags="0">
+       <Inputs in="0"/>
+      </Node>
+      <Node Id="2030" Class="Math:SetInteger" pos="9550,-70,0" flags="0">
+       <Inputs in="1"/>
+      </Node>
+      <Node Id="2031" Class="Time:Delay" pos="9490,-490,0" flags="0">
+       <Inputs delay="0.1" resetOnInput="0"/>
+      </Node>
+      <Node Id="2032" Class="Logic:Any" pos="12150,1530,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="2033" Class="Time:Delay" pos="11760,1550,0" flags="0">
+       <Inputs delay="300" resetOnInput="0"/>
+      </Node>
+     </Nodes>
+     <Edges>
+      <Edge nodeIn="1432" nodeOut="2" portIn="Get" portOut="out" enabled="0"/>
+      <Edge nodeIn="4" nodeOut="3" portIn="false" portOut="True" enabled="1"/>
+      <Edge nodeIn="773" nodeOut="3" portIn="true" portOut="False" enabled="1"/>
+      <Edge nodeIn="1486" nodeOut="3" portIn="in1" portOut="True" enabled="0"/>
+      <Edge nodeIn="2" nodeOut="4" portIn="paused" portOut="out" enabled="0"/>
+      <Edge nodeIn="1855" nodeOut="17" portIn="Percent" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="1855" nodeOut="17" portIn="Set" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="1858" nodeOut="17" portIn="in2" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="2021" nodeOut="17" portIn="Input1" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="1854" nodeOut="18" portIn="Percent" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="1854" nodeOut="18" portIn="Set" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="1858" nodeOut="18" portIn="in1" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="2020" nodeOut="18" portIn="Input1" portOut="IntValue" enabled="1"/>
+      <Edge nodeIn="821" nodeOut="24" portIn="Get" portOut="Received" enabled="1"/>
+      <Edge nodeIn="823" nodeOut="24" portIn="update" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1296" nodeOut="24" portIn="in1" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1853" nodeOut="24" portIn="false" portOut="Received" enabled="1"/>
+      <Edge nodeIn="193" nodeOut="170" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="178" nodeOut="172" portIn="In" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="179" nodeOut="178" portIn="A" portOut="Out" enabled="1"/>
+      <Edge nodeIn="179" nodeOut="178" portIn="Check" portOut="Out" enabled="1"/>
+      <Edge nodeIn="178" nodeOut="179" portIn="Close" portOut="false" enabled="1"/>
+      <Edge nodeIn="557" nodeOut="179" portIn="in" portOut="false" enabled="1"/>
+      <Edge nodeIn="172" nodeOut="193" portIn="Check" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1502" nodeOut="409" portIn="Add" portOut="Id" enabled="1"/>
+      <Edge nodeIn="1502" nodeOut="409" portIn="LinkedEntity" portOut="Id" enabled="1"/>
+      <Edge nodeIn="1533" nodeOut="409" portIn="Get" portOut="Id" enabled="1"/>
+      <Edge nodeIn="1533" nodeOut="409" portIn="entityId" portOut="Id" enabled="1"/>
+      <Edge nodeIn="555" nodeOut="556" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="1250" nodeOut="556" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="1263" nodeOut="556" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="1865" nodeOut="556" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="559" nodeOut="557" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="591" nodeOut="557" portIn="Send" portOut="out" enabled="1"/>
+      <Edge nodeIn="558" nodeOut="559" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="556" nodeOut="560" portIn="update" portOut="OnInGameStateStart" enabled="1"/>
+      <Edge nodeIn="561" nodeOut="560" portIn="IsServerCheck" portOut="OnInGameStateStart" enabled="1"/>
+      <Edge nodeIn="193" nodeOut="561" portIn="Open" portOut="True" enabled="1"/>
+      <Edge nodeIn="562" nodeOut="561" portIn="in" portOut="True" enabled="1"/>
+      <Edge nodeIn="1237" nodeOut="561" portIn="Get" portOut="False" enabled="1"/>
+      <Edge nodeIn="1249" nodeOut="561" portIn="true" portOut="False" enabled="1"/>
+      <Edge nodeIn="563" nodeOut="562" portIn="false" portOut="out" enabled="1"/>
+      <Edge nodeIn="170" nodeOut="563" portIn="paused" portOut="out" enabled="1"/>
+      <Edge nodeIn="17" nodeOut="590" portIn="Get" portOut="Received" enabled="1"/>
+      <Edge nodeIn="555" nodeOut="590" portIn="Show" portOut="Received" enabled="0"/>
+      <Edge nodeIn="2024" nodeOut="590" portIn="in4" portOut="Received" enabled="1"/>
+      <Edge nodeIn="2026" nodeOut="590" portIn="in1" portOut="Received" enabled="1"/>
+      <Edge nodeIn="2024" nodeOut="591" portIn="in2" portOut="Done" enabled="1"/>
+      <Edge nodeIn="2026" nodeOut="591" portIn="in2" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1904" nodeOut="626" portIn="IsServerCheck" portOut="OnInGameStateStart" enabled="1"/>
+      <Edge nodeIn="767" nodeOut="660" portIn="Start" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="767" nodeOut="660" portIn="StartValue" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1884" nodeOut="660" portIn="in" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="766" nodeOut="767" portIn="Set" portOut="Value" enabled="1"/>
+      <Edge nodeIn="766" nodeOut="767" portIn="Speed" portOut="Value" enabled="1"/>
+      <Edge nodeIn="780" nodeOut="767" portIn="in" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1900" nodeOut="769" portIn="A" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1881" nodeOut="771" portIn="in" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="24" nodeOut="773" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1271" nodeOut="773" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1556" nodeOut="773" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1270" nodeOut="780" portIn="Send" portOut="out" enabled="1"/>
+      <Edge nodeIn="1288" nodeOut="780" portIn="in1" portOut="out" enabled="0"/>
+      <Edge nodeIn="660" nodeOut="797" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1137" nodeOut="797" portIn="IsServerCheck" portOut="out" enabled="1"/>
+      <Edge nodeIn="800" nodeOut="798" portIn="set" portOut="output" enabled="1"/>
+      <Edge nodeIn="802" nodeOut="798" portIn="set" portOut="output" enabled="1"/>
+      <Edge nodeIn="805" nodeOut="798" portIn="Set" portOut="output" enabled="1"/>
+      <Edge nodeIn="1438" nodeOut="798" portIn="in" portOut="output" enabled="1"/>
+      <Edge nodeIn="780" nodeOut="800" portIn="delay" portOut="out" enabled="1"/>
+      <Edge nodeIn="1553" nodeOut="800" portIn="B" portOut="out" enabled="1"/>
+      <Edge nodeIn="767" nodeOut="802" portIn="Time" portOut="out" enabled="1"/>
+      <Edge nodeIn="1553" nodeOut="802" portIn="A" portOut="out" enabled="1"/>
+      <Edge nodeIn="1884" nodeOut="802" portIn="delay" portOut="out" enabled="1"/>
+      <Edge nodeIn="24" nodeOut="805" portIn="Message" portOut="Out" enabled="1"/>
+      <Edge nodeIn="774" nodeOut="805" portIn="Message" portOut="Out" enabled="1"/>
+      <Edge nodeIn="822" nodeOut="821" portIn="A" portOut="width" enabled="1"/>
+      <Edge nodeIn="826" nodeOut="822" portIn="posX" portOut="out" enabled="1"/>
+      <Edge nodeIn="1138" nodeOut="822" portIn="Show" portOut="out" enabled="0"/>
+      <Edge nodeIn="1138" nodeOut="822" portIn="posX" portOut="out" enabled="1"/>
+      <Edge nodeIn="1506" nodeOut="822" portIn="in1" portOut="out" enabled="0"/>
+      <Edge nodeIn="826" nodeOut="823" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="1138" nodeOut="823" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="1295" nodeOut="823" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="1136" nodeOut="1137" portIn="Send" portOut="True" enabled="1"/>
+      <Edge nodeIn="1269" nodeOut="1137" portIn="false" portOut="True" enabled="1"/>
+      <Edge nodeIn="1238" nodeOut="1237" portIn="A" portOut="width" enabled="1"/>
+      <Edge nodeIn="555" nodeOut="1238" portIn="posX" portOut="out" enabled="1"/>
+      <Edge nodeIn="1250" nodeOut="1238" portIn="posX" portOut="out" enabled="1"/>
+      <Edge nodeIn="1263" nodeOut="1238" portIn="posX" portOut="out" enabled="1"/>
+      <Edge nodeIn="1266" nodeOut="1240" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1240" nodeOut="1241" portIn="paused" portOut="out" enabled="1"/>
+      <Edge nodeIn="1241" nodeOut="1244" portIn="false" portOut="True" enabled="1"/>
+      <Edge nodeIn="18" nodeOut="1248" portIn="Get" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1250" nodeOut="1248" portIn="Show" portOut="Received" enabled="0"/>
+      <Edge nodeIn="1543" nodeOut="1248" portIn="Close" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1544" nodeOut="1248" portIn="Set" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1547" nodeOut="1248" portIn="in2" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1549" nodeOut="1248" portIn="Close" portOut="Received" enabled="1"/>
+      <Edge nodeIn="2024" nodeOut="1248" portIn="in3" portOut="Received" enabled="1"/>
+      <Edge nodeIn="2028" nodeOut="1248" portIn="in2" portOut="Received" enabled="1"/>
+      <Edge nodeIn="590" nodeOut="1249" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1248" nodeOut="1249" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1261" nodeOut="1249" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1532" nodeOut="1249" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="2024" nodeOut="1251" portIn="in1" portOut="Done" enabled="1"/>
+      <Edge nodeIn="2028" nodeOut="1251" portIn="in1" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1247" nodeOut="1252" portIn="Kill" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1251" nodeOut="1252" portIn="Send" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1258" nodeOut="1252" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1266" nodeOut="1252" portIn="Close" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1244" nodeOut="1253" portIn="IsServerCheck" portOut="out" enabled="1"/>
+      <Edge nodeIn="1257" nodeOut="1258" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1263" nodeOut="1261" portIn="Show" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1867" nodeOut="1266" portIn="Check" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1267" nodeOut="1269" portIn="Respawnable" portOut="out" enabled="1"/>
+      <Edge nodeIn="826" nodeOut="1271" portIn="Show" portOut="Received" enabled="0"/>
+      <Edge nodeIn="1296" nodeOut="1271" portIn="in2" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1507" nodeOut="1271" portIn="in1" portOut="Received" enabled="0"/>
+      <Edge nodeIn="1252" nodeOut="1276" portIn="Input1" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1282" nodeOut="1276" portIn="input" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1293" nodeOut="1276" portIn="String2" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1314" nodeOut="1276" portIn="In" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1499" nodeOut="1276" portIn="in" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1499" nodeOut="1276" portIn="set" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1552" nodeOut="1276" portIn="B" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1552" nodeOut="1276" portIn="DoCalc" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1276" nodeOut="1277" portIn="Stop" portOut="True" enabled="1"/>
+      <Edge nodeIn="1278" nodeOut="1277" portIn="set" portOut="True" enabled="1"/>
+      <Edge nodeIn="1280" nodeOut="1277" portIn="Input1" portOut="False" enabled="1"/>
+      <Edge nodeIn="1280" nodeOut="1277" portIn="Reset" portOut="True" enabled="1"/>
+      <Edge nodeIn="1298" nodeOut="1277" portIn="input" portOut="False" enabled="1"/>
+      <Edge nodeIn="1299" nodeOut="1277" portIn="input" portOut="True" enabled="1"/>
+      <Edge nodeIn="1860" nodeOut="1277" portIn="set" portOut="True" enabled="1"/>
+      <Edge nodeIn="1279" nodeOut="1278" portIn="set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1500" nodeOut="1279" portIn="in2" portOut="out" enabled="0"/>
+      <Edge nodeIn="1276" nodeOut="1280" portIn="Start" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1253" nodeOut="1288" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="1288" nodeOut="1289" portIn="in2" portOut="output" enabled="0"/>
+      <Edge nodeIn="1290" nodeOut="1293" portIn="input" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1290" nodeOut="1293" portIn="message" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1314" nodeOut="1293" portIn="Close" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1530" nodeOut="1293" portIn="Send" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1319" nodeOut="1295" portIn="in" portOut="Done" enabled="0"/>
+      <Edge nodeIn="1295" nodeOut="1296" portIn="Play" portOut="out" enabled="0"/>
+      <Edge nodeIn="1293" nodeOut="1314" portIn="Set" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1315" nodeOut="1314" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1314" nodeOut="1315" portIn="Open" portOut="out" enabled="1"/>
+      <Edge nodeIn="1295" nodeOut="1319" portIn="Stop" portOut="out" enabled="1"/>
+      <Edge nodeIn="1433" nodeOut="1432" portIn="vec3" portOut="Pos" enabled="1"/>
+      <Edge nodeIn="1447" nodeOut="1433" portIn="In" portOut="x" enabled="1"/>
+      <Edge nodeIn="1448" nodeOut="1433" portIn="In" portOut="y" enabled="1"/>
+      <Edge nodeIn="1456" nodeOut="1433" portIn="In" portOut="x" enabled="1"/>
+      <Edge nodeIn="1457" nodeOut="1433" portIn="In" portOut="y" enabled="1"/>
+      <Edge nodeIn="1465" nodeOut="1433" portIn="In" portOut="x" enabled="1"/>
+      <Edge nodeIn="1466" nodeOut="1433" portIn="In" portOut="y" enabled="1"/>
+      <Edge nodeIn="1483" nodeOut="1433" portIn="In" portOut="x" enabled="1"/>
+      <Edge nodeIn="1484" nodeOut="1433" portIn="In" portOut="y" enabled="1"/>
+      <Edge nodeIn="774" nodeOut="1435" portIn="Send" portOut="out" enabled="1"/>
+      <Edge nodeIn="797" nodeOut="1435" portIn="in2" portOut="out" enabled="1"/>
+      <Edge nodeIn="1436" nodeOut="1435" portIn="Close" portOut="out" enabled="1"/>
+      <Edge nodeIn="1435" nodeOut="1436" portIn="in2" portOut="Out" enabled="1"/>
+      <Edge nodeIn="3" nodeOut="1438" portIn="IsServerCheck" portOut="out" enabled="1"/>
+      <Edge nodeIn="1439" nodeOut="1438" portIn="input" portOut="out" enabled="1"/>
+      <Edge nodeIn="1870" nodeOut="1438" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1436" nodeOut="1440" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1442" nodeOut="1441" portIn="vec3" portOut="Pos" enabled="1"/>
+      <Edge nodeIn="1443" nodeOut="1442" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1443" nodeOut="1442" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1444" nodeOut="1442" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1444" nodeOut="1442" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1445" nodeOut="1442" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1445" nodeOut="1442" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1446" nodeOut="1442" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1446" nodeOut="1442" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1447" nodeOut="1443" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1447" nodeOut="1444" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1448" nodeOut="1445" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1448" nodeOut="1446" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1494" nodeOut="1447" portIn="in1" portOut="true" enabled="1"/>
+      <Edge nodeIn="1494" nodeOut="1448" portIn="in2" portOut="true" enabled="1"/>
+      <Edge nodeIn="1494" nodeOut="1448" portIn="in3" portOut="true" enabled="1"/>
+      <Edge nodeIn="1494" nodeOut="1448" portIn="in4" portOut="true" enabled="1"/>
+      <Edge nodeIn="1494" nodeOut="1448" portIn="in5" portOut="true" enabled="1"/>
+      <Edge nodeIn="1494" nodeOut="1448" portIn="in6" portOut="true" enabled="1"/>
+      <Edge nodeIn="1451" nodeOut="1450" portIn="vec3" portOut="Pos" enabled="1"/>
+      <Edge nodeIn="1452" nodeOut="1451" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1452" nodeOut="1451" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1453" nodeOut="1451" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1453" nodeOut="1451" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1454" nodeOut="1451" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1454" nodeOut="1451" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1455" nodeOut="1451" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1455" nodeOut="1451" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1456" nodeOut="1452" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1456" nodeOut="1453" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1457" nodeOut="1454" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1457" nodeOut="1455" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1493" nodeOut="1456" portIn="in1" portOut="true" enabled="1"/>
+      <Edge nodeIn="1493" nodeOut="1457" portIn="in2" portOut="true" enabled="1"/>
+      <Edge nodeIn="1493" nodeOut="1457" portIn="in3" portOut="true" enabled="1"/>
+      <Edge nodeIn="1493" nodeOut="1457" portIn="in4" portOut="true" enabled="1"/>
+      <Edge nodeIn="1493" nodeOut="1457" portIn="in5" portOut="true" enabled="1"/>
+      <Edge nodeIn="1493" nodeOut="1457" portIn="in6" portOut="true" enabled="1"/>
+      <Edge nodeIn="1460" nodeOut="1459" portIn="vec3" portOut="Pos" enabled="1"/>
+      <Edge nodeIn="1461" nodeOut="1460" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1461" nodeOut="1460" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1462" nodeOut="1460" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1462" nodeOut="1460" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1463" nodeOut="1460" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1463" nodeOut="1460" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1464" nodeOut="1460" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1464" nodeOut="1460" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1465" nodeOut="1461" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1465" nodeOut="1462" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1466" nodeOut="1463" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1466" nodeOut="1464" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1492" nodeOut="1465" portIn="in1" portOut="true" enabled="1"/>
+      <Edge nodeIn="1492" nodeOut="1465" portIn="in2" portOut="true" enabled="1"/>
+      <Edge nodeIn="1492" nodeOut="1465" portIn="in3" portOut="true" enabled="1"/>
+      <Edge nodeIn="1492" nodeOut="1465" portIn="in4" portOut="true" enabled="1"/>
+      <Edge nodeIn="1492" nodeOut="1465" portIn="in5" portOut="true" enabled="1"/>
+      <Edge nodeIn="1492" nodeOut="1466" portIn="in6" portOut="true" enabled="1"/>
+      <Edge nodeIn="1478" nodeOut="1477" portIn="vec3" portOut="Pos" enabled="1"/>
+      <Edge nodeIn="1479" nodeOut="1478" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1479" nodeOut="1478" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1480" nodeOut="1478" portIn="A" portOut="x" enabled="1"/>
+      <Edge nodeIn="1480" nodeOut="1478" portIn="DoCalc" portOut="x" enabled="1"/>
+      <Edge nodeIn="1481" nodeOut="1478" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1481" nodeOut="1478" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1482" nodeOut="1478" portIn="A" portOut="y" enabled="1"/>
+      <Edge nodeIn="1482" nodeOut="1478" portIn="DoCalc" portOut="y" enabled="1"/>
+      <Edge nodeIn="1483" nodeOut="1479" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1483" nodeOut="1480" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1484" nodeOut="1481" portIn="Max" portOut="out" enabled="1"/>
+      <Edge nodeIn="1484" nodeOut="1482" portIn="Min" portOut="out" enabled="1"/>
+      <Edge nodeIn="1491" nodeOut="1483" portIn="in6" portOut="true" enabled="1"/>
+      <Edge nodeIn="1491" nodeOut="1484" portIn="in1" portOut="true" enabled="1"/>
+      <Edge nodeIn="1491" nodeOut="1484" portIn="in2" portOut="true" enabled="1"/>
+      <Edge nodeIn="1491" nodeOut="1484" portIn="in3" portOut="true" enabled="1"/>
+      <Edge nodeIn="1491" nodeOut="1484" portIn="in4" portOut="true" enabled="1"/>
+      <Edge nodeIn="1491" nodeOut="1484" portIn="in5" portOut="true" enabled="1"/>
+      <Edge nodeIn="1441" nodeOut="1486" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1450" nodeOut="1486" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1459" nodeOut="1486" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1477" nodeOut="1486" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1440" nodeOut="1491" portIn="in5" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1440" nodeOut="1492" portIn="in4" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1440" nodeOut="1493" portIn="in3" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1440" nodeOut="1494" portIn="in2" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1500" nodeOut="1499" portIn="in1" portOut="out" enabled="1"/>
+      <Edge nodeIn="1501" nodeOut="1499" portIn="B" portOut="out" enabled="1"/>
+      <Edge nodeIn="1501" nodeOut="1499" portIn="Check" portOut="out" enabled="1"/>
+      <Edge nodeIn="1276" nodeOut="1500" portIn="StartValue" portOut="out" enabled="1"/>
+      <Edge nodeIn="1252" nodeOut="1501" portIn="Input2" portOut="true" enabled="1"/>
+      <Edge nodeIn="1503" nodeOut="1504" portIn="Time" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1514" nodeOut="1504" portIn="In" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1515" nodeOut="1504" portIn="In" portOut="Value" enabled="0"/>
+      <Edge nodeIn="1516" nodeOut="1504" portIn="In" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1554" nodeOut="1504" portIn="in1" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1555" nodeOut="1504" portIn="true" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1510" nodeOut="1505" portIn="in" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1504" nodeOut="1506" portIn="Start" portOut="out" enabled="1"/>
+      <Edge nodeIn="1511" nodeOut="1506" portIn="in1" portOut="out" enabled="1"/>
+      <Edge nodeIn="1512" nodeOut="1506" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="1508" nodeOut="1507" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1511" nodeOut="1510" portIn="in2" portOut="out" enabled="1"/>
+      <Edge nodeIn="1513" nodeOut="1511" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1513" nodeOut="1512" portIn="Close" portOut="out" enabled="1"/>
+      <Edge nodeIn="1505" nodeOut="1513" portIn="Set" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1518" nodeOut="1514" portIn="A" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1518" nodeOut="1514" portIn="Check" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1521" nodeOut="1515" portIn="A" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1521" nodeOut="1515" portIn="Check" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1522" nodeOut="1516" portIn="A" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1522" nodeOut="1516" portIn="Check" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1519" nodeOut="1517" portIn="in" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1514" nodeOut="1518" portIn="Close" portOut="true" enabled="1"/>
+      <Edge nodeIn="1517" nodeOut="1518" portIn="Set" portOut="true" enabled="1"/>
+      <Edge nodeIn="1520" nodeOut="1519" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1515" nodeOut="1521" portIn="Close" portOut="true" enabled="1"/>
+      <Edge nodeIn="1523" nodeOut="1521" portIn="Set" portOut="true" enabled="1"/>
+      <Edge nodeIn="1516" nodeOut="1522" portIn="Close" portOut="true" enabled="1"/>
+      <Edge nodeIn="1526" nodeOut="1522" portIn="Set" portOut="true" enabled="1"/>
+      <Edge nodeIn="1524" nodeOut="1523" portIn="in" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1525" nodeOut="1524" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1527" nodeOut="1526" portIn="in" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1528" nodeOut="1527" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1538" nodeOut="1532" portIn="in1" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1863" nodeOut="1532" portIn="A" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1863" nodeOut="1532" portIn="Check" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1865" nodeOut="1532" portIn="Check" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1502" nodeOut="1533" portIn="Pos" portOut="Pos" enabled="1"/>
+      <Edge nodeIn="1540" nodeOut="1534" portIn="in" portOut="Done" enabled="1"/>
+      <Edge nodeIn="1530" nodeOut="1535" portIn="Value" portOut="out" enabled="1"/>
+      <Edge nodeIn="1543" nodeOut="1536" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1536" nodeOut="1537" portIn="in1" portOut="out" enabled="1"/>
+      <Edge nodeIn="1534" nodeOut="1538" portIn="Info" portOut="out" enabled="1"/>
+      <Edge nodeIn="1541" nodeOut="1539" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1545" nodeOut="1539" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1549" nodeOut="1540" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1536" nodeOut="1541" portIn="in2" portOut="out" enabled="1"/>
+      <Edge nodeIn="1534" nodeOut="1543" portIn="Set" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1546" nodeOut="1545" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1551" nodeOut="1546" portIn="Set" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1546" nodeOut="1547" portIn="Close" portOut="out" enabled="1"/>
+      <Edge nodeIn="1539" nodeOut="1549" portIn="Set" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1546" nodeOut="1549" portIn="Open" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1535" nodeOut="1552" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="1535" nodeOut="1552" portIn="set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1860" nodeOut="1552" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="1504" nodeOut="1553" portIn="StartValue" portOut="out" enabled="1"/>
+      <Edge nodeIn="1504" nodeOut="1553" portIn="Time" portOut="out" enabled="1"/>
+      <Edge nodeIn="1503" nodeOut="1554" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1503" nodeOut="1555" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1554" nodeOut="1555" portIn="in2" portOut="out" enabled="1"/>
+      <Edge nodeIn="1852" nodeOut="1556" portIn="false" portOut="Received" enabled="1"/>
+      <Edge nodeIn="1856" nodeOut="1857" portIn="Enabled" portOut="out" enabled="1"/>
+      <Edge nodeIn="1857" nodeOut="1858" portIn="true" portOut="out" enabled="1"/>
+      <Edge nodeIn="1859" nodeOut="1858" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="1858" nodeOut="1859" portIn="in3" portOut="out" enabled="1"/>
+      <Edge nodeIn="1276" nodeOut="1860" portIn="Time" portOut="out" enabled="1"/>
+      <Edge nodeIn="1864" nodeOut="1863" portIn="set" portOut="true" enabled="1"/>
+      <Edge nodeIn="1538" nodeOut="1864" portIn="in2" portOut="out" enabled="1"/>
+      <Edge nodeIn="1866" nodeOut="1865" portIn="Value" portOut="IsZomb" enabled="1"/>
+      <Edge nodeIn="1537" nodeOut="1866" portIn="in" portOut="False" enabled="1"/>
+      <Edge nodeIn="1547" nodeOut="1866" portIn="in1" portOut="False" enabled="1"/>
+      <Edge nodeIn="1873" nodeOut="1867" portIn="Value" portOut="Have" enabled="1"/>
+      <Edge nodeIn="1871" nodeOut="1870" portIn="Value" portOut="Name" enabled="1"/>
+      <Edge nodeIn="1872" nodeOut="1870" portIn="in" portOut="Name" enabled="1"/>
+      <Edge nodeIn="1871" nodeOut="1872" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1874" nodeOut="1873" portIn="true" portOut="False" enabled="1"/>
+      <Edge nodeIn="1874" nodeOut="1873" portIn="false" portOut="True" enabled="1"/>
+      <Edge nodeIn="1277" nodeOut="1874" portIn="Value" portOut="out" enabled="1"/>
+      <Edge nodeIn="769" nodeOut="1875" portIn="EndValue" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="771" nodeOut="1875" portIn="Get" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1876" nodeOut="1875" portIn="A" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1876" nodeOut="1875" portIn="Check" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1879" nodeOut="1875" portIn="in" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1880" nodeOut="1875" portIn="in" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1881" nodeOut="1876" portIn="set" portOut="false" enabled="1"/>
+      <Edge nodeIn="1883" nodeOut="1876" portIn="in" portOut="false" enabled="1"/>
+      <Edge nodeIn="1899" nodeOut="1876" portIn="in1" portOut="false" enabled="1"/>
+      <Edge nodeIn="1901" nodeOut="1876" portIn="input" portOut="true" enabled="1"/>
+      <Edge nodeIn="1902" nodeOut="1876" portIn="input" portOut="false" enabled="1"/>
+      <Edge nodeIn="1889" nodeOut="1877" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1893" nodeOut="1877" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1877" nodeOut="1878" portIn="paused" portOut="out" enabled="1"/>
+      <Edge nodeIn="1882" nodeOut="1878" portIn="set" portOut="out" enabled="1"/>
+      <Edge nodeIn="1876" nodeOut="1879" portIn="B" portOut="out" enabled="1"/>
+      <Edge nodeIn="1879" nodeOut="1880" portIn="set" portOut="out" enabled="1"/>
+      <Edge nodeIn="769" nodeOut="1881" portIn="StartValue" portOut="out" enabled="1"/>
+      <Edge nodeIn="769" nodeOut="1882" portIn="Time" portOut="out" enabled="1"/>
+      <Edge nodeIn="1898" nodeOut="1883" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1892" nodeOut="1889" portIn="A" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="1892" nodeOut="1889" portIn="Check" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="1252" nodeOut="1891" portIn="Input3" portOut="out" enabled="1"/>
+      <Edge nodeIn="1891" nodeOut="1892" portIn="in1" portOut="false" enabled="1"/>
+      <Edge nodeIn="1893" nodeOut="1892" portIn="Close" portOut="false" enabled="1"/>
+      <Edge nodeIn="1895" nodeOut="1892" portIn="in" portOut="false" enabled="1"/>
+      <Edge nodeIn="1898" nodeOut="1892" portIn="Close" portOut="false" enabled="1"/>
+      <Edge nodeIn="1899" nodeOut="1892" portIn="in2" portOut="false" enabled="1"/>
+      <Edge nodeIn="1875" nodeOut="1893" portIn="Select" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1896" nodeOut="1894" portIn="Set" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1896" nodeOut="1894" portIn="Speed" portOut="Value" enabled="1"/>
+      <Edge nodeIn="1897" nodeOut="1895" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1894" nodeOut="1897" portIn="Start" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1894" nodeOut="1897" portIn="StartValue" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="769" nodeOut="1898" portIn="Start" portOut="Out" enabled="1"/>
+      <Edge nodeIn="769" nodeOut="1899" portIn="Stop" portOut="out" enabled="1"/>
+      <Edge nodeIn="768" nodeOut="1900" portIn="Set" portOut="out" enabled="1"/>
+      <Edge nodeIn="768" nodeOut="1900" portIn="Speed" portOut="out" enabled="1"/>
+      <Edge nodeIn="409" nodeOut="1903" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1903" nodeOut="1904" portIn="in" portOut="False" enabled="1"/>
+      <Edge nodeIn="1906" nodeOut="1904" portIn="in" portOut="True" enabled="1"/>
+      <Edge nodeIn="1878" nodeOut="1906" portIn="false" portOut="out" enabled="1"/>
+      <Edge nodeIn="1905" nodeOut="1906" portIn="Send" portOut="out" enabled="1"/>
+      <Edge nodeIn="1908" nodeOut="1907" portIn="paused" portOut="out" enabled="1"/>
+      <Edge nodeIn="1915" nodeOut="1907" portIn="paused" portOut="out" enabled="1"/>
+      <Edge nodeIn="1909" nodeOut="1908" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1933" nodeOut="1909" portIn="In" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="1937" nodeOut="1909" portIn="In" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="1941" nodeOut="1909" portIn="A" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="1941" nodeOut="1909" portIn="Check" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="2019" nodeOut="1909" portIn="in1" portOut="Percent" enabled="1"/>
+      <Edge nodeIn="1950" nodeOut="1915" portIn="Get" portOut="out" enabled="1"/>
+      <Edge nodeIn="1939" nodeOut="1930" portIn="in1" portOut="false" enabled="1"/>
+      <Edge nodeIn="1940" nodeOut="1930" portIn="in1" portOut="true" enabled="1"/>
+      <Edge nodeIn="1936" nodeOut="1933" portIn="Close" portOut="false" enabled="1"/>
+      <Edge nodeIn="1936" nodeOut="1933" portIn="Open" portOut="true" enabled="1"/>
+      <Edge nodeIn="1921" nodeOut="1936" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1923" nodeOut="1936" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1995" nodeOut="1936" portIn="Input2" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1996" nodeOut="1936" portIn="Input1" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1938" nodeOut="1937" portIn="Close" portOut="false" enabled="1"/>
+      <Edge nodeIn="1938" nodeOut="1937" portIn="Open" portOut="true" enabled="1"/>
+      <Edge nodeIn="1925" nodeOut="1938" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1927" nodeOut="1938" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1949" nodeOut="1938" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1957" nodeOut="1938" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1959" nodeOut="1938" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1995" nodeOut="1938" portIn="Input1" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1997" nodeOut="1938" portIn="Input1" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1998" nodeOut="1938" portIn="Input1" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2005" nodeOut="1938" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2007" nodeOut="1938" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1953" nodeOut="1939" portIn="true" portOut="out" enabled="1"/>
+      <Edge nodeIn="1954" nodeOut="1940" portIn="true" portOut="out" enabled="1"/>
+      <Edge nodeIn="1943" nodeOut="1941" portIn="Enable" portOut="false" enabled="1"/>
+      <Edge nodeIn="1945" nodeOut="1941" portIn="Enable" portOut="false" enabled="1"/>
+      <Edge nodeIn="2001" nodeOut="1941" portIn="Enable" portOut="false" enabled="1"/>
+      <Edge nodeIn="2003" nodeOut="1941" portIn="Enable" portOut="false" enabled="1"/>
+      <Edge nodeIn="1930" nodeOut="1950" portIn="A" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1930" nodeOut="1950" portIn="Check" portOut="Speed" enabled="1"/>
+      <Edge nodeIn="1907" nodeOut="1951" portIn="false" portOut="False" enabled="1"/>
+      <Edge nodeIn="1951" nodeOut="1952" portIn="IsServerCheck" portOut="output" enabled="1"/>
+      <Edge nodeIn="1917" nodeOut="1953" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1919" nodeOut="1953" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1936" nodeOut="1953" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1938" nodeOut="1953" portIn="In" portOut="out" enabled="1"/>
+      <Edge nodeIn="1994" nodeOut="1953" portIn="Input1" portOut="out" enabled="1"/>
+      <Edge nodeIn="1917" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1919" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1921" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1923" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1925" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1927" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1949" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1957" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1959" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1994" nodeOut="1954" portIn="Reset" portOut="out" enabled="1"/>
+      <Edge nodeIn="1995" nodeOut="1954" portIn="Input3" portOut="out" enabled="1"/>
+      <Edge nodeIn="1995" nodeOut="1954" portIn="Reset" portOut="out" enabled="1"/>
+      <Edge nodeIn="1996" nodeOut="1954" portIn="Reset" portOut="out" enabled="1"/>
+      <Edge nodeIn="1997" nodeOut="1954" portIn="Input2" portOut="out" enabled="1"/>
+      <Edge nodeIn="1997" nodeOut="1954" portIn="Reset" portOut="out" enabled="1"/>
+      <Edge nodeIn="1998" nodeOut="1954" portIn="Reset" portOut="out" enabled="1"/>
+      <Edge nodeIn="1999" nodeOut="1954" portIn="Input1" portOut="out" enabled="1"/>
+      <Edge nodeIn="1999" nodeOut="1954" portIn="Reset" portOut="out" enabled="1"/>
+      <Edge nodeIn="2005" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="2007" nodeOut="1954" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1960" nodeOut="1965" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1966" nodeOut="1965" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1963" nodeOut="1968" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1976" nodeOut="1979" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1980" nodeOut="1979" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1977" nodeOut="1982" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1983" nodeOut="1986" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1987" nodeOut="1986" portIn="Enable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1984" nodeOut="1989" portIn="Disable" portOut="out" enabled="1"/>
+      <Edge nodeIn="1960" nodeOut="1994" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1965" nodeOut="1994" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1963" nodeOut="1995" portIn="Enable" portOut="Out" enabled="0"/>
+      <Edge nodeIn="1966" nodeOut="1995" portIn="Disable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1968" nodeOut="1995" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1976" nodeOut="1996" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1979" nodeOut="1996" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1977" nodeOut="1997" portIn="Enable" portOut="Out" enabled="0"/>
+      <Edge nodeIn="1980" nodeOut="1997" portIn="Disable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1982" nodeOut="1997" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1983" nodeOut="1998" portIn="Enable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1986" nodeOut="1998" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1984" nodeOut="1999" portIn="Enable" portOut="Out" enabled="0"/>
+      <Edge nodeIn="1987" nodeOut="1999" portIn="Disable" portOut="Out" enabled="1"/>
+      <Edge nodeIn="1989" nodeOut="1999" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2008" nodeOut="2009" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="2014" nodeOut="2009" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="2015" nodeOut="2009" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="2025" nodeOut="2009" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="2014" nodeOut="2011" portIn="Stop" portOut="out" enabled="1"/>
+      <Edge nodeIn="2015" nodeOut="2011" portIn="Stop" portOut="out" enabled="1"/>
+      <Edge nodeIn="2025" nodeOut="2011" portIn="Stop" portOut="out" enabled="1"/>
+      <Edge nodeIn="2009" nodeOut="2013" portIn="update" portOut="false" enabled="1"/>
+      <Edge nodeIn="2022" nodeOut="2013" portIn="Input1" portOut="false" enabled="1"/>
+      <Edge nodeIn="2011" nodeOut="2018" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="2032" nodeOut="2018" portIn="in1" portOut="out" enabled="1"/>
+      <Edge nodeIn="2013" nodeOut="2019" portIn="A" portOut="out" enabled="1"/>
+      <Edge nodeIn="2013" nodeOut="2019" portIn="Check" portOut="out" enabled="1"/>
+      <Edge nodeIn="2014" nodeOut="2020" portIn="Play" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2018" nodeOut="2020" portIn="in2" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2015" nodeOut="2021" portIn="Play" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2018" nodeOut="2021" portIn="in1" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2008" nodeOut="2022" portIn="Play" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2033" nodeOut="2022" portIn="in" portOut="Out" enabled="1"/>
+      <Edge nodeIn="2031" nodeOut="2024" portIn="in" portOut="out" enabled="1"/>
+      <Edge nodeIn="2029" nodeOut="2026" portIn="set" portOut="out" enabled="1"/>
+      <Edge nodeIn="2023" nodeOut="2027" portIn="WinType" portOut="out" enabled="1"/>
+      <Edge nodeIn="2030" nodeOut="2028" portIn="set" portOut="out" enabled="1"/>
+      <Edge nodeIn="2027" nodeOut="2029" portIn="in2" portOut="out" enabled="1"/>
+      <Edge nodeIn="2027" nodeOut="2030" portIn="in1" portOut="out" enabled="1"/>
+      <Edge nodeIn="2023" nodeOut="2031" portIn="End" portOut="out" enabled="1"/>
+      <Edge nodeIn="2008" nodeOut="2032" portIn="Stop" portOut="out" enabled="1"/>
+      <Edge nodeIn="2032" nodeOut="2033" portIn="in2" portOut="out" enabled="1"/>
+     </Edges>
+     <GraphTokens />
+    </FlowGraph>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{2843231C-73F8-3154-B436-04C305ADBDE1}" Name="TrainPoint2" Pos="1024.6497,952.07794,125.96569" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{2DFD99B2-4B32-69E8-0C7D-593D1D5D196D}" Name="TrainPoint_BA" Pos="867.89209,1217.2828,151.09392" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{2F8BA29C-F930-69F9-4CDE-43F03766BD67}" Name="ParticleEntity_Sparks_02" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="5.5857544,-3.0096436,1.4529266" FloorNumber="-1" Rotate="0.4801563,0.042008244,0.076363802,0.87284237" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="explosions.train.sparks">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="explosions.train.sparks" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{374EC110-F1FC-1B7E-44A2-306FF4975B6F}" Name="train_stop_end_point_3_i" Pos="1416.3207,469.30185,120.03444" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{3E81475D-C24B-6C83-2985-0524D8D6439D}" Name="TrainPoint_DA" Pos="1069.2965,1006.7361,105.48703" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{41CEAD13-AE42-4920-9848-4F0892F593F2}" Name="Z_Player_camera_spect_def_1" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="25.818604,0.9829483,13.199242" FloorNumber="-1" Rotate="0.68424386,-0.091765225,-0.081645861,0.71883482" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="CameraPoint" HasEntity="1">
+    <Properties bEnabled="1" PitchLimits="45" YawLimits="45"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{46412226-D4DB-D9B2-BFC9-8D03046D462B}" Name="ParticleEntity_a1" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="7.2177734,2.2282104,1.3938141" FloorNumber="-1" Rotate="0.96335167,5.774336e-10,1.7708804e-09,0.26824182" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.pipe_steam_a.fleet_white">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.pipe_steam_a.fleet_white" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{4C3714CF-5B4C-5B1E-C621-0ED7C30FA543}" Name="ATG_stop2" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-8.5805664,-0.1156311,9.168045" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="train_stop" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{4D549553-58A4-3E3F-DE1A-745A44E6AD1F}" Name="ATG_Start2" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-8.5806885,-0.11569214,9.2911835" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="train_start" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{4FEA991C-556D-8B79-C2C9-36CDF4D52CF0}" Name="Wagon3" Pos="747.58246,593.53015,193.2142" FloorNumber="-1" Rotate="0.95151716,0,0,0.30759558" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="20" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="1" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="1" bLookToPrevWagonEndPoint="1" objModel="Objects/zhg_objects/vehicles/train_pe/carriage_b.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="23.5" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="train_vag_c_1" sPlatfomSecond="train_vag_c_2"/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{5299A647-44C2-7D99-CED6-1F82E6AC4735}" Name="TrainPoint_CD" Pos="1041.2374,908.36865,128.68671" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{59BBBF0D-070C-7877-4044-FE05EB94E375}" Name="train_stop_end_point_4_n" Pos="958.5752,1677.0148,150.91904" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{5E366AF2-EA4C-5CAD-253C-B382E1CE31F3}" Name="ATG_Sparks_1" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="3.7288208,-4.9373169,2.3828888" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{65F21F38-A407-7729-580D-3B3DE99D038D}" Name="train_vag_c_1" Pos="750.17499,603.82922,192.84979" FloorNumber="-1" Rotate="0.92394733,0,0,0.38251972" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/wheel_carriage_b.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="6" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{681F71BE-7053-48D8-65FA-29FF34E7B2C3}" Name="3DPrinter1" Pos="1573.6324,353.24628,215.21124" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="3DPrinter" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="0" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{68674E53-F919-6091-795C-AB451B295CEF}" Name="train_stop_end_point_1_n" Pos="1755.6693,1509.7222,167.6178" FloorNumber="-1" Rotate="0.99904823,0,0,0.043619387" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{694A1A6F-2955-82A3-8E6D-3C075798E9DB}" Name="train_stop_end_point_3_n" Pos="398.87039,761.37836,209.33513" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{6E704197-48C3-968C-D229-F8EAB93F1F2F}" Name="TrainPoint1" Pos="1064.475,1347.8977,133.88373" FloorNumber="-1" Rotate="0.60876143,0,0,-0.79335332" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{6F4FABC7-E4E2-27D5-C6DB-1FD234D15CA6}" Name="Train1" Pos="788.73633,603.91144,194.24428" FloorNumber="-1" Rotate="0.64278758,0,0,0.7660445" ColorRGB="65535" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="1" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="1" objModel="Objects/default/primitive_box.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="15" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="train_vag_a_1" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{71AE13B2-E180-75EC-E12C-AB2E0E94E917}" Name="ATG_Pass_High" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-8.5809326,-0.11569214,8.8015137" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="Play_train_wheels_high" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{72B2BDAE-5D40-232D-984C-5E095AC2A326}" Name="ATG_Pass_Med" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-8.5809326,-0.11569214,8.9286499" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="Play_train_wheels_med" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{762AF5C1-BD95-C430-0867-D48E6A17253A}" Name="ParticleEntity_c1" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-6.069519,2.0322495,1.3937988" FloorNumber="-1" Rotate="0.96335167,5.774336e-10,1.7708804e-09,0.26824182" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.pipe_steam_a.fleet_white">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.pipe_steam_a.fleet_white" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{76ED9CF2-DC21-7D0D-A4AF-6CDAAE39B19F}" Name="Wagon2" Pos="768.31805,608.26807,192.51157" FloorNumber="-1" Rotate="0.95151716,0,0,0.30759558" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="20" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="1" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="1" bLookToPrevWagonEndPoint="1" objModel="Objects/zhg_objects/vehicles/train_pe/carriage_a.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="23.5" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="train_vag_b_1" sPlatfomSecond="train_vag_b_2"/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{7CED5188-44AF-ABA7-7D23-557B76D39BC2}" Name="train_stop_end_point_2_n" Pos="1416.5508,470.20108,120.022" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{7D15CC67-DB22-03AB-7723-090B653B8F42}" Name="TrainPoint3" Pos="1080.5212,975.54468,105.0964" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{7E9063B3-4852-12A4-BC36-3C06736BD46B}" Name="Group2893" Pos="1024,1024,151.75" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{D39A7CE7-2B3F-EF0B-98B3-9C7F8A6027B7}" Name="TrainPoint7" Parent="{7E9063B3-4852-12A4-BC36-3C06736BD46B}" Pos="-1024,-1024,0.046020508" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+      <Properties />
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{88B513F9-6464-B9EE-F6B8-BE7DAB47B2A1}" Name="1k_mark" Parent="{7E9063B3-4852-12A4-BC36-3C06736BD46B}" Pos="1024,1024,0.046020508" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+      <Properties />
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="GeomEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{86BB2637-7BEA-010E-FCBA-EF9072B2DD32}" Name="TSZ_C" Parent="{4FEA991C-556D-8B79-C2C9-36CDF4D52CF0}" Pos="0.040161133,0.027130127,2.6813049" FloorNumber="-1" Rotate="1,0,0,2.0861626e-07" Scale="1,1,0.40000001" ColorRGB="16777215" MatLayersMask="0" Geometry="Objects/zhg_objects/entities/safezones/train_safezone_c.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{91C0FB28-E3D5-71E5-5CBD-93E70D04FF20}" Name="Particle_Explode_L" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-11.44458,4.3299866,2.4935913" FloorNumber="-1" Rotate="-0.30997553,-0.3971312,0.85165077,0.14454399" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="explosions.generator.small">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="explosions.generator.small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{91D9542C-9B48-8795-6734-0042AF9992E4}" Name="ATG_Explode3" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-7.2785645,-0.13461304,9.291214" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="Play_p_pfx_expl_generic_large" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{9943F3DA-606F-07FF-AA02-19AE2420F1E5}" Name="train_vag_c_2" Pos="736.90417,593.55066,192.5" FloorNumber="-1" Rotate="0.96668041,0,0,0.25598633" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/wheel_carriage_b.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="25" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{994F40FA-375D-50ED-76AB-D57195EE5DF7}" Name="train_stop_end_point_2_i" Pos="1759.8677,1578.6592,167.78267" FloorNumber="-1" Rotate="0.99904823,0,0,0.043619387" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{A3BBC220-C019-7492-03A7-4A6C3BD975A6}" Name="train_stop_point1" Pos="1064.7535,1348.4623,133.88873" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{AE25F1ED-E066-4A1D-11EC-B9CF4250412C}" Name="ATG_Pass_Low" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-8.5809326,-0.11569214,9.0556793" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="Play_train_wheels_low" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{B888BE55-25C5-4C12-2860-5A34183844DE}" Name="TrainPoint_BC" Pos="1090.78,1350.999,132.08904" FloorNumber="-1" Rotate="0.60876143,0,0,-0.79335332" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{BA8BDF2E-D605-594E-731E-1804BBCEE2A6}" Name="train_vag_a_2" Pos="776.90997,622.16663,191.44617" FloorNumber="-1" Rotate="0.93824261,0,0,0.34597799" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/wheel.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="6" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{C02A742A-1E84-BAE8-FB21-5D32595BC174}" Name="train_stop_end_point_1_i" Pos="958.72949,1676.8438,150.89066" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{C7452E8C-B80C-3317-977A-7012EB63133D}" Name="train_stop_point3" Pos="1079.7256,975.29297,105.27509" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{CF2CA555-AC03-FE4F-F660-599E305C312D}" Name="Particle_Explode_R" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-11.835083,-3.7779541,2.4935608" FloorNumber="-1" Rotate="0.32139382,0.88302219,-0.32139379,0.11697777" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="explosions.generator.small">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="explosions.generator.small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{CF653EA4-F521-C93F-E8D4-6DCD78722B35}" Name="Particle_Topsmoke_02" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="7.114624,-0.071960449,8.3414001" FloorNumber="-1" Rotate="0.70710677,0.70710677,1.0967853e-09,-1.0967853e-09" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.pipe_steam_a.fleet_black">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="3" NetworkSync="0" ParticleEffect="smoke_and_fire.pipe_steam_a.fleet_black" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{CF6A56EA-4345-C1D0-A58A-D61382F3CDF5}" Name="ParticleEntity_b1" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="0.96105957,2.4713135,6.6078339" FloorNumber="-1" Rotate="0.96335167,5.774336e-10,1.7708804e-09,0.26824182" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.pipe_steam_a.fleet_white">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.pipe_steam_a.fleet_white" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{D0E85B1F-7616-3903-7D8E-BBD94BEF8EB1}" Name="ParticleEntity_Sparks_01" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="5.1385498,3.8798828,1.4529724" FloorNumber="-1" Rotate="0.89492893,0.10410634,0.066129059,0.42882514" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="explosions.train.sparks">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="explosions.train.sparks" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{D12DCC73-4FC8-C62B-3366-F43CEA5026FE}" Name="TSZ_B" Parent="{76ED9CF2-DC21-7D0D-A4AF-6CDAAE39B19F}" Pos="-0.044311523,0.011962891,6.2618713" FloorNumber="-1" Rotate="1,0,0,2.0861626e-07" Scale="1.0550065,0.91836017,0.40000001" ColorRGB="16777215" MatLayersMask="0" Geometry="Objects/zhg_objects/entities/safezones/train_safezone_b.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{D8C9BAE2-F3F6-73BF-CEBB-CDA1A056E049}" Name="ATG_Sparks_2" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="3.8651123,4.4883423,2.3829041" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{DC21C165-B171-5E70-C03B-2E6DB5750B99}" Name="TSZ_A" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="0.07019043,-0.019439697,8.1436005" FloorNumber="-1" Rotate="-2.3742649e-07,0,0,1" Scale="1,0.82678044,0.40000001" ColorRGB="16777215" MatLayersMask="0" Geometry="Objects/zhg_objects/entities/safezones/train_safezone_c.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{E0A07D40-59FB-BC05-CE0D-3AD1F01E0BE7}" Name="train_stop_point2" Pos="1025.4794,952.21844,126.24736" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{E320B72F-99BA-66A4-493A-4152865AE175}" Name="TrainPoint4" Pos="887.14807,1240.8394,150.32707" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{E5ED61D5-01D8-A20D-34FC-4A4A9A3F5109}" Name="train_stop_point4" Pos="887.51013,1240.8589,150.55785" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="GeomEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{E714A026-84B4-18B0-A610-39F4E4598C6B}" Name="Circle_center" Pos="3489.425,1884.2603,289.61322" FloorNumber="-1" Rotate="0.70710683,-1.0251827e-09,-6.2935408e-09,-0.70710677" Scale="0.6377551,0.6377551,0.6377551" ColorRGB="65535" Material="Objects/props/furniture/appliances/lamps/ceiling_light1" MatLayersMask="0" Geometry="Objects/default/primitive_pyramid_noproxy.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{E828A80C-FFA1-E634-42D1-73341DE4E8C1}" Name="train_vag_b_2" Pos="757.76129,609.55939,193.07866" FloorNumber="-1" Rotate="0.92394733,0,0,0.38251978" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/wheel_carriage_a.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="15" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="AudioTriggerSpot" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{E8511062-06A4-D51D-2516-20977EFF43DA}" Name="ATG_Explode" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-11.152527,-0.078521729,9.2911987" FloorNumber="-1" Rotate="0.99997383,0,0,-0.007232408" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="AudioTriggerSpot" HasEntity="1">
+    <Properties bEnabled="0" audioTriggerPlayTriggerName="Play_p_pfx_expl_rocketlauncher" bSerializePlayState="1" eiSoundObstructionType="1" audioTriggerStopTriggerName="" bTriggerAreasOnMove="1">
+     <Debug eiDrawActivityRadius="0" bDrawRandomizationArea="0"/>
+     <PlayMode eiBehaviour="1" fMaxDelay="0" fMinDelay="0" vectorRandomizationArea="0,0,0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{EAEFC0D2-F80F-6319-BFC1-222233F5858E}" Name="TrainPoint_AD" Pos="1092.8091,940.97925,105.11943" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{F2EA6D82-9C3E-D039-3461-5FC148E32DE7}" Name="TrainPoint_CB" Pos="1018.3861,1344.3057,130.75269" FloorNumber="-1" Rotate="0.60876143,0,0,-0.79335332" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{F3F4E704-0AD4-D3DD-757D-447A59390FE0}" Name="TrainPoint6" Pos="1996.7177,449.3266,200.98068" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="TagPoint" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{F5E8E0C1-BEB3-57F4-8DD7-2B3CCA60E189}" Name="TrainPoint_DC" Pos="1016.2043,975.19659,124.96541" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16711680" EntityClass="TagPoint" HasEntity="1">
+    <Properties />
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{F99090B0-C040-1833-2740-CFBC10DB7A2B}" Name="ParticleEntity_a2" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="7.0097656,-2.1166077,1.1986847" FloorNumber="-1" Rotate="0.19621114,1.8406416e-09,2.854558e-10,0.98056167" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.pipe_steam_a.fleet_white">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.pipe_steam_a.fleet_white" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{FAA73E40-CA72-4392-18B6-AADE011D9F34}" Name="train_vag_b_1" Pos="770.15509,617.87103,191.90001" FloorNumber="-1" Rotate="0.88505661,0,0,0.46548337" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/wheel_carriage_a.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="17" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="" sVagonFour="" sVagonOne="" sVagonThree="" sVagonTwo=""/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{FD4EA51B-4D9A-6817-E858-08C75716F507}" Name="train_vag_a_1" Pos="787.00165,630.48511,190.94687" FloorNumber="-1" Rotate="0.88326997,0,0,0.46886474" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Train" HasEntity="1">
+    <Properties bIsWagonOnPlatforms="0" bLookToPrevWagonEndPoint="0" objModel="Objects/zhg_objects/vehicles/train_pe/wheel.cgf" fNextWagonAdditionalDistance="0" fPlatformZOffset="0" soclasses_SmartObjectClass="Train" fVagonDistance="15" bWagonLookToUp="0">
+     <Plats sPlatfomFirst="" sPlatfomSecond=""/>
+     <Sounds soundSoundOnMove="" soundSoundOnStart="" soundSoundOnStop=""/>
+     <Vagons sVagonFive="train_vag_c_2" sVagonFour="train_vag_c_1" sVagonOne="train_vag_a_2" sVagonThree="train_vag_b_2" sVagonTwo="train_vag_b_1"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Train" LayerGUID="{5C8F791A-E531-3C78-6F1C-6098AA2303DF}" Id="{FF0FF8EC-4718-5875-4839-4050E3D5B431}" Name="ItemSpawnerMP6" Parent="{222A4F28-009E-6A76-4A33-1DA2BD4A8CDF}" Pos="-5.6092529,-0.13821411,8.9216614" FloorNumber="-1" Rotate="0.70197415,0,0,-0.71220231" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ItemSpawnerMP" HasEntity="1">
+    <Properties AmmoCount="99" AmmoType="" fGoldCost="0" bIsWpnShop="0" sItemClass="HealthPackSmall" objModel="Objects/zhg_objects/entities/vending_machine/vendingmachine.cgf" bPickAmmo="0" bRequredGold="1" fRespawnTimer="0" bUsable="1" UseMessage="[E] Health">
+     <Health bInvulnerable="1" MaxHealth="5000" bOnlyEnemyFire="1"/>
+    </Properties>
+    <Components>
+     <Component typeId="{17E5EBA7-57E4-4662-A1C2-1F41DE946CDA}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <FlowGraph Description="" Group="" enabled="1" MultiPlayer="ClientServer">
+     <Nodes>
+      <Node Id="92" Class="Multiplayer:GameState" pos="810,-140,0" flags="0"/>
+      <Node Id="93" Class="Logic:Gate" pos="1300,120,0" flags="0">
+       <Inputs Closed="1"/>
+      </Node>
+      <Node Id="100" Class="entity:ItemSpawnerMP" pos="730,300,0" flags="0" GraphEntity="0">
+       <Inputs entityId="0" DisableUsable="0" EnableUsable="0" Hide="0" MakeInvulnerable="0" MakeVulnerable="0" ResetHealth="0" UnHide="0" Used="0"/>
+      </Node>
+      <Node Id="137" Class="Material:EntityMaterialChange" pos="1820,1270,0" flags="0" GraphEntity="0">
+       <Inputs entityId="0" slot="-1" mat_Material="Objects/zhg_objects/entities/vending_machine/vendingmachine_damage.mtl" Serialize="0"/>
+      </Node>
+      <Node Id="138" Class="Time:Timer" pos="1470,810,0" flags="0">
+       <Inputs period="0.6" min="0" max="0" paused="1"/>
+      </Node>
+      <Node Id="140" Class="Multiplayer:IsServer" pos="820,610,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="141" Class="Math:BooleanTo" pos="1150,1040,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="142" Class="Math:Random" pos="1470,680,0" flags="0">
+       <Inputs min="2.5" max="4.8"/>
+      </Node>
+      <Node Id="143" Class="Logic:Any" pos="1210,710,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="144" Class="Time:RandomDelay" pos="870,810,0" flags="1">
+       <Inputs MinDelay="5" MaxDelay="10"/>
+      </Node>
+      <Node Id="145" Class="ItemSpawnersMP:ItemSpawnerIsOutsideOfCircle" pos="1380,1090,0" flags="0" GraphEntity="0">
+       <Inputs entityId="0"/>
+      </Node>
+      <Node Id="147" Class="entity:ItemSpawnerMP" pos="1850,1530,0" flags="0" GraphEntity="0">
+       <Inputs entityId="0" DisableUsable="0" EnableUsable="0" Hide="0" MakeInvulnerable="0" MakeVulnerable="0" ResetHealth="0" UnHide="0" Used="0"/>
+      </Node>
+      <Node Id="148" Class="Math:BooleanTo" pos="1160,1450,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="152" Class="Math:BooleanTo" pos="1190,1850,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="153" Class="Logic:Any" pos="910,1120,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+      <Node Id="155" Class="Logic:Any" pos="1040,1840,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="156" Class="Logic:Any" pos="1240,900,0" flags="0" InHideMask="1023" OutHideMask="1">
+       <Inputs />
+      </Node>
+     </Nodes>
+     <Edges>
+      <Edge nodeIn="93" nodeOut="92" portIn="Open" portOut="OnInGameStateStart" enabled="1"/>
+      <Edge nodeIn="140" nodeOut="92" portIn="IsServerCheck" portOut="OnInGameStateStart" enabled="1"/>
+      <Edge nodeIn="93" nodeOut="100" portIn="In" portOut="Hit" enabled="1"/>
+      <Edge nodeIn="156" nodeOut="100" portIn="in2" portOut="Used" enabled="1"/>
+      <Edge nodeIn="156" nodeOut="138" portIn="in1" portOut="out" enabled="1"/>
+      <Edge nodeIn="144" nodeOut="140" portIn="In" portOut="False" enabled="1"/>
+      <Edge nodeIn="138" nodeOut="141" portIn="paused" portOut="out" enabled="1"/>
+      <Edge nodeIn="138" nodeOut="142" portIn="period" portOut="out" enabled="1"/>
+      <Edge nodeIn="142" nodeOut="143" portIn="generate" portOut="out" enabled="1"/>
+      <Edge nodeIn="143" nodeOut="144" portIn="in1" portOut="Out" enabled="1"/>
+      <Edge nodeIn="153" nodeOut="144" portIn="in1" portOut="Out" enabled="1"/>
+      <Edge nodeIn="143" nodeOut="145" portIn="in2" portOut="No" enabled="1"/>
+      <Edge nodeIn="148" nodeOut="145" portIn="true" portOut="Yes" enabled="1"/>
+      <Edge nodeIn="155" nodeOut="145" portIn="in1" portOut="No" enabled="1"/>
+      <Edge nodeIn="137" nodeOut="148" portIn="Set" portOut="out" enabled="0"/>
+      <Edge nodeIn="141" nodeOut="148" portIn="true" portOut="out" enabled="0"/>
+      <Edge nodeIn="147" nodeOut="148" portIn="DisableUsable" portOut="out" enabled="1"/>
+      <Edge nodeIn="137" nodeOut="152" portIn="Reset" portOut="out" enabled="0"/>
+      <Edge nodeIn="147" nodeOut="152" portIn="EnableUsable" portOut="out" enabled="1"/>
+      <Edge nodeIn="153" nodeOut="152" portIn="in2" portOut="out" enabled="1"/>
+      <Edge nodeIn="141" nodeOut="153" portIn="false" portOut="out" enabled="1"/>
+      <Edge nodeIn="152" nodeOut="155" portIn="true" portOut="out" enabled="1"/>
+      <Edge nodeIn="145" nodeOut="156" portIn="Check" portOut="out" enabled="1"/>
+     </Edges>
+     <GraphTokens />
+    </FlowGraph>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

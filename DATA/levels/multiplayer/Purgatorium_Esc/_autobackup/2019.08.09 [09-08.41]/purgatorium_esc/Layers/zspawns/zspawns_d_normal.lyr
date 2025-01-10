@@ -1,0 +1,126 @@
+<ObjectLayer>
+ <Layer Name="ZSpawns_D_Normal" FullName="zspawns/ZSpawns_D_Normal" GUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{9B8A2269-C3E8-7891-BDE1-F3A284459753}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{01CEF14D-DB00-505D-B025-416CD47FDF4F}" Name="ZombieEndgameSpawner57" Pos="1105.9784,438.19443,233.76056" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{0F3C4EEA-6ECA-810E-F59B-D6959976BE5A}" Name="ZombieEndgameSpawner122" Pos="1243.8318,703.02502,173.33064" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{18493DE1-EE23-F50A-AACF-F60FBD931D7E}" Name="ZombieEndgameSpawner40" Pos="1245.4431,745.08997,199.52014" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{1A20CC44-A3E6-B234-9642-0FC2A28C5801}" Name="ZombieEndgameSpawner45" Pos="1323.3501,509.71378,152.07668" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{3B9CD8AB-10D5-5FA4-66CE-B4D27D3BD372}" Name="ZombieEndgameSpawner90" Pos="1027.9427,1034.8228,138.11066" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{405587BB-D961-D841-40EA-3AB453743D9D}" Name="ZombieEndgameSpawner106" Pos="981.60498,697.11615,211.64728" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{48FEB6ED-7D9D-39BC-44CF-2DD221DA7CDF}" Name="ZombieEndgameSpawner117" Pos="1161.7659,820.41901,193.29285" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{4ED510DF-64AD-234F-7502-0E94B73A8E1F}" Name="ZombieEndgameSpawner43" Pos="1258.2638,323.23669,148.62076" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{5D60B61F-8CBD-DB2B-0C8F-CE0176457311}" Name="ZombieEndgameSpawner103" Pos="1323.8594,514.90222,152.09732" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{6339BC9F-0146-EF9D-1A6C-3686BC52B632}" Name="ZombieEndgameSpawner55" Pos="1018.514,926.30402,167.37311" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{94FB6828-0876-A51E-F638-B02D5CE9C440}" Name="ZombieEndgameSpawner56" Pos="1190.1746,700.16205,219.48001" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{9A1FE351-A229-11E4-1908-3F72B91A244F}" Name="ZombieEndgameSpawner120" Pos="1382.7151,595.87927,151.25781" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{A0F0B6CB-6E4F-FEEB-3CDB-36F7A7F61F20}" Name="ZombieEndgameSpawner92" Pos="1323.3464,513.23883,152.10751" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{AF4EA38D-A420-CE7E-6799-944B20DB06B9}" Name="ZombieEndgameSpawner44" Pos="1345.6851,488.14404,145.04659" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="ZSpawns_D_Normal" LayerGUID="{04A252D5-2723-30E1-5A2F-F385BB39F07F}" Id="{F339E816-2834-F148-86BD-87C89071072D}" Name="ZombieEndgameSpawner119" Pos="1080.964,739.38507,215.96628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ZombieEndgameSpawner" HasEntity="1">
+    <Properties bEnabled="1" iSelectedPath="4"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

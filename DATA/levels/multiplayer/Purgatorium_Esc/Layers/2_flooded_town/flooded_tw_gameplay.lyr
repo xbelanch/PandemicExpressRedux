@@ -1,0 +1,18 @@
+<ObjectLayer>
+ <Layer Name="Flooded_Tw_GAMEPLAY" FullName="2_Flooded_Town/Flooded_Tw_GAMEPLAY" GUID="{DC5E35FC-B464-C427-651A-D974DB952C83}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{663C21F2-358F-A797-D3ED-B1AAB74F5619}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Flooded_Tw_GAMEPLAY" LayerGUID="{DC5E35FC-B464-C427-651A-D974DB952C83}" Id="{1D2D4239-EA9A-4B32-836D-890F236F3689}" Name="DC3GunsSpawner293" Pos="768.83667,1308.2502,156.61664" FloorNumber="-1" Rotate="-0.24184476,-0.66446298,-0.24184476,0.66446298" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC3GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Flooded_Tw_GAMEPLAY" LayerGUID="{DC5E35FC-B464-C427-651A-D974DB952C83}" Id="{A35EBD5B-714A-3FB9-7D2B-1746C89B2AC1}" Name="DC3GunsSpawner294" Pos="767.49664,1307.0958,159.88658" FloorNumber="-1" Rotate="-0.57922792,-0.40557975,-0.57922792,0.40557975" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC3GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

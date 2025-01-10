@@ -1,0 +1,8 @@
+<ObjectLayer>
+ <Layer Name="Waterfall_A_PREFAB" FullName="2_Waterfall_A/Waterfall_A_PREFAB" GUID="{334B8654-1BC7-37E8-95FB-003B1428757A}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8366592" ParentGUID="{51F0DE1A-9B7A-9595-F079-8E1747BF7671}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Waterfall_A_PREFAB" LayerGUID="{334B8654-1BC7-37E8-95FB-003B1428757A}" Id="{049C2C50-61CE-3ED4-B7A9-433EA90D3AE2}" Name="Prefab279" Pos="1256.8588,847.60956,156.63179" FloorNumber="-1" Rotate="0.73727739,0,0,0.67559016" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{6D9111C4-FFD3-76EF-9FDB-C99AFE667BDE}" PrefabName="zhg_constructions.architecture.build_country_f"/>
+   <Object Type="Prefab" Layer="Waterfall_A_PREFAB" LayerGUID="{334B8654-1BC7-37E8-95FB-003B1428757A}" Id="{E2F49980-055A-5770-8D70-4A0F4B369A6F}" Name="Prefab278" Pos="1241.5653,830.10577,150.99486" FloorNumber="-1" Rotate="0.087155759,0,0,0.99619466" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{556240E8-55B5-BD82-1A62-F899A7EA39EC}" PrefabName="zhg_constructions.architecture.build_country_a"/>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

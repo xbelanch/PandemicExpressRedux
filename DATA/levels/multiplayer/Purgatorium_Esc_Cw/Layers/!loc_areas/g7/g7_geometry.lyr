@@ -1,0 +1,3 @@
+<ObjectLayer>
+ <Layer Name="G7_Geometry" FullName="!loc_areas/g7/G7_Geometry" GUID="{57B01E26-2653-D9CD-8A10-D4BFC0029477}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{66E1B701-1EFE-9D54-652A-D44D0FED285F}"/>
+</ObjectLayer>

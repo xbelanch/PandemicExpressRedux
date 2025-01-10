@@ -1,0 +1,28 @@
+<ObjectLayer>
+ <Layer Name="Station_C_GAMEPLAY" FullName="1_Station_C/Station_C_GAMEPLAY" GUID="{E116F2F2-2DFD-7217-3542-661638EEDB87}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{E0E70724-9BFE-D6B4-3405-BD7FB00D7B28}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Station_C_GAMEPLAY" LayerGUID="{E116F2F2-2DFD-7217-3542-661638EEDB87}" Id="{608B71DA-D870-37DB-50A9-6FA589A0CD7E}" Name="3DPrinter4" Pos="1722.4008,1532.5067,185.46817" FloorNumber="-1" Rotate="0.96328884,0,0,0.26846722" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="3DPrinter" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="0" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Station_C_GAMEPLAY" LayerGUID="{E116F2F2-2DFD-7217-3542-661638EEDB87}" Id="{EE2F00D2-8837-2D23-93E7-C3A027F6D5CA}" Name="3DPrinter5" Pos="1315.5083,503.9516,136.33179" FloorNumber="-1" Rotate="0.2911517,0,0,0.95667696" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="3DPrinter" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="0" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

@@ -1,0 +1,176 @@
+<ObjectLayer>
+ <Layer Name="Cableway_ART" FullName="cableway/Cableway_ART" GUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{912B2EF3-19B3-72CF-67F4-F5CAAE8E661B}">
+  <LayerObjects>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{0C04E3A7-1010-91A4-0A29-E04990ABE693}" Name="Group1449" Pos="1007.0441,1039.7532,138.50975" FloorNumber="-1" Rotate="0.32070273,-0.0081087062,0.00063428399,0.94714487" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{4BAF69CD-C85B-12C7-A58B-503433AED300}" Name="cableway_cabin_close13" Parent="{0C04E3A7-1010-91A4-0A29-E04990ABE693}" Pos="0.072280884,0.0064697266,-0.01789856" FloorNumber="-1" Rotate="0.14010042,0,0,0.99013734" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{A3FFD3E6-CBC9-925D-9ECA-98862E21FCB6}" Name="cableway_whells13" Parent="{0C04E3A7-1010-91A4-0A29-E04990ABE693}" Pos="-0.033325195,-0.05480957,0.032211304" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{13EF5F31-112D-3F6E-A533-E2D24E6F590A}" Name="Group1483" Pos="884.84119,1375.0692,159.7356" FloorNumber="-1" Rotate="0.066387311,0.04480565,-0.041111063,0.99593931" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{9C497A6E-249A-E6CB-3B26-13E2D4BB3D53}" Name="cableway_cabin_close13" Parent="{13EF5F31-112D-3F6E-A533-E2D24E6F590A}" Pos="0.58129883,1.2091064,0.19889069" FloorNumber="-1" Rotate="0.1801092,0.081067428,-0.04121916,0.97943348" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{915F24E4-7722-F4F2-01C7-E75E9A519FD8}" Name="cableway_whells13" Parent="{13EF5F31-112D-3F6E-A533-E2D24E6F590A}" Pos="0.47564697,1.1474609,0.33743286" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{2D0C5101-5581-7DA4-2E4D-76E6E76848B1}" Name="rock_a734" Pos="580.97089,1565.6494,151.79813" FloorNumber="-1" Rotate="0.66261852,-0.093124986,0.10342579,-0.73591274" Scale="2.0000002,2.0000005,2.0000002" ColorRGB="65535" Material="Objects/zhg_objects/natural/rocks/rocks_set_moss" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="0" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{3EB7D104-09C7-BED9-B7F8-18515F43594A}" Name="Group1484" Pos="824.48212,1405.7567,167.79639" FloorNumber="-1" Rotate="0.073869005,0.0241866,-0.016547732,0.99683732" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{BBD33497-9AF5-ADE9-7BD5-FD96D5A032AD}" Name="cableway_cabin_close13" Parent="{3EB7D104-09C7-BED9-B7F8-18515F43594A}" Pos="0.072265625,0.0067138672,-0.1063385" FloorNumber="-1" Rotate="0.14010042,0,0,0.99013734" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{F74E7C0C-CF11-530E-E620-BC535930170C}" Name="cableway_whells13" Parent="{3EB7D104-09C7-BED9-B7F8-18515F43594A}" Pos="-0.033325195,-0.05480957,0.032211304" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{4279D464-5645-0C07-6AB0-59D33A85857E}" Name="Group1447" Pos="1151.6233,913.71332,130.33498" FloorNumber="-1" Rotate="-0.033399712,-0.094400205,0.032645799,0.99443823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{133B33E8-419B-D5D7-900F-96949A90AC1A}" Name="cableway_cabin_close13" Parent="{4279D464-5645-0C07-6AB0-59D33A85857E}" Pos="0.072265625,0.0067138672,-0.1063385" FloorNumber="-1" Rotate="0.14010042,0,0,0.99013734" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{0F30B200-1EEB-A5C0-C60D-524AC8079771}" Name="cableway_whells13" Parent="{4279D464-5645-0C07-6AB0-59D33A85857E}" Pos="-0.033325195,-0.05480957,0.032211304" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Road" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{501B7CA1-9D61-7131-84BD-874E6F76AFF8}" Name="Road220" Pos="909.89331,1799.0024,169.22476" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/roads/forest_trail" Width="8" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="10" ViewDistRatio="100" TileLength="7" SortPriority="6" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="35.127785,-26.123163,0.045644507" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="106.60193,-76.703735,-0.10545349" Back="70.281967,-52.265961,0.091323316" Forw="134.51202,-95.482956,-0.25666672" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="192.56445,-129.56641,-1.0432892" Back="163.1306,-113.30563,-1.9873097" Forw="210.69704,-139.58377,-0.46172976" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="248.8877,-155.30969,4.4580231" Back="229.43919,-148.23621,3.3634171" Forw="261.73172,-159.98109,5.180913" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="288.88208,-164.59741,4.3776855" Back="275.3952,-162.30428,4.7766867" Forw="288.88208,-164.59741,4.3776855" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{6910F970-1919-B8E7-1328-F2F38DB7BE02}" Name="Group1448" Pos="1079.5184,948.52551,135.68965" FloorNumber="-1" Rotate="0.088205978,0.052644603,-0.028427366,0.99430388" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{631F6940-1206-F575-EB26-9F1004C3BBAB}" Name="cableway_cabin_close13" Parent="{6910F970-1919-B8E7-1328-F2F38DB7BE02}" Pos="0.072570801,0.0068359375,-0.058868408" FloorNumber="-1" Rotate="0.14010042,0,0,0.99013734" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{CB3077F3-1641-9034-BB06-5DA9C2F5FF2B}" Name="cableway_whells13" Parent="{6910F970-1919-B8E7-1328-F2F38DB7BE02}" Pos="-0.033325195,-0.05480957,0.032211304" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{9BFF4D3D-AEBC-34D3-1157-E37CCC51DE53}" Name="Group1486" Pos="755.31335,1442.1835,177.99995" FloorNumber="-1" Rotate="0.066387311,0.04480565,-0.041111063,0.99593931" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{BDF1CEDA-E00E-4CBC-DFD9-B6B780EF95C1}" Name="cableway_cabin_close13" Parent="{9BFF4D3D-AEBC-34D3-1157-E37CCC51DE53}" Pos="0.072265625,0.0067138672,-0.1063385" FloorNumber="-1" Rotate="0.14010042,0,0,0.99013734" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{F1DF8992-B2E2-CD37-9F04-BD7693AA3938}" Name="cableway_whells13" Parent="{9BFF4D3D-AEBC-34D3-1157-E37CCC51DE53}" Pos="-0.033325195,-0.05480957,0.032211304" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{A141ED47-9225-C3F6-EA1E-D4DFBF601102}" Name="Group1480" Pos="935.89276,1340.7671,157.3308" FloorNumber="-1" Rotate="0.13265072,-0.0078355465,0.002181201,0.9911294" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{465A8BA9-AFA1-2A97-8DA4-BEACEC6AA06D}" Name="cableway_cabin_close13" Parent="{A141ED47-9225-C3F6-EA1E-D4DFBF601102}" Pos="0.072265625,0.0067138672,-0.1063385" FloorNumber="-1" Rotate="0.14010042,0,0,0.99013734" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{7565C659-B959-9C44-7721-E2F75008D260}" Name="cableway_whells13" Parent="{A141ED47-9225-C3F6-EA1E-D4DFBF601102}" Pos="-0.033325195,-0.05480957,0.032211304" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{A63ECD92-1858-652C-CE75-EBB6EC545462}" Name="broken_column14" Pos="758.38922,1733.5385,130.79842" FloorNumber="-1" Rotate="0.84339142,0,0,0.53729963" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/road_bridges/broken_column2.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Road" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{A8410E97-8440-5A01-FC0A-4D75DD66B361}" Name="Road212" Pos="1306.8436,1602.1337,198.44704" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/roads/forest_trail" Width="8" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="10" ViewDistRatio="100" TileLength="7" SortPriority="52" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="10.412715,8.0913172,0.34179142" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="29.876343,25.951904,-0.025848389" Back="20.941919,16.273155,0.6874066" Forw="47.172554,44.689064,-1.4066437" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="78.388184,84.918701,-6.2579041" Back="61.36129,66.067459,-3.6383395" Forw="83.594681,90.683044,-7.0589161" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="96.295166,99.487183,-10.244293" Back="89.897408,95.051582,-9.6351538" Forw="105.81223,106.08541,-11.150427" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="125.90161,117.85999,-10.781723" Back="115.88132,111.987,-10.965628" Forw="125.90161,117.85999,-10.781723" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{C5014A67-159F-89FF-9BD8-295BCE9AC47D}" Name="cliff_a1159" Pos="579.57001,1591.6066,156.00508" FloorNumber="-1" Rotate="0.91284776,0.0021078191,0.39529622,0.10220303" Scale="2.5,2.5,2.5" ColorRGB="65535" Material="Objects/zhg_objects/natural/cliff/cliff_set_moss" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/cliff/cliff_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="0" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{E3555E82-4280-145A-F39E-D75D174F009F}" Name="cliff_a1160" Pos="573.54645,1607.4043,156.32402" FloorNumber="-1" Rotate="-0.30349538,0.36286804,0.076974168,0.87766302" Scale="2.5,2.5000002,2.5" ColorRGB="65535" Material="Objects/zhg_objects/natural/cliff/cliff_set_moss" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/cliff/cliff_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="0" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Group" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{FD86515E-44AD-BAB7-AB1F-0D748283B1CD}" Name="Group1481" Pos="977.87469,1298.556,157.92152" FloorNumber="-1" Rotate="0.56070781,0.00068895653,0.031918157,0.82739812" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{774E5E96-4D22-D5BF-7355-018E87E05FC3}" Name="cableway_cabin_close13" Parent="{FD86515E-44AD-BAB7-AB1F-0D748283B1CD}" Pos="0.072265625,0.0067138672,-0.1063385" FloorNumber="-1" Rotate="0.14010042,0,0,0.99013734" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_cabin_close.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Cableway_ART" LayerGUID="{E31D0BAF-0C36-6617-EAA7-88ADDAC07002}" Id="{6B9848D1-2E88-A7A0-CF31-D9DC7B9D085A}" Name="cableway_whells13" Parent="{FD86515E-44AD-BAB7-AB1F-0D748283B1CD}" Pos="-0.033325195,-0.05480957,0.032211304" FloorNumber="-1" Rotate="0.98295319,-0.0016857401,-0.013049903,-0.18338464" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/vehicles/cableway/cableway_whells.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

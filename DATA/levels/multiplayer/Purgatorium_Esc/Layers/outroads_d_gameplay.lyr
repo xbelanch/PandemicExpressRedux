@@ -1,0 +1,287 @@
+<ObjectLayer>
+ <Layer Name="Outroads_D_GAMEPLAY" FullName="Outroads_D_GAMEPLAY" GUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{E7B8A9B3-9099-0C35-9FA3-6D2B338A1054}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{0E998E06-4C21-C6F7-93FF-30C813F0EDCE}" Name="GoldX982" Pos="1190.2635,331.80344,117.90585" FloorNumber="-1" Rotate="0.50806659,0.69595766,-0.14221965,-0.48711887" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{18D1552E-2D3B-8340-BCA6-7AE754C4CA80}" Name="GoldX969" Pos="1188.8608,333.76245,117.74381" FloorNumber="-1" Rotate="-0.096682042,-0.00027647358,0.0007312051,0.99531502" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{26CD88CF-A487-8E1F-09B3-566FDB7C9A9B}" Name="GoldX979" Pos="1189.4329,333.2048,117.74553" FloorNumber="-1" Rotate="0.53842723,-0.0037653313,0.00638243,0.84263951" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{344591F8-3475-AB63-1ACA-DB7BFF3AE147}" Name="GoldX932" Pos="1193.3621,335.90726,117.74888" FloorNumber="-1" Rotate="0.82842171,0.014280271,0.014206324,0.55974263" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{37157CEF-92A4-6DBC-044C-6B06D7A34502}" Name="little_stones_a233" Pos="1182.1075,313.86899,117.25538" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/little_stones_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{3D56D5CA-9EAB-14F0-91DA-488FF196DF7E}" Name="GunsSpawner402" Pos="1187.2214,335.57471,118.97872" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{3E21847E-E64C-9F80-B049-E907704C6997}" Name="GunsSpawner404" Pos="1190.7689,322.22714,118.60073" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{4BDFE2C6-9556-6A8C-FC62-9E82F13A1BCB}" Name="DC2GunsSpawner259" Pos="1187.7841,335.86307,118.99306" FloorNumber="-1" Rotate="0.71562487,-0.080055244,-0.68890357,-0.082970232" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{4CFDB85A-0C15-C0BD-05AD-55AF2AFE5A60}" Name="DC2GunsSpawner260" Pos="1191.4401,322.49997,118.61314" FloorNumber="-1" Rotate="0.70190078,0.17146198,0.6698364,-0.17104192" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{517C8DA1-2848-CD73-3C13-95563E34C47E}" Name="GoldX954" Pos="1189.2164,333.85989,117.90959" FloorNumber="-1" Rotate="-0.35867447,0.668962,0.25502658,0.59900242" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{5E039FEA-7332-E299-E18A-C8008582EA84}" Name="GoldX929" Pos="1195.1432,336.89288,117.90209" FloorNumber="-1" Rotate="0.19859067,-0.15282372,0.69280136,-0.67619008" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{61993AF5-ED8C-799C-D460-A7E952F5BA87}" Name="GoldX970" Pos="1188.4094,333.83606,117.8944" FloorNumber="-1" Rotate="0.58228046,0.61098224,-0.33403635,0.41960701" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{664D62F1-E0EB-1333-FE1E-D9B1E70ADEF4}" Name="GoldX971" Pos="1189.6499,333.87656,117.90493" FloorNumber="-1" Rotate="-0.069141358,0.41196126,0.57458043,0.70382154" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{75894EDC-C39F-6C37-11A3-93135BD5F384}" Name="little_stones_a232" Pos="1185.7678,305.25641,116.75007" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/little_stones_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{7A879339-EBCB-DA03-12C6-9785BF94C6C2}" Name="GoldX947" Pos="1193.4174,335.54593,117.90747" FloorNumber="-1" Rotate="0.56876481,0.074741215,0.72471118,0.3817251" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{86FB5EC5-19C6-5448-2C25-05DA096397AE}" Name="GoldX931" Pos="1192.6472,336.88727,117.8887" FloorNumber="-1" Rotate="0.7184329,0.29806179,-0.62558508,-0.06047013" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{8C2F2718-F4E7-CC95-7541-CB8B43341784}" Name="BadBoyBus47" Pos="1197.2009,321.1691,117.78577" FloorNumber="-1" Rotate="0.52969658,-0.0068664174,0.0051076375,0.84814399" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{8C7CA83B-44D0-5603-0813-DF1380169CB3}" Name="GoldX948" Pos="1193.3265,335.18594,117.90164" FloorNumber="-1" Rotate="-0.45460352,0.36116594,0.61324698,0.53555852" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{9235C9EC-5C17-5FBD-0A9D-AEEEF69A8A10}" Name="DC2GunsSpawner261" Pos="1190.59,322.53,118.59376" FloorNumber="-1" Rotate="0.60128999,0.36324903,0.62498438,-0.34043375" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{9E3A8713-11C7-A9B5-90B5-F2B74EF435DA}" Name="GoldX953" Pos="1188.9821,335.2196,117.90542" FloorNumber="-1" Rotate="0.53567505,0.24209411,0.67395115,0.44747347" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{A07FB37D-1CB5-12C5-80C4-B94BCB5F35B9}" Name="GoldX980" Pos="1189.0197,333.00629,117.74492" FloorNumber="-1" Rotate="0.30012265,0.0023126297,0.0011304917,0.95389712" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{B15EF218-CE68-F938-0794-B3606F96AA0F}" Name="little_stones_a230" Pos="1183.4437,308.90424,117.2626" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/little_stones_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{B50C6F51-AC1D-C4FE-0ED2-78A757C3EC1B}" Name="GoldX981" Pos="1189.4447,332.89374,117.74682" FloorNumber="-1" Rotate="0.91116017,-0.00099059416,-0.0097798808,-0.41193521" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{BD83C788-BDBB-8CF0-9DBA-9D2EA6C64D62}" Name="middle_stones_a122" Pos="1188.2944,311.97415,117.51944" FloorNumber="-1" Rotate="0.99655789,0.022222364,-0.037699517,-0.070407957" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/middle_stones_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{CECCC065-6563-2A8D-14AD-42E66C6D749C}" Name="GoldX949" Pos="1193.7853,334.94113,117.90779" FloorNumber="-1" Rotate="0.14246719,0.29592732,0.65096015,0.68438369" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{DB9DA4CF-6E70-058E-3B62-42EE2220B73A}" Name="GoldX952" Pos="1192.063,335.2363,117.89143" FloorNumber="-1" Rotate="-0.0016910337,0.64402455,-0.29916424,0.70408124" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{E4C0C4E0-1F78-0199-592E-BC702B2C8A29}" Name="GoldX930" Pos="1194.4135,336.89929,117.88083" FloorNumber="-1" Rotate="0.56966549,-0.48539105,-0.48212615,0.45544615" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{EAE9A5DF-B96B-7682-36A7-71A70F686514}" Name="GoldX978" Pos="1189.7444,333.23737,117.7437" FloorNumber="-1" Rotate="0.91647094,0.0019405732,0.00026781752,0.40009645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{EC63E0AF-6395-C374-EE96-92843EADB7D6}" Name="GoldX983" Pos="1196.7538,335.1427,117.90628" FloorNumber="-1" Rotate="0.58285719,0.39316842,0.58983696,-0.39722589" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{F9BC6344-83B9-975F-903C-60E42D68F47A}" Name="little_stones_a231" Pos="1189.6232,308.47351,117.35219" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/little_stones_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="Outroads_D_GAMEPLAY" LayerGUID="{FED11E51-4AD8-4821-F1C8-6F45421F5B42}" Id="{FE3B0B2F-A04A-FFF4-5B21-C010A4F1185A}" Name="GoldX950" Pos="1192.9562,335.65924,117.84218" FloorNumber="-1" Rotate="0.9140563,0.26995251,-0.27990052,0.11524935" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

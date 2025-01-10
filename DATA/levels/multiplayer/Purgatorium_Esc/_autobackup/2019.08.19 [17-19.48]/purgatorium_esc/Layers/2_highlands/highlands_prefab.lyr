@@ -1,0 +1,30 @@
+<ObjectLayer>
+ <Layer Name="Highlands_PREFAB" FullName="2_Highlands/Highlands_PREFAB" GUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8366592" ParentGUID="{C72AB092-3F6C-2445-268A-3CFA4562C030}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Highlands_PREFAB" LayerGUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Id="{2B73D043-8CDD-28B4-7887-7577BAEFCC84}" Name="Prefab277" Pos="1094.5107,756.90814,187.46278" FloorNumber="-1" Rotate="0.99904823,0,0,-0.043619387" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{0D4CFF19-9377-C944-FF37-408B9D18EB00}" PrefabName="zhg_constructions.architecture.build_country_c"/>
+   <Object Type="Prefab" Layer="Highlands_PREFAB" LayerGUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Id="{36C1EE85-9DB7-88EF-AE7D-0166C9F6CE5F}" Name="Prefab307" Pos="743.11908,739.9397,190.36879" FloorNumber="-1" Rotate="0.73727739,0,0,-0.67559016" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{0902AFF5-D395-F3C6-B11F-36B34E77B6BD}" PrefabName="zhg_constructions.architecture.build_country_e"/>
+   <Object Type="Entity" Layer="Highlands_PREFAB" LayerGUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Id="{8B1AA5E6-34B5-EC77-A40E-439AAD10E98D}" Name="MH60_Blackhawk1" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="MH60_Blackhawk" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Heli" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esModularBehaviorTree="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" persistence="60" sightrange="200" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="HeliIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Prefab" Layer="Highlands_PREFAB" LayerGUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Id="{E547BC5C-A91E-B9A1-5D3D-4C4C332CD5A7}" Name="Prefab276" Pos="906.89398,931.11749,190.34915" FloorNumber="-1" Rotate="0.0871557,0,0,0.99619472" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{E22B0056-C1EE-3E05-3E72-317C2CEFAF42}" PrefabName="zhg_constructions.architecture.build_country_b"/>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

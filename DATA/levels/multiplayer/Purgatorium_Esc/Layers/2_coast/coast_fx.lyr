@@ -1,0 +1,310 @@
+<ObjectLayer>
+ <Layer Name="Coast_FX" FullName="2_Coast/Coast_FX" GUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="170" ParentGUID="{D874E14A-4373-E10D-B9DC-1676D4AFD585}">
+  <LayerObjects>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{07C0A230-C0DC-ED3E-2729-EB65E37C3B79}" Name="ParticleEntity19" Pos="411.42645,806.39777,217.89662" FloorNumber="-1" Rotate="0.64519066,0.75428331,-0.036873236,0.11587026" Scale="0.011936022,0.18531658,0.31380162" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="0.1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="0.2" Strength="0" TimeScale="0.7">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{0B75C34E-B7A4-B590-8CE2-9D6D7823DF1E}" Name="3d_rotation104" Pos="1480.8007,1407.7103,168.04768" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{0E473849-0421-2488-BDD9-01FAB027D610}" Name="3d_rotation103" Pos="1395.0959,1359.835,138.17265" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{1010AA4C-ECB5-460E-E29D-DA5D224DA379}" Name="3d_rotation99" Pos="1433.3176,1355.2612,147.20972" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{1D6A2F9D-1EB4-7278-E482-67861069F9D6}" Name="3d_rotation100" Pos="1480.8447,1405.8696,167.6674" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{2A2B9E5C-DBB4-D32D-973E-72892AD5943A}" Name="ParticleEntity22" Pos="397.73828,800.22778,223.62392" FloorNumber="-1" Rotate="0.52989662,0.67305201,-0.37320137,-0.35627413" Scale="0.06061589,0.94111168,1.59361" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="0.2" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.1" soclasses_SmartObjectClass="" SpeedScale="1.1" Strength="0" TimeScale="0.7">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{2B095E5D-4C66-2DE5-BCA0-F80712DA0D3B}" Name="3d_rotation108" Pos="1419.6775,1379.5533,147.39874" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{3662EBDC-A106-8AAD-4957-075FD4465480}" Name="ParticleEntity63" Pos="1031.0975,762.28247,181.658" FloorNumber="-1" Rotate="0.75413936,0.65464032,-0.038288143,-0.035410866" Scale="4.8943439,4.8943439,4.8943439" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{369083E5-59FF-DC4D-D927-83774AEEF55F}" Name="ParticleEntity32" Pos="1331.53,1367.3328,126.69749" FloorNumber="-1" Rotate="0.70710689,0.70710671,0,0" Scale="4.8943439,4.8943439,4.8943439" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{4816624D-3203-D358-A7D1-C7600B826207}" Name="ParticleEntity18" Pos="405.92654,928.9892,211.17166" FloorNumber="-1" Rotate="0.70105344,0.71264666,-0.025665335,-0.00024677371" Scale="0.039627593,0.615251,1.0418214" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="0.5" Strength="0" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{60242B28-4AB4-F980-E3FC-6388AADCF215}" Name="ParticleEntity58" Pos="1155.7273,754.74774,175.58974" FloorNumber="-1" Rotate="0.75413936,0.65464032,-0.038288143,-0.035410866" Scale="4.8943439,4.8943439,4.8943439" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{608C4904-9AC6-695D-C51A-159DE2F21347}" Name="ParticleEntity43" Pos="1481.1123,1413.282,169.23999" FloorNumber="-1" Rotate="0.70710689,0.70710671,0,0" Scale="2.6891999,2.6891999,2.6891999" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{60BCE047-44E7-FB5F-08C9-52D9DF7A8665}" Name="ParticleEntity20" Pos="407.79852,794.54022,213.24236" FloorNumber="-1" Rotate="0.16404057,0.34299573,-0.62507701,-0.68170607" Scale="0.011936022,0.18531658,0.31380162" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="0.1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="0.2" Strength="0" TimeScale="0.7">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{6D376E83-121E-2FB1-D8B4-2C7129FC4477}" Name="ParticleEntity50" Pos="1155.6906,754.98346,175.83171" FloorNumber="-1" Rotate="0.72756708,0.68227768,-0.052676983,-0.048667524" Scale="4.8943439,4.8943439,4.8943439" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{7C911EE6-8055-CEAA-D94F-9B1C8C562C7C}" Name="ParticleEntity16" Pos="426.11917,984.6225,211.63985" FloorNumber="-1" Rotate="0.70105344,0.71264666,-0.025665335,-0.00024677371" Scale="0.040023867,0.615251,1.0418214" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{7D20AB90-AF48-F088-59D9-5E5581C08125}" Name="3d_rotation105" Pos="1433.1415,1418.2518,167.37769" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{7F7EEE78-2B3F-D606-E36B-08ABC5BCBD76}" Name="ParticleEntity28" Pos="535.12433,849.36298,238.36572" FloorNumber="-1" Rotate="0.67437965,0.67437977,-0.21263111,-0.21263111" Scale="0.44893375,0.44893375,0.44893375" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.waterfall_collision.b">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.waterfall_collision.b" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="5">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{8323D57F-E66A-E002-6CC4-E94046DE9A3D}" Name="ParticleEntity26" Pos="399.09006,868.60376,222.31329" FloorNumber="-1" Rotate="0.16404057,0.34299573,-0.62507701,-0.68170607" Scale="0.19999999,0.19999999,0.19999999" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="0.1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="0.2" Strength="0" TimeScale="0.7">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{902FA88C-EAEA-6E38-E3BA-071E721F3CEC}" Name="ParticleEntity11" Pos="1481.1123,1413.282,169.23999" FloorNumber="-1" Rotate="0.70710689,0.70710671,0,0" Scale="2.6891999,2.6891999,2.6891999" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{959A703E-EDA0-FDBC-083D-9A0A8DF5ACBA}" Name="ParticleEntity29" Pos="612.69769,864.68121,196.41335" FloorNumber="-1" Rotate="0.69200516,0.6636616,0.13000531,0.25254884" Scale="0.14560573,0.14560573,0.14560573" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{98ED3F0D-659A-0DC9-2E18-4E2B6967FEB9}" Name="ParticleEntity69" Pos="1317.575,1442.1823,155.8127" FloorNumber="-1" Rotate="0.70710689,0.70710671,0,0" Scale="2.6891999,2.6891999,2.6891999" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="bullet.hit_concrete.c">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="bullet.hit_concrete.c" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{A4D3E3C9-75E2-9BEF-947C-5C9046AAD769}" Name="ParticleEntity51" Pos="1412.9785,1502.0682,158.31993" FloorNumber="-1" Rotate="-0.062208436,0.84517694,-0.52293557,0.091347419" Scale="0.057156526,0.057156526,0.057156526" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.4" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{A6E1A225-7004-DD66-F751-3E965DA948C1}" Name="ParticleEntity61" Pos="963.96063,1023.7535,141.29706" FloorNumber="-1" Rotate="0.70710689,0.70710671,0,0" Scale="4.8943439,4.8943439,4.8943439" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{AC6B4AA2-BEE9-A8D2-34AA-67975B9E0A04}" Name="ParticleEntity36" Pos="407.38974,794.18787,210.21161" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids.Splash1">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="0.1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids.Splash1" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="0.2" Strength="0" TimeScale="0.7">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{AD5CB095-8F21-F6BC-F7F5-17ED1B025992}" Name="ParticleEntity23" Pos="398.75186,800.06091,219.22229" FloorNumber="-1" Rotate="0.52989662,0.67305201,-0.37320137,-0.35627413" Scale="0.06061589,0.94111168,1.59361" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="0.2" NetworkSync="0" ParticleEffect="Particles/examples/volume.pfx" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.1" soclasses_SmartObjectClass="" SpeedScale="1.1" Strength="0" TimeScale="0.7">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{ADBFCA50-E1F3-1677-A0BF-41859180318B}" Name="ParticleEntity33" Pos="537.98907,874.61517,228.6554" FloorNumber="-1" Rotate="0.018410474,0.01841031,0.70686716,0.70686698" Scale="0.15026468,0.79696411,0.54713923" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{AE65D0E9-6798-04D4-A6A5-C7EDC3C0C0FB}" Name="ParticleEntity27" Pos="534.5072,847.17596,239.24638" FloorNumber="-1" Rotate="0.051810466,-0.021731623,0.5077275,0.85968375" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{AE9A5B99-2FE0-AEA7-A922-09DDB4FC10B4}" Name="ParticleEntity35" Pos="538.23853,881.19568,211.97179" FloorNumber="-1" Rotate="-0.0088756261,0.012107,0.8858003,0.46382383" Scale="0.15026468,0.79696411,1.9506052" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{B26092EB-3231-99AA-4D5B-CFC99452CF93}" Name="ParticleEntity42" Pos="616.07556,865.30481,186.67467" FloorNumber="-1" Rotate="0.067917824,0.95181692,0.29829043,-0.021320676" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{BBE551FB-1FBB-36B2-2208-86DCB5ED9805}" Name="ParticleEntity54" Pos="1143.2076,679.68365,197.34856" FloorNumber="-1" Rotate="0.6844278,0.67841369,-0.21454656,-0.15900673" Scale="4.8943439,4.8943439,4.8943439" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{CEBD0C98-657A-AD98-27F4-BB6A146D5D5E}" Name="3d_rotation101" Pos="1349.6693,1414.5205,149.72809" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{D201D00D-B569-2C8B-1D2F-9B29A11D79DB}" Name="3d_rotation106" Pos="1435.9742,1418.8817,167.84807" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{D91CF896-DB04-2C5E-D89F-92E41E8043AB}" Name="3d_rotation102" Pos="1352.9269,1411.86,149.88962" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{DBB4C528-5E44-7BCC-342A-9D077110795B}" Name="ParticleEntity37" Pos="535.61273,847.10138,239.34648" FloorNumber="-1" Rotate="0.051810466,-0.021731623,0.5077275,0.85968375" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{E0E31B67-8BD4-FF8C-DDA4-386D2EE7ED58}" Name="3d_rotation107" Pos="1429.2941,1392.3055,155.53751" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{F3046D8A-4844-AE71-C98A-F5EC88073BC6}" Name="ParticleEntity30" Pos="617.76984,862.09888,200.33382" FloorNumber="-1" Rotate="0.067917824,0.95181692,0.29829043,-0.021320676" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.rapids">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.rapids" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.2" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{F31A1EBC-AE6C-966C-E962-807F7F0326AF}" Name="ParticleEntity62" Pos="944.88281,772.07465,179.52461" FloorNumber="-1" Rotate="0.75413936,0.65464032,-0.038288143,-0.035410866" Scale="4.8943439,4.8943439,4.8943439" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="smoke_and_fire.fire_small">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="smoke_and_fire.fire_small" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Coast_FX" LayerGUID="{3C733CB2-B52D-0D1C-C622-FB6E39594449}" Id="{FFAA6639-2079-BBED-DF4E-09B75806AD4F}" Name="ParticleEntity14" Pos="1471.4341,1413.9337,166.53349" FloorNumber="-1" Rotate="0.67437965,0.67437977,-0.21263111,-0.21263111" Scale="0.80808073,0.80808073,0.80808073" ColorRGB="65535" MinSpec="2" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.waterfall_collision.b">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.waterfall_collision.b" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="5">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

@@ -1,0 +1,717 @@
+<ObjectLayer>
+ <Layer Name="St_A_Area_GAMEPLAY" FullName="1_Station_A_Area/St_A_Area_GAMEPLAY" GUID="{38976377-321C-101A-7160-B37ABAFFA415}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{F975FD0E-A79B-3E7C-CD1B-8E378AF27FAF}">
+  <LayerObjects>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{017BB753-144C-635E-2482-5AB66EBE68F9}" Name="large_stones_struc451" Pos="498.97421,909.47137,269.23343" FloorNumber="-1" Rotate="0.22773102,0.29687038,-0.30346996,0.87630624" Scale="3.1359999,3.1359999,3.1359999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{01C693D8-1E67-026D-8E3F-4A8D2867E897}" Name="GunsSpawner289" Pos="574.04309,925.51581,135.12277" FloorNumber="-1" Rotate="0.93969262,0,0,0.34202012" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{01E8367C-9F8E-6AB9-5E07-2BBD852C58D3}" Name="DC1GunsSpawner178" Pos="525.71027,993.81964,196.99133" FloorNumber="-1" Rotate="0.21263112,-0.67437965,0.21263111,0.67437977" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{07F85715-756D-9C28-8FAE-0532907856FA}" Name="GunsSpawner275" Pos="604.86212,950.92645,133.86137" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{09BAE20F-B049-12B1-C613-001AB9E62E26}" Name="DC1GunsSpawner180" Pos="444.07654,1006.7192,194.10013" FloorNumber="-1" Rotate="-0.24184477,-0.66446298,-0.24184473,0.6644631" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{0A32E66D-388F-D35D-AC19-42425B0A0E1B}" Name="GunsSpawner339" Pos="457.99573,923.34692,214.86099" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{0DD650B7-8B6B-CA56-E560-10681780EF09}" Name="GunsSpawner284" Pos="612.362,869.10712,134.34254" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{0E9A445A-4FFD-1D31-9F32-2CE2E40331F1}" Name="GunsSpawner502" Pos="667.17133,1110.7885,175.78172" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{0FCD9285-6716-C2CF-9C77-CDDBB9592780}" Name="GunsSpawner271" Pos="658.06342,964.01495,142.21176" FloorNumber="-1" Rotate="0.96592581,0,0,-0.2588191" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{0FF1BDE5-A8B4-1859-37DA-E7A51154BD50}" Name="large_stones_struc450" Pos="359.84973,549.35938,246.1976" FloorNumber="-1" Rotate="0.22773102,0.29687038,-0.30346996,0.87630624" Scale="3.1359999,3.1359999,3.1359999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{11ECE4E4-0F05-A080-19D5-9D69466BFFEC}" Name="GunsSpawner281" Pos="627.53491,953.67963,136.80478" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{1534013B-47E4-17D9-E683-73C57D7771BC}" Name="DC2GunsSpawner206" Pos="401.35568,851.48486,240.92249" FloorNumber="-1" Rotate="0.32650563,0.62721133,0.32650563,-0.62721133" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{1639924C-E93A-7806-1B4F-0803B3742432}" Name="GunsSpawner347" Pos="544.0119,900.60638,202.39221" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{16EE9685-1D12-E6D1-88D3-0D0702EAD763}" Name="large_stones_struc480" Pos="358.17273,530.4762,222.80762" FloorNumber="-1" Rotate="-0.32868299,0.46654543,0.059940726,0.81896889" Scale="1.96,1.96,1.96" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{16F09739-126A-A6AB-DD81-589122E67518}" Name="GunsSpawner280" Pos="631.09711,948.14856,137.0108" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{170153AC-557A-2D27-983E-3B263F9DEA3D}" Name="DC3GunsSpawner315" Pos="504.43787,830.48492,274.78458" FloorNumber="-1" Rotate="0.58794141,-0.053194433,0.80669379,-0.027210325" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC3GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{17EE6DCE-816F-B497-4831-97C725D9C48B}" Name="GunsSpawner372" Pos="425.45309,939.91028,213.46574" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{1951DDF0-5D99-E558-72BA-593C365B81E9}" Name="GunsSpawner274" Pos="670.33411,986.44128,148.75761" FloorNumber="-1" Rotate="0.79335332,0,0,-0.60876149" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{1A168EDC-8584-37EF-C1A4-FF8306A4CFC6}" Name="DC1GunsSpawner185" Pos="550.07281,844.38831,260.3446" FloorNumber="-1" Rotate="-0.43045932,0.56098557,-0.43045932,-0.56098551" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{1B3CE4EB-1402-F91F-E2A3-4C3870F12D47}" Name="GunsSpawner313" Pos="573.4444,1052.0913,186.79555" FloorNumber="-1" Rotate="0.95371693,0,0,-0.30070582" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{1B70C720-87C0-ACBC-8745-5BB3E0956778}" Name="DC1GunsSpawner184" Pos="549.8761,844.86108,260.3446" FloorNumber="-1" Rotate="-0.2988362,0.64085639,-0.2988362,-0.64085639" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{219DB274-DF80-80AA-C3B1-E96C2F3E0BA0}" Name="GunsSpawner366" Pos="403.19916,884.19592,223.20471" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{28138AF1-D1B7-101B-A578-33244E992ACA}" Name="DC1GunsSpawner179" Pos="526.82678,994.05981,196.68156" FloorNumber="-1" Rotate="0.21263112,-0.67437965,0.21263111,0.67437977" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{30831011-3FF0-43D8-102F-B1A06C5D3480}" Name="GunsSpawner288" Pos="575.27722,922.76227,135.12263" FloorNumber="-1" Rotate="0.93969262,0,0,0.34202012" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{3197C549-2100-85D1-C548-24DE569E952B}" Name="GunsSpawner265" Pos="611.07196,876.39856,134.22173" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{3737F3D3-B673-E9AD-F52F-2F6B78CB7DE6}" Name="GunsSpawner269" Pos="606.39673,933.22314,134.21886" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{3E3B09CB-F58F-E0CB-803C-620EACD7F2C2}" Name="GunsSpawner503" Pos="668.77612,1105.3982,180.16728" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{3F396EB3-E3AF-A9B9-A625-0F592DA1041C}" Name="DC1GunsSpawner176" Pos="465.35437,953.83234,212.98897" FloorNumber="-1" Rotate="0.3265056,-0.62721133,0.3265056,0.62721133" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{3F48069C-B27B-59AC-EED0-5D653AD55422}" Name="GunsSpawner291" Pos="603.68127,922.12756,136.67555" FloorNumber="-1" Rotate="0.93969262,0,0,0.34202012" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{3FCAB811-919E-05BF-BE03-3C961454A10C}" Name="GunsSpawner368" Pos="401.16043,884.97095,223.22025" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{427F704C-601A-70B6-89AE-04DC2A1A063D}" Name="GunsSpawner276" Pos="626.00922,953.71405,137.08896" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{43744B14-12BA-4972-9A2E-84F8046A60E4}" Name="GunsSpawner268" Pos="612.42041,906.77905,133.85793" FloorNumber="-1" Rotate="0.76604444,0,0,-0.64278764" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{437E4953-EAFD-80A9-FA61-4D9A8DB2CC42}" Name="large_stones_struc454" Pos="391.18021,947.47485,279.58926" FloorNumber="-1" Rotate="-0.36408064,-0.30863106,0.86767614,0.13903336" Scale="5.1430397,5.1430397,5.1430397" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{44C97D6A-559D-9AE2-8933-ADD0097700CD}" Name="large_stones_struc369" Pos="354.05026,539.28241,230.24615" FloorNumber="-1" Rotate="-0.32868299,0.46654543,0.059940726,0.81896889" Scale="3.1359999,3.1359999,3.1359999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{456A15C5-47AB-C2D5-0AB5-20A8C601C28F}" Name="DC2GunsSpawner209" Pos="439.91269,852.633,247.6881" FloorNumber="-1" Rotate="0.21263111,0.67437965,0.21263111,-0.67437965" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{47859DE9-0213-D49A-D12A-D8B4C79766B5}" Name="GunsSpawner338" Pos="458.36731,924.32007,214.21889" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{4BE72B59-5495-6CC3-39E7-5390BABF9905}" Name="DC1GunsSpawner186" Pos="542.63275,846.82147,246.81358" FloorNumber="-1" Rotate="-0.43045932,0.56098557,-0.43045932,-0.56098551" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{4DD5F33D-A0EC-B2F5-9531-150A69478A2A}" Name="GunsSpawner279" Pos="608.7113,910.10577,133.85793" FloorNumber="-1" Rotate="0.96592581,0,0,-0.25881904" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{4DFFF6BE-1E97-175D-68F5-C96AFF3E862B}" Name="GunsSpawner287" Pos="616.73663,853.96338,134.50896" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{4F272B1D-5EDE-4214-1E21-2795FCCCDBA6}" Name="BadBoyBus25" Pos="621.61511,963.95251,184.67189" FloorNumber="-1" Rotate="0.89919543,-0.0057291896,-0.034017168,-0.43618527" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{53153065-FBDB-F01C-6F52-AC6EA408F83D}" Name="GunsSpawner270" Pos="606.67688,933.03949,134.21886" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{55D0C75C-F690-7208-5FEF-6475F83CD3EE}" Name="GunsSpawner504" Pos="662.19867,1107.8,180.31046" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{5602F4C3-FED5-9C66-CB2E-060DA69C03D8}" Name="large_stones_struc453" Pos="522.19434,915.38336,259.82574" FloorNumber="-1" Rotate="-0.36408064,-0.30863106,0.86767614,0.13903336" Scale="3.1359999,3.1359999,3.1359999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{56C8CE24-1173-98AB-254E-5686D0E190A5}" Name="DC1GunsSpawner160" Pos="437.62003,970.04156,227.33395" FloorNumber="-1" Rotate="-0.27059796,-0.65328151,-0.27059799,0.65328151" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{59C8FE0F-BA01-97EF-5763-B2142049B29A}" Name="DC1GunsSpawner110" Pos="458.05939,923.17834,214.86099" FloorNumber="-1" Rotate="0.49999997,-0.49999997,0.49999997,0.49999997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{5B607E47-56F6-BBCB-DB5E-A550E0B5C048}" Name="GunsSpawner512" Pos="709.26599,1143.4473,174.71867" FloorNumber="-1" Rotate="0.99619466,0,0,0.08715573" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{5E87B527-5B81-A4AF-5313-EFF5E8DA3821}" Name="GunsSpawner283" Pos="652.21887,853.54089,133.82869" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{610C2F14-6EAF-D4F8-4BD3-B28426B75223}" Name="DC1GunsSpawner106" Pos="541.65808,896.57062,204.94363" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{6468D195-6578-6B27-F26C-5253FB7FC953}" Name="GunsSpawner476" Pos="435.74927,980.7226,231.80345" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{677D43DF-EEE8-7133-9D7C-61180FDE5737}" Name="GunsSpawner369" Pos="398.73495,885.7782,223.34052" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{6A47B37A-03DB-7C76-B491-921DEF54B7E3}" Name="BadBoyBusOpen6" Pos="557.20349,833.56458,259.55988" FloorNumber="-1" Rotate="0.64858472,-0.0086662937,0.069782473,-0.7578873" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBusOpen" HasEntity="1">
+    <Properties bAutoGenAIHidePts="0" bDisableEngine="0" bHeavyObject="0" bInteractLargeObject="0" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{6C4B3E1C-8A0E-6C58-863B-59FB1DAD000B}" Name="GunsSpawner267" Pos="612.01422,906.76819,133.85793" FloorNumber="-1" Rotate="0.96592581,0,0,-0.25881904" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{6E2C757E-E823-2AC1-8859-72F12CFFC0C4}" Name="GunsSpawner510" Pos="715.26593,1143.4283,174.55704" FloorNumber="-1" Rotate="0.99619466,0,0,0.08715573" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{75E1D318-DB1F-B708-9ABD-B601522D4037}" Name="GunsSpawner341" Pos="541.81689,897.25488,204.7113" FloorNumber="-1" Rotate="0.79335338,0,0,0.60876137" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{79133AC6-4055-74A4-29E2-13DA6495D1BC}" Name="GunsSpawner272" Pos="658.39606,964.05438,142.21176" FloorNumber="-1" Rotate="0.96592581,0,0,-0.2588191" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{7B13A41F-741F-30D6-DE2E-F1922D18CFCF}" Name="BadBoyBusOpen5" Pos="438.30984,1007.6432,210.56326" FloorNumber="-1" Rotate="0.9126991,0.031466842,0.0042484808,-0.40739682" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBusOpen" HasEntity="1">
+    <Properties bAutoGenAIHidePts="0" bDisableEngine="0" bHeavyObject="0" bInteractLargeObject="0" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bProvideAICover="1"/>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{874B6C74-0EB2-3F85-EFA5-2530D675C048}" Name="large_stones_struc108" Pos="363.40057,539.83569,216.45404" FloorNumber="-1" Rotate="0.8636021,-0.14004487,0.44904897,0.18147708" Scale="1.96,1.96,1.96" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{8B911A13-50C1-2AD9-40B0-80873AF0067A}" Name="GunsSpawner371" Pos="425.37686,940.19586,213.46574" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{8DF88C11-3C12-99BB-7205-BFB3EC29A1D7}" Name="GunsSpawner511" Pos="714.9693,1143.8687,174.55704" FloorNumber="-1" Rotate="0.84339142,0,0,0.53729957" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{8F646903-843E-BBF5-5994-5448AE1E92C7}" Name="GunsSpawner479" Pos="433.83383,973.35425,231.80345" FloorNumber="-1" Rotate="0.95371699,0,0,0.30070579" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{90995E41-2AEF-09F8-87D4-864E30B32561}" Name="GunsSpawner273" Pos="670.07092,986.64868,148.75761" FloorNumber="-1" Rotate="0.79335332,0,0,-0.60876149" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{965DE075-425C-E645-87C5-C32EBB15E83F}" Name="GunsSpawner292" Pos="602.44714,924.8811,136.67569" FloorNumber="-1" Rotate="0.93969262,0,0,0.34202012" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{96ACE492-E73E-480D-3CEE-2BDF7D02069E}" Name="DC2GunsSpawner208" Pos="393.694,810.36481,241.14575" FloorNumber="-1" Rotate="-0.27059799,0.65328145,-0.27059799,-0.65328145" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{97B046DE-CAAD-6F3B-80E2-0CC49FD260E0}" Name="DC1GunsSpawner143" Pos="437.56317,969.75952,227.33395" FloorNumber="-1" Rotate="-0.32650548,-0.62721139,-0.32650551,0.62721145" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{98042387-0D19-1F86-1767-F215F1DEFEBA}" Name="GunsSpawner336" Pos="432.37457,912.29089,214.26479" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{98C5ED36-D0B1-8AB2-5545-1B816B4E84B0}" Name="GunsSpawner474" Pos="437.9541,970.62219,226.99467" FloorNumber="-1" Rotate="0.79335338,0,0,0.60876143" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{99400680-D9B9-54F2-F8C2-C106F42A0D19}" Name="GunsSpawner365" Pos="402.93079,883.99548,223.20471" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{995E691A-085A-A095-0F66-23DBF8CD4814}" Name="GunsSpawner477" Pos="437.01147,979.92444,231.80345" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{9EDA199B-2C95-78F9-33A1-6F86D2F3D48A}" Name="DC2GunsSpawner207" Pos="393.03485,808.83722,241.12166" FloorNumber="-1" Rotate="0.69636422,0.12278774,0.69636422,-0.12278774" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{9FD53C39-082D-AEA9-89F7-41B63823602A}" Name="GunsSpawner345" Pos="545.39624,901.18933,202.39221" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{A01BA0F8-6AFC-0902-8528-FECD8258E383}" Name="GunsSpawner264" Pos="617.56116,856.86597,134.34261" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{A0D04FB3-D285-98CF-E7FE-5410A8B8C59B}" Name="large_stones_struc_b92" Pos="372.18774,495.16562,213.53398" FloorNumber="-1" Rotate="0.98980516,-0.034631997,0.051468015,-0.12820847" Scale="4.0599999,4.0599999,4.0599999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/large_stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{A41C85E1-B940-2BB3-8737-30F4F0DE1F77}" Name="GunsSpawner373" Pos="424.01694,963.95471,223.08986" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{A5A234C6-8E9A-D1A2-1A16-2A18FB2E2B1C}" Name="large_stones_struc452" Pos="488.8074,922.0672,268.26312" FloorNumber="-1" Rotate="0.5547322,0.30079311,-0.77575487,-0.00027568371" Scale="3.1359999,3.1359999,3.1359999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{A6337ECE-AD47-E06F-9DF3-A60893CC3E9C}" Name="GunsSpawner266" Pos="611.16412,876.74945,134.22173" FloorNumber="-1" Rotate="0.96592581,0,0,-0.25881904" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{A758634A-AF31-8E30-D592-8C419D7EF46B}" Name="GunsSpawner370" Pos="375.15158,789.25562,215.08018" FloorNumber="-1" Rotate="1,5.7105382e-08,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{AA9521BE-A20A-ABC6-2B9B-2BCD9198ED25}" Name="DC1GunsSpawner202" Pos="388.03183,851.63782,213.17955" FloorNumber="-1" Rotate="0.64085633,-0.29883623,0.64085633,0.29883623" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{ABE5AF26-177D-C228-7A70-6C35C3A4204C}" Name="DC1GunsSpawner104" Pos="625.05255,873.11566,193.35745" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{B00FFB6C-7F94-2941-BD6E-6F1B8D6097E7}" Name="GunsSpawner296" Pos="675.98267,973.59094,147.16093" FloorNumber="-1" Rotate="0.70710683,0,0,0.70710671" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{B144FC28-7755-6A6B-3864-0EC9550408AE}" Name="GunsSpawner374" Pos="424.04242,963.66022,223.08986" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{B631E456-3D5A-B9F5-B743-58FB3638E185}" Name="GunsSpawner282" Pos="650.25085,898.16113,133.10034" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{B6369161-0153-3E29-502C-5409AF331796}" Name="GunsSpawner343" Pos="601.29089,881.89862,194.12885" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{B68B2BE4-7B4D-54EC-4DDA-8EA46DA12B1B}" Name="GunsSpawner337" Pos="429.44467,879.42938,214.37497" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{BA33958D-FB0E-BA34-A277-2C0E70A368B1}" Name="GunsSpawner505" Pos="662.14343,1107.5183,180.31046" FloorNumber="-1" Rotate="0.98480773,0,0,-0.17364818" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{C02DCED2-AEFD-731A-BF72-D276A33BFAAA}" Name="BadBoyBusOpen17" Pos="453.43326,984.94531,210.81781" FloorNumber="-1" Rotate="0.71890545,0.0062610963,-0.019900329,-0.69479477" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBusOpen" HasEntity="1">
+    <Properties bAutoGenAIHidePts="0" bDisableEngine="0" bHeavyObject="0" bInteractLargeObject="0" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{C1F2AEA0-2F7E-0271-4631-750C0079F3B8}" Name="DC1GunsSpawner161" Pos="435.3407,980.67963,231.80345" FloorNumber="-1" Rotate="-0.12278774,-0.69636416,-0.12278774,0.69636416" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{C4F16B24-B5CB-A5AE-BFA7-82C5710EEDFE}" Name="Prefab184" Pos="427.1741,998.80206,210.60001" FloorNumber="-1" Rotate="0.88701075,0,0,0.46174872" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{C5D0A184-6C7F-D07B-B9BD-B3EAFD552A58}" Name="GunsSpawner367" Pos="401.56372,885.12073,223.22025" FloorNumber="-1" Rotate="0.88701081,0,0,-0.4617486" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{CBF27BA4-11BC-6DB6-D70C-1836CF22D8FD}" Name="GunsSpawner293" Pos="704.89319,943.92224,147.66411" FloorNumber="-1" Rotate="0.70710683,0,0,0.70710671" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{CC381650-DAD8-6BE4-3D10-98ADA2EB80E5}" Name="GunsSpawner286" Pos="567.95404,891.79327,134.23663" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{CCB963B7-D582-E3BD-68F4-CE04B6D86FAD}" Name="DC1GunsSpawner105" Pos="601.50635,882.02808,194.26033" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{CEAC9A3F-58AD-9F7A-A4F4-3C1BC33E4441}" Name="GunsSpawner277" Pos="645.33691,954.15729,137.08896" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{D1F46EB5-7B48-2A50-C92C-AFDE539AED5D}" Name="GunsSpawner346" Pos="544.36829,898.95422,202.39221" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{D7ECBB9A-11CB-4D81-7789-87D2261732F3}" Name="DC1GunsSpawner111" Pos="432.49982,912.55084,214.26479" FloorNumber="-1" Rotate="0.49999997,-0.49999997,0.49999997,0.49999997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{D9326E74-0F04-9343-E2D9-5B85B3F61FCB}" Name="Prefab215" Pos="569.30164,846.54987,260.08774" FloorNumber="-1" Rotate="-0.79335338,0,0,0.60876131" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{D9C74ECC-33B7-ADE2-9D0C-536CA9CA2AA5}" Name="GunsSpawner478" Pos="436.72784,980.17957,231.80345" FloorNumber="-1" Rotate="0.95371699,0,0,0.30070579" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{DAA588DE-392A-D40F-E791-41BACB85B657}" Name="DC1GunsSpawner163" Pos="433.48074,973.59692,231.80345" FloorNumber="-1" Rotate="-0.54167509,-0.45451945,-0.54167509,0.45451945" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{DAD6D680-1FA0-9E99-F467-E7B281122D06}" Name="GunsSpawner295" Pos="678.88525,972.76648,147.35341" FloorNumber="-1" Rotate="0.70710683,0,0,0.70710671" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{DB31C0CC-792E-FCB9-7EB3-D4A6F3485999}" Name="DC1GunsSpawner162" Pos="436.84387,979.6131,231.80345" FloorNumber="-1" Rotate="-0.54167509,-0.45451945,-0.54167509,0.45451945" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{DE09C34E-91D8-A4FF-2EDB-25F0CB3ED515}" Name="GunsSpawner278" Pos="645.71899,954.27502,137.08896" FloorNumber="-1" Rotate="0.95371693,0,0,-0.30070582" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{DF3CD8BF-3879-2A80-AE15-CAC4B00625BF}" Name="GunsSpawner475" Pos="437.85135,969.02338,227.33395" FloorNumber="-1" Rotate="0.79335338,0,0,0.60876143" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{E481B318-4F6E-7337-985D-50BA3E313140}" Name="DC2GunsSpawner245" Pos="535.52252,849.14301,248.12247" FloorNumber="-1" Rotate="0.52307397,-0.47875428,0.48979762,0.50723398" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{E9B8667E-5374-94F9-783D-54D440E6BCD0}" Name="GunsSpawner507" Pos="691.98578,1118.6849,176.95602" FloorNumber="-1" Rotate="0.99619466,0,0,0.08715573" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{E9D73BBD-8748-BCB7-F0B7-3AA255785100}" Name="DC2GunsSpawner346" Pos="444.30145,1005.7157,194.4099" FloorNumber="-1" Rotate="0.70266318,0.12044487,-0.68909377,0.13002811" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC2GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{EC094CC2-DCF8-7938-A5AE-CC9DC4B010A5}" Name="DC1GunsSpawner61" Pos="389.89059,585.32104,215.26546" FloorNumber="-1" Rotate="0.73318881,0.0013519144,0.67758709,0.057516485" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC1GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{F69E8311-8087-5A0B-7202-065E2B7E2070}" Name="GunsSpawner451" Pos="526.40723,993.91571,196.68156" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="75"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{F7CFC25F-F5CF-3F96-1053-5198DC6838A6}" Name="large_stones_struc455" Pos="371.08969,959.64191,279.58929" FloorNumber="-1" Rotate="-0.079986259,0.42165816,0.76927137,-0.47331613" Scale="5.1430397,5.1430397,5.1430397" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/rock_a.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{F7D82913-94DD-6577-8577-CEC92DCDCEB1}" Name="GunsSpawner344" Pos="602.04004,882.30432,194.38663" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_A_Area_GAMEPLAY" LayerGUID="{38976377-321C-101A-7160-B37ABAFFA415}" Id="{FB137905-A363-E259-8D61-535A17CD0766}" Name="BadBoyBusOpen7" Pos="595.79388,962.29358,184.17639" FloorNumber="-1" Rotate="0.96529639,-0.0011535144,0.03603217,-0.25865677" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBusOpen" HasEntity="1">
+    <Properties bAutoGenAIHidePts="0" bDisableEngine="0" bHeavyObject="0" bInteractLargeObject="0" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bProvideAICover="1"/>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

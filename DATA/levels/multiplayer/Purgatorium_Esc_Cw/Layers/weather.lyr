@@ -1,0 +1,51 @@
+<ObjectLayer>
+ <Layer Name="Weather" FullName="Weather" GUID="{C63BE3DD-5CEA-456C-59A1-D27B6EF3A697}" Hidden="1" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Weather" LayerGUID="{C63BE3DD-5CEA-456C-59A1-D27B6EF3A697}" Id="{5B3A32AB-A8D2-64A4-6CB4-FF3E27521EF9}" Name="WeatherControl" Pos="775.52026,1469.5186,255.90506" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="Weather" LayerGUID="{C63BE3DD-5CEA-456C-59A1-D27B6EF3A697}" Id="{77D74DB1-279D-5DE7-2BE9-EBDA97B18AE9}" Name="Snow1" Pos="788.42358,1503.1965,304.02295" FloorNumber="-1" Rotate="0.99984771,0.017452406,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Snow" HasEntity="1">
+    <Properties bEnabled="0" fRadius="5000">
+     <SnowFall fBrightness="0" fCircleOfParticlesOffsetToCenter="0" sCircleOfParticlesPName="" fCircleOfParticlesPSize="5" bEnableCircleOfParticles="0" fGravityScale="0.1" nSnowFlakeCount="100" fSnowFlakeSize="1" fTurbulenceFreq="0.1" fTurbulenceStrength="0.5" fWindScale="0.1"/>
+     <Surface fFrostAmount="1" fSnowAmount="10" fSurfaceFreezing="1"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Weather" LayerGUID="{C63BE3DD-5CEA-456C-59A1-D27B6EF3A697}" Id="{9B88C897-8C16-BB5D-4C4D-B6BEA6787971}" Name="Lightning1" Pos="774.17041,1466.1824,255.63095" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Lightning" HasEntity="1">
+    <Properties bActive="0" fDistance="0" fDistanceVariation="0.2" bRelativeToPlayer="0">
+     <Audio audioRTPCDistanceRtpc="" audioTriggerPlayTrigger="Play_l_global_sfx_thunder" fSpeedOfSoundScale="1" audioTriggerStopTrigger=""/>
+     <Effects LightIntensity="1" LightRadius="10000" ParticleEffect="weather.lightning.lightningbolt1" ParticleScale="1" ParticleScaleVariation="0.2" SkyHighlightAtten="10" color_SkyHighlightColor="0.8,0.8,1" SkyHighlightMultiplier="1" SkyHighlightVerticalOffset="0"/>
+     <Timing fDelay="10" fDelayVariation="0.5" fLightningDuration="0.2"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Weather" LayerGUID="{C63BE3DD-5CEA-456C-59A1-D27B6EF3A697}" Id="{C8002AAF-B350-A880-EDD4-38201512B233}" Name="Snow3" Pos="790.09814,1467.3452,255.62914" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Snow" HasEntity="1">
+    <Properties bEnabled="0" fRadius="5000">
+     <SnowFall fBrightness="5" fCircleOfParticlesOffsetToCenter="0" sCircleOfParticlesPName="" fCircleOfParticlesPSize="5" bEnableCircleOfParticles="0" fGravityScale="0.1" nSnowFlakeCount="1000" fSnowFlakeSize="1" fTurbulenceFreq="0.1" fTurbulenceStrength="0.5" fWindScale="0.1"/>
+     <Surface fFrostAmount="0" fSnowAmount="0" fSurfaceFreezing="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Weather" LayerGUID="{C63BE3DD-5CEA-456C-59A1-D27B6EF3A697}" Id="{D475788E-ABDB-FAA1-3E44-8765C5092BAA}" Name="EnviromentRain1" Pos="1034.6245,1171.3542,117.35822" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Rain" HasEntity="1">
+    <Properties fAmount="1" clrColor="1,1,1" fDiffuseDarkening="0" bDisableOcclusion="0" bEnabled="0" fFakeGlossiness="0" fFakeReflectionsAmount="0" bIgnoreVisareas="0" fMistAmount="5" fMistHeight="8" fPuddlesAmount="1" fPuddlesMaskAmount="1" fPuddlesRippleAmount="0" fRadius="10000" fRainDropsAmount="0" fRainDropsLighting="0" fRainDropsSpeed="0" fSplashesAmount="0"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

@@ -1,0 +1,36 @@
+<ObjectLayer>
+ <Layer Name="St_B_Area_LIGTH" FullName="1_Station_B_Area/St_B_Area_LIGTH" GUID="{D02A988A-CB39-9A82-0C6E-9D452B23F55E}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="65535" ParentGUID="{FFB30205-C382-9918-5B26-F703C9489F8F}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="St_B_Area_LIGTH" LayerGUID="{D02A988A-CB39-9A82-0C6E-9D452B23F55E}" Id="{37165B37-A86B-8403-AE2C-C37E213F2C33}" Name="Light838" Pos="1270.5629,1723.5082,212.4055" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0.1" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.262251,0.00913406" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="St_B_Area_LIGTH" LayerGUID="{D02A988A-CB39-9A82-0C6E-9D452B23F55E}" Id="{6199E255-74CF-EDD0-4380-1CB58A112613}" Name="lamp137" Pos="1270.5775,1723.5096,212.40411" FloorNumber="-1" Rotate="-0.48172048,0,0,0.87632495" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/lights/lamp/lamp.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="150" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="St_B_Area_LIGTH" LayerGUID="{D02A988A-CB39-9A82-0C6E-9D452B23F55E}" Id="{8C1B1EC9-F1EF-C2E2-BE54-8D66A4BAE612}" Name="EL_hangar_1st_floor_c4" Pos="1266.6409,1720.0358,208.65764" FloorNumber="-1" Rotate="0.98593223,0,0,-0.16714567" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="20" BoxSizeY="15" BoxSizeZ="20" _nVersion="-1">
+     <Color clrDiffuse="1,0.89627,0.783538" fDiffuseMultiplier="3" fSpecularMultiplier="3"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.1" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="5" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\el_hangar_1st_floor_c7_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

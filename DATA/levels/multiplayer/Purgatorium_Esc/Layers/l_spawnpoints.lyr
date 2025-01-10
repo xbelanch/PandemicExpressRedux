@@ -1,0 +1,1121 @@
+<ObjectLayer>
+ <Layer Name="l_spawnpoints" FullName="l_spawnpoints" GUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{0312ED58-20A4-365B-CFEC-34E6DE4C3A98}" Name="SpawnRandomPnt1" Parent="{70407365-D1ED-0759-11C5-91B45E20639A}" Pos="0,0,0.23832703" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{03B47B6F-6025-BC90-F0B0-8BD9047D6E06}" Name="SpawnPointVokzal101" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.703125,-1.5396729,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{04EE9793-3A92-7A06-80F0-693D0B00AF0A}" Name="SpawnPointVokzal132" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.015869141,-1.1297607,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{06008A9E-052B-F474-4BE3-90FB73601A95}" Name="SpawnPointVokzal25" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.3618164,-2.7617188,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{07D47110-9776-83DC-85F1-59CA9C7F3006}" Name="SpawnPointVokzal13" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.0004883,-2.6051025,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{07FC7A0A-D23D-8BE7-A295-8FB743D9A540}" Name="SpawnPointVokzal134" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.3222656,-1.3356934,-0.28219604" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{08170D6E-00A4-098A-171A-B6D01D0ABD8A}" Name="SpawnPointVokzal48" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.619873,-1.6461182,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{08D53AFE-B649-D211-EBF1-975387786EB5}" Name="SpawnPointVokzal109" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.5727539,-1.4588623,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{0A9E3BFB-E55C-DF78-4C5F-CE9AC3E46D33}" Name="SpawnPointVokzal87" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.20947266,-4.8519287,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{0E4ADDEF-D3FF-6864-9EB9-1180A61B706A}" Name="SpawnPointVokzal115" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.4814453,-2.848877,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{0E76D540-65B4-0BC5-8A8F-77CCA9A92C50}" Name="SpawnPointVokzal91" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.7724609,-0.72033691,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{0E94B101-0931-CC62-6B75-BD599CACE78F}" Name="SpawnPointVokzal95" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.4499512,-1.5128174,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{0FD6BEE4-0704-213D-BA65-DC0D61E4D43A}" Name="SpawnPointVokzal99" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.6809082,-1.7679443,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{1064BE11-A7B6-8D50-8818-6232305CFC26}" Name="SP_Mark_Sphe6" Pos="957.12665,1629.9799,155.13393" FloorNumber="-1" Rotate="-0.50000012,0,0,0.86602533" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_sphere_noproxy.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{119F7B81-6E95-7578-57CB-4A206BD1FAF7}" Name="SpawnPointVokzal81" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.9382324,-2.9302979,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{125E3EE6-3202-AC27-9BA7-7B6B99129EAE}" Name="SpawnPointVokzal144" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.7375488,-2.8276367,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{13313104-98A5-43F2-0C5F-8186B5DC0A1C}" Name="SpawnPointVokzal150" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.4943848,-1.7854004,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{13E4DDAA-979F-664B-8595-8A07204D2E1A}" Name="SpawnPointVokzal5" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.7646484,-2.539917,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{151015EA-61BD-89C7-A9F2-1697291BBD67}" Name="SpawnPointVokzal128" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.9870605,-1.8031006,-0.28219604" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{1523C322-B73E-025F-4D04-65753084B0F3}" Name="SpawnPointVokzal79" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.4846191,-2.9888916,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{15F8ED5B-FF71-DA7C-2147-8075156A1ED6}" Name="SpawnPointVokzal82" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.4504395,-2.0625,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{19A3550B-88E8-CADF-4C8B-11B3FC051D35}" Name="SP_Mark_Sphe4" Pos="1325.459,538.49188,129.19717" FloorNumber="-1" Rotate="-0.99619472,0,0,0.087155759" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_sphere_noproxy.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{19CDC8E5-9704-33F5-DB89-24E091597E91}" Name="SpawnPointVokzal12" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.22021484,-1.3536377,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{19D2D413-3801-CB15-30E2-FDFC4D391DE9}" Name="SpawnPointVokzal64" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.0429688,-3.0985107,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{1AA18087-307A-383C-D23F-20AE65697A7D}" Name="SpawnPointVokzal118" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.1179199,-1.5941162,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{1C69A0A2-EE44-6792-5310-02F09D3B03AF}" Name="spawn_pts1" Pos="3049.0791,1192.7993,148.87033" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{1E59647B-C325-929D-DD50-597531EE0440}" Name="SpawnPointVokzal31" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.8120117,-2.9285889,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{1F3DD7EF-C8AD-3515-B902-3BBD3897C20F}" Name="SpawnPointVokzal42" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.3459473,-5.0227051,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{20EA0FC3-647B-FA8A-17F0-97A97169631D}" Name="SpawnPointVokzal60" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.12231445,-1.4970703,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{217EF670-CF28-2895-C8C7-041772556A7D}" Name="SpawnPointVokzal98" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.0332031,-0.70056152,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2249B96D-493B-19D7-2037-8AA745880CF9}" Name="SpawnPointVokzal96" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.26953125,-1.2598877,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{22B45298-B769-BE84-0144-2EF18E62C101}" Name="SpawnPointVokzal23" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.1071777,-0.33508301,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2562BE5E-32E1-130A-7765-19B4A35F5176}" Name="SpawnPointVokzal153" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.5065918,-1.6217041,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{25D3D852-6C5A-63F4-D70A-AD907A5F63A9}" Name="SpawnPointVokzal41" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.9682617,-4.6870117,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{28753F74-AA8E-2C8E-7E17-C20779D51D06}" Name="SpawnPointVokzal89" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.746582,-1.0712891,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{29E471DA-6453-FC28-C523-86B49A70BA36}" Name="SpawnPointVokzal37" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.0915527,-1.803833,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2C9C8D4A-D1C4-F0C5-A122-3F34BE67614D}" Name="SpawnPointVokzal125" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.27832031,-4.1697998,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2DF192FD-C909-AD88-0262-3BAE9DCDCF70}" Name="SpawnPointVokzal78" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.5644531,-1.8978271,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2E0EC524-B710-6D43-3CBE-76CC5FBEFBF3}" Name="SpawnPointVokzal138" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.104248,-4.0137939,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2E35BA0A-0BCC-6175-677C-C076774CEB66}" Name="SpawnPointVokzal53" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.2719727,-1.9829102,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2F41956D-0B67-3C89-5CB4-63C4EED17C89}" Name="SpawnPointVokzal107" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.4008789,-0.92553711,-0.36956787" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2F788BFD-8CD1-FB40-41AB-65FDECE8E433}" Name="SpawnPointVokzal57" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.7001953,-5.2225342,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{2FF8774D-B065-29FE-E0B1-AC6CED6C5619}" Name="SpawnPointVokzal4" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.4614258,-2.2663574,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{33189956-83F4-E711-BD55-3CD48D641856}" Name="SpawnPointVokzal62" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.2033691,-2.1621094,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{33DBDF83-F7AE-2CA6-B850-6A684C392C2D}" Name="SpawnPointVokzal97" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.9775391,-1.5825195,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{3A63B74D-AE08-A0CB-25BF-9ED1BAD8CED2}" Name="SpawnPointVokzal126" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.33374023,-4.9195557,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{3BE78DF9-0822-B824-17B5-4E5FBA2055FA}" Name="SpawnPointVokzal43" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.2087402,-5.4587402,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{3C6A1EEF-B78B-FCAE-5CD9-06ED0F6FF2AA}" Name="SpawnPointVokzal20" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.016845703,-0.27270508,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{41B503B6-F5B7-5879-560B-0811AB2E37EB}" Name="SpawnPointVokzal90" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.4675293,-4.8751221,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{42650E3E-AEB7-FB25-E870-E1B32225C1DD}" Name="SpawnPointVokzal54" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.1584473,-1.9486084,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{435267A8-D761-D184-A012-E4FD1531785B}" Name="SpawnPointVokzal142" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.9057617,-0.53271484,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{43CEF7A7-BDCD-E740-17E3-7571F700E8CD}" Name="SpawnPointVokzal10" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.032958984,-1.1699219,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{475544A4-90E1-EAB8-6654-302D5B5B42E2}" Name="SpawnPointVokzal103" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.4345703,-1.7474365,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Designer" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{47986784-223A-40F6-E5B3-B45FCB07E4C5}" Name="SP_Desig5" Parent="{D3E01A94-8BD3-9D68-73E0-61158BACE371}" Pos="17.405029,-0.91003418,-0.49000549" FloorNumber="-1" Rotate="0.99904823,0,0,-0.043619387" ColorRGB="16777215" Material="EngineAssets/TextureMsg/DefaultSolids" RndFlags="1073741832" StaticObjFlags="0" ViewDistRatio="100">
+    <Brush DesignerModeFlags="0" SubdivisionLevel="0" SubdivisionSmoothingGroup="0" MirrorPlaneNormal="0,0,0" MirrorPlaneDistance="0">
+     <Polygon GUID="{90A0520E-DE77-57FB-001A-C4311810BA16}" BinaryData="BgAAAAAAAAAAIDXAAAAAAACATMAAAAAAAAD+PwAAAAAAIDXAAAAAAABwSsAAAAAAAAD+PwAAAAAAwD7AAAAAAABwSsAAAAAAAAD+PwAAAAAAwD7AAAAAAABAUcAAAAAAAAD+PwAAAAAAIDjAAAAAAABAUcAAAAAAAAD+PwAAAAAAIDjAAAAAAACATMAAAAAAAAD+PwYAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAABAAAAAQAAAAFAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA/r8AAKnBAABkQgAAqcEAgFNCAAD2wQCAU0IAAPbBAACKQgAAwcEAAIpCAADBwQAAZEI="/>
+     <Polygon GUID="{FFE5FB02-9E64-99FC-6874-6E4116C8A773}" BinaryData="BAAAAAAAAAAA4DPAAAAAAABgU8AAAAAAAAD+PwAAAAAA4DPAAAAAAACoVMAAAAAAAAD+PwAAAAAAACHAAAAAAACoVMAAAAAAAAD+PwAAAAAAACHAAAAAAABgU8AAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAAn8EAAJtCAACfwQBApUIAAAjBAEClQgAACMEAAJtC"/>
+     <Polygon GUID="{76BE3F00-8F87-F227-5384-152175088998}" BinaryData="BAAAAP///////xrAAAAAAABoUsAAAAAAAAD+P////////xrAAAAAAAAQU8AAAAAAAAD+PwAAAAAAgBDAAAAAAAAQU8AAAAAAAAD+PwAAAAAAgBDAAAAAAABoUsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAA2MAAQJNCAADYwACAmEIAAITAAICYQgAAhMAAQJNC"/>
+     <Polygon GUID="{D23128D7-8879-8267-9648-C71CF4CAD7A5}" BinaryData="BgAAAAAAAAAAACfAAAAAAABgUcAAAAAAAAD+P////////xrAAAAAAABgUcAAAAAAAAD+P////////xrAAAAAAAAoUMAAAAAAAAD+PwAAAAAAABzAAAAAAABgTMAAAAAAAAD+PwAAAAAAACfAAAAAAABgTMAAAAAAAAD+PwAAAAAAABzAAAAAAAAoUMAAAAAAAAD+PwYAAAAAAAAAAQAAAAEAAAACAAAAAwAAAAQAAAAEAAAAAAAAAAIAAAAFAAAABQAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA/r8AADjBAACLQgAA2MAAAItCAADYwABAgUIAAODAAABjQgAAOMEAAGNCAADgwABAgUI="/>
+     <Polygon GUID="{1D0C4BDA-0EDF-0279-7F5D-93F0AECC91B9}" BinaryData="BAAAAP///////xrAAAAAAAAoUMAAAAAAAAD+P////////xrAAAAAAABgTMAAAAAAAAD+PwAAAAAAABzAAAAAAABgTMAAAAAAAAD+PwAAAAAAABzAAAAAAAAoUMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAwAAAAAAAAACAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAA2MAAQIFCAADYwAAAY0IAAODAAABjQgAA4MAAQIFC"/>
+     <Polygon GUID="{C0C034C2-C661-9E5F-F477-E50E69D8A9D4}" BinaryData="CAAAAAEAAAAAABvAAAAAAABgTMAAAAAAAAD+PwEAAAAAABvAAAAAAAAoUMAAAAAAAAD+PwAAAAAAABzAAAAAAABgTMAAAAAAAAD+PwIAAAAAAAfAAAAAAAAoUMAAAAAAAAD+PwIAAAAAAAfAAAAAAABATsAAAAAAAAD+PwAAAAAAAA3AAAAAAAAATMAAAAAAAAD+PwAAAAAAABzAAAAAAAAATMAAAAAAAAD+PwAAAAAAAA3AAAAAAABATsAAAAAAAAD+PwgAAAAAAAAAAQAAAAIAAAAAAAAAAQAAAAMAAAADAAAABAAAAAUAAAAGAAAABgAAAAIAAAAHAAAABQAAAAQAAAAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwPwAAAAAAAP6/AADYwAAAY0IAANjAAECBQgAA4MAAAGNCAAA4wABAgUIAADjAAAByQgAAaMAAAGBCAADgwAAAYEIAAGjAAAByQg=="/>
+     <Polygon GUID="{5A30E9C6-308C-A851-57FD-666894D2EC4A}" BinaryData="BgAAAAIAAAAAAAfAAAAAAAAATMAAAAAAAAD+PwIAAAAAAAfAAAAAAABATsAAAAAAAAD+PwAAAAAAAA3AAAAAAAAATMAAAAAAAAD+PwAAAAAAAPQ/AQAAAACwSsAAAAAAAAD+PwAAAAAAAA3AAQAAAACwSsAAAAAAAAD+PwAAAAAAAPQ/AAAAAABATsAAAAAAAAD+PwYAAAAAAAAAAQAAAAIAAAAAAAAAAwAAAAQAAAAEAAAAAgAAAAEAAAAFAAAABQAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA/r8AADjAAABgQgAAOMAAAHJCAABowAAAYEIAAKA/AIBVQgAAaMAAgFVCAACgPwAAckI="/>
+     <Polygon GUID="{B49A529E-CA38-B480-263D-EC6FF1916683}" BinaryData="BAAAAAIAAAAAAAfAAAAAAABATsAAAAAAAAD+PwIAAAAAAAfAAAAAAAAATMAAAAAAAAD+PwAAAAAAAA3AAAAAAAAATMAAAAAAAAD+PwAAAAAAAA3AAAAAAABATsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAAOMAAAHJCAAA4wAAAYEIAAGjAAABgQgAAaMAAAHJC"/>
+     <Polygon GUID="{38A1FD06-019B-6E5C-E97C-9536F33080D7}" BinaryData="BgAAAAAAAAAAgB3AAAAAAACASMAAAAAAAAD+PwAAAAAAAOw/AAAAAACASMAAAAAAAAD+PwAAAAAAAOw/AAAAAACAP8AAAAAAAAD+PwEAAAAAABrAAAAAAACAP8AAAAAAAAD+PwAAAAAAgB3AAAAAAACwQsAAAAAAAAD+PwEAAAAAABrAAAAAAACwQsAAAAAAAAD+PwYAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAAEAAAAAAAAAAUAAAAEAAAAAwAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAA/r8AAOzAAABEQgAAYD8AAERCAABgPwAA/EEAANDAAAD8QQAA7MAAgBVCAADQwACAFUI="/>
+     <Polygon GUID="{CF855C87-CF64-76DD-A6C0-42817E2CB405}" BinaryData="BAAAAAEAAAAAABrAAAAAAACAP8AAAAAAAAD+PwAAAAAAgB3AAAAAAACAP8AAAAAAAAD+PwAAAAAAgB3AAAAAAACwQsAAAAAAAAD+PwEAAAAAABrAAAAAAACwQsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAA0MAAAPxBAADswAAA/EEAAOzAAIAVQgAA0MAAgBVC"/>
+     <Polygon GUID="{DF2D567C-A19D-FAA9-8EC7-49AB42870931}" BinaryData="CgAAAAAAAAAAgB3AAAAAAACAP8AAAAAAAAD+PwEAAAAAABrAAAAAAACAP8AAAAAAAAD+PwAAAAAAgB3AAAAAAACwQsAAAAAAAAD+PwAAAAAAQCbAAAAAAACwQsAAAAAAAAD+PwEAAAAAABrAAAAAAABAPMAAAAAAAAD+PwEAAAAAABrAAAAAAABAJMAAAAAAAAD+PwEAAAAAABrAAAAAAAAAIMAAAAAAAAD+PwAAAAAAQCbAAAAAAAAAIMAAAAAAAAD+PwAAAAAAAB7AAAAAAABAPMAAAAAAAAD+PwAAAAAAAB7AAAAAAABAJMAAAAAAAAD+PwoAAAAAAAAAAQAAAAIAAAAAAAAAAwAAAAIAAAABAAAABAAAAAUAAAAGAAAABgAAAAcAAAAHAAAAAwAAAAQAAAAIAAAACQAAAAUAAAAIAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAA7MAAAPxBAADQwAAA/EEAAOzAAIAVQgAAMsEAgBVCAADQwAAA4kEAANDAAAAiQQAA0MAAAABBAAAywQAAAEEAAPDAAADiQQAA8MAAACJB"/>
+     <Polygon GUID="{E5B9506C-A4D6-6FAA-4A01-87C6FE1A9461}" BinaryData="BAAAAAEAAAAAABrAAAAAAABAJMAAAAAAAAD+PwEAAAAAABrAAAAAAABAPMAAAAAAAAD+PwAAAAAAAOA/AAAAAABAPMAAAAAAAAD+PwAAAAAAAOA/AAAAAABAJMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAA0MAAACJBAADQwAAA4kEAAAA/AADiQQAAAD8AACJB"/>
+     <Polygon GUID="{3E80F60C-93BD-0BD1-0BC4-518C21396AD8}" BinaryData="BAAAAAEAAAAAABrAAAAAAABAPMAAAAAAAAD+PwEAAAAAABrAAAAAAABAJMAAAAAAAAD+PwAAAAAAAB7AAAAAAABAPMAAAAAAAAD+PwAAAAAAAB7AAAAAAABAJMAAAAAAAAD+PwQAAAAAAAAAAQAAAAIAAAAAAAAAAQAAAAMAAAADAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAA0MAAAOJBAADQwAAAIkEAAPDAAADiQQAA8MAAACJB"/>
+     <Polygon GUID="{511EAF9F-CC4D-ABDE-D35C-7DC961958984}" BinaryData="BAAAAAAAAAAAgB/AAAAAAAAAAAAAAAAAAAD+PwAAAAAAwDPAAAAAAAAAAAAAAAAAAAD+PwAAAAAAwDPAAAAAAACAGsAAAAAAAAD+PwAAAAAAgB/AAAAAAACAGsAAAAAAAAD+PwQAAAAAAAAAAQAAAAIAAAADAAAAAwAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAD+vwAA/MAAAAAAAACewQAAAAAAAJ7BAADUQAAA/MAAANRA"/>
+     <Polygon GUID="{968275FB-6520-FCF8-D777-273A1A6D44E4}" BinaryData="BAAAAAAAAAAAwDPAAAAAgAcYXD4AAAAAAADuPAAAAAAAgB/AAAAAgAcYXD4AAAAAAADuPAAAAAAAgB/AAAAAAACAGsAAAAAAAADuPAAAAAAAwDPAAAAAAACAGsAAAAAAAADuPAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA8L8AAAAAAAAAAAAAnkE8wOAyAAD8QDzA4DIAAPxAAADUwAAAnkEAANTA"/>
+     <Polygon GUID="{A226B0B8-CB08-8D9D-C159-BA0F70E5C04C}" BinaryData="BgAAAAAAAAAAIDXAAAAAAABwSsAAAAAAAADuPAAAAAAAIDXAAAAAAACATMAAAAAAAADuPAAAAAAAIDjAAAAAAACATMAAAAAAAADuPAAAAAAAIDjAAAAAAABAUcAAAAAAAADuPAAAAAAAwD7AAAAAAABAUcAAAAAAAADuPAAAAAAAwD7AAAAAAABwSsAAAAAAAADuPAYAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAABAAAAAQAAAAFAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAAAAAKlBAIBTwgAAqUEAAGTCAADBQQAAZMIAAMFBAACKwgAA9kEAAIrCAAD2QQCAU8I="/>
+     <Polygon GUID="{39DDEB1B-3B27-FEE2-C273-21EFD6314F53}" BinaryData="DAAAAAEAAAAAABrAAAAAAABAJMAAAAAAAADuPAAAAAAAAOA/AAAAAABAJMAAAAAAAADuPAAAAAAAAOA/AAAAAABAPMAAAAAAAADuPAEAAAAAABrAAAAAAABAPMAAAAAAAADuPAEAAAAAABrAAAAAAACAP8AAAAAAAADuPAAAAAAAAOw/AAAAAACAP8AAAAAAAADuPAAAAAAAAOw/AAAAAACASMAAAAAAAADuPAAAAAAAgB3AAAAAAACASMAAAAAAAADuPAAAAAAAgB3AAAAAAACwQsAAAAAAAADuPAAAAAAAQCbAAAAAAACwQsAAAAAAAADuPAAAAAAAQCbAAAAAAAAAIMAAAAAAAADuPAEAAAAAABrAAAAAAAAAIMAAAAAAAADuPAwAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAABAAAAAQAAAAFAAAABQAAAAYAAAAGAAAABwAAAAcAAAAIAAAACAAAAAkAAAAJAAAACgAAAAoAAAALAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAAAAANBAAAAiwQAAAL8AACLBAAAAvwAA4sEAANBAAADiwQAA0EAAAPzBAABgvwAA/MEAAGC/AABEwgAA7EAAAETCAADsQACAFcIAADJBAIAVwgAAMkEAAADBAADQQAAAAME="/>
+     <Polygon GUID="{F4B48284-D61E-FDE2-B326-EBD6CEB2C981}" BinaryData="DAAAAAAAAAAAAPQ/AQAAAACwSsAAAAAAAADuPAAAAAAAAPQ/AAAAAABATsAAAAAAAADuPAIAAAAAAAfAAAAAAABATsAAAAAAAADuPAIAAAAAAAfAAAAAAAAoUMAAAAAAAADuPP///////xrAAAAAAAAoUMAAAAAAAADuPP///////xrAAAAAAABgUcAAAAAAAADuPAAAAAAAACfAAAAAAABgUcAAAAAAAADuPAAAAAAAACfAAAAAAABgTMAAAAAAAADuPAAAAAAAABzAAAAAAABgTMAAAAAAAADuPAAAAAAAABzAAAAAAAAATMAAAAAAAADuPAAAAAAAAA3AAAAAAAAATMAAAAAAAADuPAAAAAAAAA3AAQAAAACwSsAAAAAAAADuPAwAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAABAAAAAQAAAAFAAAABQAAAAYAAAAGAAAABwAAAAcAAAAIAAAACAAAAAkAAAAJAAAACgAAAAoAAAALAAAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAgD8AAAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAAAAAKC/AIBVwgAAoL8AAHLCAAA4QAAAcsIAADhAAECBwgAA2EAAQIHCAADYQAAAi8IAADhBAACLwgAAOEEAAGPCAADgQAAAY8IAAOBAAABgwgAAaEAAAGDCAABoQACAVcI="/>
+     <Polygon GUID="{3DECEBD8-677D-D628-1B46-424D14C415DE}" BinaryData="BAAAAP///////xrAAAAAAABoUsAAAAAAAADuPAAAAAAAgBDAAAAAAABoUsAAAAAAAADuPAAAAAAAgBDAAAAAAAAQU8AAAAAAAADuPP///////xrAAAAAAAAQU8AAAAAAAADuPAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA8L8AAAAAAAAAAAAA2EAAQJPCAACEQABAk8IAAIRAAICYwgAA2EAAgJjC"/>
+     <Polygon GUID="{958F9552-0265-7D1F-9B35-2C63F489AAA1}" BinaryData="BAAAAAAAAAAA4DPAAAAAAABgU8AAAAAAAADuPAAAAAAAACHAAAAAAABgU8AAAAAAAADuPAAAAAAAACHAAAAAAACoVMAAAAAAAADuPAAAAAAA4DPAAAAAAACoVMAAAAAAAADuPAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA8L8AAAAAAAAAAAAAn0EAAJvCAAAIQQAAm8IAAAhBAEClwgAAn0EAQKXC"/>
+     <Polygon GUID="{5973D2B7-ABB7-BE09-7714-53511405D07E}" BinaryData="BAAAAAAAAAAAIDXAAAAAAACATMAAAAAAAADuPAAAAAAAIDXAAAAAAABwSsAAAAAAAADuPAAAAAAAIDXAAAAAAABwSsAAAAAAAAD+PwAAAAAAIDXAAAAAAACATMAAAAAAAAD+PwQAAAAAAAAAAQAAAAIAAAADAAAAAQAAAAIAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAACA1QAAAZMIAAACAAIBTwgAAAIAAgFPCAADwvwAAZMIAAPC/"/>
+     <Polygon GUID="{83767A21-7D55-8329-A3B4-8D7F246BCE74}" BinaryData="BAAAAAAAAAAAgB/AAAAAgAcYXD4AAAAAAADuPAAAAAAAwDPAAAAAgAcYXD4AAAAAAADuPAAAAAAAwDPAAAAAgAcYXD4AAAAAAAD+PwAAAAAAgB/AAAAAgAcYXD4AAAAAAAD+PwQAAAAAAAAAAQAAAAIAAAADAAAAAwAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAAAAAAAAAAAgAAA/EAAAAAAAACeQQAAAAAAAJ5BAADwvwAA/EAAAPC/"/>
+     <Polygon GUID="{CDDCF8C9-5EA6-A8D6-3764-4753D27A0375}" BinaryData="BAAAAAAAAAAAIDjAAAAAAACATMAAAAAAAAD+PwAAAAAAIDjAAAAAAACATMAAAAAAAADuPAAAAAAAIDXAAAAAAACATMAAAAAAAADuPAAAAAAAIDXAAAAAAACATMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAIBMwAAAwcEAAPC/AADBwQAAAIAAAKnBAAAAgAAAqcEAAPC/"/>
+     <Polygon GUID="{369E032E-AEA0-FC41-D079-EDEE4A0183C1}" BinaryData="BAAAAAAAAAAAIDjAAAAAAABAUcAAAAAAAAD+PwAAAAAAIDjAAAAAAABAUcAAAAAAAADuPAAAAAAAIDjAAAAAAACATMAAAAAAAADuPAAAAAAAIDjAAAAAAACATMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAACA4QAAAisIAAPC/AACKwgAAAIAAAGTCAAAAgAAAZMIAAPC/"/>
+     <Polygon GUID="{508AC054-A262-B19F-B8F2-38E0C907BF7A}" BinaryData="BAAAAAAAAAAAwD7AAAAAAABAUcAAAAAAAAD+PwAAAAAAwD7AAAAAAABAUcAAAAAAAADuPAAAAAAAIDjAAAAAAABAUcAAAAAAAADuPAAAAAAAIDjAAAAAAABAUcAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAEBRwAAA9sEAAPC/AAD2wQAAAIAAAMHBAAAAgAAAwcEAAPC/"/>
+     <Polygon GUID="{744E879E-2B19-1D62-FF11-280AA0AD49F9}" BinaryData="BAAAAAAAAAAAwD7AAAAAAABwSsAAAAAAAAD+PwAAAAAAwD7AAAAAAABwSsAAAAAAAADuPAAAAAAAwD7AAAAAAABAUcAAAAAAAADuPAAAAAAAwD7AAAAAAABAUcAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAMA+wACAU0IAAPC/AIBTQgAAAIAAAIpCAAAAgAAAikIAAPC/"/>
+     <Polygon GUID="{AE71B81C-3973-53CB-3BDB-E98432163CBF}" BinaryData="BAAAAAAAAAAAIDXAAAAAAABwSsAAAAAAAAD+PwAAAAAAIDXAAAAAAABwSsAAAAAAAADuPAAAAAAAwD7AAAAAAABwSsAAAAAAAADuPAAAAAAAwD7AAAAAAABwSsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAHBKQAAAqUEAAPC/AACpQQAAAIAAAPZBAAAAgAAA9kEAAPC/"/>
+     <Polygon GUID="{547710D5-C84E-B0EA-D73C-727B96CB2A3D}" BinaryData="BAAAAAAAAAAA4DPAAAAAAABgU8AAAAAAAAD+PwAAAAAA4DPAAAAAAABgU8AAAAAAAADuPAAAAAAA4DPAAAAAAACoVMAAAAAAAADuPAAAAAAA4DPAAAAAAACoVMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAOAzwAAAm0IAAPC/AACbQgAAAIAAQKVCAAAAgABApUIAAPC/"/>
+     <Polygon GUID="{E02D57A3-AFE9-6969-7939-1AC809B54273}" BinaryData="BAAAAAAAAAAA4DPAAAAAAACoVMAAAAAAAAD+PwAAAAAA4DPAAAAAAACoVMAAAAAAAADuPAAAAAAAACHAAAAAAACoVMAAAAAAAADuPAAAAAAAACHAAAAAAACoVMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAKhUwAAAn8EAAPC/AACfwQAAAIAAAAjBAAAAgAAACMEAAPC/"/>
+     <Polygon GUID="{2D10EE4C-5DB6-5666-171D-701F6B58DDCE}" BinaryData="BAAAAAAAAAAAACHAAAAAAACoVMAAAAAAAAD+PwAAAAAAACHAAAAAAACoVMAAAAAAAADuPAAAAAAAACHAAAAAAABgU8AAAAAAAADuPAAAAAAAACHAAAAAAABgU8AAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAAAAhQABApcIAAPC/AEClwgAAAIAAAJvCAAAAgAAAm8IAAPC/"/>
+     <Polygon GUID="{15315AB6-E72B-64EB-447D-1601D14A7DC3}" BinaryData="BAAAAAAAAAAAACHAAAAAAABgU8AAAAAAAAD+PwAAAAAAACHAAAAAAABgU8AAAAAAAADuPAAAAAAA4DPAAAAAAABgU8AAAAAAAADuPAAAAAAA4DPAAAAAAABgU8AAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAGBTQAAACEEAAPC/AAAIQQAAAIAAAJ9BAAAAgAAAn0EAAPC/"/>
+     <Polygon GUID="{4563C752-BB48-4D9A-6FAD-038A51FBC352}" BinaryData="BAAAAP///////xrAAAAAAABoUsAAAAAAAAD+P////////xrAAAAAAABoUsAAAAAAAADuPP///////xrAAAAAAAAQU8AAAAAAAADuPP///////xrAAAAAAAAQU8AAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAID///////8awABAk0IAAPC/AECTQgAAAIAAgJhCAAAAgACAmEIAAPC/"/>
+     <Polygon GUID="{70881693-33D8-6BBC-B737-64750F1111EF}" BinaryData="BAAAAP///////xrAAAAAAAAQU8AAAAAAAAD+P////////xrAAAAAAAAQU8AAAAAAAADuPAAAAAAAgBDAAAAAAAAQU8AAAAAAAADuPAAAAAAAgBDAAAAAAAAQU8AAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAABBTwAAA2MAAAPC/AADYwAAAAIAAAITAAAAAgAAAhMAAAPC/"/>
+     <Polygon GUID="{8F92FDEB-8301-B396-5E5C-13A40D536B6C}" BinaryData="BAAAAAAAAAAAgBDAAAAAAAAQU8AAAAAAAAD+PwAAAAAAgBDAAAAAAAAQU8AAAAAAAADuPAAAAAAAgBDAAAAAAABoUsAAAAAAAADuPAAAAAAAgBDAAAAAAABoUsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAAIAQQACAmMIAAPC/AICYwgAAAIAAQJPCAAAAgABAk8IAAPC/"/>
+     <Polygon GUID="{90715E3A-00B5-D269-7386-72AA9FA3F726}" BinaryData="BAAAAAAAAAAAgBDAAAAAAABoUsAAAAAAAAD+PwAAAAAAgBDAAAAAAABoUsAAAAAAAADuPP///////xrAAAAAAABoUsAAAAAAAADuPP///////xrAAAAAAABoUsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAGhSQAAAhEAAAPC/AACEQAAAAIAAANhAAAAAgAAA2EAAAPC/"/>
+     <Polygon GUID="{7F6B5103-063F-467B-1FFB-7A9DBABD87F1}" BinaryData="BAAAAAAAAAAAACfAAAAAAABgUcAAAAAAAAD+PwAAAAAAACfAAAAAAABgUcAAAAAAAADuPP///////xrAAAAAAABgUcAAAAAAAADuPP///////xrAAAAAAABgUcAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAGBRwAAAOMEAAPC/AAA4wQAAAIAAANjAAAAAgAAA2MAAAPC/"/>
+     <Polygon GUID="{11142D4D-BFCA-13BE-8C4F-96806D1039FE}" BinaryData="BAAAAP///////xrAAAAAAABgUcAAAAAAAAD+P////////xrAAAAAAABgUcAAAAAAAADuPP///////xrAAAAAAAAoUMAAAAAAAADuPP///////xrAAAAAAAAoUMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAID///////8aQAAAi8IAAPC/AACLwgAAAIAAQIHCAAAAgABAgcIAAPC/"/>
+     <Polygon GUID="{2AA8DAA9-F5FA-D81E-BEFD-961BC8F60BC4}" BinaryData="BAAAAAAAAAAAABzAAAAAAABgTMAAAAAAAAD+PwAAAAAAABzAAAAAAABgTMAAAAAAAADuPAAAAAAAACfAAAAAAABgTMAAAAAAAADuPAAAAAAAACfAAAAAAABgTMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAGBMQAAA4EAAAPC/AADgQAAAAIAAADhBAAAAgAAAOEEAAPC/"/>
+     <Polygon GUID="{500BF4E2-14A5-7C7C-51B3-0BF920BD991B}" BinaryData="BAAAAAAAAAAAACfAAAAAAABgTMAAAAAAAAD+PwAAAAAAACfAAAAAAABgTMAAAAAAAADuPAAAAAAAACfAAAAAAABgUcAAAAAAAADuPAAAAAAAACfAAAAAAABgUcAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAAAnwAAAY0IAAPC/AABjQgAAAIAAAItCAAAAgAAAi0IAAPC/"/>
+     <Polygon GUID="{CA7BD442-2274-A642-BE3C-EF17F48B3B09}" BinaryData="BAAAAP///////xrAAAAAAAAoUMAAAAAAAAD+P////////xrAAAAAAAAoUMAAAAAAAADuPAIAAAAAAAfAAAAAAAAoUMAAAAAAAADuPAIAAAAAAAfAAAAAAAAoUMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAChQwAAA2MAAAPC/AADYwAAAAIAAADjAAAAAgAAAOMAAAPC/"/>
+     <Polygon GUID="{45DB809E-9347-54B4-7816-A0E78A2F54E4}" BinaryData="BAAAAAIAAAAAAAfAAAAAAAAoUMAAAAAAAAD+PwIAAAAAAAfAAAAAAAAoUMAAAAAAAADuPAIAAAAAAAfAAAAAAABATsAAAAAAAADuPAIAAAAAAAfAAAAAAABATsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIACAAAAAAAHQABAgcIAAPC/AECBwgAAAIAAAHLCAAAAgAAAcsIAAPC/"/>
+     <Polygon GUID="{380B89BD-10B7-8A67-2F0A-40C9939A5CB1}" BinaryData="BAAAAAAAAAAAAA3AAAAAAAAATMAAAAAAAAD+PwAAAAAAAA3AAAAAAAAATMAAAAAAAADuPAAAAAAAABzAAAAAAAAATMAAAAAAAADuPAAAAAAAABzAAAAAAAAATMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAABMQAAAaEAAAPC/AABoQAAAAIAAAOBAAAAAgAAA4EAAAPC/"/>
+     <Polygon GUID="{5B4D702A-71F8-5BC3-3503-DFB35A8FEA9D}" BinaryData="BAAAAAAAAAAAABzAAAAAAAAATMAAAAAAAAD+PwAAAAAAABzAAAAAAAAATMAAAAAAAADuPAAAAAAAABzAAAAAAABgTMAAAAAAAADuPAAAAAAAABzAAAAAAABgTMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAAAcwAAAYEIAAPC/AABgQgAAAIAAAGNCAAAAgAAAY0IAAPC/"/>
+     <Polygon GUID="{E859049A-0256-6BF9-F547-8304930592C6}" BinaryData="BAAAAAAAAAAAAPQ/AQAAAACwSsAAAAAAAAD+PwAAAAAAAPQ/AQAAAACwSsAAAAAAAADuPAAAAAAAAA3AAQAAAACwSsAAAAAAAADuPAAAAAAAAA3AAQAAAACwSsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIABAAAAALBKQAAAoL8AAPC/AACgvwAAAAAAAGhAAAAAgAAAaEAAAPC/"/>
+     <Polygon GUID="{8B71EB63-B946-5627-FCF2-3E2B9A71DBD7}" BinaryData="BAAAAAAAAAAAAA3AAQAAAACwSsAAAAAAAAD+PwAAAAAAAA3AAQAAAACwSsAAAAAAAADuPAAAAAAAAA3AAAAAAAAATMAAAAAAAADuPAAAAAAAAA3AAAAAAAAATMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAAANwACAVUIAAPC/AIBVQgAAAIAAAGBCAAAAgAAAYEIAAPC/"/>
+     <Polygon GUID="{9793F0E7-082D-B1C6-59A2-CFABFA4FC812}" BinaryData="BAAAAAIAAAAAAAfAAAAAAABATsAAAAAAAAD+PwIAAAAAAAfAAAAAAABATsAAAAAAAADuPAAAAAAAAPQ/AAAAAABATsAAAAAAAADuPAAAAAAAAPQ/AAAAAABATsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAEBOwAAAOMAAAPC/AAA4wAAAAIAAAKA/AAAAAAAAoD8AAPC/"/>
+     <Polygon GUID="{F91B5328-D82A-896D-DF0E-20F615AA4CC8}" BinaryData="BAAAAAAAAAAAAPQ/AAAAAABATsAAAAAAAAD+PwAAAAAAAPQ/AAAAAABATsAAAAAAAADuPAAAAAAAAPQ/AQAAAACwSsAAAAAAAADuPAAAAAAAAPQ/AQAAAACwSsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAAAD0vwAAcsIAAPC/AABywgAAAAAAgFXCAAAAAACAVcIAAPC/"/>
+     <Polygon GUID="{09D9B561-203C-CC86-6809-EB52DF34533D}" BinaryData="BAAAAAAAAAAAgB3AAAAAAACASMAAAAAAAAD+PwAAAAAAgB3AAAAAAACASMAAAAAAAADuPAAAAAAAAOw/AAAAAACASMAAAAAAAADuPAAAAAAAAOw/AAAAAACASMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAIBIwAAA7MAAAPC/AADswAAAAIAAAGA/AAAAAAAAYD8AAPC/"/>
+     <Polygon GUID="{CD965785-C7B5-22B8-293A-6AF8781E4A04}" BinaryData="BAAAAAAAAAAAAOw/AAAAAACASMAAAAAAAAD+PwAAAAAAAOw/AAAAAACASMAAAAAAAADuPAAAAAAAAOw/AAAAAACAP8AAAAAAAADuPAAAAAAAAOw/AAAAAACAP8AAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAAADsvwAARMIAAPC/AABEwgAAAAAAAPzBAAAAAAAA/MEAAPC/"/>
+     <Polygon GUID="{9709DA42-472A-6663-F88D-EC01231C91D7}" BinaryData="BAAAAAAAAAAAAOw/AAAAAACAP8AAAAAAAAD+PwAAAAAAAOw/AAAAAACAP8AAAAAAAADuPAEAAAAAABrAAAAAAACAP8AAAAAAAADuPAEAAAAAABrAAAAAAACAP8AAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAIA/QAAAYL8AAPC/AABgvwAAAAAAANBAAAAAgAAA0EAAAPC/"/>
+     <Polygon GUID="{B4726E5E-9943-2466-E9A0-F805021343A4}" BinaryData="BAAAAAAAAAAAgB3AAAAAAACwQsAAAAAAAAD+PwAAAAAAgB3AAAAAAACwQsAAAAAAAADuPAAAAAAAgB3AAAAAAACASMAAAAAAAADuPAAAAAAAgB3AAAAAAACASMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAIAdwACAFUIAAPC/AIAVQgAAAIAAAERCAAAAgAAAREIAAPC/"/>
+     <Polygon GUID="{18F2D7A5-60DF-0181-3D05-EB1A6D9AF495}" BinaryData="BAAAAAAAAAAAQCbAAAAAAACwQsAAAAAAAAD+PwAAAAAAQCbAAAAAAACwQsAAAAAAAADuPAAAAAAAgB3AAAAAAACwQsAAAAAAAADuPAAAAAAAgB3AAAAAAACwQsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAALBCwAAAMsEAAPC/AAAywQAAAIAAAOzAAAAAgAAA7MAAAPC/"/>
+     <Polygon GUID="{28490B5D-C631-01B4-ECAF-5ED08E377D65}" BinaryData="BAAAAAEAAAAAABrAAAAAAACAP8AAAAAAAAD+PwEAAAAAABrAAAAAAACAP8AAAAAAAADuPAEAAAAAABrAAAAAAABAPMAAAAAAAADuPAEAAAAAABrAAAAAAABAPMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIABAAAAAAAaQAAA/MEAAPC/AAD8wQAAAIAAAOLBAAAAgAAA4sEAAPC/"/>
+     <Polygon GUID="{4A6E9FFB-C3EB-2D36-F1C3-E1542B4C97C0}" BinaryData="BAAAAAEAAAAAABrAAAAAAABAJMAAAAAAAAD+PwEAAAAAABrAAAAAAABAJMAAAAAAAADuPAEAAAAAABrAAAAAAAAAIMAAAAAAAADuPAEAAAAAABrAAAAAAAAAIMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIABAAAAAAAaQAAAIsEAAPC/AAAiwQAAAIAAAADBAAAAgAAAAMEAAPC/"/>
+     <Polygon GUID="{C86C7D67-B9A4-45F5-31F4-3FD38A65D9E4}" BinaryData="BAAAAAEAAAAAABrAAAAAAAAAIMAAAAAAAAD+PwEAAAAAABrAAAAAAAAAIMAAAAAAAADuPAAAAAAAQCbAAAAAAAAAIMAAAAAAAADuPAAAAAAAQCbAAAAAAAAAIMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAAAgQAAA0EAAAPC/AADQQAAAAIAAADJBAAAAgAAAMkEAAPC/"/>
+     <Polygon GUID="{12501117-1A7A-269E-CAC8-0211129E8861}" BinaryData="BAAAAAAAAAAAQCbAAAAAAAAAIMAAAAAAAAD+PwAAAAAAQCbAAAAAAAAAIMAAAAAAAADuPAAAAAAAQCbAAAAAAACwQsAAAAAAAADuPAAAAAAAQCbAAAAAAACwQsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAEAmwAAAAEEAAPC/AAAAQQAAAIAAgBVCAAAAgACAFUIAAPC/"/>
+     <Polygon GUID="{E46B6097-770D-0D74-DA46-1CE816D7C0B3}" BinaryData="BAAAAAEAAAAAABrAAAAAAABAPMAAAAAAAAD+PwEAAAAAABrAAAAAAABAPMAAAAAAAADuPAAAAAAAAOA/AAAAAABAPMAAAAAAAADuPAAAAAAAAOA/AAAAAABAPMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAEA8wAAA0MAAAPC/AADQwAAAAIAAAAA/AAAAAAAAAD8AAPC/"/>
+     <Polygon GUID="{8CBA44A2-F1DA-D556-D8A0-2B10E994527B}" BinaryData="BAAAAAAAAAAAAOA/AAAAAABAPMAAAAAAAAD+PwAAAAAAAOA/AAAAAABAPMAAAAAAAADuPAAAAAAAAOA/AAAAAABAJMAAAAAAAADuPAAAAAAAAOA/AAAAAABAJMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAAADgvwAA4sEAAPC/AADiwQAAAAAAACLBAAAAAAAAIsEAAPC/"/>
+     <Polygon GUID="{6D726202-FF0B-AECA-E00A-DF2EF85F6768}" BinaryData="BAAAAAAAAAAAAOA/AAAAAABAJMAAAAAAAAD+PwAAAAAAAOA/AAAAAABAJMAAAAAAAADuPAEAAAAAABrAAAAAAABAJMAAAAAAAADuPAEAAAAAABrAAAAAAABAJMAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPA/AAAAAAAAAIAAAAAAAEAkQAAAAL8AAPC/AAAAvwAAAAAAANBAAAAAgAAA0EAAAPC/"/>
+     <Polygon GUID="{1D8D5969-8018-9F3C-1717-0889138BFD7F}" BinaryData="BAAAAAAAAAAAwDPAAAAAAACAGsAAAAAAAAD+PwAAAAAAwDPAAAAAAACAGsAAAAAAAADuPAAAAAAAgB/AAAAAAACAGsAAAAAAAADuPAAAAAAAgB/AAAAAAACAGsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAPC/AAAAAAAAAIAAAAAAAIAawAAAnsEAAPC/AACewQAAAIAAAPzAAAAAgAAA/MAAAPC/"/>
+     <Polygon GUID="{E42C28DF-A387-EE9E-063E-678F7647E94B}" BinaryData="BAAAAAAAAAAAgB/AAAAAAACAGsAAAAAAAAD+PwAAAAAAgB/AAAAAAACAGsAAAAAAAADuPAAAAAAAgB/AAAAAAAAAAAAAAAAAAADuPAAAAAAAgB/AAAAAAAAAAAAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAACAAAAAAAAAAIAAAAAAAIAfQAAA1MAAAPC/AADUwAAAAIAAAAAAAAAAAAAAAAAAAPC/"/>
+     <Polygon GUID="{E9FE3BCB-9414-535B-0E8D-1DD05785DA8F}" BinaryData="BAAAAAAAAAAAwDPAAAAAAAAAAAAAAAAAAAD+PwAAAAAAwDPAAAAAAAAAAAAAAAAAAADuPAAAAAAAwDPAAAAAAACAGsAAAAAAAADuPAAAAAAAwDPAAAAAAACAGsAAAAAAAAD+PwQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAACAAAAAAAAAAIAAAAAAAMAzwAAAAAAAAPC/AAAAAAAAAAAAANRAAAAAgAAA1EAAAPC/"/>
+     <SmoothingGroups />
+     <SemiSharpCrease />
+     <UVIslands />
+    </Brush>
+    <Mesh Version="2" BinaryData="AAAAAAAAAAAEAQAABAEAAOABAAAEAQAAAQAAAAAAqcEAAGTCAADwPwAAqcEAgFPCAADwPwAAwcEAAGTCAADwPwAA9sEAgFPCAADwPwAA9sEAAIrCAADwPwAAwcEAAIrCAADwPwAAn8EAAJvCAADwPwAAn8EAQKXCAADwPwAACMEAQKXCAADwPwAACMEAAJvCAADwPwAA2MAAQJPCAADwPwAA2MAAgJjCAADwPwAAhMAAgJjCAADwPwAAhMAAQJPCAADwPwAA4MAAQIHCAADwPwAA4MAAAGPCAADwPwAAOMEAAGPCAADwPwAAOMEAAIvCAADwPwAA2MAAQIHCAADwPwAA2MAAAIvCAADwPwAA2MAAAGPCAADwPwAA4MAAAGDCAADwPwAAaMAAAGDCAADwPwAAaMAAAHLCAADwPwAAOMAAAHLCAADwPwAAOMAAQIHCAADwPwAAOMAAAGDCAADwPwAAoD8AgFXCAADwPwAAoD8AAHLCAADwPwAAaMAAgFXCAADwPwAA0MAAgBXCAADwPwAAYD8AAPzBAADwPwAA0MAAAPzBAADwPwAAYD8AAETCAADwPwAA7MAAAETCAADwPwAA7MAAgBXCAADwPwAA7MAAAPzBAADwPwAAMsEAgBXCAADwPwAA0MAAAOLBAADwPwAAMsEAAADBAADwPwAA8MAAAOLBAADwPwAA8MAAACLBAADwPwAA0MAAAADBAADwPwAA0MAAACLBAADwPwAAAD8AAOLBAADwPwAAAD8AACLBAADwPwAA/MAAAAAAAADwPwAAnsEAAAAAAADwPwAAnsEAANTAAADwPwAA/MAAANTAAADwPwAAnsE8wOAyAABwJwAA/MA8wOAyAABwJwAA/MAAANTAAABwJwAAnsEAANTAAABwJwAAqcEAAGTCAABwJwAA9sEAgFPCAABwJwAAqcEAgFPCAABwJwAAwcEAAGTCAABwJwAAwcEAAIrCAABwJwAA9sEAAIrCAABwJwAA0MAAACLBAABwJwAAAD8AACLBAABwJwAAAD8AAOLBAABwJwAAMsEAAADBAABwJwAA0MAAAADBAABwJwAA0MAAAOLBAABwJwAA0MAAAPzBAABwJwAAMsEAgBXCAABwJwAA7MAAgBXCAABwJwAA7MAAAETCAABwJwAAYD8AAETCAABwJwAAYD8AAPzBAABwJwAAaMAAAGDCAABwJwAAaMAAgFXCAABwJwAAoD8AgFXCAABwJwAAoD8AAHLCAABwJwAA4MAAAGPCAABwJwAA4MAAAGDCAABwJwAAOMEAAGPCAABwJwAAOMAAAHLCAABwJwAAOMAAQIHCAABwJwAA2MAAQIHCAABwJwAA2MAAAIvCAABwJwAAOMEAAIvCAABwJwAA2MAAQJPCAABwJwAAhMAAQJPCAABwJwAAhMAAgJjCAABwJwAA2MAAgJjCAABwJwAAn8EAAJvCAABwJwAACMEAAJvCAABwJwAACMEAQKXCAABwJwAAn8EAQKXCAABwJwAAqcEAAGTCAABwJwAAqcEAgFPCAABwJwAAqcEAgFPCAADwPwAAqcEAAGTCAADwPwAA/MA8wOAyAABwJwAAnsE8wOAyAABwJwAAnsE8wOAyAADwPwAA/MA8wOAyAADwPwAAwcEAAGTCAADwPwAAwcEAAGTCAABwJwAAqcEAAGTCAABwJwAAqcEAAGTCAADwPwAAwcEAAIrCAADwPwAAwcEAAIrCAABwJwAAwcEAAGTCAABwJwAAwcEAAGTCAADwPwAA9sEAAIrCAADwPwAA9sEAAIrCAABwJwAAwcEAAIrCAABwJwAAwcEAAIrCAADwPwAA9sEAgFPCAADwPwAA9sEAgFPCAABwJwAA9sEAAIrCAABwJwAA9sEAAIrCAADwPwAAqcEAgFPCAADwPwAAqcEAgFPCAABwJwAA9sEAgFPCAABwJwAA9sEAgFPCAADwPwAAn8EAAJvCAADwPwAAn8EAAJvCAABwJwAAn8EAQKXCAABwJwAAn8EAQKXCAADwPwAAn8EAQKXCAADwPwAAn8EAQKXCAABwJwAACMEAQKXCAABwJwAACMEAQKXCAADwPwAACMEAQKXCAADwPwAACMEAQKXCAABwJwAACMEAAJvCAABwJwAACMEAAJvCAADwPwAACMEAAJvCAADwPwAACMEAAJvCAABwJwAAn8EAAJvCAABwJwAAn8EAAJvCAADwPwAA2MAAQJPCAADwPwAA2MAAQJPCAABwJwAA2MAAgJjCAABwJwAA2MAAgJjCAADwPwAA2MAAgJjCAADwPwAA2MAAgJjCAABwJwAAhMAAgJjCAABwJwAAhMAAgJjCAADwPwAAhMAAgJjCAADwPwAAhMAAgJjCAABwJwAAhMAAQJPCAABwJwAAhMAAQJPCAADwPwAAhMAAQJPCAADwPwAAhMAAQJPCAABwJwAA2MAAQJPCAABwJwAA2MAAQJPCAADwPwAAOMEAAIvCAADwPwAAOMEAAIvCAABwJwAA2MAAAIvCAABwJwAA2MAAAIvCAADwPwAA2MAAAIvCAADwPwAA2MAAAIvCAABwJwAA2MAAQIHCAABwJwAA2MAAQIHCAADwPwAA4MAAAGPCAADwPwAA4MAAAGPCAABwJwAAOMEAAGPCAABwJwAAOMEAAGPCAADwPwAAOMEAAGPCAADwPwAAOMEAAGPCAABwJwAAOMEAAIvCAABwJwAAOMEAAIvCAADwPwAA2MAAQIHCAADwPwAA2MAAQIHCAABwJwAAOMAAQIHCAABwJwAAOMAAQIHCAADwPwAAOMAAQIHCAADwPwAAOMAAQIHCAABwJwAAOMAAAHLCAABwJwAAOMAAAHLCAADwPwAAaMAAAGDCAADwPwAAaMAAAGDCAABwJwAA4MAAAGDCAABwJwAA4MAAAGDCAADwPwAA4MAAAGDCAADwPwAA4MAAAGDCAABwJwAA4MAAAGPCAABwJwAA4MAAAGPCAADwPwAAoD8AgFXCAADwPwAAoD8AgFXCAABwJwAAaMAAgFXCAABwJwAAaMAAgFXCAADwPwAAaMAAgFXCAADwPwAAaMAAgFXCAABwJwAAaMAAAGDCAABwJwAAaMAAAGDCAADwPwAAOMAAAHLCAADwPwAAOMAAAHLCAABwJwAAoD8AAHLCAABwJwAAoD8AAHLCAADwPwAAoD8AAHLCAADwPwAAoD8AAHLCAABwJwAAoD8AgFXCAABwJwAAoD8AgFXCAADwPwAA7MAAAETCAADwPwAA7MAAAETCAABwJwAAYD8AAETCAABwJwAAYD8AAETCAADwPwAAYD8AAETCAADwPwAAYD8AAETCAABwJwAAYD8AAPzBAABwJwAAYD8AAPzBAADwPwAAYD8AAPzBAADwPwAAYD8AAPzBAABwJwAA0MAAAPzBAABwJwAA0MAAAPzBAADwPwAA7MAAgBXCAADwPwAA7MAAgBXCAABwJwAA7MAAAETCAABwJwAA7MAAAETCAADwPwAAMsEAgBXCAADwPwAAMsEAgBXCAABwJwAA7MAAgBXCAABwJwAA7MAAgBXCAADwPwAA0MAAAPzBAADwPwAA0MAAAPzBAABwJwAA0MAAAOLBAABwJwAA0MAAAOLBAADwPwAA0MAAACLBAADwPwAA0MAAACLBAABwJwAA0MAAAADBAABwJwAA0MAAAADBAADwPwAA0MAAAADBAADwPwAA0MAAAADBAABwJwAAMsEAAADBAABwJwAAMsEAAADBAADwPwAAMsEAAADBAADwPwAAMsEAAADBAABwJwAAMsEAgBXCAABwJwAAMsEAgBXCAADwPwAA0MAAAOLBAADwPwAA0MAAAOLBAABwJwAAAD8AAOLBAABwJwAAAD8AAOLBAADwPwAAAD8AAOLBAADwPwAAAD8AAOLBAABwJwAAAD8AACLBAABwJwAAAD8AACLBAADwPwAAAD8AACLBAADwPwAAAD8AACLBAABwJwAA0MAAACLBAABwJwAA0MAAACLBAADwPwAAnsEAANTAAADwPwAAnsEAANTAAABwJwAA/MAAANTAAABwJwAA/MAAANTAAADwPwAA/MAAANTAAADwPwAA/MAAANTAAABwJwAA/MAAAAAAAABwJwAA/MAAAAAAAADwPwAAnsEAAAAAAADwPwAAnsEAAAAAAABwJwAAnsEAANTAAABwJwAAnsEAANTAAADwPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIA/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgD8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAgL8AAACAAAAAgAAAqcEAAGRCAACpwQCAU0IAAMHBAABkQgAA9sEAgFNCAAD2wQAAikIAAMHBAACKQgAAn8EAAJtCAACfwQBApUIAAAjBAEClQgAACMEAAJtCAADYwABAk0IAANjAAICYQgAAhMAAgJhCAACEwABAk0IAAODAAECBQgAA4MAAAGNCAAA4wQAAY0IAADjBAACLQgAA2MAAQIFCAADYwAAAi0IAANjAAABjQgAA4MAAAGBCAABowAAAYEIAAGjAAAByQgAAOMAAAHJCAAA4wABAgUIAADjAAABgQgAAoD8AgFVCAACgPwAAckIAAGjAAIBVQgAA0MAAgBVCAABgPwAA/EEAANDAAAD8QQAAYD8AAERCAADswAAAREIAAOzAAIAVQgAA7MAAAPxBAAAywQCAFUIAANDAAADiQQAAMsEAAABBAADwwAAA4kEAAPDAAAAiQQAA0MAAAABBAADQwAAAIkEAAAA/AADiQQAAAD8AACJBAAD8wAAAAAAAAJ7BAAAAAAAAnsEAANRAAAD8wAAA1EAAAJ5BAAAAAAAA/EAAAAAAAAD8QAAA1MAAAJ5BAADUwAAAqUEAAGTCAAD2QQCAU8IAAKlBAIBTwgAAwUEAAGTCAADBQQAAisIAAPZBAACKwgAA0EAAACLBAAAAvwAAIsEAAAC/AADiwQAAMkEAAADBAADQQAAAAMEAANBAAADiwQAA0EAAAPzBAAAyQQCAFcIAAOxAAIAVwgAA7EAAAETCAABgvwAARMIAAGC/AAD8wQAAaEAAAGDCAABoQACAVcIAAKC/AIBVwgAAoL8AAHLCAADgQAAAY8IAAOBAAABgwgAAOEEAAGPCAAA4QAAAcsIAADhAAECBwgAA2EAAQIHCAADYQAAAi8IAADhBAACLwgAA2EAAQJPCAACEQABAk8IAAIRAAICYwgAA2EAAgJjCAACfQQAAm8IAAAhBAACbwgAACEEAQKXCAACfQQBApcIAAGTCAAAAAACAU8IAAAAAAIBTwgAA8L8AAGTCAADwvwAA/EAAAAAAAACeQQAAAAAAAJ5BAADwvwAA/EAAAPC/AADBwQAA8L8AAMHBAAAAAAAAqcEAAAAAAACpwQAA8L8AAIrCAADwvwAAisIAAAAAAABkwgAAAAAAAGTCAADwvwAA9sEAAPC/AAD2wQAAAAAAAMHBAAAAAAAAwcEAAPC/AIBTQgAA8L8AgFNCAAAAAAAAikIAAAAAAACKQgAA8L8AAKlBAADwvwAAqUEAAAAAAAD2QQAAAAAAAPZBAADwvwAAm0IAAPC/AACbQgAAAAAAQKVCAAAAAABApUIAAPC/AACfwQAA8L8AAJ/BAAAAAAAACMEAAAAAAAAIwQAA8L8AQKXCAADwvwBApcIAAAAAAACbwgAAAAAAAJvCAADwvwAACEEAAPC/AAAIQQAAAAAAAJ9BAAAAAAAAn0EAAPC/AECTQgAA8L8AQJNCAAAAAACAmEIAAAAAAICYQgAA8L8AANjAAADwvwAA2MAAAAAAAACEwAAAAAAAAITAAADwvwCAmMIAAPC/AICYwgAAAAAAQJPCAAAAAABAk8IAAPC/AACEQAAA8L8AAIRAAAAAAAAA2EAAAAAAAADYQAAA8L8AADjBAADwvwAAOMEAAAAAAADYwAAAAAAAANjAAADwvwAAi8IAAPC/AACLwgAAAAAAQIHCAAAAAABAgcIAAPC/AADgQAAA8L8AAOBAAAAAAAAAOEEAAAAAAAA4QQAA8L8AAGNCAADwvwAAY0IAAAAAAACLQgAAAAAAAItCAADwvwAA2MAAAPC/AADYwAAAAAAAADjAAAAAAAAAOMAAAPC/AECBwgAA8L8AQIHCAAAAAAAAcsIAAAAAAABywgAA8L8AAGhAAADwvwAAaEAAAAAAAADgQAAAAAAAAOBAAADwvwAAYEIAAPC/AABgQgAAAAAAAGNCAAAAAAAAY0IAAPC/AACgvwAA8L8AAKC/AAAAAAAAaEAAAAAAAABoQAAA8L8AgFVCAADwvwCAVUIAAAAAAABgQgAAAAAAAGBCAADwvwAAOMAAAPC/AAA4wAAAAAAAAKA/AAAAAAAAoD8AAPC/AABywgAA8L8AAHLCAAAAAACAVcIAAAAAAIBVwgAA8L8AAOzAAADwvwAA7MAAAAAAAABgPwAAAAAAAGA/AADwvwAARMIAAPC/AABEwgAAAAAAAPzBAAAAAAAA/MEAAPC/AABgvwAA8L8AAGC/AAAAAAAA0EAAAAAAAADQQAAA8L8AgBVCAADwvwCAFUIAAAAAAABEQgAAAAAAAERCAADwvwAAMsEAAPC/AAAywQAAAAAAAOzAAAAAAAAA7MAAAPC/AAD8wQAA8L8AAPzBAAAAAAAA4sEAAAAAAADiwQAA8L8AACLBAADwvwAAIsEAAAAAAAAAwQAAAAAAAADBAADwvwAA0EAAAPC/AADQQAAAAAAAADJBAAAAAAAAMkEAAPC/AAAAQQAA8L8AAABBAAAAAACAFUIAAAAAAIAVQgAA8L8AANDAAADwvwAA0MAAAAAAAAAAPwAAAAAAAAA/AADwvwAA4sEAAPC/AADiwQAAAAAAACLBAAAAAAAAIsEAAPC/AAAAvwAA8L8AAAC/AAAAAAAA0EAAAAAAAADQQAAA8L8AAJ7BAADwvwAAnsEAAAAAAAD8wAAAAAAAAPzAAADwvwAA1MAAAPC/AADUwAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAAA8L8AAAAAAAAAAAAA1EAAAAAAAADUQAAA8L8AAAEAAgACAAEAAwAEAAIAAwAFAAIABAAGAAcACAAGAAgACQAKAAsADAAKAAwADQAOAA8AEAARAA4AEAARABIADgASAA8ADgATABIAEQASABQADwAUABUADwAWABUAFAASABcAFAAXABYAFAASABgAFwAZABgAEgAYABYAFwAYABoAFgAYABsAGgAaABsAFgAcABsAGAAWABsAHQAeAB8AIAAhAB8AIgAiAB8AHgAiAB4AIwAgACMAHgAgACQAIwAjACQAJQAkACAAJgAlACQAJwAkACYAKAAkACgAJwAoACkAJwAmACkAKAApACoAJwApACsAKgAmACsAKQArACYALAArACwALQAuAC8AMAAuADAAMQAyADMANAAyADQANQA2ADcAOAA5ADcANgA6ADcAOQA7ADcAOgA8AD0APgA+AD8APAA8AD8AQABBAD8APgBCAD8AQQBDAD8ARABEAD8AQgBCAEUARABCAEYARQBCAEcARgBIAEkASgBLAEgASgBMAE0ASABLAEwASABLAE4ATABPAE4ASwBQAE4ATwBRAE4AUABSAE4AUQBTAE4AUgBUAFUAVgBUAFYAVwBYAFkAWgBYAFoAWwBcAF0AXgBcAF4AXwBgAGEAYgBgAGIAYwBkAGUAZgBkAGYAZwBoAGkAagBoAGoAawBsAG0AbgBsAG4AbwBwAHEAcgBwAHIAcwB0AHUAdgB0AHYAdwB4AHkAegB4AHoAewB8AH0AfgB8AH4AfwCAAIEAggCAAIIAgwCEAIUAhgCEAIYAhwCIAIkAigCIAIoAiwCMAI0AjgCMAI4AjwCQAJEAkgCQAJIAkwCUAJUAlgCUAJYAlwCYAJkAmgCYAJoAmwCcAJ0AngCcAJ4AnwCgAKEAogCgAKIAowCkAKUApgCkAKYApwCoAKkAqgCoAKoAqwCsAK0ArgCsAK4ArwCwALEAsgCwALIAswC0ALUAtgC0ALYAtwC4ALkAugC4ALoAuwC8AL0AvgC8AL4AvwDAAMEAwgDAAMIAwwDEAMUAxgDEAMYAxwDIAMkAygDIAMoAywDMAM0AzgDMAM4AzwDQANEA0gDQANIA0wDUANUA1gDUANYA1wDYANkA2gDYANoA2wDcAN0A3gDcAN4A3wDgAOEA4gDgAOIA4wDkAOUA5gDkAOYA5wDoAOkA6gDoAOoA6wDsAO0A7gDsAO4A7wDwAPEA8gDwAPIA8wD0APUA9gD0APYA9wD4APkA+gD4APoA+wD8AP0A/gD8AP4A/wAAAQEBAgEAAQIBAwH/fwAAAAABgAAAAYAAAAGA/n8AAAAAAYAAAAKAAAABgP9/AAAAAAGAAAABgAAAAYD+fwAAAAABgAAAAoAAAAGA/38AAAAAAYAAAAGAAAABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/38AAAAAAYAAAAGAAAABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/38AAAAAAYAAAAGAAAABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/38AAAAAAYAAAAGAAAABgP5/AAAAAAGAAAACgAAAAYD+fwAAAAABgAAAAoAAAAGA/n8AAAAAAYAAAAKAAAABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/n8AAAAAAYAAAAKAAAABgP9/AAAAAAGAAAABgAAAAYD+fwAAAAABgAAAAoAAAAGA/n8AAAAAAYAAAAKAAAABgP9/AAAAAAGAAAABgAAAAYD+fwAAAAABgAAAAoAAAAGA/n8AAAAAAYAAAAKAAAABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/n8AAAAAAYAAAAKAAAABgP5/AAAAAAGAAAACgAAAAYD/fwAAAAABgAAAAYAAAAGA/38AAAAAAYAAAAGAAAABgP9/AAAAAAGAAAABgAAAAYD+fwAAAAABgAAAAoAAAAGA/38AAAAAAYAAAAGAAAABgP5/AAAAAAGAAAACgAAAAYD/fwAAAAABgAAAAYAAAAGA/38AAAAAAYAAAAGAAAABgP5/AAAAAAGAAAACgAAAAYD+fwAAAAABgAAAAoAAAAGA/38AAAAAAYAAAAGAAAABgP5/AAAAAAGAAAACgAAAAYD/fwAAAAABgAAAAYAAAAGA/n8AAAAAAYAAAAKAAAABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/n8AAAAAAYAAAAKAAAABgP5/AAAAAAGAAAACgAAAAYD+fwAAAAABgAAAAoAAAAGA/n8AAAAAAYAAAAKAAAABgAKAAAAAAP9/AAD+fwAA/38CgAAAAAD/fwAA/n8AAP9/AoAAAAAA/38AAP5/AAD/fwKAAAAAAP9/AAD+fwAA/38CgAAAAAD/fwAA/n8AAP9/AoAAAAAA/38AAP5/AAD/fwKAAAAAAP9/AAD+fwAA/38BgAAAAAD/fwAA/38AAP9/AYAAAAAA/38AAP9/AAD/fwKAAAAAAP9/AAD+fwAA/38CgAAAAAD/fwAA/n8AAP9/AYAAAAAA/38AAP9/AAD/fwGAAAAAAP9/AAD/fwAA/38BgAAAAAD/fwAA/38AAP9/AoAAAAAA/38AAP5/AAD/fwKAAAAAAP9/AAD+fwAA/38BgAAAAAD/fwAA/38AAP9/AYAAAAAA/38AAP9/AAD/fwKAAAAAAP9/AAD+fwAA/38CgAAAAAD/fwAA/n8AAP9/AYAAAAAA/38AAP9/AAD/fwGAAAAAAP9/AAD/fwAA/38CgAAAAAD/fwAA/n8AAP9/AoAAAAAA/38AAP5/AAD/fwKAAAAAAP9/AAD+fwAA/38CgAAAAAD/fwAA/n8AAP9/AYAAAAAA/38AAP9/AAD/fwKAAAAAAP9/AAD+fwAA/38CgAAAAAD/fwAA/n8AAP9/AoAAAAAA/38AAP5/AAD/fwKAAAAAAP9/AAD+fwAA/38BgAAAAAD/fwAA/38AAP9/AoAAAAAA/38AAP5/AAD/fwGAAAAAAP9/AAD/fwAA/38BgAAAAAD/fwAA/38AAP9/AYAAAAAA/38AAP9/AAD/fwGAAAAAAP9/AAD/fwAA/38BgAAAAAD/fwAA/38AAP9/AYAAAAAA/38AAP9/AAD/fwGAAAAAAP9/AAD/fwAA/38BgAAAAAD/fwAA/38AAP9/AYAAAAAA/38AAP9/AAD/fwAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAoAAAAAAAYAAAAAAAoABgAGAAAAAAAGAAAAAAAGAAYACgAAAAAABgAAAAAACgAGA/38AAAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGA/38AAAAAAYAAAAAAAYABgAAA/n8AAAGAAAAAAAKAAYAAAP9/AAABgAAAAAABgAGAAAD+fwAAAYAAAAAAAoABgAAA/38AAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGA/38AAAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGAAAACgAAAAYAAAAAAAoABgAAAAoAAAAGAAAAAAAKAAYAAAAKAAAABgAAAAAACgAGAAAACgAAAAYAAAAAAAoABgAGAAAAAAAGAAAAAAAGAAYACgAAAAAABgAAAAAACgAGAAYAAAAAAAYAAAAAAAYABgAKAAAAAAAGAAAAAAAKAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGA/n8AAAAAAYAAAAAAAoABgP5/AAAAAAGAAAAAAAKAAYD+fwAAAAABgAAAAAACgAGA/n8AAAAAAYAAAAAAAoABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYACgAAAAAABgAAAAAACgAGAAoAAAAAAAYAAAAAAAoABgAKAAAAAAAGAAAAAAAKAAYACgAAAAAABgAAAAAACgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGA/38AAAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAGAAAAAAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgP5/AAAAAAGAAAAAAAKAAYD/fwAAAAABgAAAAAABgAGA/n8AAAAAAYAAAAAAAoABgP9/AAAAAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAGAAAAAAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAAAAoAAAAGAAAAAAAKAAYAAAAGAAAABgAAAAAABgAGAAAACgAAAAYAAAAAAAoABgAAAAYAAAAGAAAAAAAGAAYD+fwAAAAABgAAAAAACgAGA/n8AAAAAAYAAAAAAAoABgP5/AAAAAAGAAAAAAAKAAYD+fwAAAAABgAAAAAACgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAKAAAAAAAGAAAAAAAKAAYABgAAAAAABgAAAAAABgAGAAoAAAAAAAYAAAAAAAoABgAGAAAAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAGAAAAAAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGA/38AAAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/n8AAAGAAAAAAAKAAYAAAP9/AAABgAAAAAABgAGAAAD+fwAAAYAAAAAAAoABgP5/AAAAAAGAAAAAAAKAAYD/fwAAAAABgAAAAAABgAGA/n8AAAAAAYAAAAAAAoABgP9/AAAAAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD+fwAAAYAAAAAAAoABgAAA/38AAAGAAAAAAAGAAYAAAP5/AAABgAAAAAACgAGAAYAAAAAAAYAAAAAAAYABgAGAAAAAAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGA/n8AAAAAAYAAAAAAAoABgP9/AAAAAAGAAAAAAAGAAYD+fwAAAAABgAAAAAACgAGAAAD+fwAAAYAAAAAAAoABgAAA/n8AAAGAAAAAAAKAAYAAAP5/AAABgAAAAAACgAGAAAD+fwAAAYAAAAAAAoABgAAA/38AAAGAAAAAAAGAAYAAAP5/AAABgAAAAAACgAGAAAD/fwAAAYAAAAAAAYABgAAA/n8AAAGAAAAAAAKAAYABgAAAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAGAAAAAAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYD/fwAAAAABgAAAAAABgAGA/38AAAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgAGAAAAAAAGAAAAAAAGAAYABgAAAAAABgAAAAAABgAGAAYAAAAAAAYAAAAAAAYABgP9/AAAAAAGAAAAAAAGAAYD+fwAAAAABgAAAAAACgAGA/38AAAAAAYAAAAAAAYABgP5/AAAAAAGAAAAAAAKAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAbMEAQCXCAABwPwxAMUIAAAAAAAAAAOABAAAAAAAABAEAAAAAAAAAAAAAABAAAA=="/>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{47A4F350-CCE2-D00A-CBE3-A9537611C27E}" Name="SpawnPointVokzal93" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.6159668,-2.8518066,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{48271AEE-DECD-5DA3-B0F1-9B3736ACFFF1}" Name="SpawnPointVokzal14" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.0837402,-1.4746094,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{497F3EAC-8C83-1BC7-317A-515151A9772D}" Name="SpawnPointVokzal113" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.0803223,-1.7159424,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{4AECC573-91EC-B661-B116-395AD71312A7}" Name="SpawnPointVokzal9" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.2307129,-0.13500977,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{4C3D0DD7-7CDF-EDBC-56FA-7E4DD2024C61}" Name="SpawnPointVokzal61" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.1259766,-4.9765625,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{4C965B72-A9A6-823D-3C67-DC77D7E9FE98}" Name="SpectatorPoint1" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.2724609,-4.6500244,1.7749023" FloorNumber="-1" Rotate="0.036392808,0,0,0.99933755" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpectatorPoint" HasEntity="1">
+    <Properties bEnabled="1"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{4D534F42-1544-A04F-873F-BBD54152EE78}" Name="SpawnPointVokzal30" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.3225098,-2.8193359,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{52D92410-03A2-D1BF-E20F-D8A1E4F2093E}" Name="SpawnPointVokzal148" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.0112305,-3.4970703,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{5309DFFD-9BD0-EC8E-8176-19190BF0B9DF}" Name="SpawnPointVokzal26" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.2666016,-0.71594238,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{5326B72E-4539-2965-6FB5-A617CB67A7C3}" Name="SpawnPointVokzal55" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.33862305,-0.29077148,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{5637E2C0-4A0F-02A7-7866-58F8D43D0370}" Name="SpawnPointVokzal73" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.105957,-4.019165,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{56FB44C3-9218-EA00-BB3E-2C30515383D0}" Name="SpawnPointVokzal112" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.3071289,-5.1121826,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{579BCF84-A560-924C-DB8B-256C75A2834B}" Name="SpawnPointVokzal137" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.5737305,-2.7727051,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Designer" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{59CC70FB-9AAF-7AC5-0001-13EFC763665A}" Name="Designer88" Parent="{D3E01A94-8BD3-9D68-73E0-61158BACE371}" Pos="6.2556152,0.03112793,1.3764191" FloorNumber="-1" Rotate="0.043619335,0,0,0.99904823" ColorRGB="16777215" Material="EngineAssets/TextureMsg/DefaultSolids" RndFlags="1073741832" StaticObjFlags="0" ViewDistRatio="100">
+    <Brush DesignerModeFlags="0" SubdivisionLevel="0" SubdivisionSmoothingGroup="0" MirrorPlaneNormal="0,0,0" MirrorPlaneDistance="0">
+     <Polygon GUID="{DF8C18A4-609B-E407-D6F0-BD20ABCDFEDF}" BinaryData="BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADF4mwcAABxAAAAAAAAAAAAAAAAAAAAAADF4mwcAABxAAAAAAAAAAACK//////8CQAAAAAAAAAAAAAAAAAAAAACK//////8CQAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAADgQAAAbSkAAOBAAAAYwAAAAAAAABjA"/>
+     <Polygon GUID="{DB6A6DD4-C2E8-988C-26DB-43924F4D6B9A}" BinaryData="BAAAAOQ2e/v//xtA+50Y5v9PQkAAAAAAAKA9vQAAdpeCQIi++50Y5v9PQkAAAAAAAKA9vQAAdpeCQIi++50Y5v9PQkCK//////8CQOQ2e/v//xtA+50Y5v9PQkCK//////8CQAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAPA/AAAAAAAAAAB2Sr/m/09CwAAA4MAAAO0pFQRCNAAAbSkVBEI0AAAYwAAA4MAAABjA"/>
+     <Polygon GUID="{6E4C3481-19D4-07B4-B45F-500E80DCDB85}" BinaryData="BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQDF4mwcAABxAAAAAAAAAAAAAAAAAAAADQDF4mwcAABxA+50Y5v9PQkAAAAAAAAADQAAAAAAAAAAA+50Y5v9PQkAAAAAAAAADQAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8D8AAAAAAAADwAAAAAAAAAAAAADgQHuspjMAAOBA/38SwhUEQrT/fxLC"/>
+     <Polygon GUID="{EEBB50F1-D068-E517-B400-8B1E5572E00D}" BinaryData="BAAAAAAAdpeCQIi+dkq/5v9PQkAAAAAAAKAtvQAAdpeCQIi+AAAAAAAAAAAAAAAAAKAtvQAAdpeCQIi+AAAAAAAAAAAAAAAAAAADQAAAdpeCQIi+dkq/5v9PQkAAAAAAAAADQAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP9/EsIAAG0pAAAAAAAAAAAAAAAAAAAYwP9/EsIAABjA"/>
+     <Polygon GUID="{D7177A72-2A7F-C077-E4C3-8DB45F7C7DD4}" BinaryData="BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+50Y5v9PQkAAAAAAAAAAADF4mwcAABxA+50Y5v9PQkAAAAAAAAAAADF4mwcAABxAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAA8L8AAAAAAAAAAAAAAAAAAAAAFQRCNP9/EkIAAODA/38SQgAA4MB7rKaz"/>
+     <Polygon GUID="{CA32B530-025A-1375-4B1E-46EB827DCFEC}" BinaryData="BAAAADF4mwcAABxAAABEWY/VdL4AAAAAAKAtvTF4mwcAABxA+50Y5v9PQkAAAAAAAKAtvTF4mwcAABxA+50Y5v9PQkAU//////8CQDF4mwcAABxAAABEWY/VdL4U//////8CQAQAAAAAAAAAAQAAAAEAAAACAAAAAgAAAAMAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAADwPwAAAAAAAAAAAAAAAAAAAAAxeJsHAAAcwHusprMAAG0p/38SQgAA7Sn/fxJCAAAYwHusprMAABjA"/>
+     <SmoothingGroups />
+     <SemiSharpCrease />
+     <UVIslands />
+    </Brush>
+    <Mesh Version="2" BinaryData="AAAAAAAAAAAYAAAAGAAAACQAAAAYAAAAAQAAAAAAAAAAAAAAAAAAAAAA4EAAAAAAAAAAAAAA4EAAAAAAAAAYQAAAAAAAAAAAAAAYQAAA4ED/fxJCAADtqRUEQrT/fxJCAADtqRUEQrT/fxJCAAAYQAAA4ED/fxJCAAAYQAAAAAAAAAAAAAAYQAAA4EAAAAAAAAAYQAAA4ED/fxJCAAAYQAAAAAD/fxJCAAAYQBUEQrT/fxJCAABtqRUEQrQAAAAAAABtqRUEQrQAAAAAAAAYQBUEQrT/fxJCAAAYQAAAAAAAAAAAAAAAAAAAAAD/fxJCAAAAAAAA4ED/fxJCAAAAAAAA4EAAAAAAAAAAAAAA4EB7rKazAABtqQAA4ED/fxJCAABtqQAA4ED/fxJCAAAYQAAA4EB7rKazAAAYQAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAAAAAADgQAAAAAAAAOBAAAAYwAAAAAAAABjAAADgwAAAAAAAAIA0AAAAAAAAgDQAABjAAADgwAAAGMAAAAAAAAAAAAAA4EAAAAAAAADgQP9/EsIAAIC0/38Swv9/EsIAAAAAAAAAAAAAAAAAAAAAAAAYwP9/EsIAABjAAAAAAAAAAAAAAIA0/38SQgAA4MD/fxJCAADgwAAAAAAAAAAAAAAAAP9/EkIAAAAA/38SQgAAGMAAAAAAAAAYwAAAAQACAAAAAgADAAQABQAGAAQABgAHAAgACQAKAAgACgALAAwADQAOAAwADgAPABAAEQASABAAEgATABQAFQAWABQAFgAXAP9/AAAAAAGAAAAAAAGAAYD+fwAAAAABgAAAAAACgAGA/38AAAAAAYAAAAAAAYABgP5/AAAAAAGAAAAAAAKAAYABgAAAAAABgAAAAAABgAGAAoAAAAAAAYAAAAAAAoABgAGAAAAAAAGAAAAAAAGAAYACgAAAAAABgAAAAAACgAGA/38AAAAAAYAAAAGAAAABgP9/AAAAAAGAAAABgAAAAYD/fwAAAAABgAAAAYAAAAGA/38AAAAAAYAAAAGAAAABgAAAAYAAAAGAAAAAAAGAAYAAAAGAAAABgAAAAAABgAGAAAABgAAAAYAAAAAAAYABgAAAAYAAAAGAAAAAAAGAAYABgAAAAAD/fwAA/38AAP9/AYAAAAAA/38AAP9/AAD/fwGAAAAAAP9/AAD/fwAA/38BgAAAAAD/fwAA/38AAP9/AAD/fwAAAYAAAAAAAYABgAAA/38AAAGAAAAAAAGAAYAAAP9/AAABgAAAAAABgAGAAAD/fwAAAYAAAAAAAYABgAAAYED/f5JBAACYPzl0lUEAAAAAAAAAACQAAAAAAAAAGAAAAAAAAAAAAAAAABAAAA=="/>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{5C4DA7EC-23A1-2186-63A7-042A18D68C43}" Name="SpawnPointVokzal69" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.094970703,-4.482666,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{5D30411B-8873-2A33-B540-0C4E02E13ACA}" Name="SpawnPointVokzal6" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.6738281,-3.7800293,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{5D8B132F-1743-844C-D4CF-EDD4B0B2B7BD}" Name="SpawnPointVokzal39" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.8356934,-0.47033691,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{5FE8DE52-7627-3FF5-81A7-EBDFAB39FB51}" Name="SpawnPointVokzal51" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.1520996,-0.56188965,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{628740EB-093F-9497-D5BF-F63B9A68FE15}" Name="SpawnPointVokzal136" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.1523438,-3.6517334,-0.28219604" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{648897B1-4145-46C3-3E48-E4E3BCF62953}" Name="SpawnPointVokzal83" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.18457031,-2.0825195,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{64D4DE35-DDC2-6F8C-25FE-3939D42946A5}" Name="SpawnPointVokzal123" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.26611328,-1.8725586,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{66BE7413-70CE-DEB3-4422-5ED42CEC4889}" Name="SpawnRandomPnt3" Parent="{73D66B8D-945B-6DD1-5BFE-F9B4F09A824B}" Pos="0,0,0.47213745" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{68D70E2E-8527-E34D-0A38-7F9E952982BA}" Name="SpawnPointVokzal40" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.5246582,-4.7235107,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{6B68CC53-AF2F-F232-6C5A-59352C6084E1}" Name="SpawnPointVokzal122" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.36035156,-0.5925293,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{6C7E9300-D629-D865-9449-4CEB255003E5}" Name="SpawnPointVokzal80" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.38696289,-3.7590332,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{6CAA95FB-51BB-DE14-C096-1A239BF3447B}" Name="SpawnPointVokzal76" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.3356934,-5.012085,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{6E630622-A514-68E5-8090-B1D69EF8068A}" Name="SpawnPointVokzal143" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.8234863,-1.6627197,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{6E882314-939F-CBC2-EF31-39D22526595C}" Name="SpawnPointVokzal46" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.2016602,-0.84240723,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{6F5566B5-8FC6-28D0-27B9-8E0823C4AC61}" Name="SpawnPointVokzal140" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.0998535,-2.3712158,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{70407365-D1ED-0759-11C5-91B45E20639A}" Name="SP_Mark_Sphe" Pos="1706.7511,1545.7787,178.16676" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_sphere_noproxy.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{706CCF3C-3D40-2D32-E09E-5F0F672B4DDD}" Name="SpawnPointVokzal3" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.0795898,-0.62902832,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{71A87718-E484-64DF-06DA-534761ED10E2}" Name="SpawnPointVokzal19" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.0085449219,-2.5274658,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{723D9E0E-942F-7128-AE9B-C69A4AD85A25}" Name="SpawnPointVokzal104" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.6486816,-2.2481689,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{734AE7FE-1DFB-22B0-29DA-96BBCA326458}" Name="SpawnPointVokzal111" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.2770996,-3.7744141,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{73D66B8D-945B-6DD1-5BFE-F9B4F09A824B}" Name="SP_Mark_Sphe3" Pos="396.3493,756.72797,213.19846" FloorNumber="-1" Rotate="-1,0,-0,-8.7422777e-08" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_sphere_noproxy.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{73FDA3AB-FD54-AA3C-CB80-DB472C68B38A}" Name="SpawnPointVokzal38" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.8278809,-2.5880127,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{776295EE-2480-90CF-D5C5-5334610A3ACA}" Name="SpawnPointVokzal70" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.092285156,-3.3377686,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{77E399FD-63C6-CD1A-CF8A-EA96E156299D}" Name="SpawnPointVokzal147" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.9240723,-0.29089355,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{7A8D948F-4FCE-EA48-02D3-4410E4A258C4}" Name="SpawnPointVokzal151" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.4089355,-2.9504395,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{7ACC1BD6-0452-4724-305F-DAF74123ECC2}" Name="SpawnRandomPnt5" Pos="1544.0551,1282.2694,237.28285" FloorNumber="-1" Rotate="0.5798732,0.14968476,-0.10345046,0.79412818" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{7C04C727-8F92-F2D8-2D1E-B6E35FF0F430}" Name="SpawnPointVokzal152" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.3198242,-4.1660156,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{7D407364-2A99-E653-06A6-BB2D8ED2481A}" Name="SpawnPointVokzal36" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.0007324,-1.7235107,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{7DF60661-3D6A-5FDE-430F-891E3B789080}" Name="SpawnPointVokzal49" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.5795898,-0.44799805,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{7EC5BE8D-EE83-F546-AFED-0EA98EF9A0ED}" Name="SpawnPointVokzal84" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.3259277,-2.0142822,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{81F5DBEE-6CC1-649C-FFF1-CC0C2812C811}" Name="SpawnPointVokzal141" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.15600586,-3.3948975,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{830D891D-E11D-BA97-7BC1-06BA9FEC5DD8}" Name="SpawnPointVokzal86" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.026855469,-2.3652344,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{8362BA99-4EB7-44CA-E9C5-C1B4CC27A677}" Name="SpawnPointVokzal72" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.1875,-2.9036865,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{838BF124-419C-DAEE-623A-639E26313003}" Name="SpawnPointVokzal34" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.45703125,-0.51831055,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{85DCBE66-F122-B1A3-56B0-560CF05DE017}" Name="SpawnPointVokzal116" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.1542969,-0.43554688,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{86DBE4DA-3B30-9493-0CAF-792A67898133}" Name="SpawnRandomPnt4" Parent="{19A3550B-88E8-CADF-4C8B-11B3FC051D35}" FloorNumber="-1" Rotate="1,-2.3708904e-10,-0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{871B68A5-71B2-7BD5-E665-0203AD7B5A39}" Name="SpawnPointVokzal11" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.4838867,-1.4753418,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{88710818-19B7-05F2-063E-7813A47806E3}" Name="SpawnPointVokzal127" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.7026367,-0.51635742,-0.28219604" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{8B669142-9488-8B77-843F-2DDCEA6FC4B4}" Name="SpawnPointVokzal130" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.5605469,-4.026123,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{918F5FF5-2761-721A-3FD3-D4A908DF1E0A}" Name="SpawnPointVokzal17" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.479248,-0.28637695,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{966F8DA8-DEF9-C9AA-D8B6-55DC19DA7013}" Name="SpawnRandomPnt6" Parent="{D3E01A94-8BD3-9D68-73E0-61158BACE371}" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{9D96C388-CDD8-07BD-2827-68EB5709B8CA}" Name="SpawnPointVokzal75" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.91552734,-3.8668213,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{9E203EB3-4BA7-BB92-88CB-5256EE442564}" Name="SpawnPointVokzal27" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.1916504,-3.4769287,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{9F062DE6-9B5F-B1D7-FFC3-23529B5D5FC7}" Name="SpawnPointVokzal74" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.1081543,-3.5368652,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{9FB103AE-C513-3228-C7A7-1537A9B3D80E}" Name="SpawnPointVokzal58" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.4572754,-3.609375,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{A0A594C4-B779-1D11-1163-F1C5B63B2F9A}" Name="SpawnPointVokzal106" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.1708984,-4.9910889,-0.36956787" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{A4266786-470B-962B-BEB4-736933B31A7A}" Name="SpawnPointVokzal65" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.92260742,-2.9848633,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{A67186AF-F76E-AB88-0BF0-532E3B30C518}" Name="SpawnPointVokzal18" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.2329102,-1.4433594,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{A6A8FEF8-3E1D-B4E3-7E50-B07363391174}" Name="SpawnPointVokzal71" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.2106934,-5.2076416,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{A6B28943-3018-195F-B031-6196ABB6E67A}" Name="SpawnPointVokzal85" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.42236328,-1.364624,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{AA0B1B3E-B28F-DD08-1203-DCDF744C9F11}" Name="SpawnPointVokzal139" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.239502,-3.9255371,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{ADAB2964-1249-2E19-F058-B567281871AF}" Name="SpawnPointVokzal33" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.5080566,-0.7677002,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{AE936B87-C14B-F9F9-9772-5AE0F1B9E4A3}" Name="SpawnPointVokzal105" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.3027344,-3.9639893,-0.36956787" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{B27B9FE8-04EF-DDB9-158B-AF4D5BE7E3D7}" Name="SpawnPointVokzal2" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.1999512,-2.4752197,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{B43C57A5-A31C-448C-9C80-2AFA3480365D}" Name="SpawnPointVokzal50" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.8986816,-4.7574463,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{B778DE2B-4E07-65A5-7CFD-55D543D8CAAF}" Name="SpawnPointVokzal16" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.11279297,0.012695313,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{B8B54246-AA01-12D7-8D7B-89AB6D365DE6}" Name="SpawnPointVokzal145" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.6484375,-4.043335,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{BDB9E854-6F79-12A7-FB76-F038E0643B8E}" Name="SpawnPointVokzal88" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.051757813,-1.282959,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{BF22FD73-3D30-36F1-6794-846B3437D68D}" Name="SpawnPointVokzal102" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.2719727,-0.51696777,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C348C7B5-7D2C-5E11-1EBC-BC8B10C4BEC7}" Name="SpawnPointVokzal47" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.3647461,-4.6055908,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C3DEB22A-7BB6-2839-C6E8-757713C17E6F}" Name="SpawnPointVokzal22" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.328125,-4.5090332,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C512C4C5-CAD6-7507-8D02-4A527A078116}" Name="SpawnPointVokzal8" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.4702148,-1.6044922,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C56AC00E-D82B-A97F-E713-AF2AE2400ABE}" Name="SpawnPointVokzal133" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.069335938,-2.28479,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C5B4308F-BF72-5D1C-395B-46F2DC1AD0F2}" Name="SpawnPointVokzal15" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.0227051,-1.1918945,-0.23532104" FloorNumber="-1" Rotate="0.99932796,0,0,-0.03665518" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C5DC246B-4E57-F8E7-5F75-B60A45D48720}" Name="SpawnPointVokzal7" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.7556152,-3.8251953,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C6138F9A-BBF6-5608-9B09-EF481020ED4C}" Name="SpawnPointVokzal66" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.8581543,-4.0192871,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C6DB3FF6-ADA7-43E5-3DE6-44C87B21097A}" Name="SpawnPointVokzal77" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.640625,-0.85791016,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C77B4692-E559-4BCB-59E7-83E9A66A018B}" Name="SpawnPointVokzal92" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.6962891,-1.7607422,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{C7BD0AED-1290-0ECD-4A6E-6BEE257A26EC}" Name="SpawnPointVokzal120" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.5839844,-5.3546143,-0.36956787" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{CA21E98B-F420-2AAB-7534-0A9803B88B1C}" Name="SpawnPointVokzal121" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.7668457,-1.1518555,-0.36956787" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{CA765A4E-DDFF-C44F-F285-5962889C1241}" Name="SpawnPointVokzal52" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.996582,-1.7995605,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{CE6F4632-A5AA-A756-DCA2-50450A64AE1D}" Name="SpawnPointVokzal124" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.17333984,-3.1359863,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{D05DE0F3-27EC-E762-C949-48BAAF045A7B}" Name="SpawnPointVokzal117" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.94628906,-1.5646973,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Name="SpawnPointBase1" Pos="3761.0171,1558.9176,204.74001" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPointBase" HasEntity="1">
+    <Properties bEnabled="1" soclasses_SmartObjectClass="SpawnPointBase"/>
+    <Components>
+     <Component typeId="{17E5EBA7-57E4-4662-A1C2-1F41DE946CDA}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <FlowGraph Description="" Group="spawn_lg" enabled="1" MultiPlayer="ClientServer">
+     <Nodes>
+      <Node Id="3" Class="Actor:LocalPlayer" pos="-19610,9830,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="9" Class="Entity:EntityPos" pos="-19120,10020,0" flags="0">
+       <Inputs entityId="0" pos="0,0,0" rotate="0,0,0" scale="0,0,0" CoordSys="1"/>
+      </Node>
+      <Node Id="949" Class="Multiplayer:IsServer" pos="-20080,10040,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="951" Class="Multiplayer:IsMultiplayer" pos="-20080,9940,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1345" Class="Game:Start" pos="-20080,9840,0" flags="0">
+       <Inputs InGame="1" InEditor="0"/>
+      </Node>
+      <Node Id="1346" Class="Entity:GetPos" pos="-19680,10060,0" flags="1" EntityGUID="{77E399FD-63C6-CD1A-CF8A-EA96E156299D}" EntityGUID_64="77E399FD63C6CD1A">
+       <Inputs entityId="0" CoordSys="1"/>
+      </Node>
+      <Node Id="1347" Class="Time:Delay" pos="-20080,10130,0" flags="0">
+       <Inputs delay="0.1" resetOnInput="0"/>
+      </Node>
+     </Nodes>
+     <Edges>
+      <Edge nodeIn="9" nodeOut="3" portIn="entityId" portOut="entityId" enabled="1"/>
+      <Edge nodeIn="1347" nodeOut="949" portIn="in" portOut="True" enabled="1"/>
+      <Edge nodeIn="949" nodeOut="951" portIn="IsServerCheck" portOut="False" enabled="1"/>
+      <Edge nodeIn="951" nodeOut="1345" portIn="Get" portOut="output" enabled="1"/>
+      <Edge nodeIn="9" nodeOut="1346" portIn="pos" portOut="Pos" enabled="1"/>
+      <Edge nodeIn="1346" nodeOut="1347" portIn="Get" portOut="out" enabled="1"/>
+     </Edges>
+     <GraphTokens />
+    </FlowGraph>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{D226EDEA-A7F2-C86A-F37E-9E40027366EE}" Name="SpawnPointVokzal119" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.6784668,-4.0649414,-0.36956787" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{D3E01A94-8BD3-9D68-73E0-61158BACE371}" Name="SP_Mark_Sphe5" Pos="3743.7493,1572.4135,204.74001" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" Material="Materials/special/collision_proxy_entitiesonly" MatLayersMask="0" Prefab="Objects/default/primitive_sphere_noproxy.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{D4FF8E6D-E610-FCA5-5403-FB3BBE50781A}" Name="SpawnPointVokzal24" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.0498047,-4.5223389,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{D52AD051-4E42-0D0C-D946-F10D4055D5C4}" Name="SpawnPointVokzal108" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.6105957,-0.32946777,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{DA1C4DD3-E4CE-0417-2F8F-8CE54EEB4C02}" Name="SpawnPointVokzal154" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.595459,-0.41357422,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{DA3B48B9-8A24-9118-EEC0-92F2929415FE}" Name="SpawnPointVokzal44" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.5,-1.5046387,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{DB45F2EE-6C9A-7573-F941-62D03B14946C}" Name="SpawnPointVokzal56" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.1447754,-4.668457,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{DBB849F9-6167-DF1A-C241-9B33A904BD7E}" Name="SpawnPointVokzal28" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.2224121,-2.6959229,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{DC056121-03EC-E245-83F3-87152D6B94DC}" Name="SpawnRandomPnt7" Parent="{1064BE11-A7B6-8D50-8818-6232305CFC26}" FloorNumber="-1" Rotate="1,-2.3708904e-10,-0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="FlowgraphEntity" HasEntity="1">
+    <Properties />
+    <Components />
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{DDF7C4B6-709D-D5B8-9054-D260BA4283B3}" Name="SpawnPointVokzal68" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.26977539,-2.6223145,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{E128063E-C30C-217A-5BE9-DC2029CFAB61}" Name="SpawnPointVokzal21" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.1269531,-1.8009033,-0.38424683" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{E24A9A99-E069-C988-2E50-A837327BF36C}" Name="SpawnPointVokzal63" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.560791,-0.71191406,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{E3895B58-2E56-D559-CDBA-F5F2B1B94ADE}" Name="SpawnPointVokzal135" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.2351074,-2.5217285,-0.28219604" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{E4876126-A85F-9BC6-A2CB-9DA62CB1FDBC}" Name="SpawnPointVokzal110" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.3640137,-2.588501,-0.43978882" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{E5CF5018-414C-AC9F-0137-E78C29790ADE}" Name="SpawnPointVokzal100" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="2.6831055,-1.7420654,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{EA3F625E-1B16-CE9B-D615-786ADE083FDE}" Name="SpawnPointVokzal1" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.2705078,-1.2861328,-0.59899902" FloorNumber="-1" Rotate="0.68071246,0,0,-0.73255074" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{ECDFAC00-64B0-9CC1-8F90-3F4146878D5E}" Name="SpawnPointVokzal32" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.9672852,-3.0135498,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{ED3504FE-DF44-2007-E9BE-8573A0CAF802}" Name="SpawnPointVokzal94" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.8088379,-0.47119141,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{EFC9A5A8-BC00-837E-CA0D-5CAFE79BE620}" Name="SpawnPointVokzal131" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="-0.055664063,-3.8013916,-0.52331543" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{F0743B2D-7823-C66B-3EF2-BC81C6758BBA}" Name="SpawnPointVokzal45" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.2834473,-4.44104,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{F2CF445F-88D2-B06E-68E8-C4E62353111F}" Name="SpawnPointVokzal29" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="0.56005859,-1.2980957,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{F3EDCF41-8BB8-363D-7196-088E2DAE462C}" Name="SpawnPointVokzal149" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="5.5773926,-0.65527344,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{F4797DF2-50C6-5ADF-50ED-FE09809E33F5}" Name="SpawnPointVokzal129" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.9038086,-2.9333496,-0.28219604" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{F8B5C31A-C1E6-9F8F-F20D-081AB3AD5289}" Name="SpawnPointVokzal59" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="4.0705566,-4.052002,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{FAA2E490-4AB1-5D4C-6FF7-AD57639E17E2}" Name="SpawnPointVokzal114" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.565918,-1.6552734,-0.55841064" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{FC8A548A-B5F0-CC85-CAAD-10EEB51C0834}" Name="SpawnPointVokzal146" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.8352051,-1.4990234,-0.59902954" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{FCD2BD73-0E0B-0715-4BA5-8A69C0BC6AEC}" Name="SpawnPointVokzal67" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="3.6542969,-3.3375244,-0.59890747" FloorNumber="-1" Rotate="0.73255062,0,0,0.68071258" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="l_spawnpoints" LayerGUID="{2C6DCFB6-43E7-7F8A-F6C3-A8580114A4B8}" Id="{FE4D9A54-3333-4111-7EDB-A570E638C419}" Name="SpawnPointVokzal35" Parent="{D08349C4-DDC6-5133-7102-23E1F926BBEA}" Pos="1.9609375,-1.6472168,-0.014190674" FloorNumber="-1" Rotate="0.036655229,0,0,0.99932796" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="SpawnPoint" HasEntity="1">
+    <Properties bDoVisTest="1" bEnabled="1" groupName="" bInitialSpawn="0" teamName=""/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

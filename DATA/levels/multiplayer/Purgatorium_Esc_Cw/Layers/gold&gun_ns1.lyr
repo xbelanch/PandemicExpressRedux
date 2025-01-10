@@ -1,0 +1,1504 @@
+<ObjectLayer>
+ <Layer Name="gold&amp;gun_ns1" FullName="gold&amp;gun_ns1" GUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{009A6701-BD90-7CEF-F535-CAF9A8ABD098}" Name="GoldX1114" Pos="1175.7151,968.80945,101.03044" FloorNumber="-1" Rotate="0.79863566,0,0,-0.60181481" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{00B4049B-333A-8341-E49B-E10628757170}" Name="GoldX1616" Pos="1203.1492,1010.2064,96.667892" FloorNumber="-1" Rotate="0.60876119,0,0,0.7933535" Scale="0.909091,0.909091,0.909091" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{012D96A5-E326-E980-EE28-36E47867DDE7}" Name="GoldX1509" Pos="1220.5835,1025.2108,100.25211" FloorNumber="-1" Rotate="0.19080862,0,0,0.98162723" Scale="0.78125,0.78125,0.78125" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{01ADE7F9-BAD0-7104-F9E4-07B39EDFB2B2}" Name="GunsSpawner279" Pos="1127.1511,949.50842,96.718079" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{01DE234F-A35B-F745-E01D-C4C3B946C891}" Name="GoldX1660" Pos="1129.7983,962.52966,100.25795" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{0343F320-8694-0357-E2CD-010041A72D20}" Name="GoldX1508" Pos="1216.1487,1023.8466,100.27499" FloorNumber="-1" Rotate="0.19080862,0,0,0.98162723" Scale="0.78125,0.78125,0.78125" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{03E60ADF-ABBA-30E0-81C1-355A1D980C94}" Name="GoldX1654" Pos="1133.3625,948.92468,100.33357" FloorNumber="-1" Rotate="0.97236985,0,0,0.23344561" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{041A0F4C-43AB-F9D7-2A05-D18F54FE3E18}" Name="GoldX1112" Pos="1170.6638,971.07361,101.08075" FloorNumber="-1" Rotate="-0.11320354,0,0,0.99357182" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{083857DE-657F-0B9E-3BDB-D2D8DB391D5D}" Name="GoldX1182" Pos="1170.4075,965.37732,95.712402" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{0858E5CF-22E7-3E65-AAA0-55BEC4D0496F}" Name="GoldX1655" Pos="1133.1917,942.77551,100.33357" FloorNumber="-1" Rotate="0.97236985,0,0,0.23344561" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{085D8EA4-D497-7ACF-E9FC-0BC9DFBA2C03}" Name="GoldX1585" Pos="1219.8708,1025.4987,100.25211" FloorNumber="-1" Rotate="0.19080862,0,0,0.98162723" Scale="0.78125,0.78125,0.78125" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{0970E0F0-C625-6352-369A-4309F4DCE0BF}" Name="GoldX1173" Pos="1191.6118,972.39148,95.721741" FloorNumber="-1" Rotate="-0.25038025,0,0,0.96814758" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{0A349BDE-5AD6-F5DA-9C07-EE2939A0AC39}" Name="GoldX1592" Pos="1212.7483,1028.3573,101.1362" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{0B729BA7-B5BB-B13B-5FB0-1FA900FB142E}" Name="GunsSpawner273" Pos="1193.5476,959.48108,96.382431" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{0BFF8B01-EC6F-E4E1-7EAF-E5A03FF09166}" Name="GoldX1590" Pos="1223.5178,1020.973,95.735809" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{0FCBD13B-01A5-1E0A-2823-BFD9EA58898A}" Name="GoldX1656" Pos="1133.4006,942.0304,100.33357" FloorNumber="-1" Rotate="0.97236985,0,0,0.23344561" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{105102CB-3A12-79C4-08ED-773B0CB995FA}" Name="GoldX1623" Pos="1181.1091,1010.2142,106.11353" FloorNumber="-1" Rotate="0.99813479,0,0,0.061048847" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{108BE967-32D6-09FF-C177-EC31CEC2847D}" Name="GoldX1667" Pos="1151.1445,955.37195,101.62057" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{11025C5B-7BF7-FEF5-BF24-FEC0F55876CA}" Name="GoldX1177" Pos="1169.5142,964.50696,109.37662" FloorNumber="-1" Rotate="0.88294744,0,0,0.46947181" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{12BC7C86-9202-8664-193D-BDFDA7ED36D7}" Name="GunsSpawner263" Pos="1223.5391,1023.848,96.725632" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{15365EBD-FE55-24BA-ADDB-595BD23BBC69}" Name="GunsSpawner285" Pos="1150.9402,956.3905,105.61336" FloorNumber="-1" Rotate="0.44977531,0.54562086,-0.44977513,0.5456211" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{15449DF3-C863-DD9B-5BD8-21E18B8D4C6B}" Name="GoldX1107" Pos="1187.3154,972.63977,109.27635" FloorNumber="-1" Rotate="0.77162474,0,0,-0.63607806" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{15CB03E8-E386-CD69-152C-AE4B132E5060}" Name="GoldX1612" Pos="1201.8782,1007.556,101.62366" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{16101693-2517-6238-0074-C7888FF70B56}" Name="GoldX1688" Pos="1186.5212,971.99548,100.2598" FloorNumber="-1" Rotate="0.94551849,0,0,0.32556847" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{16C5C6AC-6F63-FDE5-59CF-4D0B01658DFD}" Name="GoldX1606" Pos="1193.4653,1030.2968,95.730469" FloorNumber="-1" Rotate="0.82903737,0,0,0.55919319" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{19A2A585-3189-50F0-69A3-B632695E736D}" Name="GoldX1168" Pos="1171.3047,977.12219,104.93808" FloorNumber="-1" Rotate="0.99862951,0,0,0.052336302" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{1A79E20C-1782-305D-9536-DE61791E17BE}" Name="GoldX1603" Pos="1194.3601,1029.4872,95.730469" FloorNumber="-1" Rotate="0.4539901,0,0,0.89100671" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{1C32A52B-94BD-5824-A39B-CFBE536800A9}" Name="GoldX1618" Pos="1205.5471,1010.7216,96.667892" FloorNumber="-1" Rotate="0.60876119,0,0,0.7933535" Scale="0.909091,0.909091,0.909091" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{1D9E5CCE-26D5-09BA-BC33-C19276BD6ED4}" Name="GoldX1692" Pos="1188.3069,970.59705,104.9279" FloorNumber="-1" Rotate="0.93667209,0,0,0.35020766" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{2386621E-62F2-4BC7-35E3-F25F75F5C04E}" Name="GoldX1666" Pos="1151.1445,955.37195,100.56174" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{24F53216-FFAF-E97B-F079-B22D0241949C}" Name="GunsSpawner272" Pos="1180.2253,1001.4012,99.917862" FloorNumber="-1" Rotate="0.74795568,0.15769234,-0.64357281,0.038851909" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{2746A748-8450-E080-04EE-9B9EFB4E5A2A}" Name="GoldX1682" Pos="1181.531,972.78894,100.61444" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{28C1CD5D-C5A7-7311-7308-3673957ABA69}" Name="GoldX1617" Pos="1204.3298,1010.4733,96.667892" FloorNumber="-1" Rotate="0.60876119,0,0,0.7933535" Scale="0.909091,0.909091,0.909091" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{29D36896-8F8C-1C2A-150E-D2DD710D7A65}" Name="GunsSpawner271" Pos="1193.7302,974.11658,96.721024" FloorNumber="-1" Rotate="0.38511807,0.59302962,-0.38511786,0.59302974" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{2B11E3BE-C526-36EE-A2E4-EE0CA1DCB14C}" Name="GunsSpawner267" Pos="1171.8103,967.46228,105.58469" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{2C7CB8CE-87F9-A7F4-76CB-2BECF44E9C81}" Name="GoldX1681" Pos="1148.1082,966.31604,96.657959" FloorNumber="-1" Rotate="-0.13052651,0,0,0.99144483" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{2D2709CE-F60F-0115-4019-7F4F20E7159E}" Name="GoldX1174" Pos="1194.1799,960.49646,95.445892" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{2D88B7F2-927B-3756-FD1E-582A28F97AF1}" Name="GoldX1685" Pos="1182.272,970.31213,100.39525" FloorNumber="-1" Rotate="0.95371687,0,0,0.30070615" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{30C0D9E6-C278-7BC5-8CD1-C14C8A6C91AA}" Name="GunsSpawner269" Pos="1183.4927,1037.2074,101.13675" FloorNumber="-1" Rotate="0.6889838,-0.15906438,-0.68898356,-0.15906443" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{33618104-5A3E-F410-6F36-2A6F30A49271}" Name="GunsSpawner274" Pos="1178.6592,967.89832,96.42717" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{33882D0F-355F-C899-51B9-42B31BFDCB06}" Name="GoldX1671" Pos="1156.8274,953.79651,105.06789" FloorNumber="-1" Rotate="0.47715855,0,0,0.87881726" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{343C4A25-DF7C-7F91-9826-0CD61783E41E}" Name="GoldX1594" Pos="1215.1218,1027.6293,100.24609" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{34CFB47E-AE89-57A3-642A-126C071F7B1E}" Name="GoldX1604" Pos="1193.0774,1029.6647,95.730469" FloorNumber="-1" Rotate="0.82903737,0,0,0.55919319" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{3559D692-3562-8A36-58B6-F875BB971F68}" Name="GoldX1622" Pos="1184.9458,1014.6869,105.56224" FloorNumber="-1" Rotate="0.99813479,0,0,0.061048847" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{355CD6CC-E09D-C30A-ABCA-99BFD116446D}" Name="GoldX1597" Pos="1197.4172,1030.0619,100.33852" FloorNumber="-1" Rotate="-0.23344576,0,0,0.97236985" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{380B17F5-D23D-3B1E-0BF3-5F3A5EAFA43D}" Name="GunsSpawner294" Pos="1190.1223,973.02893,105.60838" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{38A6DAF0-1FAF-C92A-0A75-0784C960CDE5}" Name="GunsSpawner264" Pos="1217.9189,1019.0555,101.38713" FloorNumber="-1" Rotate="-0.11061598,0.69840097,0.11061595,0.69840127" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{39DBA71E-7771-D27B-85D3-CAF7C6073921}" Name="GunsSpawner276" Pos="1167.2175,1003.516,96.756577" FloorNumber="-1" Rotate="0.61844963,0.34281218,-0.61844939,0.3428123" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{3A383041-7E2E-8467-1D66-9B073AE642A4}" Name="GoldX1181" Pos="1165.8708,968.6908,95.712402" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{3D677B3F-A2AE-9087-E66A-79C6728C29BD}" Name="GunsSpawner263" Pos="1192.9597,978.69739,109.31012" FloorNumber="-1" Rotate="-0.037007205,0.70613754,0.037007175,0.7061379" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{3F2A4823-1EAE-6807-F2F1-A5639BF1CA55}" Name="GoldX1613" Pos="1201.8782,1007.556,100.60846" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{3FDFB939-A069-003F-4C7F-709D02D36386}" Name="GoldX1110" Pos="1182.5251,969.82727,109.40468" FloorNumber="-1" Rotate="0.77162474,0,0,-0.63607806" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{4344971D-5522-8B2C-5542-25D7C0563A5E}" Name="GoldX1625" Pos="1168.0168,1003.4562,95.789551" FloorNumber="-1" Rotate="0.23344503,0,0,0.97236997" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{44AC7633-D3A6-4DAF-57E5-8DCC7A63AA0F}" Name="GoldX1105" Pos="1193.4714,976.28552,109.2448" FloorNumber="-1" Rotate="0.77162474,0,0,-0.63607806" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{46040437-A08C-506D-BE66-E315681A25BB}" Name="GoldX1119" Pos="1172.5081,975.64148,101.04233" FloorNumber="-1" Rotate="-0.11320354,0,0,0.99357182" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{48565D92-C005-4A58-6346-72A4E4A1E0EB}" Name="GunsSpawner273" Pos="1180.323,1011.1776,101.07074" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{4A2B262E-4666-F653-AEDA-3AC27A3CA995}" Name="GoldX1674" Pos="1144.7898,970.69714,92.494492" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{4D221E93-0D9E-511C-9A7B-6A6AA7B45B77}" Name="GoldX1686" Pos="1189.3027,977.2865,100.2598" FloorNumber="-1" Rotate="0.94551849,0,0,0.32556847" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{4E942442-EF09-51CC-878F-CE6CAF87874C}" Name="GunsSpawner270" Pos="1201.7993,1007.3654,101.14015" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{501A332C-B19C-8D42-E068-4BAB9EA9F7A5}" Name="GoldX1593" Pos="1215.8064,1026.684,100.24609" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{51FF7B7E-0EA6-4431-0844-20A385B7D059}" Name="GoldX1687" Pos="1186.0027,976.27405,100.2598" FloorNumber="-1" Rotate="0.94551849,0,0,0.32556847" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{53D5D8B0-0EF3-F376-D5AA-0A16B2A62BB7}" Name="GoldX1624" Pos="1181.1091,1010.2142,105.0997" FloorNumber="-1" Rotate="0.99813479,0,0,0.061048847" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{54F47EDF-2F46-6755-AB85-A98EE0E1EF3E}" Name="GunsSpawner284" Pos="1154.9834,959.12073,101.10391" FloorNumber="-1" Rotate="0.70667619,0.024677692,-0.70667589,0.02467775" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{55B3DC8A-A4F7-7B0E-F199-DB0E6FBE5D93}" Name="GunsSpawner282" Pos="1122.7332,967.52722,96.76384" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{5663F9E7-FCBC-E452-2DA3-005126C15EE2}" Name="GoldX1653" Pos="1133.594,949.55872,100.33357" FloorNumber="-1" Rotate="0.97236985,0,0,0.23344561" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{56835148-4B4C-33DD-0D0E-2A120E9BC151}" Name="GoldX1106" Pos="1186.0154,975.63586,109.53476" FloorNumber="-1" Rotate="0.77162474,0,0,-0.63607806" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{57935AE1-B983-5434-F277-4BBA04A5B119}" Name="GoldX1662" Pos="1126.7354,957.81335,101.02467" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{58DD2356-CD10-9D69-8694-E486E117893A}" Name="GoldX1614" Pos="1197.6309,1003.37,100.24426" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{59151DCC-15E0-FC49-232A-E295CDE97424}" Name="GoldX1610" Pos="1185.342,1038.4989,101.04187" FloorNumber="-1" Rotate="0.35836762,0,0,0.93358052" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{5AAE77EE-4716-D5CF-071C-DF0F78777CB1}" Name="GoldX1175" Pos="1168.4231,965.52429,109.37662" FloorNumber="-1" Rotate="0.88294744,0,0,0.46947181" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{5ADF775E-E4D5-8A2A-ADA8-031962763CDF}" Name="GoldX1591" Pos="1212.5259,1028.3304,101.66534" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{5B0BECF9-046E-7AEE-61F5-A2D166DC895C}" Name="GoldX1172" Pos="1192.7395,973.66248,96.369217" FloorNumber="-1" Rotate="-0.25038025,0,0,0.96814758" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{5CCACDB8-D7BE-33CC-9DFD-471CE430B97A}" Name="GunsSpawner291" Pos="1181.5559,971.45984,101.16202" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{5F6D4878-9291-3EC2-B046-99407CDFD615}" Name="GoldX1183" Pos="1165.9883,1030.724,95.738907" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{61D738DB-9FBB-4409-72C0-8861CC380A4B}" Name="GoldX1118" Pos="1171.7805,975.52258,101.04233" FloorNumber="-1" Rotate="-0.11320354,0,0,0.99357182" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{63DE4A0B-3BAF-F27B-6E9F-22510583E730}" Name="GoldX1598" Pos="1196.0449,1029.1322,100.33852" FloorNumber="-1" Rotate="-0.23344576,0,0,0.97236985" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{643F4CF4-FE59-7B74-1651-E238CCD17D2D}" Name="GoldX1615" Pos="1203.5605,1005.8693,95.874237" FloorNumber="-1" Rotate="0.60876119,0,0,0.7933535" Scale="0.75757581,0.75757581,0.75757581" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{64F0F397-775E-A920-CE6D-ACC5E0886F69}" Name="GunsSpawner266" Pos="1168.3396,972.02087,101.20166" FloorNumber="-1" Rotate="0.62433833,0.33196646,-0.62433815,0.33196661" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{6609FB3E-DDD2-C276-DB50-20BD1036333C}" Name="GunsSpawner278" Pos="1132.208,940.56091,101.12065" FloorNumber="-1" Rotate="0.54167533,-0.45451939,-0.54167515,-0.45451954" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{66A4D4DB-2EF3-75B0-1CF1-57EBDF527F47}" Name="GoldX1588" Pos="1224.7231,1022.5321,95.735809" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{6937E21A-4235-8813-987B-0C6956C3DFE1}" Name="GoldX1109" Pos="1181.8069,970.48743,109.40468" FloorNumber="-1" Rotate="0.77162474,0,0,-0.63607806" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{6D1ED121-CC1A-CDD3-F377-69E16D248985}" Name="GoldX1620" Pos="1180.4958,1012.2279,101.03204" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{6D921FBF-B784-7260-B3A7-6AA4A4CE3CE6}" Name="GoldX1659" Pos="1131.46,963.22937,100.3609" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{6EB20925-21DC-7C1D-8F0E-1582128E59D1}" Name="GoldX1170" Pos="1171.6357,974.60706,110.0459" FloorNumber="-1" Rotate="0.98480767,0,0,0.17364852" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{71006871-6E3D-5A0B-2916-7CF12EBBE347}" Name="GunsSpawner287" Pos="1145.3706,971.35168,93.326187" FloorNumber="-1" Rotate="0.66232729,-0.24763401,-0.66232717,-0.24763413" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{725CFADE-D225-3439-E901-715AB5FDF638}" Name="GoldX1661" Pos="1128.0515,962.31555,100.25795" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{7501DE8F-C6A3-8361-FADB-1EB2DCC762BF}" Name="GoldX1601" Pos="1195.4661,1033.7784,95.730469" FloorNumber="-1" Rotate="0.4539901,0,0,0.89100671" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{76884EE5-685E-E98F-F25C-39DD651461B8}" Name="GoldX1676" Pos="1155.4829,970.87878,100.85358" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{769189CD-54FB-15DB-4ECA-21491B4CD42F}" Name="GoldX1115" Pos="1173.8979,965.48743,100.35971" FloorNumber="-1" Rotate="0.79863566,0,0,-0.60181481" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{78C88F43-AEFC-D991-252E-C16A2BC9E2C6}" Name="GoldX1665" Pos="1153.6975,960.87463,100.40271" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{7AFCF16C-852D-1A80-0FBA-4F2EA1E27880}" Name="GoldX1691" Pos="1190.093,974.05627,106.60764" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{7B9627F9-9E5F-8E7F-C0F1-71376066CA1E}" Name="GunsSpawner275" Pos="1165.7139,955.54309,96.376129" FloorNumber="-1" Rotate="0.50000006,0.49999994,-0.49999994,0.50000006" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{7CF2167E-979A-D7B1-CEB9-89E3BD9DDEFE}" Name="GunsSpawner292" Pos="1188.3718,978.17297,100.60112" FloorNumber="-1" Rotate="0.62141764,-0.33740214,-0.62141752,-0.33740225" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{7F4BDD9C-01AF-ACF0-1191-10631958CD44}" Name="GunsSpawner264" Pos="1171.8643,971.34753,101.13446" FloorNumber="-1" Rotate="0.46390384,0.53366023,-0.4639037,0.53366035" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{80825942-6B04-BED6-2281-2CAD488BABE5}" Name="GunsSpawner271" Pos="1205.6101,1008.6886,96.277405" FloorNumber="-1" Rotate="0.70744234,0.014759397,-0.70404273,0.060260631" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{8146C615-4EF6-3F2D-DA35-A5071CD33CAE}" Name="GoldX1108" Pos="1182.0007,969.9054,109.40468" FloorNumber="-1" Rotate="0.77162474,0,0,-0.63607806" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{816F36E9-3354-5685-8A69-8239DABD96F6}" Name="GoldX1678" Pos="1155.5334,971.3468,100.84801" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{822D585A-EBDA-9326-6EA8-70D812801D2D}" Name="GoldX1165" Pos="1171.1716,970.39099,104.75116" FloorNumber="-1" Rotate="0.99862951,0,0,0.052336302" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{832DD9B9-9295-400B-BADF-44038B67D247}" Name="GunsSpawner269" Pos="1171.2278,974.93396,110.09106" FloorNumber="-1" Rotate="0.56098568,-0.43045923,-0.56098545,-0.43045935" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{8974731E-F9AD-3E6C-8C46-344AF61F1825}" Name="GunsSpawner289" Pos="1152.4746,973.52551,101.36667" FloorNumber="-1" Rotate="0.64845949,-0.2819581,-0.64845932,-0.28195819" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{8B610A2F-1B60-0A31-B3B5-C482227C7F42}" Name="GoldX1117" Pos="1174.5442,965.57312,100.35971" FloorNumber="-1" Rotate="0.79863566,0,0,-0.60181481" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{8E87DB59-410C-B593-6149-A2B6932C1E66}" Name="GoldX1113" Pos="1170.6638,971.07361,101.63214" FloorNumber="-1" Rotate="-0.11320354,0,0,0.99357182" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{8E9C066D-A9A9-91B2-D1BA-65F95CF3AA22}" Name="GoldX1164" Pos="1172.0952,967.98376,105.54289" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{8F4C5C1C-FDCF-1604-0ACE-4F3BAFBD0893}" Name="GoldX1586" Pos="1224.217,1021.2667,95.735809" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{90A6C0C3-322D-5AAC-C8D1-C76DD7C6F683}" Name="GunsSpawner262" Pos="1152.7598,993.12537,97.12146" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{91DB6768-44BC-7B7B-6855-4201BD2B80B1}" Name="GoldX1116" Pos="1174.4426,966.27112,100.35971" FloorNumber="-1" Rotate="0.79863566,0,0,-0.60181481" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{92044DFB-4603-DA8D-10D1-E91A860AE429}" Name="GunsSpawner276" Pos="1165.9255,968.96985,96.870361" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{92A9B723-29E6-84FD-259B-3DA87AB3D46D}" Name="GoldX1607" Pos="1193.9626,1030.1232,95.730469" FloorNumber="-1" Rotate="0.82903737,0,0,0.55919319" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{97A4AEE0-7429-6297-A0CC-4CC093B72224}" Name="GunsSpawner265" Pos="1175.3789,969.99377,101.08414" FloorNumber="-1" Rotate="-0.067773223,0.70385128,0.067773215,0.70385152" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{97B54938-A2FC-E8F8-50EF-DDFC97992C93}" Name="GoldX1658" Pos="1125.0596,952.66492,96.507294" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{97EF7994-7B3B-4816-D08C-1D34FB37E186}" Name="GunsSpawner293" Pos="1186.4319,975.36609,105.57683" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{98A0CDA0-BE97-AFA4-0414-AC29AE7904D3}" Name="GunsSpawner270" Pos="1171.2634,971.61902,110.12923" FloorNumber="-1" Rotate="0.56098568,-0.43045923,-0.56098545,-0.43045935" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{99D86CE4-E231-4A25-360E-3F526DE3C949}" Name="GoldX1166" Pos="1173.7417,967.52185,104.75116" FloorNumber="-1" Rotate="0.99862951,0,0,0.052336302" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{9A7EE152-C5C7-B295-7F75-F1663EC23C48}" Name="GoldX1619" Pos="1204.9744,1010.0106,95.756073" FloorNumber="-1" Rotate="0.60876119,0,0,0.7933535" Scale="0.909091,0.909091,0.909091" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{9BFBB016-4A4F-2640-E2B6-9B17CF74AAC9}" Name="GoldX1609" Pos="1183.5564,1037.3754,100.58008" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{9D68B5CC-A304-299D-D93C-CA4163D95543}" Name="GoldX1608" Pos="1189.9333,1032.1244,100.25644" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{9E1C870E-293F-1C8B-2730-BFFC348D00A0}" Name="GunsSpawner290" Pos="1151.2832,965.97791,96.715897" FloorNumber="-1" Rotate="0.45451957,0.54167521,-0.45451933,0.54167533" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{9F906C3F-9630-4F95-496C-02A0A328E344}" Name="GoldX1679" Pos="1149.1453,965.54456,96.638702" FloorNumber="-1" Rotate="-0.13052651,0,0,0.99144483" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A01A6676-0275-2818-F918-6D541CC54136}" Name="GoldX1611" Pos="1196.5125,1003.2291,101.06151" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A1500FDF-1448-6157-5064-770D9355B527}" Name="GoldX1171" Pos="1170.2278,971.30408,110.10468" FloorNumber="-1" Rotate="0.98480767,0,0,0.17364852" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A37B1FB1-CD1F-894F-623C-4F3FF29A1334}" Name="GunsSpawner288" Pos="1156.8457,971.39734,101.12482" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A454A1F9-2662-683D-C0B8-F269DC4BE606}" Name="GoldX1684" Pos="1183.4944,969.8241,100.61444" FloorNumber="-1" Rotate="0.95371687,0,0,0.30070615" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A59951FD-D8D2-4EA8-9CA1-4B26CD6248B8}" Name="GunsSpawner272" Pos="1168.6001,964.38098,109.95836" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A5AB6841-D293-BDB9-20DB-05B24A83D5A9}" Name="GoldX1683" Pos="1181.531,972.78894,101.13663" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A66D96BB-2B99-54C1-3303-4CEF29C16E58}" Name="GunsSpawner277" Pos="1127.554,947.73523,101.11861" FloorNumber="-1" Rotate="0.54167533,-0.45451939,-0.54167515,-0.45451954" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A6B26CB4-3B3F-C72D-7B00-66766E399302}" Name="GoldX1587" Pos="1224.478,1021.8949,95.735809" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A70EB5B2-B200-5DF1-DD63-B5766C8B1C12}" Name="GoldX1664" Pos="1123.4609,970.01477,95.703201" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A76EA66A-757A-550A-6611-23786115F349}" Name="GunsSpawner280" Pos="1129.1309,961.68567,101.11374" FloorNumber="-1" Rotate="-0.47314695,0.52548265,0.47314674,0.52548277" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A8BC039F-5890-B504-7C18-F4556AEB8086}" Name="GoldX1595" Pos="1208.1833,1027.3029,100.30151" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A9980B76-2E71-2FC0-741B-D2FF27354CA6}" Name="GoldX1596" Pos="1197.4851,1031.2404,100.33852" FloorNumber="-1" Rotate="-0.23344576,0,0,0.97236985" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{A9FD861F-BC68-9CAB-B5EC-7F2F14A8D005}" Name="GoldX1605" Pos="1193.5747,1029.4908,95.730469" FloorNumber="-1" Rotate="0.82903737,0,0,0.55919319" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{AA4F5988-2B0E-A95D-1008-D5616197A56D}" Name="GunsSpawner277" Pos="1166.5698,1030.1342,96.761612" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{AAF22BFD-6E2F-1CD7-5C40-6D0DC5482A7A}" Name="GunsSpawner286" Pos="1154.1145,953.1366,105.57732" FloorNumber="-1" Rotate="0.043167852,0.70578772,-0.043167841,0.70578802" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{AB11DFF4-4E81-DAE1-0FA4-AB7796A46BF0}" Name="GunsSpawner268" Pos="1169.3916,976.28992,105.58919" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{ADE05E5A-265A-689C-76AA-3463511FA131}" Name="GunsSpawner268" Pos="1194.7539,1035.2201,96.770508" FloorNumber="-1" Rotate="-0.29833093,0.62803233,0.31658477,0.64525044" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{AF5E220E-B8A6-AE06-18E2-1A82C4C0A84A}" Name="GoldX1672" Pos="1154.5422,953.16589,104.76123" FloorNumber="-1" Rotate="0.47715855,0,0,0.87881726" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{B005FB48-836B-AF30-3F56-310F9AB288E0}" Name="GoldX1167" Pos="1170.8518,976.86926,104.93808" FloorNumber="-1" Rotate="0.99862951,0,0,0.052336302" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{B216FA4D-31A9-4478-A755-AE393A0C9805}" Name="GoldX1169" Pos="1172.2893,974.85388,110.0459" FloorNumber="-1" Rotate="0.98480767,0,0,0.17364852" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{B467DBBB-5546-0539-5F04-0FD8E05327DA}" Name="GunsSpawner267" Pos="1196.7212,1028.8329,100.577" FloorNumber="-1" Rotate="0.64590925,-0.27195418,-0.64860731,-0.29690191" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{BA83C017-B6B0-8E77-88DD-9C3757BA1A87}" Name="GoldX1621" Pos="1180.6401,1011.6888,101.03204" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{BAFE22C8-19CB-279E-A801-FAE5401CA21B}" Name="GoldX1178" Pos="1179.0959,968.74646,95.693909" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{BDF14C40-2542-9D92-015D-232C60731CF3}" Name="GoldX1180" Pos="1165.6804,969.97668,95.712402" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{BE28EBE1-1A20-E516-A7C8-6E03E1C3F139}" Name="GoldX1627" Pos="1132.855,949.50378,100.33357" FloorNumber="-1" Rotate="0.97236985,0,0,0.23344561" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{C0465267-9F1D-3C7A-A2FA-2B85EEF8CE9A}" Name="GunsSpawner266" Pos="1208.9519,1028.8622,100.32791" FloorNumber="-1" Rotate="0.69840121,-0.11061583,-0.69840103,-0.11061591" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{C1E53B16-415B-D4FA-1526-E877F515D86F}" Name="GoldX1670" Pos="1149.7981,956.21228,106.12445" FloorNumber="-1" Rotate="-0.13917336,0,0,0.99026805" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{C37F5177-B631-2F58-7064-4060B15FF289}" Name="GoldX1677" Pos="1154.3735,974.10583,100.38318" FloorNumber="-1" Rotate="0.91354531,0,0,0.40673694" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{C793A3A7-28AD-7AF9-7CE7-D43E137E794A}" Name="GoldX1689" Pos="1190.093,974.05627,105.58081" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{CF542D9B-BFC7-8E20-49D3-BB41A75B54E4}" Name="GoldX1506" Pos="1152.4456,994.18323,95.743713" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{CFCB9C07-CDC0-BAFE-5133-C3B7A5787419}" Name="GoldX1690" Pos="1186.4026,976.39343,105.54924" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{D13802D6-2C5B-A1F0-AD1C-55C4A16BEC07}" Name="GunsSpawner265" Pos="1213.7112,1023.3378,101.09415" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{D13C4804-C6D6-D526-F8E8-0A579E7D164A}" Name="GoldX1600" Pos="1196.0105,1034.5946,95.730469" FloorNumber="-1" Rotate="0.4539901,0,0,0.89100671" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{D36976BA-EF56-3D7E-C635-1FBDCDC86F93}" Name="GunsSpawner283" Pos="1151.2224,955.30579,101.10391" FloorNumber="-1" Rotate="0.56841272,0.42060319,-0.56841254,0.42060333" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{D4E1B210-91BA-ED03-E628-42FAD9BBEE70}" Name="GoldX1669" Pos="1149.7981,956.21228,105.06789" FloorNumber="-1" Rotate="-0.13917336,0,0,0.99026805" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{D8463999-1F7E-9336-2FB6-17FFD19FF40B}" Name="GoldX1675" Pos="1145.5989,970.27039,92.494492" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{DA202433-A3F6-11BF-7EEB-E4B6AE0FE656}" Name="GoldX1673" Pos="1152.9905,955.74377,105.22491" FloorNumber="-1" Rotate="0.94551849,0,0,0.32556835" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{DB45A19D-C0AA-0FB7-CE05-95859258FEC2}" Name="GoldX1602" Pos="1194.7712,1029.8168,95.730469" FloorNumber="-1" Rotate="0.4539901,0,0,0.89100671" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{DD36E85C-5E54-E604-2F53-DDB5C3928C8E}" Name="GunsSpawner275" Pos="1181.1831,1010.2499,105.64757" FloorNumber="-1" Rotate="0.50865018,-0.4911975,-0.50865,-0.49119771" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{E0C9D03C-D588-4D93-FA7C-BD08CF8BE31E}" Name="GoldX1657" Pos="1125.3169,951.54163,96.507294" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{E108DE6F-2A8D-6739-67D1-B09B833778EC}" Name="GoldX1668" Pos="1149.8772,956.80969,100.22258" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{E4FEE1F2-E42C-6442-F9ED-57A443A578F7}" Name="GoldX1179" Pos="1178.3237,967.08582,95.693909" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{E7A7D832-F540-3B94-8DA4-B8E3585ACA08}" Name="GoldX1176" Pos="1168.1262,967.57825,109.37662" FloorNumber="-1" Rotate="0.88294744,0,0,0.46947181" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{E8F4AA99-6E2B-D070-7AD5-5D4F31969C0E}" Name="GoldX1599" Pos="1197.8406,1033.4108,100.33852" FloorNumber="-1" Rotate="-0.23344576,0,0,0.97236985" Scale="0.72463769,0.72463769,0.72463769" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX15" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{EB04637A-F378-B56B-4427-C52CF1B6962A}" Name="GoldX1111" Pos="1182.4421,970.53601,109.40468" FloorNumber="-1" Rotate="0.77162474,0,0,-0.63607806" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{F01C7FEC-77E7-78F1-75CA-BE82471CF300}" Name="GunsSpawner281" Pos="1125.863,957.4657,101.06247" FloorNumber="-1" Rotate="0.70441616,0.061628439,-0.70441592,0.061628487" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{F742EBC5-68F9-1AF4-ABFB-68FC7EF34C00}" Name="GoldX1626" Pos="1132.0803,948.87732,100.4931" FloorNumber="-1" Rotate="0.97236985,0,0,0.23344561" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{F7A50240-209A-199B-A95A-8432A8F09CCD}" Name="GunsSpawner274" Pos="1183.9861,1014.2972,105.58997" FloorNumber="-1" Rotate="0.50865018,-0.4911975,-0.50865,-0.49119771" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="70"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{FA744F1E-0C70-5FE0-D4F5-2ECF325F65FC}" Name="GoldX1663" Pos="1122.6499,968.71887,95.703201" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{FE88CC07-D0E5-45B9-DB11-2E974BC493E0}" Name="GoldX1507" Pos="1190.6841,1032.2382,100.25644" FloorNumber="-1" Rotate="0.60876113,0,0,0.79335356" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="gold&amp;gun_ns1" LayerGUID="{E41BFD50-25AD-A532-56F9-237B93795E15}" Id="{FFEBA31F-A6A7-2A42-28CB-762DDB60379F}" Name="GoldX1680" Pos="1150.136,965.47913,96.638702" FloorNumber="-1" Rotate="-0.13052651,0,0,0.99144483" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GoldX" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="1" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

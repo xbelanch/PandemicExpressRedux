@@ -1,0 +1,78 @@
+<ObjectLayer>
+ <Layer Name="Forest_Tw_FX" FullName="2_Forest_Town/Forest_Tw_FX" GUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="43775" ParentGUID="{794F0A4F-728A-7DE4-F68E-7599BF8B6C1A}">
+  <LayerObjects>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{08A5116E-E7E1-0084-FA4A-3301280BFECC}" Name="3d_rotation149" Pos="829.87897,1418.7539,141.28525" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.stalker_ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.stalker_ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{0CD74C20-AEF7-8AF2-1132-4EF56ECD8520}" Name="3d_rotation150" Pos="896.24634,1310.656,138.80769" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{5B6D6492-58F8-632E-BFFD-CD7625552F23}" Name="3d_rotation152" Pos="780.35468,1310.0309,164.48785" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{5E714BF8-D5AB-F0B3-DF46-03328A52A106}" Name="3d_rotation153" Pos="834.65039,1206.9778,154.6011" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{6FE3BFAB-B6C2-C23B-3A9B-DC54F3DD6739}" Name="3d_rotation148" Pos="506.93512,1344.7159,150.17664" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.stalker_ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.stalker_ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{71202B73-2AA1-96FB-60E2-566426D46C2C}" Name="3d_rotation145" Pos="751.79974,1347.3318,156.5864" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.stalker_ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.stalker_ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{CD5B1A7B-9522-08AC-ED2D-EEE5E5088610}" Name="3d_rotation147" Pos="637.07422,1308.572,151.4789" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.stalker_ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.stalker_ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{DDC8D968-3ADE-AC1D-E954-A84427C388DF}" Name="3d_rotation151" Pos="746.84076,1422.4596,155.58005" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Forest_Tw_FX" LayerGUID="{AD8FBEE2-447A-E7A8-A235-5077D42D727B}" Id="{FEFE0393-37E1-B989-8876-2CF71DF99CDF}" Name="3d_rotation154" Pos="739.37286,1408.848,156.02376" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

@@ -1,0 +1,8 @@
+<ObjectLayer>
+ <Layer Name="Flooded_Tw_PREFAB" FullName="2_Flooded_Town/Flooded_Tw_PREFAB" GUID="{DBDEE5FD-2743-9086-10D5-FB5DE3B344DC}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8366592" ParentGUID="{140BF0D4-896F-7A49-840D-7D9FD47A7D6E}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Flooded_Tw_PREFAB" LayerGUID="{DBDEE5FD-2743-9086-10D5-FB5DE3B344DC}" Id="{058A1845-93DC-0BEE-D5CA-830330844E6A}" Name="Prefab267" Pos="786.76984,1279.3308,154.56572" FloorNumber="-1" Rotate="0.99904823,0,-0.043619387,0" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{0D4CFF19-9377-C944-FF37-408B9D18EB00}" PrefabName="zhg_constructions.architecture.build_country_c"/>
+   <Object Type="Prefab" Layer="Flooded_Tw_PREFAB" LayerGUID="{DBDEE5FD-2743-9086-10D5-FB5DE3B344DC}" Id="{A522CFF0-95EE-6D11-92BB-EE40103BDA36}" Name="Prefab266" Pos="764.80109,1310.6602,153.4104" FloorNumber="-1" Rotate="-0.70365667,0.00017114077,0.043619055,-0.70920002" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{556240E8-55B5-BD82-1A62-F899A7EA39EC}" PrefabName="zhg_constructions.architecture.build_country_a"/>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

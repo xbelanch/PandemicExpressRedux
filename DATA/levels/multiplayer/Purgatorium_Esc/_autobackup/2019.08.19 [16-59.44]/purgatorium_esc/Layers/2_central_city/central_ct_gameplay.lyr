@@ -1,0 +1,116 @@
+<ObjectLayer>
+ <Layer Name="Central_Ct_GAMEPLAY" FullName="2_Central_City/Central_Ct_GAMEPLAY" GUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{0087CE2C-96FB-4DB2-FEA3-186B62210E7E}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{190A7D18-E005-7D1A-EB65-8005F1FDCD3A}" Name="Prefab113" Pos="1178.132,974.02551,104.63554" FloorNumber="-1" Rotate="0.087155908,0,0,-0.9961946" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{192A17F3-99DE-C76F-7E42-86C63524DFAD}" Name="Prefab129" Pos="591.87665,1068.4203,178.82535" FloorNumber="-1" Rotate="-0.73212761,0,-0,-0.68116742" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{237BF22F-7911-A73A-15B0-25F6BC1B5239}" Name="Prefab122" Pos="1120.7478,651.30774,193.29688" FloorNumber="-1" Rotate="0.98255032,-0.035758641,0.11844717,0.13887575" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Entity" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{3DD72780-7B57-900B-9CB5-58633292864D}" Name="BadBoyBus30" Pos="1012.8461,1205.2148,112.7297" FloorNumber="-1" Rotate="0.18194586,-0.0068399175,-0.012165837,0.98320949" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{4A14FF88-4F17-85FA-F2D9-754399FE75B9}" Name="BadBoyBus7" Pos="1043.7808,1172.1715,107.66349" FloorNumber="-1" Rotate="0.8691892,-0.022935782,0.034056675,0.49277192" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Entity" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{5030F477-EF42-27E4-903B-F92AED928BDA}" Name="DC3GunsSpawner258" Pos="1044.0016,1147.7817,114.8309" FloorNumber="-1" Rotate="0.29883626,0.64085644,0.29883623,-0.64085639" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC3GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{7153B391-8460-53CA-A302-0E1C65B98EA5}" Name="DC3GunsSpawner261" Pos="1047.522,1150.0137,110.76547" FloorNumber="-1" Rotate="0.29883626,0.64085644,0.29883623,-0.64085639" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="DC3GunsSpawner" HasEntity="1">
+    <Properties SpawnerDropChance="100"/>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{74D8FC46-5BF0-20F9-E2D1-D715516FB450}" Name="Prefab115" Pos="907.3772,871.99066,204.57918" FloorNumber="-1" Rotate="0.99904817,0,0,-0.043619253" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{76FA0EF6-386E-78C1-320C-4FD07CE60CD0}" Name="Prefab324" Pos="1182.9587,918.7085,134.47118" FloorNumber="-1" Rotate="0.13052635,0,0,-0.99144477" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Entity" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{99FBCC46-964F-3B93-40DC-C2D4603E73F3}" Name="BadBoyBus8" Pos="1012.0348,1183.2504,112.25" FloorNumber="-1" Rotate="-0.86984754,-0.0026584063,0.003173979,-0.49330336" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{AC6D39A6-1ABC-CB68-5D4A-4DFFD3D098D2}" Name="Prefab114" Pos="1176.0166,1074.4159,93.460991" FloorNumber="-1" Rotate="0.82040429,-0.19537543,-0.069123022,-0.53290462" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{BFABAE4A-1E3E-F33D-8FF1-207CA1A41B71}" Name="Prefab128" Pos="591.9679,1069.4633,178.82535" FloorNumber="-1" Rotate="-0.73212761,0,-0,-0.68116742" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{D7C3F3C1-446E-B892-AE9D-46F0F6AFDC8A}" Name="Prefab449" Pos="587.82233,1056.1217,178.89568" FloorNumber="-1" Rotate="0.67559028,0,0,-0.73727733" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{D8A9CCF0-A05C-5CC9-2904-B04A9B9FF50E}" Name="Prefab325" Pos="1302.2411,352.87894,139.0984" FloorNumber="-1" Rotate="-0.34201998,0,0,-0.93969262" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{DCB9880C-3969-98D9-8D5D-323627F6A4BA}" Name="Prefab104" Pos="1037.6674,1159.6245,107.7392" FloorNumber="-1" Rotate="0.25881904,0,0,0.96592575" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{E65BB538-CF6B-81EA-DB4D-3254AA393F2E}" Name="Prefab125" Pos="699.30255,1131.7017,169.05615" FloorNumber="-1" Rotate="0.90630782,0,0,-0.42261821" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{EFE343B1-440D-A3E6-BC67-DC1DBBE3583F}" Name="Prefab124" Pos="794.0069,1063.7765,168.66827" FloorNumber="-1" Rotate="0.42261821,0,0,0.9063077" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{F2DF8F11-34EB-E6A2-472C-787F21308C8A}" Name="Prefab326" Pos="1290.4299,326.69147,143.26999" FloorNumber="-1" Rotate="0.38268352,0,0,-0.92387944" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{FEC3684A-E2E4-34A8-7240-209059C5BB9D}" Name="Prefab117" Pos="940.47772,1463.4568,157.3" FloorNumber="-1" Rotate="0.5,0,0,-0.86602521" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Entity" Layer="Central_Ct_GAMEPLAY" LayerGUID="{A638F6EA-7301-DEFC-C892-415F39933687}" Id="{FF60CA93-C395-2088-9D3E-F07EA091F181}" Name="BadBoyBus77" Pos="1128.3724,1314.2867,113.70168" FloorNumber="-1" Rotate="0.50765306,-0.032512382,-0.012092444,0.86086303" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="BadBoyBus" HasEntity="1">
+    <Properties accuracy="1" aicharacter_character="Car" aiSpeedMult="1" attackrange="100" bAutoGenAIHidePts="0" bCanUsePrimaryWeapon="1" bCanUseSecondaryWeapon="0" commrange="100" bDisableEngine="0" esFaction="" bFactionHostility="1" followDistance="5" bHeavyObject="0" bInteractLargeObject="0" leaderName="" material="" Modification="" esNavigationType="VehicleMedium" Paint="" bProvideAICover="1" soclasses_SmartObjectClass="" bSyncPhysics="1" teamName="">
+     <AIPressureAOE bFriendlyEnable="0" friendlyPressureDec="0" friendlyRadius="0" bHostileEnable="0" hostilePressureInc="0" hostileRadius="0"/>
+     <Perception FOVPrimary="-1" FOVSecondary="-1" sightrange="100" sightrangeVehicle="-1" stanceScale="1"/>
+     <Physics>
+      <CollisionFiltering>
+       <collisionIgnore bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+       <collisionType bT_collision_class_articulated="0" bT_collision_class_living="0" bT_collision_class_particle="0" bT_collision_class_soft="0" bT_collision_class_terrain="0" bT_collision_class_wheeled="0" bT_gcc_ai="0" bT_gcc_large_kickable="0" bT_gcc_player_body="0" bT_gcc_player_capsule="0" bT_gcc_ragdoll="0" bT_gcc_rigid="0" bT_gcc_vehicle="0" bT_gcc_vtol="0"/>
+      </CollisionFiltering>
+     </Physics>
+     <Respawn bAbandon="1" nAbandonTimer="90" bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Properties2 bAutoDisable="1" aibehavior_behaviour="CarIdle" bCircularPath="0" FormationType="" groupid="173" PathName="" bProvideAICover="1"/>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

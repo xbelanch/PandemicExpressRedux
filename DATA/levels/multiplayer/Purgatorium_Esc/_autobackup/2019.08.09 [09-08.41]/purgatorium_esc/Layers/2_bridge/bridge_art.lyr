@@ -1,0 +1,128 @@
+<ObjectLayer>
+ <Layer Name="Bridge_ART" FullName="2_Bridge/Bridge_ART" GUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8366592" ParentGUID="{360E4A31-4132-0431-9BE4-6955D9FA4AFA}">
+  <LayerObjects>
+   <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{431C7F99-55BF-35FB-D6EF-3C997C08E7F1}" Name="concrete_block10x95" Pos="1450.5342,863.49011,89.897781" FloorNumber="-1" Rotate="-0.83728051,-0.0027844131,-2.4525796e-05,-0.54676646" Scale="1.8743999,2.3048587,1.8743999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/concrete_pack/concrete_block10x10.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="GameVolume" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{523F085A-77B0-A7BB-E6CA-F4212A337690}" Name="GameVolume36" Pos="1615.1458,1269.2965,113.38894" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" DisplayFilled="0" Height="0" Closed="0" VolumeClass="3" EntityClass="SplineObjGenTool" HasEntity="1">
+    <Properties fAffectCapsuleRadius="4" bAffectProcVegetation="0" fAffectSegmentDistance="0" bBendGeometry="1" bCreatePhysicsState="1" fDistBtObjs="-0.32" bGenerateObjs="1" bIsLooped="0" objModel="Objects/zhg_objects/props/trainyard/rails/rails_big_wood.cgf" bRefresh="1" bScaleAlongSpline="1" fSplineCurvature="0.5"/>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <Points>
+     <Point Pos="27.496338,-57.67321,-2.8361099"/>
+     <Point Pos="13.025879,-59.65686,-2.7500823"/>
+     <Point Pos="0.95019531,-69.007446,-2.9810414"/>
+     <Point Pos="-6.8777466,-82.376343,-3.1795425"/>
+     <Point Pos="-22.927479,-114.72205,-3.1698041"/>
+     <Point Pos="-75.707642,-222.61096,-3.0774231"/>
+     <Point Pos="-164.85779,-404.6499,-2.9443436"/>
+     <Point Pos="-168.98143,-415.66058,-2.3894243"/>
+     <Point Pos="-171.99316,-430.23297,0.82642198"/>
+     <Point Pos="-178.28137,-453.92358,8.3637409"/>
+     <Point Pos="-182.41016,-469.31805,13.346722"/>
+     <Point Pos="-184.59937,-491.20001,13.198959"/>
+     <Point Pos="-184.69513,-492.15512,13.191152"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Side8="0" Side9="0" Side10="0" Side11="0" Side12="0" Side13="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Group" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{5A15C6A2-6456-638A-36F3-90945F65E33F}" Name="Group1610" Pos="1604.1353,1160.6654,91.861847" FloorNumber="-1" Rotate="0.84339142,0,0,0.53729975" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{215999E3-8484-BDA7-8930-650D06B5A380}" Name="metal_stair_short265" Parent="{5A15C6A2-6456-638A-36F3-90945F65E33F}" Pos="1.4309082,-3.3063965,-1.0847015" FloorNumber="-1" Rotate="0.70710671,0,0,0.70710683" ColorRGB="16777215" Material="Objects/zhg_objects/architecture/decorations/stairs/stairs_dark" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/decorations/stairs/metal_stair_short.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{31FE913C-BFD6-CCB3-3855-392F6C9924C9}" Name="metal_stair_short266" Parent="{5A15C6A2-6456-638A-36F3-90945F65E33F}" Pos="2.9934082,7.6186523,-1.0847015" FloorNumber="-1" Rotate="0.70710659,0,0,-0.70710695" ColorRGB="16777215" Material="Objects/zhg_objects/architecture/decorations/stairs/stairs_dark" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/decorations/stairs/metal_stair_short.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{AACA862B-ECC4-31C2-921B-DE041E25AD77}" Name="basement236" Parent="{5A15C6A2-6456-638A-36F3-90945F65E33F}" Pos="-1.5874023,-1.4267578,0.69447327" FloorNumber="-1" Rotate="1,0,0,-2.9802322e-08" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/industrial/bridges/basement.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{3BC36A4C-19CF-026C-7EDC-4DAAD45B6AF6}" Name="box_10_10m305" Parent="{5A15C6A2-6456-638A-36F3-90945F65E33F}" Pos="-2.8371582,-2.8864746,-0.95552826" FloorNumber="-1" Rotate="1,0,0,-2.9802322e-08" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/city/box_10_10m.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="GeomEntity" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{7DE8E6A8-6380-3612-740D-86656CEFF502}" Name="partybus_damaged36" Pos="1624.6624,1231.1029,109.69041" FloorNumber="-1" Rotate="0.98941219,-0.093047962,-0.020137826,-0.1095449" ColorRGB="65535" MatLayersMask="0" Geometry="Objects/vehicles/partybus/partybus_damaged.cga" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{A673521F-1C27-0A80-2443-969FFC7D07A6}" Name="Group1282" Pos="1584.3098,1132.2609,106.04401" FloorNumber="-1" Rotate="-0.87206709,0,0,-0.4893862" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{AD332806-4095-219D-7218-65C1E25BA843}" Name="cardbox_b2905" Parent="{A673521F-1C27-0A80-2443-969FFC7D07A6}" Pos="-0.23876953,-1.1159668,0.49864197" FloorNumber="-1" Rotate="0.70514417,0,0,0.70906395" Scale="1.1959591,1.1959591,1.16" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/props/urban/cardbox_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{E4A8BAA3-4ADD-39FF-314B-A533174CC7B7}" Name="box_b151" Parent="{A673521F-1C27-0A80-2443-969FFC7D07A6}" Pos="0.028320313,-0.31811523,0.49908447" FloorNumber="-1" Rotate="0.71336234,0,0,-0.70079541" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/furniture/box/box_2x1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{FB0FEA66-AEAE-BEEC-0C12-5744068E9EED}" Name="box_b152" Parent="{A673521F-1C27-0A80-2443-969FFC7D07A6}" Pos="0.069335938,0.81079102,0.49908447" FloorNumber="-1" Rotate="0.6821152,0,0,-0.73124474" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/furniture/box/box_2x1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{8A48066D-BCB6-D60F-C702-97CD7EC2CE7A}" Name="box_b153" Parent="{A673521F-1C27-0A80-2443-969FFC7D07A6}" Pos="0.16113281,1.3220215,-0.4989624" FloorNumber="-1" Rotate="0.7312448,0,0,0.68211514" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/furniture/box/box_2x1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{040F8946-F7E9-3DF4-7039-381B78439F68}" Name="box_b154" Parent="{A673521F-1C27-0A80-2443-969FFC7D07A6}" Pos="0.036621094,0.25341797,-0.4989624" FloorNumber="-1" Rotate="0.6821152,0,0,-0.73124474" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/furniture/box/box_2x1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{D0B13641-B6CA-9ED2-6CA5-E02ED0F62DCA}" Name="box_b155" Parent="{A673521F-1C27-0A80-2443-969FFC7D07A6}" Pos="-0.056884766,-0.95263672,-0.4989624" FloorNumber="-1" Rotate="0.6821152,0,0,-0.73124474" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/polygon/furniture/box/box_2x1.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="GeomEntity" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{B0448359-70E2-BB47-725B-2AF58E959D6B}" Name="partybus_damaged35" Pos="1622.5221,1234.7075,110.98538" FloorNumber="-1" Rotate="-0.87353498,0.015008155,-0.0080102812,0.48646402" ColorRGB="65535" MatLayersMask="0" Geometry="Objects/vehicles/partybus/partybus_damaged.cga" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Bridge_ART" LayerGUID="{37A7C704-EE3F-FDE9-24B3-490135275744}" Id="{D1A324EE-2D12-A84D-6AF8-BE3F244F97C9}" Name="concrete_block10x94" Pos="1612.4271,1195.1409,90.935699" FloorNumber="-1" Rotate="-0.5467664,2.4525918e-05,-0.0027844131,0.83728051" Scale="1.8743999,2.3048587,1.8743999" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/concrete_pack/concrete_block10x10.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

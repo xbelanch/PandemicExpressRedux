@@ -1,0 +1,379 @@
+<ObjectLayer>
+ <Layer Name="Harbor_LIGHT" FullName="2_Harbor/Harbor_LIGHT" GUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8388607" ParentGUID="{A7C4FB20-78CA-E2F9-B9F0-8E4802FC7C65}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{0BCB7AE9-4274-4B38-355C-CF5EF92E9BFE}" Name="Light783" Pos="1223.5294,980.48816,105.87453" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{12EAA10D-1FD0-0A59-E94E-5879523BE745}" Name="Light772" Pos="1168.5538,1041.1426,96.600815" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.0137021,0.0137021,0.0137021" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{1C4F1BB4-A759-B027-48F5-E069727A4A99}" Name="Light794" Pos="1263.9495,1039.9807,113.54264" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{1D7CF1F5-7A16-E0A6-DA4C-8FD4646140F3}" Name="EP_harbor_st_01" Pos="1164.7233,906.74384,117.82338" FloorNumber="-1" Rotate="0.99144489,0,0,0.13052619" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="70" BoxSizeY="70" BoxSizeZ="50" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1.5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.5" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\ep_harbor_st_01_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{23651E53-056B-8708-92A6-695654C8129F}" Name="Light786" Pos="1125.3167,993.7561,105.87453" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{23883A4B-5E9A-1E38-E802-0C54C0F45BEC}" Name="Light795" Pos="1256.5612,1010.1315,118.19054" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{2435E501-F457-FEC5-9F7C-4D3566A25BB0}" Name="Prefab248" Pos="1192.9545,913.8429,121.51566" FloorNumber="-1" Rotate="-0.55703539,0,0,-0.83048892" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{2ADEC0B4-B08C-A2A1-4BAC-63A3FFA45704}" Name="Light778" Pos="1195.9659,1042.5015,105.84626" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="16.3" _nVersion="-1">
+     <Color clrDiffuse="0.00242822,0.00242822,0.00242822" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{2C2BD29C-EA61-C43D-D518-B1D8A892560C}" Name="Prefab246" Pos="1175.3984,907.58398,115.35655" FloorNumber="-1" Rotate="-0.13153395,0,0,-0.99131173" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{2C3A0894-1B04-0DAE-A9BC-79C52C3B7180}" Name="Light769" Pos="1166.6447,1013.9139,111.551" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{300B9B5D-6342-6037-571E-FA08204DF9A0}" Name="Prefab382" Pos="1148.0818,1043.95,103.72906" FloorNumber="-1" Rotate="0.40314895,0,0,-0.91513431" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{3FD2BFB4-AB6E-95ED-3622-213249CB8147}" Name="Light784" Pos="1171.1023,949.6424,105.87453" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{4604494F-EAD9-220C-4A40-87DF4D35C91D}" Name="Prefab247" Pos="1168.1613,917.0202,105.57822" FloorNumber="-1" Rotate="-0.6559574,0,0,-0.754798" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{47F138EA-CC4F-684C-AD8B-9271A93F23D2}" Name="Prefab386" Pos="1134.316,955.95135,103.9502" FloorNumber="-1" Rotate="-0.38536698,0,0,0.92276335" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{5067B3C2-CC03-8851-AB8C-EFFD7168743D}" Name="Prefab384" Pos="1140.6173,977.41162,104.5" FloorNumber="-1" Rotate="0.99828976,0,0,0.058459282" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{535B9DFE-DE96-C5AA-8F62-B57826E0EF32}" Name="Prefab389" Pos="1211.045,991.72034,104.55" FloorNumber="-1" Rotate="0.65549016,0,0,0.7552036" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{62B36CE7-1266-DF7B-022B-EBD3C2759E8F}" Name="Light557" Pos="1183.7102,904.4447,126.70235" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{76B0B004-E884-4FB8-BD71-CFE7C3AA19DC}" Name="Light555" Pos="1152.4242,906.95776,119.36946" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{7C29C842-4A0B-E39D-DD01-C3EA8938B5FD}" Name="Prefab390" Pos="1008.4374,1095.316,112.64075" FloorNumber="-1" Rotate="0.83807242,0,0,0.54555899" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{7E45B68E-B70D-F092-ACF5-B274CE3F7F9A}" Name="Light788" Pos="1090.7035,1052.1656,106.95444" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{810F8AB8-9BC7-63F8-3E6D-51DC91E52A9E}" Name="Light785" Pos="1152.5253,945.36194,105.87453" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{86714E33-EC2A-AF6C-A381-518EFDCA7A78}" Name="Prefab388" Pos="1179.4578,997.61005,104.42563" FloorNumber="-1" Rotate="0.20404494,0,0,0.97896147" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{8DC59511-9E07-8F2A-8CFC-A86419E47AE6}" Name="Light787" Pos="1110.6844,1027.2521,106.95444" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{8FD6545D-3CD1-364E-FF27-D759574A7198}" Name="Light779" Pos="1198.3755,981.80353,105.87453" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.274677,0.274677,0.274677" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{918AD531-BAE8-D1F3-C969-6131E84C1B5B}" Name="EP_harbor_st_2" Pos="1146.0571,929.0921,107.62267" FloorNumber="-1" Rotate="0.99144489,0,0,0.13052619" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="70" BoxSizeY="50" BoxSizeZ="50" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.5" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\ep_harbor_st_2_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{91A7E67F-7B7C-BFA8-C244-A38B752DAE8A}" Name="Light771" Pos="1163.1682,1059.7357,102.69907" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{9E03443E-F09C-2FDD-9FAB-DD0F338CA2AE}" Name="Light789" Pos="1089.1119,997.31262,106.95444" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{A5FAC8FA-4148-785B-6A80-E53A3BE8B766}" Name="Light564" Pos="1167.1481,928.63776,147.09628" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="7" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{A9527F2C-CF55-CC0D-0F2C-D3C735CAC8F0}" Name="Light793" Pos="1213.3268,1081.4186,108.59329" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{B23F1D7A-8811-A7D6-59A8-98377ADF222E}" Name="Light776" Pos="1159.5161,1035.6272,104.65999" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.107023,0.107023,0.107023" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{B6E78425-0662-C9A6-F0EB-C8A1C9DD95FA}" Name="Light781" Pos="1234.9398,1010.2094,105.87453" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{B92EB4B9-C83F-01D9-9ABA-60131EC13551}" Name="Prefab391" Pos="988.19879,1172.0955,112.24712" FloorNumber="-1" Rotate="-0.41800839,0,0,0.90844315" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{B9B763D8-F450-E7CE-46C5-D2D827EBB37A}" Name="Light774" Pos="1152.2164,1046.9602,94.622993" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.0137021,0.0137021,0.0137021" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{C86963B8-D268-8FB8-AC4A-48BBB02B70D6}" Name="Prefab385" Pos="1132.4258,976.60767,103.72906" FloorNumber="-1" Rotate="0.94704592,0,0,0.321098" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{C8C2EA42-3A6D-40E6-08E2-37B1B71707D9}" Name="Light553" Pos="1171.9154,899.83911,118.705" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.665387,0.318547" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{D6E785F8-D467-4276-0427-4CDFDB215E4D}" Name="Light773" Pos="1183.4606,1052.3239,94.622993" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="0.0137021,0.0137021,0.0137021" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{D8D74FAF-D5B4-DB17-BAF4-7383133719BF}" Name="Prefab383" Pos="1189.6752,1022.4199,103.72906" FloorNumber="-1" Rotate="-0.99973369,0,0,-0.023073673" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{EA5AC997-94C0-2AD2-D67C-EE4F8B4D14F2}" Name="Light782" Pos="1233.2644,1032.1702,105.87453" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Prefab" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{F01243B1-4A20-3B59-AF08-84879874B1AF}" Name="Prefab392" Pos="1012.1536,1217.2233,112.24712" FloorNumber="-1" Rotate="-0.80341625,0,0,0.59541768" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{F03BF254-91AE-1179-E1A3-8B81CE23DC77}" Name="Light_room_nosh75" Pos="1179.0042,930.08777,137.02477" FloorNumber="-1" Rotate="0.7044161,-0.061628364,0.70441598,0.061628416" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="2" Radius="5" _nVersion="-1">
+     <Color clrDiffuse="1,0.219526,0.00972122" fDiffuseMultiplier="50" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="5" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Harbor_LIGHT" LayerGUID="{835812AF-9677-0D1B-B6CD-97510B4AD819}" Id="{F1C978DA-4F01-6B4F-130F-D12D2E0F50B2}" Name="Light790" Pos="1106.7205,960.76459,106.95444" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="15" _nVersion="-1">
+     <Color clrDiffuse="0.0466651,0.0466651,0.0466651" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="0" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="360" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="1" fShadowBias="1" nShadowMinResPercent="1" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

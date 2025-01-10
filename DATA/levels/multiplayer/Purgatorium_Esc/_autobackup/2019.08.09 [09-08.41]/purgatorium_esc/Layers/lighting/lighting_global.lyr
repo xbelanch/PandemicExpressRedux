@@ -1,0 +1,401 @@
+<ObjectLayer>
+ <Layer Name="lighting_global" FullName="Lighting/lighting_global" GUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{EC5B4667-5B4E-D557-6E5C-D698AA8F71F8}">
+  <LayerObjects>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{08BD48C4-ECDA-4F00-0EA5-F64B6C7C321D}" Name="primitive_sphere_small1" Pos="620.38702,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey_max" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{0AD4095D-5CA8-B098-ADDD-97E7871D935C}" Name="primitive_sphere_small4" Pos="618.39899,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/macbeth" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{0C58E47F-DAF4-06B8-5084-E3DB7748BB14}" Name="Portal3" Pos="893.88361,857.94421,142.57602" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="4" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="3.2680054,1.8666992,0"/>
+     <Point Pos="2.359375,2.2729492,0"/>
+     <Point Pos="-0.41900635,0.77575684,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{0DD64D32-47DA-198D-1900-B2D0F2585360}" Name="Portal9" Pos="584.94257,622.95618,110.33282" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="3" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="2.6832275,-0.11578369,0"/>
+     <Point Pos="2.6335449,0.98925781,0"/>
+     <Point Pos="0.043762207,0.86987305,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{10B52E7D-5A05-08D3-0F48-ED934CF1AE1D}" Name="Portal1" Pos="899.3349,764.0611,177.29051" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="1" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="10.691711,-0.042724609,0"/>
+     <Point Pos="5.5183105,13.010437,0"/>
+     <Point Pos="-0.17926025,13.287659,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{212604D7-F994-2648-2F3E-32B995A87B64}" Name="VisArea8" Pos="591.47443,623.35626,107.22007" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="70" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="3.1052856,-16.534302,0"/>
+     <Point Pos="-31.304688,-18.212097,-0.0024108887"/>
+     <Point Pos="-31.093506,2.4482422,0.022438049"/>
+     <Point Pos="-8.2941284,5.4744873,0.012962341"/>
+     <Point Pos="-7.7592773,-0.16400146,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{28E67938-240B-DE69-32A8-9C6BD6A74CBD}" Name="Portal8" Pos="581.73047,629.97723,109.15257" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="5" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="2.6832275,-0.11578369,0"/>
+     <Point Pos="2.6335449,2.999939,0"/>
+     <Point Pos="0.043762207,3.0253906,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{2A7D4BCD-8D71-57A0-32D8-FF6DCE3226D9}" Name="Portal6" Pos="589.45697,672.3299,192.21306" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="7" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="11.422546,0.17895508,0"/>
+     <Point Pos="11.18689,2.9519043,0"/>
+     <Point Pos="0.043762207,3.0253906,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{2B4A53FD-8A2F-D307-65A0-718BB636CFAA}" Name="Portal7" Pos="562.87494,649.19421,176.44292" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="5" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="1.6746826,0.62176514,0"/>
+     <Point Pos="1.1054077,3.0420532,0"/>
+     <Point Pos="0.043762207,3.0253906,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{307945A9-4C91-4238-DB14-DB46B8A5E9A0}" Name="VisArea1" Pos="834.57538,849.76935,102.47819" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="75" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="163.96582,-0.90533447,0"/>
+     <Point Pos="138.21149,-205.20947,-0.0024108887"/>
+     <Point Pos="28.453918,-151.21906,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{4181011D-5CC4-46C0-E0D6-B70375F4CC65}" Name="VisArea9" Pos="591.88647,623.33063,107.22007" FloorNumber="-1" Rotate="0.70710677,0,0,0.70710677" ColorRGB="33023" Height="70" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="17.032166,3.0919223,-0.061515808"/>
+     <Point Pos="17.995239,-62.300045,0"/>
+     <Point Pos="-65.676697,-66.241211,-0.0024108887"/>
+     <Point Pos="-62.107422,30.315126,0.022438049"/>
+     <Point Pos="-23.814943,31.74811,-0.06073761"/>
+     <Point Pos="-19.052673,-3.7241797,-0.037345886"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{42F9F38E-0C8F-B628-1A20-3CDCBAC9C9A0}" Name="primitive_sphere_small3" Pos="619.39905,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey128" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{4A6AB2B5-A048-5B82-49F3-59D924B40EE2}" Name="primitive_sphere_small5" Pos="1274.9193,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey_max" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{621D750E-9495-5A60-D108-D178F4BDF03E}" Name="VisArea3" Pos="896.48535,860.14612,144.38557" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="5" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="0.43395996,7.4803467,0"/>
+     <Point Pos="-4.1234741,7.0385742,-0.017623901"/>
+     <Point Pos="-3.4773321,-1.9238281,1.5258789e-05"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{68BEF292-A4C1-E498-67D9-816E1C58D741}" Name="Portal2" Pos="896.97266,848.65723,142.57602" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="4" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="3.027832,-0.027648926,0"/>
+     <Point Pos="3.1705322,1.9866333,0"/>
+     <Point Pos="0.44989014,2.0197144,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{72AB4264-70D8-1068-B7DD-6BB5DF12BB87}" Name="VisArea5" Pos="542.45135,672.9624,179.99658" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="50" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="79.498589,-0.097961426,0"/>
+     <Point Pos="82.707642,-38.34967,-0.0024108887"/>
+     <Point Pos="-3.2168579,-42.147827,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{73F4F938-A92F-5B86-7A6C-3A7E6234C31F}" Name="Portal11" Pos="561.50061,572.65485,146.31976" FloorNumber="-1" Rotate="0.70710677,0,0,0.70710677" ColorRGB="3996260" Height="12" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="10.11908,0.33258039,0"/>
+     <Point Pos="10.529542,2.1376953,0"/>
+     <Point Pos="0.043762207,1.9591675,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{74C33F28-2BE1-F91F-06BC-C0492F9954A0}" Name="primitive_sphere_small7" Pos="1273.9313,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey128" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{7B433A24-39D0-E62E-734E-26FB1074F4FF}" Name="EnvironmentProbe_Day_Overcast_z" Pos="1055.6055,1188.8547,121.84613" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="50000" BoxSizeY="50000" BoxSizeZ="50000" _nVersion="-1">
+     <Color clrDiffuse="0.679543,0.955974,1" fDiffuseMultiplier="2" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/cubemaps/purgatorium_esc/lake_probe_cm.dds"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{8408783F-466D-EFA3-AC25-A9773F7049F1}" Name="skydome1" Pos="1086,1163,0" FloorNumber="-1" Rotate="1,0,0,0" Scale="100000,100000,100000" ColorRGB="16777215" Material="Materials/sky/morning_sky2" MatLayersMask="0" Geometry="Objects/zhg_objects/natural/skys/skydome.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{840BB6CA-C796-7F1F-CEBA-1FE46E1334D6}" Name="Portal5" Pos="632.05634,680.00183,184.23773" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="5" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="0.97705078,-0.051452637,0"/>
+     <Point Pos="-0.3260498,8.5974121,0"/>
+     <Point Pos="-0.85772705,8.5844727,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{889961C0-F0AB-4ED6-2EAF-5A492DF63C70}" Name="VisArea7" Pos="584.12817,633.95636,107.22007" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="7" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="5.8352661,-1.2825317,0"/>
+     <Point Pos="7.1546021,-10.081543,-0.0024108887"/>
+     <Point Pos="-0.1505127,-10.33313,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{8A9A5E52-FF63-49BB-6964-96C1F921588A}" Name="EP_Ocean" Pos="1274.478,1137.9376,93.597855" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="1024" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="10" BoxSizeY="10" BoxSizeZ="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/zhg_textures/Cubemaps/Natural/ep_ocean_cm.tif"/>
+     <Projection fBoxHeight="100" fBoxLength="100" bBoxProject="0" fBoxWidth="100"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{8D99404C-D920-B37C-C484-0CE14748BE4E}" Name="GL_EP_Overcast_A" Pos="1055.6055,1188.8547,141" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="50000" BoxSizeY="50000" BoxSizeZ="50000" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/zhg_textures/Cubemaps/Global/ep_global_baker_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{920FBC52-BAC0-E6C0-EAF0-1E420D948BD1}" Name="VisArea4" Pos="574.62244,698.94922,179.99658" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="20" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="55.344482,-0.097961426,0"/>
+     <Point Pos="58.553528,-23.649292,-0.0024108887"/>
+     <Point Pos="0.87831879,-24.362427,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{92B3D7F4-E144-09EB-C12D-74783587EE0C}" Name="EnvironmentProbe_Day_Overcast_z2" Pos="1290.3071,1118.3855,199.42841" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="50000" BoxSizeY="50000" BoxSizeZ="50000" _nVersion="-1">
+     <Color clrDiffuse="0.760525,0.760525,0.760525" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/cubemaps/pbs_reference/overcast_probe_cm.dds"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{92C265D5-40AC-4DD8-F7AD-D0D3F18EC8EE}" Name="primitive_sphere_small2" Pos="621.32355,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_chrome255" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{9557E32B-576B-A38D-EE23-BBC03376F40E}" Name="primitive_sphere_small6" Pos="1275.8558,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_chrome255" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{B7790D34-E468-0B28-F537-69BF7A8D692F}" Name="VisArea6" Pos="542.45135,672.9624,102.85267" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="75" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="42.092712,-16.716736,0"/>
+     <Point Pos="39.472858,-43.410278,-0.0024108887"/>
+     <Point Pos="18.43158,-45.028477,-0.024658203"/>
+     <Point Pos="18.576782,-33.928162,-0.013412476"/>
+     <Point Pos="-1.5968628,-34.133972,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{B9CD7729-78AB-5C5B-3816-7E7916AC5599}" Name="Portal4" Pos="893.46014,866.77698,142.57602" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="3996260" Height="4" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="3.3139038,0.40869141,0"/>
+     <Point Pos="3.5032349,1.7400513,0"/>
+     <Point Pos="-0.13079834,1.5304565,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="Camera" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{C008D8D1-8D7C-C634-7E9D-58E3AEC0C328}" Name="EP_Baker_Cam" Pos="622.29175,1088.9666,180.24289" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16776960" FOV="1.5708" NearZ="0.25" FarZ="1024" EntityClass="CameraSource" HasEntity="1">
+    <ShakeParams AmplitudeA="1,1,1" AmplitudeAMult="0" FrequencyA="1,1,1" FrequencyAMult="0" NoiseAAmpMult="0" NoiseAFreqMult="0" TimeOffsetA="0" AmplitudeB="1,1,1" AmplitudeBMult="0" FrequencyB="1,1,1" FrequencyBMult="0" NoiseBAmpMult="0" NoiseBFreqMult="0" TimeOffsetB="0" CameraShakeSeed="0"/>
+    <Properties />
+    <Components>
+     <Component typeId="{9DA92DF2-37D7-4D2F-B64F-B827FCECFDD3}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{C084A514-FDB4-BA29-3619-4208933A8E7A}" Name="Portal12" Pos="460.71576,655.99792,146.20071" FloorNumber="-1" Rotate="0.70710677,0,0,0.70710677" ColorRGB="3996260" Height="12" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="10.11908,0.33258039,0"/>
+     <Point Pos="10.529542,3.1158447,0"/>
+     <Point Pos="0.043762207,1.9591675,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{C3AD12FC-84EC-2544-6E9F-5D1189B566CC}" Name="primitive_sphere_small8" Pos="1272.9313,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/macbeth" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{D42CE56A-7FEF-E032-C794-91B61558ACEE}" Name="VisArea10" Pos="560.41357,519.42493,107.22006" FloorNumber="-1" Rotate="0.99999994,0,0,0" ColorRGB="33023" Height="70" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="-88.929993,-3.6911621,-0.0024108887"/>
+     <Point Pos="-105.50955,207.48401,0.022438049"/>
+     <Point Pos="-30.312897,210.41211,0.22515106"/>
+     <Point Pos="-21.797607,117.34216,-0.042488098"/>
+     <Point Pos="-0.18966675,117.92533,-0.06073761"/>
+     <Point Pos="-0.58892822,77.495239,-0.039398193"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Side5="0" Side6="0" Side7="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{D9528843-67B5-C5FC-E69D-85740CF3111C}" Name="VisArea2" Pos="901.37732,849.61127,144.38557" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="33023" Height="5" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="-6.0442877,0.033935547,1.5258789e-05"/>
+     <Point Pos="-7.8657227,8.3069458,-0.017623901"/>
+     <Point Pos="-3.2577515,10.953613,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{E034BB73-CF20-DA17-5359-8C5660DEABDE}" Name="EP_Global_Baker" Pos="622.29175,1088.9666,180.24289" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="1024" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="10000" BoxSizeY="10000" BoxSizeZ="10000" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/zhg_textures/Cubemaps/Global/ep_global_baker_cm.tif"/>
+     <Projection fBoxHeight="100" fBoxLength="100" bBoxProject="0" fBoxWidth="100"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Portal" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{E5E89A5A-2BBD-1E42-297C-C62BC5D96D7F}" Name="Portal10" Pos="593.58466,615.81848,132.45105" FloorNumber="-1" Rotate="0.70710677,0,0,0.70710677" ColorRGB="3996260" Height="17" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="0" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" UseDeepness="1" DoubleSide="1" LightBlending="1" LightBlendValue="0.5" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="2.7556763,0.62689209,0"/>
+     <Point Pos="2.6335449,1.3334351,0"/>
+     <Point Pos="0.043762207,0.86987305,0"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{E8162903-AAD5-72DE-BAFE-8C94B366D856}" Name="Lake_Probe" Pos="261.1564,1674.5078,165.73201" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="10" BoxSizeY="10" BoxSizeZ="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\lake_probe_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="VisArea" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{F135A0A8-7F6D-CFAA-8BE7-0202CD7A3285}" Name="VisArea11" Pos="461.19843,617.25555,107.22006" FloorNumber="-1" Rotate="0.99999994,0,0,0" ColorRGB="33023" Height="70" DisplayFilled="0" AffectedBySun="0" IgnoreSkyColor="1" IgnoreGI="0" ViewDistRatio="100" SkyOnly="0" OceanIsVisible="0" IgnoreOutdoorAO="0" EntityClass="AreaShape" HasEntity="0">
+    <Properties />
+    <Points>
+     <Point Pos="0,0,0"/>
+     <Point Pos="-45.942413,-1.767395,-0.0024108887"/>
+     <Point Pos="-47.630493,71.967468,0.22515106"/>
+     <Point Pos="-3.6100607,63.989349,-0.06073761"/>
+    </Points>
+    <SoundData Side1="0" Side2="0" Side3="0" Side4="0" Roof="0" Floor="0"/>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

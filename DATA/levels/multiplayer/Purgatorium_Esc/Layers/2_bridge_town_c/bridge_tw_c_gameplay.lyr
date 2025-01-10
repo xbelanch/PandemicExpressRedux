@@ -1,0 +1,8 @@
+<ObjectLayer>
+ <Layer Name="Bridge_Tw_C_GAMEPLAY" FullName="2_Bridge_Town_C/Bridge_Tw_C_GAMEPLAY" GUID="{794508B9-34B7-017D-A085-4C5541467452}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{165AEBA5-3BD4-13BD-8650-6BDFE9EBBE71}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Bridge_Tw_C_GAMEPLAY" LayerGUID="{794508B9-34B7-017D-A085-4C5541467452}" Id="{6158A698-21B4-23FA-6C11-9EFA7D3D6514}" Name="Prefab159" Pos="1524.3933,1015.6891,110.28306" FloorNumber="-1" Rotate="-0.53729963,0,0,0.84339142" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+   <Object Type="Prefab" Layer="Bridge_Tw_C_GAMEPLAY" LayerGUID="{794508B9-34B7-017D-A085-4C5541467452}" Id="{FEA86605-2646-F034-7D4E-60AC34EFB64C}" Name="Prefab161" Pos="1525.0255,1017.0449,110.28306" FloorNumber="-1" Rotate="-0.53729963,0,0,0.84339142" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{4710965A-2214-15CE-BBF6-D8FBA134C809}" PrefabName="zihg_airdrops.Airdrop.VendingMach"/>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

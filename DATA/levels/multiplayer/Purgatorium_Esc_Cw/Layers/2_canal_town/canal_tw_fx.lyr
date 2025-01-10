@@ -1,0 +1,352 @@
+<ObjectLayer>
+ <Layer Name="Canal_Tw_FX" FullName="2_Canal_Town/Canal_Tw_FX" GUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{AE4D047E-1935-020A-4226-8A11E1A717C3}">
+  <LayerObjects>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{0717B86F-545C-4F2A-0D2B-BA59E0E8ED84}" Name="3d_rotation15" Pos="895.10089,1158.1007,130.13481" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{08472D71-4FFE-93CE-B4DF-FC7235F32A35}" Name="3d_rotation10" Pos="909.4574,1148.7271,120.9041" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{19300D6A-98E5-6F2C-89B5-65D9A3A02FB1}" Name="3d_rotation35" Pos="877.6264,1116.5222,135.34558" FloorNumber="-1" Rotate="0.39005169,0.6542148,0.64566749,-0.054554611" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="2" soclasses_SmartObjectClass="" SpeedScale="2" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{1A3C12D4-A82F-A5E5-0DD8-F48E55A7C4D9}" Name="3d_rotation27" Pos="916.65564,1113.6426,121.82033" FloorNumber="-1" Rotate="0.65328145,0.65328157,0.27059799,0.27059811" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.7" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{2288ABCD-6B8C-E132-AA08-C15D34AB6131}" Name="3d_rotation28" Pos="917.41193,1110.2828,117.32874" FloorNumber="-1" Rotate="0.46490708,0.53271484,0.66374087,-0.24397612" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{232C55F8-417F-CD02-F1F8-84FB549BDC0A}" Name="3d_rotation39" Pos="965.06708,1112.5746,115.94228" FloorNumber="-1" Rotate="0.39005169,0.6542148,0.64566749,-0.054554611" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="2" soclasses_SmartObjectClass="" SpeedScale="2" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{2408B565-F03F-7B18-CE6F-FF80BDF5B968}" Name="3d_rotation33" Pos="944.9173,1121.0159,118.00911" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{2EF8A8B6-393D-EEE4-1C2C-26E03C227AC3}" Name="3d_rotation41" Pos="894.97595,1157.9803,133.68414" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.environment.gnat">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="3" NetworkSync="0" ParticleEffect="environment_fx.environment.gnat" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{3E8E641D-6A59-A71D-AA87-D6282A6E35A4}" Name="3d_rotation9" Pos="907.29834,1110.5671,133.8819" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{40E5BA39-EFBE-55D1-894D-D4841088EA26}" Name="3d_rotation11" Pos="892.4458,1160.259,131.64812" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{4215ECDE-7AC6-9F14-6E89-E27B83BEAD3A}" Name="water_foam_obstacle_left_thin24" Pos="940.97784,1115.3331,114.58214" FloorNumber="-1" Rotate="1,0,0,-1.4901161e-08" Scale="1.1366401,1.1366401,1.1366401" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/water/water_foam/water_foam_obstacle_split.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="0" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{5604B5DB-E63A-F79F-9EF5-9C1609B866C5}" Name="water_foam_obstacle_left_thin3" Pos="953.96393,1115.6971,114.88044" FloorNumber="-1" Rotate="1,0,0,-1.4901161e-08" Scale="1.1366401,1.1366401,1.1366401" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/water/water_foam/water_foam_obstacle_split.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="0" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{67B24489-FE36-A676-FC77-78782CC28173}" Name="3d_rotation19" Pos="960.76489,1024.0286,142.21158" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{69695B35-6767-CC11-66F7-E301E76E5918}" Name="3d_rotation12" Pos="934.37738,1041.0099,128.69801" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{6B2FA703-59EF-CB8A-2BBD-A26CC3D924BF}" Name="3d_rotation13" Pos="953.16473,1023.7726,140.85825" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{6D69A7C9-ADBA-28B3-8F08-6D2BD7A00C37}" Name="Birds1" Pos="949.6004,1125.9363,115.4001" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Birds" HasEntity="1">
+    <Properties>
+     <Boid nCount="10" gravity_at_death="-9.81" bInvulnerable="0" Mass="10" object_Model="objects/characters/animals/birds/pigeon/pigeon_lf.chr"/>
+     <Flocking AttractDistMax="20" AttractDistMin="1" bEnableFlocking="1" FactorAlign="3" FactorCohesion="2" FactorSeparation="1" FieldOfViewAngle="250"/>
+     <Ground FactorAlign="0" FactorCohesion="3" FactorOrigin="10" FactorSeparation="0.1" HeightOffset="0" OnGroundIdleDurationMax="3.2" OnGroundIdleDurationMin="1.6" OnGroundWalkDurationMax="6" OnGroundWalkDurationMin="4" WalkSpeed="0" WalkToIdleDuration="3"/>
+     <Movement FactorAvoidLand="100" FactorHeight="0.4" FactorOrigin="1" FactorTakeOff="10" FlightTime="20" HeightMax="20" HeightMin="10" LandDecelerationHeight="5" MaxAnimSpeed="2" SpeedMax="5" SpeedMin="2"/>
+     <Options bActivate="1" AnimationDist="0" bFollowPlayer="0" bNoLanding="0" bObstacleAvoidance="1" PickableMessage="" bPickableWhenAlive="0" bPickableWhenDead="1" Radius="4" bSpawnFromPoint="0" bStartOnGround="1" VisibilityDist="200"/>
+    </Properties>
+    <Components>
+     <Component typeId="{98EDA61F-DE8B-E2B1-A1CA-2A88E4EEDE66}">
+      <Area Id="-1" Group="-1" Proximity="5" Priority="0" InnerFadeDistance="0" SphereCenter="0,0,0" SphereRadius="200">
+       <Entities>
+        <Entity Id="6843"/>
+       </Entities>
+      </Area>
+     </Component>
+     <Component typeId="{382D896A-7C22-4637-B323-21C67EC5F588}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{7FE7B5C6-062A-095A-461A-8CC56BCD507C}" Name="WaterRipplesGenerator16" Pos="926.63721,1111.1926,114.50508" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="WaterRipplesGenerator" HasEntity="1">
+    <Properties bEnabled="1" fScale="3" fStrength="5">
+     <Randomization fRandomFreq="0" fRandomOffsetX="0" fRandomOffsetY="0" fRandomScale="0" fRandomStrength="1.49012e-08"/>
+     <Spawning bAutoSpawn="1" fFrequency="0.1" bSpawnOnMovement="1"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{80791581-FB0A-1B7D-F624-02234EF4C91B}" Name="3d_rotation42" Pos="961.8028,1023.3747,142.4908" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.environment.gnat">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.environment.gnat" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{87752346-4E19-7019-DBA6-7895FE7ACAB8}" Name="3d_rotation24" Pos="926.02289,1110.2565,114.87714" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.Foam.breakup">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.Foam.breakup" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{91A2107C-5EAB-9D63-8270-154411F98F8A}" Name="3d_rotation29" Pos="916.70355,1114.3965,118.06777" FloorNumber="-1" Rotate="0.25783348,0.74819285,0.58461481,-0.17875943" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{91C8528B-D10E-6807-6282-3E5EDF56A385}" Name="3d_rotation30" Pos="915.52948,1110.7778,121.44547" FloorNumber="-1" Rotate="0.45645532,0.52746558,0.71653545,-0.0023538407" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{9C543A5D-6427-5A71-4DCD-2D3150A78251}" Name="water_foam_obstacle_left_thin4" Pos="889.69165,1113.7269,122.14291" FloorNumber="-1" Rotate="0.99619472,0,0,0.08715573" Scale="1.1366401,1.1366401,1.1366401" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/water/water_foam/water_foam_obstacle_split.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="0" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{9DC4A92F-DD8A-3659-17DA-E2CCA1399D8F}" Name="3d_rotation36" Pos="878.12311,1111.6785,135.86377" FloorNumber="-1" Rotate="0.39005169,0.6542148,0.64566749,-0.054554611" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.5" soclasses_SmartObjectClass="" SpeedScale="2" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{AF8A6441-8DD5-76F4-FD21-92716506FD3F}" Name="3d_rotation16" Pos="915.74872,1145.3948,120.31257" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{B2A73A33-0BB8-8402-FECB-958FE4B04BCF}" Name="3d_rotation37" Pos="963.03094,1120.7875,114.24393" FloorNumber="-1" Rotate="0.39005169,0.6542148,0.64566749,-0.054554611" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="2" soclasses_SmartObjectClass="" SpeedScale="2" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{B2AF190E-AAEB-CBA2-69D9-05239F8A0B74}" Name="3d_rotation38" Pos="964.57495,1116.6471,115.02708" FloorNumber="-1" Rotate="0.39005169,0.6542148,0.64566749,-0.054554611" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="2" soclasses_SmartObjectClass="" SpeedScale="2" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{B5E5B0F6-4B8E-ACE6-D5D1-7607C6E8A29B}" Name="3d_rotation6" Pos="938.67651,1116.0153,114.85038" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.Foam.breakup">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.Foam.breakup" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="0.7" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{B8D8BCF9-7706-D184-5885-29EA7D3DF0DC}" Name="3d_rotation21" Pos="937.28632,1032.2183,132.77042" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{BBC7B9C5-EE3A-EC62-0CEF-3AB6131C47F8}" Name="3d_rotation22" Pos="911.46271,1112.489,122.75548" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.Foam.breakup">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.Foam.breakup" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{C8C688CC-BFF1-149B-A1BE-A8E314DBCB87}" Name="3d_rotation32" Pos="878.44196,1109.5862,135.87717" FloorNumber="-1" Rotate="0.39005169,0.6542148,0.64566749,-0.054554611" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="2" soclasses_SmartObjectClass="" SpeedScale="2" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{C9F1F6D9-8DDD-A018-FC6A-0F461607625F}" Name="3d_rotation40" Pos="966.68933,1131.5768,118.34304" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.environment.gnat">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="3" NetworkSync="0" ParticleEffect="environment_fx.environment.gnat" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{CB7573AC-BC21-CFB2-6A89-8DA6BF2F35DB}" Name="3d_rotation34" Pos="947.29285,1123.4659,116.01257" FloorNumber="-1" Rotate="0.70710677,0.70710677,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.smoke.ground_smoke">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="environment_fx.smoke.ground_smoke" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{D507F7FC-1873-1342-3311-EFA3335830DB}" Name="3d_rotation31" Pos="919.20074,1111.2457,115.35939" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.Foam.breakup">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.Foam.breakup" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{D79371B0-7D06-36E6-042E-B6B2007889CB}" Name="3d_rotation26" Pos="917.0047,1110.0282,121.82033" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{DABACB39-EC73-E22A-35D1-DFEA088AE812}" Name="3d_rotation7" Pos="957.08545,1117.5292,114.82708" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.Foam.breakup">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.Foam.breakup" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{E6407D3F-A8C5-86C6-0B9C-53FA9FFF3FCB}" Name="3d_rotation17" Pos="905.51062,1115.3265,131.804" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{EE5953A9-B519-ECB8-4084-02908690F098}" Name="3d_rotation20" Pos="963.34583,1130.6066,115.49762" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{EFD3E87E-AEC7-3C41-68AD-0589AB7C8330}" Name="WaterRipplesGenerator19" Pos="938.55029,1116.1934,114.50508" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="WaterRipplesGenerator" HasEntity="1">
+    <Properties bEnabled="1" fScale="2" fStrength="5">
+     <Randomization fRandomFreq="0" fRandomOffsetX="0" fRandomOffsetY="0" fRandomScale="0" fRandomStrength="1.49012e-08"/>
+     <Spawning bAutoSpawn="1" fFrequency="0.1" bSpawnOnMovement="1"/>
+    </Properties>
+    <Components>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Brush" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{F0A9D6DD-9CDF-6AB0-A434-DAED74B3B52C}" Name="water_foam_obstacle_left_thin2" Pos="932.59027,1108.3533,114.88044" FloorNumber="-1" Rotate="1,0,0,-1.4901161e-08" Scale="1.1366401,1.1366401,1.1366401" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/water/water_foam/water_foam_obstacle_split.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="0" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610612744">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{F45C495C-00F8-5A82-CAEF-E6D32ACEF2E3}" Name="3d_rotation14" Pos="888.97986,1112.8114,122.44251" FloorNumber="-1" Rotate="0.47771445,0.47771448,0.52133375,0.52133393" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.Foam.breakup">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.Foam.breakup" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1.3" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{FA266FD0-EF46-1C8A-E615-7456492A767C}" Name="3d_rotation18" Pos="935.46771,1059.6704,121.43082" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.leaves.falling">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="5" NetworkSync="0" ParticleEffect="environment_fx.leaves.falling" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="ParticleEntity" Layer="Canal_Tw_FX" LayerGUID="{B5926A6F-F5D9-DEE4-47D1-18FE88ADE327}" Id="{FF93445F-2DEC-71F3-5046-4AC716FB04E0}" Name="3d_rotation25" Pos="917.18134,1115.0433,121.82033" FloorNumber="-1" Rotate="0.52133381,0.52133387,0.47771433,0.47771451" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="water.CXP_Waterfall.Splash">
+    <Properties bActive="1" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="water.CXP_Waterfall.Splash" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="0" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

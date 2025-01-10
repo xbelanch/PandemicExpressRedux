@@ -1,0 +1,7 @@
+<TimeOfDay Time="8.9705" TimeStart="6" TimeEnd="12" TimeAnimSpeed="0">
+ <Presets>
+  <Preset Name="levels/multiplayer/Purgatorium_Esc/tod_purgatorium_cloudy_l.xml" Default="1"/>
+  <Preset Name="levels/multiplayer/Purgatorium_Esc/tod_purgatorium_zombie_a.xml"/>
+  <Preset Name="libs/environmentpresets/Purgatorium_Esc.xml"/>
+ </Presets>
+</TimeOfDay>

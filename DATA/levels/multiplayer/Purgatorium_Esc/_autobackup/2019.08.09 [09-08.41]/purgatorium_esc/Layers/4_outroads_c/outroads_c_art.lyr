@@ -1,0 +1,50 @@
+<ObjectLayer>
+ <Layer Name="Outroads_C_ART" FullName="4_Outroads_C/Outroads_C_ART" GUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8366592" ParentGUID="{24A24A6F-E694-B1E7-8904-D6BDE9861AC9}">
+  <LayerObjects>
+   <Object Type="Brush" Layer="Outroads_C_ART" LayerGUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Id="{3A3115A5-2534-777A-364F-EDF7D89ED760}" Name="large_stones_struc_b300" Pos="1409.0298,839.08832,123.59377" FloorNumber="-1" Rotate="0.98041278,-0.094945706,0.13977605,0.10118675" Scale="2.02,2.02,2.3357139" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/natural/rocks/stones/large_stones_struc_b.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_C_ART" LayerGUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Id="{7D53094C-A519-FEA9-4311-676A9225F221}" Name="wooden_fence321" Pos="1609.6007,1238.3132,111.48225" FloorNumber="-1" Rotate="0.43706375,-0.08707539,-0.17491262,0.8779515" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/fence/wooden_fence.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Road" Layer="Outroads_C_ART" LayerGUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Id="{9646C40A-52E6-AC19-6C7A-2E7915AA75E9}" Name="Road246" Pos="1394.7059,779.51135,127.44028" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16763904" Material="Materials/roads/forest_trail" Width="8" BorderWidth="6" EraseVegWidth="3" EraseVegWidthVar="0" StepSize="10" ViewDistRatio="100" TileLength="7" SortPriority="6" IgnoreTerrainHoles="0" Physicalize="0">
+    <Points>
+     <Point Pos="0,0,0" Back="0,0,0" Forw="4.245173,8.6453543,-0.15286946" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="11.766479,26.38623,-0.63240051" Back="8.5082941,17.327259,-0.30638525" Forw="14.414104,33.74762,-0.89732301" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="17.655884,49.089966,-1.766655" Back="14.074362,42.295746,-0.25622022" Forw="22.968134,59.167416,-4.0069895" Angle="0" Width="0" IsDefaultWidth="1"/>
+     <Point Pos="37.789917,75.753235,-11.607263" Back="30.469185,67.561218,-7.8533578" Forw="37.789917,75.753235,-11.607263" Angle="0" Width="0" IsDefaultWidth="1"/>
+    </Points>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_C_ART" LayerGUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Id="{9AA1ABF5-2F15-78B5-99D5-CF149149B5E8}" Name="wooden_fence322" Pos="1611.9832,1235.1597,111.30545" FloorNumber="-1" Rotate="0.44565326,0,0,0.89520568" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/fence/wooden_fence.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_C_ART" LayerGUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Id="{BB95BACA-260D-B8D3-772E-570D4E7C6310}" Name="wooden_fence323" Pos="1614.1198,1231.7136,111.0883" FloorNumber="-1" Rotate="0.320106,-0.31065649,-0.62330955,0.64226931" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/fence/wooden_fence.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_C_ART" LayerGUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Id="{C4FBCBC4-DEB1-A786-A792-F25EDA141604}" Name="wooden_fence320" Pos="1607.2174,1241.468,111.78255" FloorNumber="-1" Rotate="0.39947915,0.065588705,-0.028668422,0.91394353" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/fence/wooden_fence.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+   <Object Type="Brush" Layer="Outroads_C_ART" LayerGUID="{E8FC446C-F3CC-C9AD-6E96-5D030C281952}" Id="{F01899D8-7EE0-ACCB-5FE4-6817EACD6E90}" Name="wooden_fence324" Pos="1616.011,1228.2905,110.78966" FloorNumber="-1" Rotate="0.50813586,0,0,0.86127698" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/zhg_objects/architecture/fence/wooden_fence.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+    <CollisionFiltering>
+     <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+     <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+    </CollisionFiltering>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

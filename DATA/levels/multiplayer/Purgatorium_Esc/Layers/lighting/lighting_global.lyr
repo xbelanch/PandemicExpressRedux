@@ -1,0 +1,161 @@
+<ObjectLayer>
+ <Layer Name="lighting_global" FullName="Lighting/lighting_global" GUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{17389199-502D-9C59-46D1-024B3737E7CD}">
+  <LayerObjects>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{08BD48C4-ECDA-4F00-0EA5-F64B6C7C321D}" Name="primitive_sphere_small1" Pos="620.38702,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey_max" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{0AD4095D-5CA8-B098-ADDD-97E7871D935C}" Name="primitive_sphere_small4" Pos="618.39899,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/macbeth" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{42F9F38E-0C8F-B628-1A20-3CDCBAC9C9A0}" Name="primitive_sphere_small3" Pos="619.39905,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey128" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{4A6AB2B5-A048-5B82-49F3-59D924B40EE2}" Name="primitive_sphere_small5" Pos="1274.9193,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey_max" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{74C33F28-2BE1-F91F-06BC-C0492F9954A0}" Name="primitive_sphere_small7" Pos="1273.9313,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_grey128" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{7B433A24-39D0-E62E-734E-26FB1074F4FF}" Name="EnvironmentProbe_Day_Overcast_z" Pos="1055.6055,1188.8547,121.84613" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="50000" BoxSizeY="50000" BoxSizeZ="50000" _nVersion="-1">
+     <Color clrDiffuse="0.679543,0.955974,1" fDiffuseMultiplier="2" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/cubemaps/purgatorium_esc/lake_probe_cm.dds"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{8408783F-466D-EFA3-AC25-A9773F7049F1}" Name="skydome1" Pos="1086,1163,0" FloorNumber="-1" Rotate="1,0,0,0" Scale="100000,100000,100000" ColorRGB="16777215" Material="Materials/sky/morning_sky2" MatLayersMask="0" Geometry="Objects/zhg_objects/natural/skys/skydome.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{8A9A5E52-FF63-49BB-6964-96C1F921588A}" Name="EP_Ocean" Pos="1274.478,1137.9376,93.597855" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="1024" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="10" BoxSizeY="10" BoxSizeZ="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/zhg_textures/Cubemaps/Natural/ep_ocean_cm.tif"/>
+     <Projection fBoxHeight="100" fBoxLength="100" bBoxProject="0" fBoxWidth="100"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{8D99404C-D920-B37C-C484-0CE14748BE4E}" Name="GL_EP_Overcast_A" Pos="1055.6055,1188.8547,141" FloorNumber="-1" Rotate="0.81915206,0,0,-0.57357645" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="1" BoxSizeX="50000" BoxSizeY="50000" BoxSizeZ="50000" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/zhg_textures/Cubemaps/Global/ep_global_baker_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{92B3D7F4-E144-09EB-C12D-74783587EE0C}" Name="EnvironmentProbe_Day_Overcast_z2" Pos="1290.3071,1118.3855,199.42841" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="50000" BoxSizeY="50000" BoxSizeZ="50000" _nVersion="-1">
+     <Color clrDiffuse="0.760525,0.760525,0.760525" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/cubemaps/pbs_reference/overcast_probe_cm.dds"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{92C265D5-40AC-4DD8-F7AD-D0D3F18EC8EE}" Name="primitive_sphere_small2" Pos="621.32355,1086.6112,177.47195" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_chrome255" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{9557E32B-576B-A38D-EE23-BBC03376F40E}" Name="primitive_sphere_small6" Pos="1275.8558,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/matref_chrome255" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Camera" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{C008D8D1-8D7C-C634-7E9D-58E3AEC0C328}" Name="EP_Baker_Cam" Pos="622.29175,1088.9666,180.24289" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16776960" FOV="1.5708" NearZ="0.25" FarZ="1024" EntityClass="CameraSource" HasEntity="1">
+    <ShakeParams AmplitudeA="1,1,1" AmplitudeAMult="0" FrequencyA="1,1,1" FrequencyAMult="0" NoiseAAmpMult="0" NoiseAFreqMult="0" TimeOffsetA="0" AmplitudeB="1,1,1" AmplitudeBMult="0" FrequencyB="1,1,1" FrequencyBMult="0" NoiseBAmpMult="0" NoiseBFreqMult="0" TimeOffsetB="0" CameraShakeSeed="0"/>
+    <Properties />
+    <Components>
+     <Component typeId="{9DA92DF2-37D7-4D2F-B64F-B827FCECFDD3}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{C3AD12FC-84EC-2544-6E9F-5D1189B566CC}" Name="primitive_sphere_small8" Pos="1272.9313,1136.0802,93.868347" FloorNumber="-1" Rotate="1,0,0,0" Scale="1.64,1.64,1.64" ColorRGB="65535" Material="Materials/references/macbeth" MatLayersMask="0" Geometry="Objects/default/primitive_sphere_small.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="1" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{E034BB73-CF20-DA17-5359-8C5660DEABDE}" Name="EP_Global_Baker" Pos="622.29175,1088.9666,180.24289" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="1024" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="10000" BoxSizeY="10000" BoxSizeZ="10000" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures/zhg_textures/Cubemaps/Global/ep_global_baker_cm.tif"/>
+     <Projection fBoxHeight="100" fBoxLength="100" bBoxProject="0" fBoxWidth="100"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="lighting_global" LayerGUID="{97FFAC30-7E00-C4AC-E3FC-B4D405BAFD84}" Id="{E8162903-AAD5-72DE-BAFE-8C94B366D856}" Name="Lake_Probe" Pos="261.1564,1674.5078,165.73201" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="10" BoxSizeY="10" BoxSizeZ="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\lake_probe_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

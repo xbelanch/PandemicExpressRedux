@@ -1,0 +1,151 @@
+<ObjectLayer>
+ <Layer Name="St_B_Area_LIGHT" FullName="1_Station_B_Area/St_B_Area_LIGHT" GUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="65535" ParentGUID="{677FEB37-F665-409A-1585-1B829D58FC55}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{27D6ED82-F51A-0862-6C43-151821011A44}" Name="Prefab276" Pos="982.57001,1678.1569,150.59914" FloorNumber="-1" Rotate="0.36709726,0,0,-0.93018252" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{2CA46572-3903-E316-D739-2020586B7470}" Name="Prefab273" Pos="953.48376,1660.5402,150.71478" FloorNumber="-1" Rotate="-0.97714931,0,0,0.21255416" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{465B84A9-FB20-0269-F7B9-F3A9F363FB4A}" Name="Prefab274" Pos="946.43219,1664.5193,150.71478" FloorNumber="-1" Rotate="-0.97714931,0,0,0.21255416" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="ParticleEntity" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{5871929F-D914-7E84-949F-12721A3826E4}" Name="Gnat_particles57" Pos="981.53918,1688.3153,164.78528" FloorNumber="-1" Rotate="0.3799282,-0.3799282,0.59636784,-0.59636784" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.environment.particleUp">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="explosions.flashbang.explode" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="1" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="GeomEntity" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{825AF584-7409-FFF6-2EED-741357EDC918}" Name="beer_pack1" Pos="953.3902,1704.8677,167.52617" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="8" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{B09E2B08-29C3-8D71-D634-C83F90607870}" Name="Ligh_street_stat28" Pos="953.3902,1704.8677,165.07237" FloorNumber="-1" Rotate="0.59636772,-0.37992829,0.59636778,0.37992829" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="3" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.287441,0.0185002" fDiffuseMultiplier="40" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="127" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_050.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="3" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{17E5EBA7-57E4-4662-A1C2-1F41DE946CDA}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <FlowGraph Description="" Group="vokzlogc" enabled="1" MultiPlayer="ClientServer">
+     <Nodes>
+      <Node Id="2" Class="entity:Light" pos="380,50,0" flags="1" GraphEntity="0">
+       <Inputs entityId="0" Active="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="11" Class="Multiplayer:GameState" pos="-1240,-90,0" flags="0"/>
+      <Node Id="12" Class="Math:BooleanFrom" pos="20,100,0" flags="0">
+       <Inputs Value="0"/>
+      </Node>
+      <Node Id="16" Class="Material:EntityMaterialChange" pos="370,430,0" flags="0" EntityGUID="{825AF584-7409-FFF6-2EED-741357EDC918}" EntityGUID_64="825AF5847409FFF6">
+       <Inputs entityId="0" slot="-1" mat_Material="Objects/props/furniture/appliances/lamps/kitchen_lamp2" Serialize="0"/>
+      </Node>
+      <Node Id="17" Class="Time:Delay" pos="-390,110,0" flags="0">
+       <Inputs delay="30" resetOnInput="0"/>
+      </Node>
+      <Node Id="20" Class="entity:ParticleEffect" pos="380,210,0" flags="0" EntityGUID="{B2D64CFF-C1E2-62FD-62EF-969D787E7A2E}" EntityGUID_64="B2D64CFFC1E262FD">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="21" Class="Multiplayer:IsServer" pos="-890,-50,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1347" Class="Math:BooleanTo" pos="-600,-50,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1348" Class="Game:Start" pos="-1070,390,0" flags="0">
+       <Inputs InGame="1" InEditor="1"/>
+      </Node>
+     </Nodes>
+     <Edges>
+      <Edge nodeIn="21" nodeOut="11" portIn="IsServerCheck" portOut="OnInGameStateStart" enabled="1"/>
+      <Edge nodeIn="2" nodeOut="12" portIn="Active" portOut="False" enabled="1"/>
+      <Edge nodeIn="2" nodeOut="12" portIn="Disable" portOut="True" enabled="1"/>
+      <Edge nodeIn="16" nodeOut="12" portIn="Set" portOut="True" enabled="1"/>
+      <Edge nodeIn="20" nodeOut="12" portIn="Enable" portOut="True" enabled="1"/>
+      <Edge nodeIn="12" nodeOut="17" portIn="Value" portOut="out" enabled="1"/>
+      <Edge nodeIn="1347" nodeOut="21" portIn="true" portOut="False" enabled="1"/>
+      <Edge nodeIn="17" nodeOut="1347" portIn="in" portOut="out" enabled="1"/>
+     </Edges>
+     <GraphTokens />
+    </FlowGraph>
+   </Object>
+   <Object Type="ParticleEntity" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{B2D64CFF-C1E2-62FD-62EF-969D787E7A2E}" Name="Gnat_particles57" Pos="953.3902,1704.8677,164.78528" FloorNumber="-1" Rotate="0.3799282,-0.3799282,0.59636784,-0.59636784" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="ParticleEffect" HasEntity="1" ParticleEntityName="environment_fx.environment.particleUp">
+    <Properties bActive="0" esAttachForm="" esAttachType="" Comment="" bCountPerUnit="0" CountScale="1" NetworkSync="0" ParticleEffect="explosions.flashbang.explode" bPrime="1" PulsePeriod="0" bRegisterByBBox="0" Scale="1" soclasses_SmartObjectClass="" SpeedScale="1" Strength="-1" TimeScale="1">
+     <Audio bEnableAudio="1" audioRTPCRtpc="particlefx" esSoundObstructionType="Ignore"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{DCD39E91-A76C-440D-5487-493A8B6A2645}" Name="Ligh_street_stat28" Pos="981.53918,1688.3153,165.07237" FloorNumber="-1" Rotate="0.59636772,-0.37992829,0.59636778,0.37992829" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="3" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,0.287441,0.0185002" fDiffuseMultiplier="40" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+     <Projector fProjectorFov="127" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_050.dds"/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="3" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="17" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{17E5EBA7-57E4-4662-A1C2-1F41DE946CDA}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+    <FlowGraph Description="" Group="vokzlogc" enabled="1" MultiPlayer="ClientServer">
+     <Nodes>
+      <Node Id="2" Class="entity:Light" pos="380,50,0" flags="1" GraphEntity="0">
+       <Inputs entityId="0" Active="0" Disable="0" Enable="0"/>
+      </Node>
+      <Node Id="11" Class="Multiplayer:GameState" pos="-1240,-90,0" flags="0"/>
+      <Node Id="12" Class="Math:BooleanFrom" pos="20,100,0" flags="0">
+       <Inputs Value="0"/>
+      </Node>
+      <Node Id="16" Class="Material:EntityMaterialChange" pos="370,430,0" flags="0" EntityGUID="{E93CD05B-4E83-56E4-10F7-F7F026553A11}" EntityGUID_64="E93CD05B4E8356E4">
+       <Inputs entityId="0" slot="-1" mat_Material="Objects/props/furniture/appliances/lamps/kitchen_lamp2" Serialize="0"/>
+      </Node>
+      <Node Id="17" Class="Time:Delay" pos="-390,110,0" flags="0">
+       <Inputs delay="30" resetOnInput="0"/>
+      </Node>
+      <Node Id="20" Class="entity:ParticleEffect" pos="380,210,0" flags="0" EntityGUID="{5871929F-D914-7E84-949F-12721A3826E4}" EntityGUID_64="5871929FD9147E84">
+       <Inputs entityId="0" Disable="0" Enable="0" Kill="0" Restart="0" Spawn="0"/>
+      </Node>
+      <Node Id="21" Class="Multiplayer:IsServer" pos="-890,-50,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1347" Class="Math:BooleanTo" pos="-600,-50,0" flags="0">
+       <Inputs />
+      </Node>
+      <Node Id="1348" Class="Game:Start" pos="-1070,390,0" flags="0">
+       <Inputs InGame="1" InEditor="1"/>
+      </Node>
+     </Nodes>
+     <Edges>
+      <Edge nodeIn="21" nodeOut="11" portIn="IsServerCheck" portOut="OnInGameStateStart" enabled="1"/>
+      <Edge nodeIn="2" nodeOut="12" portIn="Active" portOut="False" enabled="1"/>
+      <Edge nodeIn="2" nodeOut="12" portIn="Disable" portOut="True" enabled="1"/>
+      <Edge nodeIn="16" nodeOut="12" portIn="Set" portOut="True" enabled="1"/>
+      <Edge nodeIn="20" nodeOut="12" portIn="Enable" portOut="True" enabled="1"/>
+      <Edge nodeIn="12" nodeOut="17" portIn="Value" portOut="out" enabled="1"/>
+      <Edge nodeIn="1347" nodeOut="21" portIn="true" portOut="False" enabled="1"/>
+      <Edge nodeIn="17" nodeOut="1347" portIn="in" portOut="out" enabled="1"/>
+     </Edges>
+     <GraphTokens />
+    </FlowGraph>
+   </Object>
+   <Object Type="GeomEntity" Layer="St_B_Area_LIGHT" LayerGUID="{84DF0421-43F3-6064-717D-A3AFD64852D7}" Id="{E93CD05B-4E83-56E4-10F7-F7F026553A11}" Name="beer_pack1" Pos="981.53918,1688.3153,167.52617" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="65535" MatLayersMask="0" Geometry="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="8" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="GeomEntity" HasEntity="1">
+    <Properties esFaction="">
+     <Health bInvulnerable="0" MaxHealth="500" bOnlyEnemyFire="1"/>
+     <RenderProxyOptions bAnimateOffScreenShadow="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

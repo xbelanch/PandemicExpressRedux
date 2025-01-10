@@ -1,0 +1,3 @@
+<ObjectLayer>
+ <Layer Name="21_D3_gameplay_zb" FullName="!loc_areas/d3/21_D3_gameplay_zb" GUID="{DDE6DBA1-7B39-54F8-2949-EA6CFDB1ABD4}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{23E539C4-1C1B-8773-A8B9-DE0DB3E1AECF}"/>
+</ObjectLayer>

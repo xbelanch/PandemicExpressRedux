@@ -1,0 +1,503 @@
+<ObjectLayer>
+ <Layer Name="hangar_light" FullName="Lighting/hangar_light" GUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{EC5B4667-5B4E-D557-6E5C-D698AA8F71F8}">
+  <LayerObjects>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{0560678A-ABCD-F0F2-F396-8193DFC670DC}" Name="Group1850" Pos="380.05237,607.4071,224.49873" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{FC29E26C-A008-8DE0-80F3-C5D85143FA12}" Name="Ligh_street_stat19" Parent="{0560678A-ABCD-F0F2-F396-8193DFC670DC}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{CB976D92-4571-1840-8889-37630087A97B}" Name="Kitchen_Lamp_c_on20" Parent="{0560678A-ABCD-F0F2-F396-8193DFC670DC}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{0A2CE96B-3564-7FA3-5CB5-03214DD7DB4F}" Name="Group1822" Pos="362.75616,743.94751,226.66266" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{63BAA123-77DD-53E5-E883-11F7C02A9811}" Name="Ligh_street_stat18" Parent="{0A2CE96B-3564-7FA3-5CB5-03214DD7DB4F}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{5DDD41FF-CBAD-FC08-CC10-52C194EC7B75}" Name="Kitchen_Lamp_c_on19" Parent="{0A2CE96B-3564-7FA3-5CB5-03214DD7DB4F}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{14E19F95-6388-0D66-1073-AAEF668C5476}" Name="Group1755" Pos="371.91815,775.84473,226.68004" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{E1615536-2A8B-DE03-E24E-964187965445}" Name="Ligh_street_stat17" Parent="{14E19F95-6388-0D66-1073-AAEF668C5476}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{74AE0EB1-774C-D916-0B1F-956C47E96EDB}" Name="Kitchen_Lamp_c_on18" Parent="{14E19F95-6388-0D66-1073-AAEF668C5476}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Prefab" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{1546607C-729A-8D8C-25CB-2C709A98B714}" Name="Prefab37" Pos="901.71295,1589.9685,151.04805" FloorNumber="-1" Rotate="-0.46174866,0,0,0.88701087" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{17EBD398-6B53-E511-78F0-B8129A54BB44}" Name="Light209" Pos="1303.5734,531.4693,140.36996" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{1CD2C598-E995-B90C-8C60-A155E6E989AD}" Name="Light204" Pos="1327.1643,532.29669,142.56972" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{30B64496-FE05-1EA8-FB4A-E4B7527438FA}" Name="Light212" Pos="1311.9333,543.45612,129.70171" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="6.9" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{30F6E081-9458-D983-ABDA-A8E23BFC1E33}" Name="Group1754" Pos="417.64902,900.133,225.88919" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{64CD2343-F4B1-04EE-A09F-C3B8F95F677D}" Name="Ligh_street_stat16" Parent="{30F6E081-9458-D983-ABDA-A8E23BFC1E33}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{77FB52A2-7030-0A95-DFDA-87B57F8D87C1}" Name="Kitchen_Lamp_c_on17" Parent="{30F6E081-9458-D983-ABDA-A8E23BFC1E33}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{3B03EA76-5FDA-1B2B-107E-4E8CF90D6B34}" Name="EL_hangar_dn_a12" Pos="379.91168,621.45862,207.92732" FloorNumber="-1" Rotate="0.13052614,0,0,0.99144489" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="100" BoxSizeY="170" BoxSizeZ="70" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\el_hangar_dn_a10_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{4B57B403-1CAE-8376-67AF-D6258123C2A5}" Name="Light203" Pos="1317.1746,491.27002,148.90651" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{521A1F7A-B00A-A1D3-F551-C04CC9B8D6A1}" Name="Group1765" Pos="410.15344,857.42145,230.511" FloorNumber="-1" Rotate="-4.3711388e-08,0,0,1" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{F3389B00-CD30-DB40-88CB-3159FE3BC8EE}" Name="Ligh_street_stat12" Parent="{521A1F7A-B00A-A1D3-F551-C04CC9B8D6A1}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="10" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.752942" fDiffuseMultiplier="5" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="3" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{C2E7650E-823E-4067-FD31-385C28E6A1E2}" Name="Kitchen_Lamp_c_on13" Parent="{521A1F7A-B00A-A1D3-F551-C04CC9B8D6A1}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{57E38DA8-37BC-DB17-7C2D-C21A8CEF7093}" Name="Group1852" Pos="371.94031,635.90338,225.15233" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{EBF44240-808C-9CB8-C9D4-00F44AD05B7B}" Name="Ligh_street_stat21" Parent="{57E38DA8-37BC-DB17-7C2D-C21A8CEF7093}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{8607CD52-DABB-7B4C-41AE-7CB717444930}" Name="Kitchen_Lamp_c_on22" Parent="{57E38DA8-37BC-DB17-7C2D-C21A8CEF7093}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{6063D9A3-DA55-B932-011E-16EE4F156532}" Name="Group1752" Pos="392.71552,813.02356,247.43025" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{7B33C198-D859-CD94-6C43-8E2512AAD54C}" Name="Ligh_street_stat41" Parent="{6063D9A3-DA55-B932-011E-16EE4F156532}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{0AB26D3A-5C89-32FD-35C3-3E0F6B1A6344}" Name="Kitchen_Lamp_c_on40" Parent="{6063D9A3-DA55-B932-011E-16EE4F156532}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{6C204D0F-C7CB-C725-C537-93005F67FD9C}" Name="Group2274" Pos="386.12979,799.77856,217.22112" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{A6BA8ABA-DACD-C26A-2C1E-FEE4D885416E}" Name="Ligh_street_stat22" Parent="{6C204D0F-C7CB-C725-C537-93005F67FD9C}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{90899DDC-B64C-FF8E-95B1-B751F104913E}" Name="Kitchen_Lamp_c_on23" Parent="{6C204D0F-C7CB-C725-C537-93005F67FD9C}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{7C935BF4-7F30-4EAC-9E48-C9CB88AB3131}" Name="EL_hangar_dn_a19" Pos="1322.8461,514.16302,141" FloorNumber="-1" Rotate="0.13052614,0,0,0.99144489" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="70" BoxSizeY="100" BoxSizeZ="100" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="1" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.3" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\el_hangar_dn_a19_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{849A4C3C-936E-9669-0D8A-0A6E825B0C3A}" Name="EL_hangar_dn_a20" Pos="1307.6353,537.0766,128.75" FloorNumber="-1" Rotate="0.13052614,0,0,0.99144489" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="20" BoxSizeY="100" BoxSizeZ="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="2" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.6" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\el_hangar_dn_a20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{8D05F88F-7CE1-E6AB-3E23-6137D20DAEC6}" Name="Light202" Pos="1322.2762,513.47119,147.68776" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="7" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{A95A8C20-CAE2-89D6-F924-545042DDAAE8}" Name="Light210" Pos="1313.3962,544.25598,139.58188" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="6.9" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{AB2B08CA-5300-44E5-8D3B-37D94CA1A783}" Name="Group1329" Pos="398.89551,796.81287,220.80583" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{DF3A25E8-5510-73E1-87B9-D6DF9FA758DF}" Name="Kitchen_Lamp_c_on37" Parent="{AB2B08CA-5300-44E5-8D3B-37D94CA1A783}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{C0C87A13-46EA-5715-37FE-018D4FF0688C}" Name="Ligh_street_stat38" Parent="{AB2B08CA-5300-44E5-8D3B-37D94CA1A783}" Pos="0.0022888184,0.024597168,-1.2508545" FloorNumber="-1" Rotate="0.70710677,-3.9487613e-09,0.70710677,1.3195949e-09" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{B6F8B4A7-371F-F3C4-D287-CC08BCF247E3}" Name="Light374" Pos="1703.8579,1499.363,189.65887" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{B78268FF-71D7-5518-9C26-621895462798}" Name="Group1851" Pos="385.19595,567.88635,224.49873" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{0CBA683F-10BE-A6E7-6521-169D4F79204C}" Name="Ligh_street_stat20" Parent="{B78268FF-71D7-5518-9C26-621895462798}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{16980B24-D061-0201-18FC-B0E5D8D4F52D}" Name="Kitchen_Lamp_c_on21" Parent="{B78268FF-71D7-5518-9C26-621895462798}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{B94467A1-45DE-71D4-EDE9-A3C9DB98A165}" Name="Group1741" Pos="394.42154,874.32977,225.50616" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="1">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{9D8042B8-69AF-A0A5-EC34-95F7195863EC}" Name="Ligh_street_stat15" Parent="{B94467A1-45DE-71D4-EDE9-A3C9DB98A165}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="10" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{69D59F0F-70CE-C51F-8E79-BDB1B77BDC1E}" Name="Kitchen_Lamp_c_on16" Parent="{B94467A1-45DE-71D4-EDE9-A3C9DB98A165}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="EnvironmentProbe" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{BB88DD46-C642-BB6A-EBBC-7DBB478BECCE}" Name="EL_hangar_dn_a21" Pos="1345.9603,526.80743,128.75" FloorNumber="-1" Rotate="0.13052614,0,0,0.99144489" ColorRGB="65535" cubemap_resolution="256" preview_cubemap="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="EnvironmentLight" HasEntity="1">
+    <Properties bActive="0" BoxSizeX="20" BoxSizeY="100" BoxSizeZ="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="2" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" fAttenuationFalloffMax="0.6" _texture_deferred_cubemap="" bDeferredClipBounds="0" bIgnoresVisAreas="0" SortPriority="0" bVolumetricFog="1"/>
+     <OptionsAdvanced texture_deferred_cubemap="Textures\cubemaps\purgatorium_esc\el_hangar_dn_a20_cm.tif"/>
+     <Projection fBoxHeight="10" fBoxLength="10" bBoxProject="0" fBoxWidth="10"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{C83809F6-4F90-AA1F-8320-C7E7C3359000}" Name="Light199" Pos="1330.6134,524.34595,150.49574" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="10" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{D2B7A937-7BDF-5EB1-658D-9A9CBE225FD4}" Name="Light213" Pos="1344.5516,533.48254,129.70171" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="0" Radius="6.9" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{D3159FD1-CCD4-3747-352A-E545BC6088DD}" Name="Group1322" Pos="360.12582,723.28094,227.0497" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{1E36C91C-52E0-21E0-D7ED-61CA75B558EC}" Name="Ligh_street_stat37" Parent="{D3159FD1-CCD4-3747-352A-E545BC6088DD}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{70C2A315-A6C5-CB1A-EB3D-382D57004412}" Name="Kitchen_Lamp_c_on36" Parent="{D3159FD1-CCD4-3747-352A-E545BC6088DD}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{D7FB787D-6ED8-4B24-F3A4-45DC6EEB463B}" Name="Light207" Pos="1341.1897,500.21658,139.65958" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+    <Properties bActive="1" fAttenuationBulbSize="5" Radius="20" _nVersion="-1">
+     <Color clrDiffuse="1,1,1" fDiffuseMultiplier="10" fSpecularMultiplier="1"/>
+     <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="1" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="1"/>
+     <Projector fProjectorFov="90" fProjectorNearPlane="0" texture_Texture=""/>
+     <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+     <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+     <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="0" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{EB00AE24-B90F-1E0F-F7A0-F0B4A96476EC}" Name="Group1763" Pos="377.3949,758.17493,243.63026" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{A33EFACF-7A2C-06D3-9A93-556F0433DB20}" Name="Ligh_street_stat42" Parent="{EB00AE24-B90F-1E0F-F7A0-F0B4A96476EC}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{093A1DBF-977A-23DA-C83B-0B3FB0BC95F6}" Name="Kitchen_Lamp_c_on41" Parent="{EB00AE24-B90F-1E0F-F7A0-F0B4A96476EC}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+   <Object Type="Group" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{FE5C069E-4B39-4B6D-B20D-9DBB2A7AD315}" Name="Group1749" Pos="451.43167,853.40759,253.77098" FloorNumber="-1" Rotate="0.043619338,0,0,0.99904823" ColorRGB="65280" Opened="0">
+    <Objects>
+     <Object Type="Entity" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{E0AFC356-405A-9EF2-4652-0A8E15B4E6D0}" Name="Ligh_street_stat40" Parent="{FE5C069E-4B39-4B6D-B20D-9DBB2A7AD315}" Pos="0.0023193359,0.024658203,-1.2508392" FloorNumber="-1" Rotate="0.70710677,0,0.70710677,0" ColorRGB="65535" Material="EngineAssets/Materials/lens_optics" MatLayersMask="0" OutdoorOnly="0" GIMode="0" ViewDistRatio="100" HiddenInGame="0" EntityClass="Light" HasEntity="1">
+      <Properties bActive="1" fAttenuationBulbSize="1" Radius="20" _nVersion="-1">
+       <Color clrDiffuse="1,0.904661,0.846873" fDiffuseMultiplier="3" fSpecularMultiplier="1"/>
+       <Options bAffectsThisAreaOnly="1" bAffectsVolumetricFogOnly="0" bAmbient="0" bFakeLight="0" fFogRadialLobe="0" bIgnoresVisAreas="0" bVolumetricFog="0"/>
+       <Projector fProjectorFov="110" fProjectorNearPlane="0" texture_Texture="Textures/lights/generic/spot_025.dds"/>
+       <Shadows eiCastShadows="0" fShadowBias="1" nShadowMinResPercent="0" fShadowResolutionScale="1" fShadowSlopeBias="1" fShadowUpdateMinRadius="10" fShadowUpdateRatio="1"/>
+       <Shape bAreaLight="0" fPlaneHeight="1" fPlaneWidth="1"/>
+       <Style nAnimationPhase="0" fAnimationSpeed="1" bAttachToSun="0" flare_Flare="sample_flares.vehicle.white_light" bFlareEnable="1" fFlareFOV="360" lightanimation_LightAnimation="" nLightStyle="19" _fTimeScrubbed="0" bTimeScrubbingInTrackView="0"/>
+      </Properties>
+      <Components>
+       <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+      </Components>
+     </Object>
+     <Object Type="Brush" Layer="hangar_light" LayerGUID="{81627762-B4C9-9FAA-6E4F-9787EDE958C6}" Id="{272CBF7A-5F6A-D7D7-649C-415CE3D581EA}" Name="Kitchen_Lamp_c_on39" Parent="{FE5C069E-4B39-4B6D-B20D-9DBB2A7AD315}" Pos="-0.0023193359,-0.024658203,1.2508316" FloorNumber="-1" Rotate="1,0,0,0" ColorRGB="16777215" MatLayersMask="0" Prefab="Objects/props/furniture/appliances/lamps/Kitchen_Lamp_c_on.cgf" OutdoorOnly="0" CastShadowMaps="1" GIMode="1" RainOccluder="1" SupportSecondVisarea="0" DynamicDistanceShadows="0" Hideable="0" LodRatio="100" ViewDistRatio="100" NotTriangulate="0" NoDynamicWater="0" AIRadius="-1" NoStaticDecals="0" RecvWind="0" Occluder="0" DrawLast="0" ShadowLodBias="0" RndFlags="1610613768">
+      <CollisionFiltering>
+       <Type collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+       <Ignore collision_class_terrain="0" collision_class_wheeled="0" collision_class_living="0" collision_class_articulated="0" collision_class_soft="0" collision_class_particle="0" gcc_player_capsule="0" gcc_player_body="0" gcc_vehicle="0" gcc_large_kickable="0" gcc_ragdoll="0" gcc_rigid="0" gcc_vtol="0" gcc_ai="0"/>
+      </CollisionFiltering>
+     </Object>
+    </Objects>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

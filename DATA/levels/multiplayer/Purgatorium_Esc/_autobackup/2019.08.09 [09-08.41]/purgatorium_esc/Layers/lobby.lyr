@@ -1,0 +1,9 @@
+<ObjectLayer>
+ <Layer Name="Lobby" FullName="Lobby" GUID="{BF9AAFB5-4A9E-0C6F-5876-6686184CE129}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Lobby" LayerGUID="{BF9AAFB5-4A9E-0C6F-5876-6686184CE129}" Id="{486F0244-AF65-0CD5-0725-3F057C75A860}" Name="Gun_Rifle_01_Rifle1" Pos="946.3728,3699.6108,119.30461" FloorNumber="-1" Rotate="0.76102835,0.066072695,0.64047712,-0.079115801" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="Gun_Rifle_01_Rifle" HasEntity="0">
+    <Properties />
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

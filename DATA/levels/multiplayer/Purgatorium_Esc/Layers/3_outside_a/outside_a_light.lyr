@@ -1,0 +1,10 @@
+<ObjectLayer>
+ <Layer Name="Outside_A_LIGHT" FullName="3_Outside_A/Outside_A_LIGHT" GUID="{B45A13C6-8979-CEF7-3FFA-AC0467BD1CA6}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8388607" ParentGUID="{4E4CD229-8B76-DAC0-BAC0-847C853C18F8}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Outside_A_LIGHT" LayerGUID="{B45A13C6-8979-CEF7-3FFA-AC0467BD1CA6}" Id="{0E596710-D66E-B239-C8D3-E0EB1709A764}" Name="Prefab147" Pos="1285.3699,1532.4033,181.68527" FloorNumber="-1" Rotate="-0.14597255,0,0,0.98928869" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="Outside_A_LIGHT" LayerGUID="{B45A13C6-8979-CEF7-3FFA-AC0467BD1CA6}" Id="{1906F033-9DEC-AB9A-48FA-209BB8C01504}" Name="Prefab148" Pos="1313.5614,1531.4462,181.68527" FloorNumber="-1" Rotate="0.91842222,0,0,0.39560157" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="Outside_A_LIGHT" LayerGUID="{B45A13C6-8979-CEF7-3FFA-AC0467BD1CA6}" Id="{9812BED0-162A-A940-D84F-1D746EE78BA1}" Name="Prefab149" Pos="1240.7657,1510.1724,181.05521" FloorNumber="-1" Rotate="0.97330827,0,0,0.22950166" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="Outside_A_LIGHT" LayerGUID="{B45A13C6-8979-CEF7-3FFA-AC0467BD1CA6}" Id="{EA4B9F42-F944-860C-A629-A3C0C0E0761A}" Name="Prefab146" Pos="1297.4242,1511.8932,180.74271" FloorNumber="-1" Rotate="0.60018772,0,0,0.79985917" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

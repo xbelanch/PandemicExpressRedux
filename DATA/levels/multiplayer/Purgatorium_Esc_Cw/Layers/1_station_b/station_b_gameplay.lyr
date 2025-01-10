@@ -1,0 +1,17 @@
+<ObjectLayer>
+ <Layer Name="Station_B_GAMEPLAY" FullName="1_Station_B/Station_B_GAMEPLAY" GUID="{15E30261-8F19-70DC-FFB0-34C3B1E0162E}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="22015" ParentGUID="{DB455FED-406C-B997-2669-12C42AB74A1B}">
+  <LayerObjects>
+   <Object Type="Entity" Layer="Station_B_GAMEPLAY" LayerGUID="{15E30261-8F19-70DC-FFB0-34C3B1E0162E}" Id="{F8C129DE-B9D4-7C4C-993D-39D9739B9D61}" Name="3DPrinter3" Pos="955.43988,1631.7828,173.10782" FloorNumber="-1" Rotate="0.74546599,0,0,-0.66654372" ColorRGB="65535" MatLayersMask="0" OutdoorOnly="0" CastShadow="1" CastShadowMinspec="1" DynamicDistanceShadows="0" GIMode="0" LodRatio="100" ViewDistRatio="100" HiddenInGame="0" RecvWind="0" RenderNearest="0" NoStaticDecals="0" EntityClass="3DPrinter" HasEntity="1">
+    <Properties HitPoints="0" initialSetup="" bMounted="0" eiPhysicsType="0" bPickable="1" soclasses_SmartObjectClass="" bSpecialSelect="0" bUsable="0">
+     <Respawn bRespawn="0" nTimer="30" bUnique="0"/>
+    </Properties>
+    <Components>
+     <Component typeId="{9824845C-FE37-7889-B172-4A63F331D8A2}"/>
+     <Component typeId="{EC4E2FDC-DCFF-4AB3-A691-B9CC4ECE5788}"/>
+     <Component typeId="{10000000-1000-1000-1000-100000000000}"/>
+     <Component typeId="{BD6403CF-3B49-F39E-9540-3FD1C6D4F755}"/>
+    </Components>
+   </Object>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>

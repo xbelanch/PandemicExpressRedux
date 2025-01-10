@@ -1,0 +1,8 @@
+<ObjectLayer>
+ <Layer Name="Outroads_A_LIGHT" FullName="4_Outroads_A/Outroads_A_LIGHT" GUID="{15EA5E4B-AF38-D04C-F32D-74504F23FA87}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8388607" ParentGUID="{AF3DF04E-1734-9742-A0B5-3E80D0CAD744}">
+  <LayerObjects>
+   <Object Type="Prefab" Layer="Outroads_A_LIGHT" LayerGUID="{15EA5E4B-AF38-D04C-F32D-74504F23FA87}" Id="{83B1AD22-33CC-3FFD-B53F-20FDF6255837}" Name="Prefab150" Pos="643.97083,1455.1747,163.10947" FloorNumber="-1" Rotate="0.58101314,0,0,0.81389421" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+   <Object Type="Prefab" Layer="Outroads_A_LIGHT" LayerGUID="{15EA5E4B-AF38-D04C-F32D-74504F23FA87}" Id="{CB3A826A-E54B-DB7A-8C60-62C66A49B0C8}" Name="Prefab149" Pos="568.22327,1203.3108,194.19466" FloorNumber="-1" Rotate="-0.42294493,0,0,0.90615541" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
+  </LayerObjects>
+ </Layer>
+</ObjectLayer>
