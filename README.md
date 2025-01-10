@@ -1,9 +1,14 @@
-## Go to release-build on the right side of the page
-![image](https://github.com/user-attachments/assets/7909543b-e71c-4014-9b00-5a78ff3c91aa)
+# Install Guide
+
+## 1. Open the zip file
+## 2. Extract the zip contents
+## 3. Run the .bat file
+## 4. Play on Steam
+
+# Notices:
+### When using Quick Play or the Server Browser, you may experience a huge lag spike as it retrieves servers. Please give the game some time to load.
+### Any new updates will be provided in the releases for manual download or simply restart the installer. (Installer download in discord).
 
 
-## Download release.zip 
-![image](https://github.com/user-attachments/assets/686fd1db-3050-4424-b84c-fc09e3656b41)
-
-## Replace all the steam game files with the zip folder contents. 
-## Hit play on steam
+# Discord Invite
+https://discord.gg/J8287MJTay
