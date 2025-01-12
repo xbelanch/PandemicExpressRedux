@@ -13,3 +13,6 @@
 Notices:
 When using Quick Play or the Server Browser, you may experience a huge lag spike as it retrieves servers. Please give the game some time to load.
 Any new updates will be provided in here for manual download
+
+
+https://discord.gg/J8287MJTay
