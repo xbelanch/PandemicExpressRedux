@@ -2,7 +2,7 @@
 
 1. Make sure Pandemic Express is installed on Steam.
 
-2. Download the game from Github v1.3.1
+2. Download the game from releases 
 
 3. Open the zip file, then extract the files
 
