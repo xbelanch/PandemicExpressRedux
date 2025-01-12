@@ -31,7 +31,7 @@
   <Attachment Type="CA_SKIN" AName="pants" Binding="Objects/zhg_objects/characters/sets/RebellionSet/RebellionSet_Pants.skin" Material="Objects/characters/human/Dude/source/pin_zmb_mat1.mtl" Flags="1"/>
   <Attachment Type="CA_SKIN" AName="gloves" Flags="0"/>
   <Attachment Type="CA_SKIN" AName="body" Binding="objects/zhg_objects/characters/conserve/Conserve_FP_NonMM.skin" Material="objects/zhg_objects/characters/conserve/M_Conserve_Bomber_Pass.mtl" Flags="0"/>
-  <Attachment Type="CA_SKIN" AName="head" Material="objects/zhg_objects/characters/conserve/M_Conserve_Bomber_Pass.mtl" Flags="7"/>
+  <Attachment Type="CA_SKIN" AName="head" Binding="Objects/zhg_objects/characters/conserve_head/conservehead.skin" Material="objects/zhg_objects/characters/conserve/M_Conserve_Bomber_Pass.mtl" Flags="1"/>
   <Attachment Type="CA_BONE" AName="stow_bow1" Rotation="0.11518285,0.71013319,0.68677205,0.10386412" Position="0.12618713,-0.20954716,1.4089395" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_SimulationAxis="0,0.5,0" Flags="0"/>
   <Attachment Type="CA_BONE" AName="stow_bow2" Rotation="0.11010577,0.71434009,-0.67589575,-0.14408298" Position="-0.12618791,-0.20954621,1.4089382" BoneName="Bip01 Spine2" PA_PendulumType="3" PA_SimulationAxis="0,0.5,0" Flags="0"/>
   <Attachment Type="CA_PROX" AName="rupperarm" Rotation="0.042163812,-0.85643905,-0.0096320882,0.51443321" Position="0.27474475,-0.037759706,1.3731182" BoneName="Bip01 R UpperArm" ProxyParams="0.1,0,0,0.079999998" ProxyPurpose="0"/>
