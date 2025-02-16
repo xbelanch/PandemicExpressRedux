@@ -1,9 +1,18 @@
-## Go to release-build on the right side of the page
-![image](https://github.com/user-attachments/assets/7909543b-e71c-4014-9b00-5a78ff3c91aa)
+## Steps to Play Pandemic Express Redux:
+
+1. Make sure Pandemic Express is installed on Steam.
+
+2. Download the game from releases 
+
+3. Open the zip file, then extract the files
+
+4. Either run the .bat file or drag the files into the PE game directory on steam
+
+5. Launch the game on Steam.
+
+Notices:
+When using Quick Play or the Server Browser, you may experience a huge lag spike as it retrieves servers. Please give the game some time to load.
+Any new updates will be provided in here for manual download
 
 
-## Download release.zip 
-![image](https://github.com/user-attachments/assets/686fd1db-3050-4424-b84c-fc09e3656b41)
-
-## Replace all the steam game files with the zip folder contents. 
-## Hit play on steam
+https://discord.gg/J8287MJTay
