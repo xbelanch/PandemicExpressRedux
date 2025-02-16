@@ -1,0 +1,5 @@
+<Setting>
+    <StartAL val="true" />
+    <ExecName val="SrvZHG.exe" />
+    <ExecToRun val="RunServerPurgatorium.bat" />
+</Setting>
