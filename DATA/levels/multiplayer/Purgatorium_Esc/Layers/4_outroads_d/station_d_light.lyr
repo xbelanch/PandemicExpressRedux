@@ -1,7 +1,0 @@
-<ObjectLayer>
- <Layer Name="Station_D_LIGHT" FullName="4_Outroads_D/Station_D_LIGHT" GUID="{305CB4B8-E8B5-3A42-C396-940FBE8D5831}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8388607" ParentGUID="{12DDB149-A09E-EEB4-5FC0-7465BBCA4B62}">
-  <LayerObjects>
-   <Object Type="Prefab" Layer="Station_D_LIGHT" LayerGUID="{305CB4B8-E8B5-3A42-C396-940FBE8D5831}" Id="{E580A371-C1E2-A0FA-1D31-728890702D3A}" Name="Prefab147" Pos="1231.7432,402.23141,123.67633" FloorNumber="-1" Rotate="0.98705047,0,0,0.16040999" Scale="1.24,1.24,1.24" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{71D96FDB-6B88-22B3-7925-4CEB36E8ABF8}" PrefabName="zhg_light_switches.light_switches.street_light_static_a"/>
-  </LayerObjects>
- </Layer>
-</ObjectLayer>

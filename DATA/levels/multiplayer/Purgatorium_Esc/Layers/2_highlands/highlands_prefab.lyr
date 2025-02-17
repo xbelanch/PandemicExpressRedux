@@ -1,9 +1,0 @@
-<ObjectLayer>
- <Layer Name="Highlands_PREFAB" FullName="2_Highlands/Highlands_PREFAB" GUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8366592" ParentGUID="{6109E293-2EE8-63D1-6040-E516E9D99AFC}">
-  <LayerObjects>
-   <Object Type="Prefab" Layer="Highlands_PREFAB" LayerGUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Id="{2B73D043-8CDD-28B4-7887-7577BAEFCC84}" Name="Prefab277" Pos="1094.5107,756.90814,187.46278" FloorNumber="-1" Rotate="0.99904823,0,0,-0.043619387" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{0D4CFF19-9377-C944-FF37-408B9D18EB00}" PrefabName="zhg_constructions.architecture.build_country_c"/>
-   <Object Type="Prefab" Layer="Highlands_PREFAB" LayerGUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Id="{36C1EE85-9DB7-88EF-AE7D-0166C9F6CE5F}" Name="Prefab307" Pos="743.11908,739.9397,190.36879" FloorNumber="-1" Rotate="0.73727739,0,0,-0.67559016" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{0902AFF5-D395-F3C6-B11F-36B34E77B6BD}" PrefabName="zhg_constructions.architecture.build_country_e"/>
-   <Object Type="Prefab" Layer="Highlands_PREFAB" LayerGUID="{B2C93417-68CC-6A5C-3450-AA148F5AA2BD}" Id="{E547BC5C-A91E-B9A1-5D3D-4C4C332CD5A7}" Name="Prefab276" Pos="906.89398,931.11749,190.34915" FloorNumber="-1" Rotate="0.0871557,0,0,0.99619472" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{E22B0056-C1EE-3E05-3E72-317C2CEFAF42}" PrefabName="zhg_constructions.architecture.build_country_b"/>
-  </LayerObjects>
- </Layer>
-</ObjectLayer>

@@ -1,3 +1,0 @@
-<ObjectLayer>
- <Layer Name="roads" FullName="!loc_areas/roads" GUID="{6E74FA33-A076-0A05-FD20-E97AFC2C3B8B}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="1" ParentGUID="{6C210C3D-3CAD-C2E2-CC93-D21CFCED73A8}"/>
-</ObjectLayer>

@@ -1,8 +1,0 @@
-<ObjectLayer>
- <Layer Name="Canal_Tw_PREFAB" FullName="2_Canal_Town/Canal_Tw_PREFAB" GUID="{FE6E06D3-7D1E-3EB8-7E47-9D1DD72C87B2}" Hidden="0" Frozen="0" Expanded="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" IsDefaultColor="0" Color="8366592" ParentGUID="{1AE6A142-34DE-151C-392D-9874C826EA7C}">
-  <LayerObjects>
-   <Object Type="Prefab" Layer="Canal_Tw_PREFAB" LayerGUID="{FE6E06D3-7D1E-3EB8-7E47-9D1DD72C87B2}" Id="{4C6F91BF-2190-C51D-0C95-47A5B2918DF8}" Name="Prefab314" Pos="775.73969,963.64667,168.21803" FloorNumber="-1" Rotate="-0.21242128,0,0,0.97717816" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{0D4CFF19-9377-C944-FF37-408B9D18EB00}" PrefabName="zhg_constructions.architecture.build_country_c"/>
-   <Object Type="Prefab" Layer="Canal_Tw_PREFAB" LayerGUID="{FE6E06D3-7D1E-3EB8-7E47-9D1DD72C87B2}" Id="{5CE01F95-3D0B-A719-8D9D-FB9EC4AD1622}" Name="Prefab306" Pos="752.68713,1004.1467,167.75221" FloorNumber="-1" Rotate="0.56517297,-0.010147181,-0.0025332067,0.82490611" ColorRGB="56575" MatLayersMask="0" PrefabGUID="{6D9111C4-FFD3-76EF-9FDB-C99AFE667BDE}" PrefabName="zhg_constructions.architecture.build_country_f"/>
-  </LayerObjects>
- </Layer>
-</ObjectLayer>
