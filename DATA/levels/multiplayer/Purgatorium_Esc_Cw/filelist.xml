@@ -1,7 +1,7 @@
 <download name="Purgatorium_Esc_Cw" type="Map">
  <index src="filelist.xml" dest="filelist.xml"/>
  <files>
-  <file src="level.pak" dest="level.pak" size="23456928" md5="936ebfb24bae2c03af3941f3b75e64b6"/>
+  <file src="level.pak" dest="level.pak" size="32047392" md5="d875b4fbc352dd7fa740e5477088e821"/>
   <file src="Purgatorium_Esc_Cw.xml" dest="Purgatorium_Esc_Cw.xml" size="371" md5="b437f0c02b3a01b0a77ed96b7777e2ea"/>
  </files>
 </download>
