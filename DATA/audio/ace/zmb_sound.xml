@@ -27,6 +27,7 @@
   </ATLTrigger>
   <ATLTrigger atl_name="z_tag_sound_1" atl_radius="100" atl_occlusion_fadeout_distance="100" atl_match_radius_attenuation="0">
    <SDLMixerEvent sdl_name="245825__mafon2__wight-moans_01.ogg" sdl_path="" event_type="start" enable_panning="true" enable_distance_attenuation="true" attenuation_dist_min="0" attenuation_dist_max="100" volume="-14" loop_count="1"/>
+   <WwiseEvent wwise_name="Play_zmb_find_player_ding"/>
   </ATLTrigger>
   <ATLTrigger atl_name="BreachHv" atl_radius="21.400021" atl_occlusion_fadeout_distance="18.838072" atl_match_radius_attenuation="0">
    <SDLMixerEvent sdl_name="c_player_fbk_breath_idle.ogg" sdl_path="" event_type="start" enable_panning="true" enable_distance_attenuation="true" attenuation_dist_min="0" attenuation_dist_max="100" volume="0" loop_count="-1"/>

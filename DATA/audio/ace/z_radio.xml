@@ -15,7 +15,7 @@
   <ATLTrigger atl_name="Play_radio_3">
    <WwiseEvent wwise_name="Play_radio_3"/>
   </ATLTrigger>
-    <ATLTrigger atl_name="Play_Int_Radio">
+  <ATLTrigger atl_name="Play_Int_Radio">
    <WwiseEvent wwise_name="Play_Int_Radio"/>
   </ATLTrigger>
  </AudioTriggers>

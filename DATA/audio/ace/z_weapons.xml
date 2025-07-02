@@ -28,13 +28,13 @@
    <WwiseEvent wwise_name="Wpn_Mech_AK47_chn_1p"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_AK47_single_1p" path="AK47/1p">
-   <WwiseEvent wwise_name="Wpn_Fire_AK47_single_1p"/>
+   <WwiseEvent wwise_name="Play_RifleFireOne"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_AK47_burst_on_1p" path="AK47/1p">
-   <WwiseEvent wwise_name="Wpn_Fire_AK47_burst_on_1p"/>
+   <WwiseEvent wwise_name="Play_ak_rifle_fire_3p"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_AK47_burst_off_1p" path="AK47/1p">
-   <WwiseEvent wwise_name="Wpn_Fire_AK47_burst_off_1p"/>
+   <WwiseEvent wwise_name="Play_RifleFireOff"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Mech_AK47_rldph3_3p" path="AK47/3p">
    <WwiseEvent wwise_name="Wpn_Mech_AK47_rldph3_3p"/>
@@ -55,19 +55,20 @@
    <WwiseEvent wwise_name="Wpn_Mech_AK47_chn_3p"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_AK47_single_3p" path="AK47/3p">
-   <WwiseEvent wwise_name="Wpn_Fire_AK47_single_3p"/>
+   <WwiseEvent wwise_name="Play_RifleFireOne"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_AK47_burst_on_3p" path="AK47/3p">
-   <WwiseEvent wwise_name="Wpn_Fire_AK47_burst_on_3p"/>
+   <WwiseEvent wwise_name="Play_ak_rifle_fire_3p"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_AK47_burst_off_3p" path="AK47/3p">
-   <WwiseEvent wwise_name="Wpn_Fire_AK47_burst_off_3p"/>
+   <WwiseEvent wwise_name="Play_RifleFireOff"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Play_Character_Radio_1">
    <WwiseEvent wwise_name="Play_Character_Radio"/>
+   <WwiseEvent wwise_name="Play_zmb_find_player_ding"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_STGN_single_3p" path="Shotgun/3p">
-   <WwiseEvent wwise_name="Wpn_Fire_STGN_single_3p"/>
+   <WwiseEvent wwise_name="Play_thgshotgun_shot_fp_01"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Mech_STGN_chn_3p" path="Shotgun/3p">
    <WwiseEvent wwise_name="Wpn_Mech_STGN_chn_3p"/>
@@ -85,7 +86,7 @@
    <WwiseEvent wwise_name="Wpn_Mech_STGN_rld_3p"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_STGN_single_1p" path="Shotgun/1p">
-   <WwiseEvent wwise_name="Wpn_Fire_STGN_single_1p"/>
+   <WwiseEvent wwise_name="Play_thgshotgun_shot_fp_01"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Mech_STGN_chn_1p" path="Shotgun/1p">
    <WwiseEvent wwise_name="Wpn_Mech_STGN_chn_1p"/>
@@ -169,7 +170,7 @@
    <WwiseEvent wwise_name="Wpn_Mech_SMG_rldph3_1p"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_RVLR_single_3p" path="Revolver/3p">
-   <WwiseEvent wwise_name="Wpn_Fire_RVLR_single_3p"/>
+   <WwiseEvent wwise_name="Play_revolver_fire_fp_a"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Mech_RVLR_chn_3p" path="Revolver/3p">
    <WwiseEvent wwise_name="Wpn_Mech_RVLR_chn_3p"/>
@@ -187,7 +188,7 @@
    <WwiseEvent wwise_name="Wpn_Mech_RVLR_rldph3_3p"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Fire_RVLR_single_1p" path="Revolver/1p">
-   <WwiseEvent wwise_name="Wpn_Fire_RVLR_single_1p"/>
+   <WwiseEvent wwise_name="Play_revolver_fire_fp_a"/>
   </ATLTrigger>
   <ATLTrigger atl_name="Wpn_Mech_RVLR_chn_1p" path="Revolver/1p">
    <WwiseEvent wwise_name="Wpn_Mech_RVLR_chn_1p"/>

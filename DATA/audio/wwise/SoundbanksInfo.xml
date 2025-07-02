@@ -110,7 +110,28 @@
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
-		
+			<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="2488253926" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\z_SoundsNew</ObjectPath>
+			<ShortName>z_SoundsNew</ShortName>
+			<Path>z_SoundsNew.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3207418671" Name="Play_BomberDASH" ObjectPath="\Events\Default Work Unit\NewZIsounds\Play_BomberDASH"/>
+				<Event Id="1712814869" Name="Play_MimicGUN" ObjectPath="\Events\Default Work Unit\NewZIsounds\Play_MimicGUN"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="397547179" Language="SFX">
+					<ShortName>Mimic_Gun.wav</ShortName>
+					<Path>SFX\Mimic_Gun_9E69E797.wem</Path>
+				</File>
+				<File Id="747375161" Language="SFX">
+					<ShortName>Bomber_Dash.wav</ShortName>
+					<Path>SFX\Bomber_Dash_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
 		<SoundBank Id="105583018" Language="SFX">
 			<ObjectPath>\SoundBanks\l_woodland\l_woodland_a</ObjectPath>
 			<ShortName>l_woodland_a</ShortName>
